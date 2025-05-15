@@ -28,9 +28,14 @@
 
 ## 使用方法
 
-1. 在边狱公司源文件找到需要翻译的英文文本，一般以“EN_”为前缀。仅限StoryData与PersonalityVoiceDlg文件夹中的文本内容。
-目录：Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\StoryData
-Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\PersonalityVoiceDlg
+1. 在边狱公司源文件找到需要翻译的英文文本，一般以"EN_"为前缀。仅限StoryData与PersonalityVoiceDlg文件夹中的文本内容。
+
+   目录：
+   ```
+   Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\StoryData
+   Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\PersonalityVoiceDlg
+   ```
+
 2. 将需要翻译的JSON文件放入`Workplace/original`目录
 3. 运行翻译脚本：
    ```bash
@@ -38,8 +43,12 @@ Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\Personality
    ```
 4. 翻译后的文件将保存在`Workplace/translated`目录中
 5. 将对应的文件放进边狱公司游戏源文件的对应位置中。我自己一般是直接放在零协汉化底下，这样他们更新了可以直接覆盖我的机翻。
-目录：Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\PersonalityVoiceDlg
-    Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\StoryData
+
+   目录：
+   ```
+   Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\PersonalityVoiceDlg
+   Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\StoryData
+   ```
 
 6. 我在Workplace/original里放了两个例子，可以作为测试用。到时候自己用的时候别拖错了。
 
@@ -58,7 +67,5 @@ Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\Personality
 2. 翻译过程中请保持网络连接
 3. 建议定期更新备份术语表
 4. 如遇到翻译错误，请检查API密钥和网络连接
-
-
 
 欢迎bilibili私聊白前Cynanchum，不作技术方面回答。
