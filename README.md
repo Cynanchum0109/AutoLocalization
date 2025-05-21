@@ -29,7 +29,7 @@ This is an automated tool for translating Limbus Company game texts. The tool us
    pip install openai
    ```
 3. 在`apikey.txt`文件中填入OpenAI API密钥 | Fill in your OpenAI API key in `apikey.txt`
-4. 确保`prompt.txt`和`glossary.json`文件存在 | Ensure `prompt.txt` and `glossary.json` files exist
+4. 确保`glossary.json`文件存在 | Ensure `glossary.json` files exist
 
 ## 使用方法 | Usage
 
@@ -67,7 +67,6 @@ This is an automated tool for translating Limbus Company game texts. The tool us
 
 - `translate_json.py`: 主程序文件 | Main program file
 - `apikey.txt`: OpenAI API密钥文件 | OpenAI API key file
-- `prompt.txt`: 翻译提示词文件 | Translation prompt file
 - `glossary.json`: 术语对照表 | Glossary reference file
 - `Workplace/original/`: 原始JSON文件目录 | Original JSON files directory
 - `Workplace/translated/`: 翻译后文件目录 | Translated files directory
