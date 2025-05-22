@@ -6,6 +6,7 @@ from queue import Queue, Empty
 import time
 from datetime import datetime, timedelta
 from difflib import SequenceMatcher
+from check_missing_files import find_missing_files
 
 # 读取API Key
 with open('apikey.txt', 'r', encoding='utf-8') as f:
@@ -48,8 +49,8 @@ def find_similar_terms(text, glossary, threshold=0.8):
     return similar_terms
 
 def translate_text(text, field_type=None, context=None):
-    # 对于teller、title和place，检查缓存
-    if field_type in ["teller", "title", "place"]:
+    # 对于teller、title、place、name和nickName，检查缓存
+    if field_type in ["teller", "title", "place", "name", "nickName"]:
         with cache_lock:
             if text in translation_cache:
                 return translation_cache[text]
@@ -59,10 +60,10 @@ def translate_text(text, field_type=None, context=None):
         field_prompt = ""
         temperature = 0.5  # 默认使用较低的温度，保持标准翻译
         
-        if field_type == "teller":
+        if field_type in ["teller", "name"]:
             field_prompt = "你要翻译的是说话者的名字或身份或描述，应当翻译成名词。"
-        elif field_type == "title":
-            field_prompt = "你要翻译的是说话者的职位名称，应当简洁明了，保持职位名称的格式。"
+        elif field_type in ["title", "nickName"]:
+            field_prompt = "你要翻译的是说话者的职位或从属组织，应当简洁明了，保持职位或组织的格式。"
         elif field_type in ["content", "dlg"]:
             field_prompt = "你要翻译的是对话内容，应当保持对话的语气和风格。"
             temperature = 0.7
@@ -103,8 +104,8 @@ def translate_text(text, field_type=None, context=None):
         )
         translated = response.choices[0].message.content.strip()
         
-        # 对于teller、title和place，保存到缓存
-        if field_type in ["teller", "title", "place"]:
+        # 对于teller、title、place、name和nickName，保存到缓存
+        if field_type in ["teller", "title", "place", "name", "nickName"]:
             with cache_lock:
                 translation_cache[text] = translated
             
@@ -138,7 +139,7 @@ def process_json_file(input_path, output_path, progress_queue):
                     # 检查是否包含英文字母
                     if any('a' <= c.lower() <= 'z' for c in item[field]):
                         current_text += 1
-                        # 获取前文（最多2句）
+                        # 获取前文
                         current_context = context_buffer[-2:] if context_buffer else []
                         zh = translate_text(item[field], field, current_context)
                         item[field] = f"{zh}\n {item[field]}"
@@ -165,65 +166,135 @@ def worker(file_queue, progress_queue):
             break
 
 def main():
-    input_dir = "Workplace/original"  # 输入路径
-    output_dir = "Workplace/translated"  # 输出路径
-    os.makedirs(output_dir, exist_ok=True)
+    # 检查original目录是否为空
+    original_dir = "Workplace/original"
+    if not os.path.exists(original_dir) or not os.listdir(original_dir):
+        print("Original目录为空，开始检查丢失文件...")
+        
+        # 定义目录路径
+        zh_dir = r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\StoryData"
+        en_dir = r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\StoryData"
+        output_dir = "Workplace/translated/StoryData"
+        os.makedirs(output_dir, exist_ok=True)
 
-    # 获取所有需要翻译的文件
-    files_to_translate = [f for f in os.listdir(input_dir) if f.endswith(".json")]
-    total_files = len(files_to_translate)
-    
-    # 创建文件队列
-    file_queue = Queue()
-    progress_queue = Queue()
-    
-    # 将文件添加到队列
-    for filename in files_to_translate:
-        input_path = os.path.join(input_dir, filename)
-        output_filename = filename.replace("EN_", "", 1)
-        output_path = os.path.join(output_dir, output_filename)
-        file_queue.put((input_path, output_path))
-    
-    # 创建并启动工作线程
-    num_threads = 2  # 固定2个线程
-    completed_files = 0
-    current_progress = 0
-    total_texts = 0
-    
-    # 用于存储每个文件的进度
-    file_progress = {}
-    
-    # 按批次处理文件
-    while not file_queue.empty():
-        # 创建新的一批线程
-        current_threads = []
-        for _ in range(num_threads):
-            if file_queue.empty():
-                break
-            t = threading.Thread(target=worker, args=(file_queue, progress_queue))
-            t.start()
-            current_threads.append(t)
+        # 获取缺失文件列表
+        missing_files = find_missing_files(zh_dir, en_dir)
+
+        if not missing_files:
+            print("没有发现需要翻译的文件！")
+            return
+
+        print(f"\n发现 {len(missing_files)} 个需要翻译的文件")
         
-        # 显示进度
-        while len(current_threads) > 0:
-            try:
-                msg_type, *args = progress_queue.get(timeout=1)
-                if msg_type == 'progress':
-                    current_progress, total_texts, filename = args
-                    file_progress[filename] = (current_progress, total_texts)
-                    print(f"{filename}进度: {current_progress}/{total_texts}")
-                elif msg_type == 'complete':
-                    completed_files += 1
-                    print(f"\n完成文件 {completed_files}/{total_files}: {os.path.basename(args[0])}")
-                    # 从当前线程列表中移除已完成的线程
-                    for t in current_threads[:]:
-                        if not t.is_alive():
-                            current_threads.remove(t)
-            except Empty:
-                continue
+        # 创建文件队列
+        file_queue = Queue()
+        progress_queue = Queue()
         
-    
-    print("\n所有文件翻译完成！")
+        # 将文件添加到队列
+        for filename in sorted(missing_files):
+            input_path = os.path.join(en_dir, f"EN_{filename}")
+            output_path = os.path.join(output_dir, filename)
+            file_queue.put((input_path, output_path))
+        
+        # 创建并启动工作线程
+        num_threads = 1  # 固定1个线程
+        completed_files = 0
+        current_progress = 0
+        total_texts = 0
+        
+        # 用于存储每个文件的进度
+        file_progress = {}
+        
+        # 按批次处理文件
+        while not file_queue.empty():
+            # 创建新的一批线程
+            current_threads = []
+            for _ in range(num_threads):
+                if file_queue.empty():
+                    break
+                t = threading.Thread(target=worker, args=(file_queue, progress_queue))
+                t.start()
+                current_threads.append(t)
+            
+            # 显示进度
+            while len(current_threads) > 0:
+                try:
+                    msg_type, *args = progress_queue.get(timeout=1)
+                    if msg_type == 'progress':
+                        current_progress, total_texts, filename = args
+                        file_progress[filename] = (current_progress, total_texts)
+                        print(f"{filename}进度: {current_progress}/{total_texts}")
+                    elif msg_type == 'complete':
+                        completed_files += 1
+                        print(f"\n完成文件 {completed_files}/{len(missing_files)}: {os.path.basename(args[0])}")
+                        # 从当前线程列表中移除已完成的线程
+                        for t in current_threads[:]:
+                            if not t.is_alive():
+                                current_threads.remove(t)
+                except Empty:
+                    continue
+        
+        print("\n所有文件翻译完成！")
+    else:
+        # 原有的处理逻辑
+        input_dir = "Workplace/original"
+        output_dir = "Workplace/translated"
+        os.makedirs(output_dir, exist_ok=True)
+
+        # 获取所有需要翻译的文件
+        files_to_translate = [f for f in os.listdir(input_dir) if f.endswith(".json")]
+        total_files = len(files_to_translate)
+        
+        # 创建文件队列
+        file_queue = Queue()
+        progress_queue = Queue()
+        
+        # 将文件添加到队列
+        for filename in files_to_translate:
+            input_path = os.path.join(input_dir, filename)
+            output_filename = filename.replace("EN_", "", 1)
+            output_path = os.path.join(output_dir, output_filename)
+            file_queue.put((input_path, output_path))
+        
+        # 创建并启动工作线程
+        num_threads = 1  # 固定1个线程
+        completed_files = 0
+        current_progress = 0
+        total_texts = 0
+        
+        # 用于存储每个文件的进度
+        file_progress = {}
+        
+        # 按批次处理文件
+        while not file_queue.empty():
+            # 创建新的一批线程
+            current_threads = []
+            for _ in range(num_threads):
+                if file_queue.empty():
+                    break
+                t = threading.Thread(target=worker, args=(file_queue, progress_queue))
+                t.start()
+                current_threads.append(t)
+            
+            # 显示进度
+            while len(current_threads) > 0:
+                try:
+                    msg_type, *args = progress_queue.get(timeout=1)
+                    if msg_type == 'progress':
+                        current_progress, total_texts, filename = args
+                        file_progress[filename] = (current_progress, total_texts)
+                        print(f"{filename}进度: {current_progress}/{total_texts}")
+                    elif msg_type == 'complete':
+                        completed_files += 1
+                        print(f"\n完成文件 {completed_files}/{total_files}: {os.path.basename(args[0])}")
+                        # 从当前线程列表中移除已完成的线程
+                        for t in current_threads[:]:
+                            if not t.is_alive():
+                                current_threads.remove(t)
+                except Empty:
+                    continue
+        
+        print("\n所有文件翻译完成！")
 
 if __name__ == "__main__":
     main()

@@ -1,4 +1,9 @@
 apikey.txt
 hint.txt
-Workplace/
+Workplace/**
+!Workplace/
 example/
+Originaltext/
+__pycache__/
+*.pyc
+.vscode/
