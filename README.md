@@ -37,8 +37,8 @@ This is an automated tool for translating Limbus Company game texts. The tool us
    ```bash
    pip install openai
    ```
-3. 在`apikey.txt`文件中填入OpenAI API密钥 | Fill in your OpenAI API key in `apikey.txt`
-4. 确保`glossary.json`文件存在 | Ensure `glossary.json` files exist
+3. 新建`apikey.txt`文件，在`apikey.txt`文件中填入OpenAI API密钥 | Create an `apikey.txt` file and fill in your OpenAI API key.
+4. 确保`glossary.json`文件存在（当前不在远程仓库中） | Ensure the `glossary.json` file exists (it is currently not included in the remote repository)
 
 ## 使用方法 | Usage
 
