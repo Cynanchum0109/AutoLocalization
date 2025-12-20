@@ -1,6 +1,6 @@
 # 边狱公司文本翻译工具 | Limbus Company Text Translation Tool
 
-这是一个用于翻译边狱公司（Limbus Company）游戏文本的自动化工具。该工具使用GPT-4模型进行翻译，支持术语表对照。
+这是一个用于翻译边狱公司（Limbus Company）赌局文本的自动化工具。该工具使用GPT-4模型进行翻译，支持术语表对照。
 
 This is an automated tool for translating Limbus Company game texts. The tool uses GPT-4 model for translation and supports glossary reference.
 
@@ -80,7 +80,7 @@ This is an automated tool for translating Limbus Company game texts. The tool us
 
 ### 文件放置 | File Placement
 
-将对应的文件放进边狱公司游戏源文件的对应位置中。我自己一般是直接放在零协汉化底下，这样他们更新了可以直接覆盖我的机翻。
+将对应的文件放进边狱公司赌局源文件的对应位置中。我自己一般是直接放在零协汉化底下，这样他们更新了可以直接覆盖我的机翻。
 
 Put the corresponding files in the appropriate location in the Limbus Company game source files. I usually put them directly under the LLC translation folder, so they can be overwritten when they update.
 

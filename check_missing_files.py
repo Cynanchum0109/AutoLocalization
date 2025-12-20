@@ -31,21 +31,42 @@ def find_missing_files(zh_dir, en_dir):
     return missing_files
 
 def main():
-    # 定义两个目录路径
-    zh_dir = r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\StoryData"
-    en_dir = r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\StoryData"
+    # 定义要检查的路径对列表
+    path_pairs = [
+        {
+            "name": "StoryData",
+            "zh_dir": r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\StoryData",
+            "en_dir": r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\StoryData"
+        },
+        {
+            "name": "PersonalityVoiceDlg",
+            "zh_dir": r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\PersonalityVoiceDlg",
+            "en_dir": r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\PersonalityVoiceDlg"
+        }
+    ]
 
-    # 获取缺失文件列表
-    missing_files = find_missing_files(zh_dir, en_dir)
+    # 检查每个路径对
+    for path_pair in path_pairs:
+        print(f"\n{'='*60}")
+        print(f"检查 {path_pair['name']} 目录")
+        print(f"{'='*60}")
+        
+        # 获取缺失文件列表
+        missing_files = find_missing_files(path_pair['zh_dir'], path_pair['en_dir'])
 
-    # 输出结果
-    if missing_files:
-        print("\n以下文件在中文目录中缺失：")
-        for file in sorted(missing_files):
-            print(f"- {file}")
-        print(f"\n总共缺失 {len(missing_files)} 个文件")
-    else:
-        print("\n没有发现缺失的文件！")
+        # 输出结果
+        if missing_files:
+            print(f"\n以下文件在中文目录中缺失：")
+            for file in sorted(missing_files):
+                print(f"- {file}")
+            print(f"\n总共缺失 {len(missing_files)} 个文件")
+        else:
+            print(f"\n没有发现缺失的文件！")
 
 if __name__ == "__main__":
-    main() 
+    try:
+        main()
+    except Exception as e:
+        print(f"运行出错: {str(e)}")
+        import traceback
+        traceback.print_exc() 

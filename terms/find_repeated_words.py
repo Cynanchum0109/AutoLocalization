@@ -2,7 +2,7 @@ import re
 import os
 
 # 修改文件路径，确保正确读取terms.md
-with open(os.path.join(os.path.dirname(__file__), 'terms.md'), 'r', encoding='utf-8') as file:
+with open(os.path.join(os.path.dirname(__file__), 'terms.md'), 'r', encoding='utf-8-sig') as file:
     content = file.read()
 
 # 提取所有英文单词

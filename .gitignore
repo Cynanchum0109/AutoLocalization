@@ -7,3 +7,4 @@ Originaltext/
 __pycache__/
 *.pyc
 .vscode/
+glossary.json

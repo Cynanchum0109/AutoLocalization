@@ -4,9 +4,26 @@ import os
 class TermExtractor:
     def __init__(self):
         self.terms = {}  # 直接使用键值对存储 {英文: 中文}
+        self.glossary = {}  # 存储已有术语表
+        self.load_glossary()
+
+    def load_glossary(self):
+        """加载已有术语表"""
+        try:
+            with open('glossary.json', 'r', encoding='utf-8-sig') as f:
+                self.glossary = json.load(f)
+            print(f"已加载 {len(self.glossary)} 个已有术语")
+        except Exception as e:
+            print(f"加载术语表时出错: {str(e)}")
+            self.glossary = {}
 
     def process_text(self, text: str, translation: str = None):
         """处理文本，跳过重复条目"""
+        # 如果文本在已有术语表中存在，跳过
+        if text in self.glossary:
+            return
+        
+        # 如果文本在当前提取的术语中已存在
         if text in self.terms:
             if translation and not self.terms[text]:
                 self.terms[text] = translation
@@ -22,7 +39,7 @@ class TermExtractor:
         
         # 读取英文文件
         try:
-            with open(en_path, 'r', encoding='utf-8') as f:
+            with open(en_path, 'r', encoding='utf-8-sig') as f:
                 en_data = json.load(f)
         except Exception as e:
             print(f"处理英文文件时出错: {str(e)}")
@@ -30,7 +47,7 @@ class TermExtractor:
 
         # 读取中文文件
         try:
-            with open(cn_path, 'r', encoding='utf-8') as f:
+            with open(cn_path, 'r', encoding='utf-8-sig') as f:
                 cn_data = json.load(f)
         except Exception as e:
             print(f"处理中文文件时出错: {str(e)}")
@@ -53,8 +70,20 @@ class TermExtractor:
                 # 获取对应的中文内容
                 cn_item = cn_map.get(item["id"], {})
                 
+                # 检查该条目中是否有任何字段在已有术语表中
+                has_existing_term = False
+                for field in ["teller", "title", "place", "nickName", "name"]:
+                    if field in item and isinstance(item[field], str):
+                        if item[field] in self.glossary:
+                            has_existing_term = True
+                            break
+                
+                # 如果该条目中有任何字段在已有术语表中，跳过整个条目
+                if has_existing_term:
+                    continue
+                
                 # 处理角色名称、职位和地点
-                for field in ["teller", "title", "place"]:
+                for field in ["teller", "title", "place", "nickName", "name"]:
                     if field in item and isinstance(item[field], str):
                         if any('a' <= c.lower() <= 'z' for c in item[field]):
                             translation = cn_item.get(field, "")

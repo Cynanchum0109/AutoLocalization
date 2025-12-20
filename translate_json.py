@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 from openai import OpenAI
 import threading
@@ -9,11 +10,11 @@ from difflib import SequenceMatcher
 from check_missing_files import find_missing_files
 
 # 读取API Key
-with open('apikey.txt', 'r', encoding='utf-8') as f:
+with open('apikey.txt', 'r', encoding='utf-8-sig') as f:
     client = OpenAI(api_key=f.read().strip())
 
 # 读取术语表
-with open('glossary.json', 'r', encoding='utf-8') as f:
+with open('glossary.json', 'r', encoding='utf-8-sig') as f:
     glossary = json.load(f)
 
 # 创建翻译缓存字典
@@ -80,7 +81,7 @@ def translate_text(text, field_type=None, context=None):
         
         # 构建消息
         messages = [
-            {"role": "system", "content": "你是一个专业的中英翻译游戏剧情台词本地化助手。只需将英文翻译成中文，不要解释。"}
+            {"role": "system", "content": "你是一个专业的中英翻译赌局剧情台词本地化助手。只需将英文翻译成中文，不要解释。"}
         ]
         
         # 只在找到相似术语时添加术语表
@@ -118,7 +119,7 @@ def translate_text(text, field_type=None, context=None):
         sys.exit(1)
 
 def process_json_file(input_path, output_path, progress_queue):
-    with open(input_path, 'r', encoding='utf-8') as f:
+    with open(input_path, 'r', encoding='utf-8-sig') as f:
         data = json.load(f)
 
     if "dataList" in data:
@@ -171,30 +172,53 @@ def main():
     if not os.path.exists(original_dir) or not os.listdir(original_dir):
         print("Original目录为空，开始检查丢失文件...")
         
-        # 定义目录路径
-        zh_dir = r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\StoryData"
-        en_dir = r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\StoryData"
-        output_dir = "Workplace/translated/StoryData"
-        os.makedirs(output_dir, exist_ok=True)
+        # 定义要检查的路径对列表
+        path_pairs = [
+            {
+                "name": "StoryData",
+                "zh_dir": r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\StoryData",
+                "en_dir": r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\StoryData",
+                "output_subdir": "StoryData"
+            },
+            {
+                "name": "PersonalityVoiceDlg",
+                "zh_dir": r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Lang\LLC_zh-CN\PersonalityVoiceDlg",
+                "en_dir": r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en\PersonalityVoiceDlg",
+                "output_subdir": "PersonalityVoiceDlg"
+            }
+        ]
 
-        # 获取缺失文件列表
-        missing_files = find_missing_files(zh_dir, en_dir)
-
-        if not missing_files:
-            print("没有发现需要翻译的文件！")
-            return
-
-        print(f"\n发现 {len(missing_files)} 个需要翻译的文件")
-        
         # 创建文件队列
         file_queue = Queue()
         progress_queue = Queue()
+        total_missing_files = 0
         
-        # 将文件添加到队列
-        for filename in sorted(missing_files):
-            input_path = os.path.join(en_dir, f"EN_{filename}")
-            output_path = os.path.join(output_dir, filename)
-            file_queue.put((input_path, output_path))
+        # 检查每个路径对
+        for path_pair in path_pairs:
+            print(f"\n检查 {path_pair['name']} 目录...")
+            output_dir = os.path.join("Workplace/translated", path_pair['output_subdir'])
+            os.makedirs(output_dir, exist_ok=True)
+
+            # 获取缺失文件列表
+            missing_files = find_missing_files(path_pair['zh_dir'], path_pair['en_dir'])
+
+            if missing_files:
+                print(f"  发现 {len(missing_files)} 个需要翻译的文件")
+                total_missing_files += len(missing_files)
+                
+                # 将文件添加到队列
+                for filename in sorted(missing_files):
+                    input_path = os.path.join(path_pair['en_dir'], f"EN_{filename}")
+                    output_path = os.path.join(output_dir, filename)
+                    file_queue.put((input_path, output_path))
+            else:
+                print(f"  没有发现需要翻译的文件")
+
+        if total_missing_files == 0:
+            print("\n所有目录都没有发现需要翻译的文件！")
+            return
+
+        print(f"\n总共发现 {total_missing_files} 个需要翻译的文件")
         
         # 创建并启动工作线程
         num_threads = 1  # 固定1个线程
@@ -226,7 +250,7 @@ def main():
                         print(f"{filename}进度: {current_progress}/{total_texts}")
                     elif msg_type == 'complete':
                         completed_files += 1
-                        print(f"\n完成文件 {completed_files}/{len(missing_files)}: {os.path.basename(args[0])}")
+                        print(f"\n完成文件 {completed_files}/{total_missing_files}: {os.path.basename(args[0])}")
                         # 从当前线程列表中移除已完成的线程
                         for t in current_threads[:]:
                             if not t.is_alive():
