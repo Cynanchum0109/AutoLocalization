@@ -10,3 +10,7 @@ Limbus Company 简体中文补丁from白前Cynanchum — 安装说明
 
 需安装过零协会的汉化版本后再装补丁。
 零协更新后会自动覆盖本版本。
+
+来自白前Cynanchum
+BQCynanchum
+QQ群：1049740455
