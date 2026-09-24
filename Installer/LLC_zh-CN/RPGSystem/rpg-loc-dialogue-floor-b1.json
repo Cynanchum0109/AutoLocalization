@@ -1,0 +1,2672 @@
+{
+  "dataList": [
+    {
+      "key": "D-10001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#515aee>历经沧桑……满怀好奇……</color>\n <color=#515aee>Seasoned... and inquisitive...</color>"
+        }
+      ]
+    },
+    {
+      "key": "D-1001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "喔哦……哎呀，伙计。好久没能真正歇歇这把老骨头了。看来轮到我了，是吧？\n Oooof... Aw, man. Been a while since I got to really rest my bones. Guess it's my turn now, huh?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "嗯，来得也真是时候。我烟都快抽完了，这么干坐着，浑身关节都僵了。反正在这儿抽烟也挺难的。大伙儿老是因为我在这么窄的地方点烟发飙。\n Well, it couldn't have come at a better moment. I was just about out of cigs, and all this sitting around was making me stiff in the joints. Hard to get a smoke in here, anyway. Everybody's been raising hell about me lighting up in such a cramped place.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 2,
+          "text": "再说了，先走一步的那些人，回来讲的故事一个比一个离谱。他们说的话，我一半都听不明白。\n Besides, the folks who went ahead of us kept coming back with all sorts of stories. Couldn't make heads or tails of half of what they were saying.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 3,
+          "text": "<什么样的故事？>\n <What kinda stories?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "嗯……我刚跟浮士德小姐聊过。她说二楼那地方，到处都涂满了血肉和骨头……\n Well... I just had a word with Frau Faust. She said the second floor was a space painted all over with flesh and bone...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 5,
+          "text": "是的。\n Yes.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 6,
+          "text": "然后堂吉诃德跟我说，你们几个被一群……会走路的家具还是什么的偷袭了……\n Then Don Quixote told me about how you fellas got jumped by a... bunch of walking furnishings, or something like that...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 7,
+          "text": "<那个……倒也是真的。>\n <That one is... also true.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "还有什么，还有什么来着……哦对了。我听说，一双金属大爪子把默尔索的脑壳给劈开了。这事儿是真的吗？\n What else, what else... Oh, right. A pair of big metally claws cracked Meursault's cranium open, I hear. Any truth to that?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 9,
+          "text": "如果你说的“金属大爪子”，指的是那个挥舞着一把巨型剪刀的存在，那就是真的。\n If by \"big metally claws\" you are referring to the entity wielding a pair of oversized scissors, then yes.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 10,
+          "text": "哎哟，听起来你们可真够忙活的。\n Boy, sounds like you had your hands full.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 11,
+          "text": "我终于把周围的地下室景象看了个仔细——跟楼上那些楼层的感觉完全不一样。\n I finally take in the sight of the basement around us—it felt entirely different from the floors above."
+        },
+        {
+          "index": 12,
+          "text": "<那么……这地方到底是干什么的？我们看看招牌上写了什么……>\n <So... what's this place supposed to be? Let's see what the signboard says...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 13,
+          "text": "“鲜肉科”。\n \"Fresh Meat Section\".",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 14,
+          "text": "<他们是认真的吗……？>\n <Are they serious...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 15,
+          "text": "我们被一堆难以辨认的肉块包围着，它们被随随便便地塞进展柜里，看不出丝毫想让它们看起来诱人的意图或用心。\n We were surrounded by unidentifiable slabs of flesh, which were unceremoniously packed into displays without any perceivable intent or effort to make any of them look appetizing."
+        },
+        {
+          "index": 16,
+          "text": "鲜肉科，是吧。这地方就算是罗佳或以斯拉的饥渴，恐怕都得被磨灭殆尽——这可不是随便说说。\n Fresh Meat Section, huh. This place would've killed even Rodya or Ezra's appetite, and that was saying something."
+        },
+        {
+          "index": 17,
+          "text": "<我们该不会是要在这里……找那个蚕茧吧？>\n <We're supposed to find this... cocoon... in here?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 18,
+          "text": "哦，我们是为这个来的？我看看……\n Oh, that's what we're here for? Let's see...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 19,
+          "text": "嗯……那可太棒了。这跟大海捞针也没什么两样了。\n Well... That's just great. Might as well be looking for a needle in a haystack.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 20,
+          "text": "……他们把我塞进这支队伍，是不是因为觉得我自己也算是只虫子？\n ... Did they put me on this team because I'm considered a bug myself?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 21,
+          "text": "<我……我觉得不是。>\n <I-I doubt it.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 22,
+          "text": "罪人的选拔标准，目前尚无法推断，但那个说法并不可信，格里高尔先生。\n The rationale behind the Sinner selection cannot presently be inferred, but that particular explanation is implausible, Herr Gregor.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 23,
+          "text": "这就是句玩笑话。玩笑话。一个人偶尔说句俏皮话不行吗？\n It was a joke. A joke. Can't a guy make a little quip once in a while?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 24,
+          "text": "<下次好歹让人听出来是玩笑话……>\n <At least try to sound like you're joking next time...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 25,
+          "text": "就在我们商量下一步该怎么做时，我听见附近传来窃窃私语——是两个人在说话，看样子多半是顾客。\n While we were discussing our next move, I heard whispering nearby—two people were talking, both of them customers, most likely."
+        }
+      ]
+    },
+    {
+      "key": "D-1102",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……你觉得他们会不会是漆黑者？\n ... Think they might be Noirs?",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        },
+        {
+          "index": 1,
+          "text": "不对！看那个钱包——他们肯定是赤红者！\n No! Look at that wallet—they've got to be the Rouges!",
+          "speaker": "饥饿的卡基\n Hungry Kaki"
+        },
+        {
+          "index": 2,
+          "text": "不管怎样，他们的等级显然比我们高……\n Either way, they're clearly in higher tiers than us...",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        },
+        {
+          "index": 3,
+          "text": "他……他们看到我们了。要跑吗？\n Th-they saw us. Should we run?",
+          "speaker": "饥饿的卡基\n Hungry Kaki"
+        },
+        {
+          "index": 4,
+          "text": "不。他们明显很有钱。说不定愿意分我们几个眼球……\n No. They're obviously loaded. Maybe they'd be willing to give us a few eyeballs...",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        },
+        {
+          "index": 5,
+          "text": "<……我们要不要问问他们蚕茧的事？>\n <... Why don't we ask them about the cocoon?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "行啊。我一眼就能看出他们是本地人。去听听他们知道点什么。\n Sure. I can tell they're locals even at first glance. Let's see what they know.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 7,
+          "text": "嘿，伙计们！对，就是你们俩——穿破布的那两个。你们俩都是！\n Hey, fellas! Yeah, you two—the ones in the rags. Both of you!",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 8,
+          "text": "是、是的，先生？\n Y-yessir?",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1103",
+      "texts": [
+        {
+          "index": 0,
+          "text": "两位顾客走近时，默尔索把配方上蚕茧的图片给他们看了看。\n When the two customers approached, Meursault showed them the picture of the cocoon from the recipe."
+        },
+        {
+          "index": 1,
+          "text": "你们见过跟这个类似的蚕茧吗？\n Have you ever seen a cocoon resembling this one?",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "我……我没见过……\n I-I don't think so...",
+          "speaker": "饥饿的卡基\n Hungry Kaki"
+        },
+        {
+          "index": 3,
+          "text": "看着还挺好吃的……会不会是美食广场新出的什么菜式？\n Sure looks tasty... maybe it's some new menu that's caught on at the Food Court?",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        },
+        {
+          "index": 4,
+          "text": "嗯……在我看来，这玩意儿看着……不太……能吃……\n Hmm... Doesn't look... very... edible to me...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 5,
+          "text": "格里高尔瞥了一眼我们周围散落的那些肉块的状态，把话咽了回去，没再说下去。\n Gregor glanced at the condition of the meat chunks strewn around us and let the sentence trail off."
+        },
+        {
+          "index": 6,
+          "text": "……不过这里的人恐怕不这么想。\n ... Though the people here might say otherwise.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 7,
+          "text": "<要不我们去美食广场看看？>\n <Maybe we should try the Food Court?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "哪条路能到美食广场？\n Which route leads to the Food Court?",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 9,
+          "text": "这个嘛，那是……\n Well, that's...",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        },
+        {
+          "index": 10,
+          "text": "给10眼球，我们马上告诉你们！\n 10 eyeballs, and we'll tell you right away!",
+          "speaker": "饥饿的卡基\n Hungry Kaki"
+        },
+        {
+          "index": 11,
+          "text": "10？你该要30的！10块钱连一杯美味苏打都买不到！\n 10? You should've asked for 30! 10 barely buys one cup of soda!",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        },
+        {
+          "index": 12,
+          "text": "闭嘴！万一我们要那么多，他们拒绝了怎么办？\n Shut up! What if we ask for that much and they refuse?",
+          "speaker": "饥饿的卡基\n Hungry Kaki"
+        },
+        {
+          "index": 13,
+          "text": "<干脆按他们要的价给了，问清楚方向就好。>\n <Let's just pay them what they want and get the directions.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "明白了，经理。\n Understood, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 15,
+          "text": "咳咳。走出去到那条走廊，跟着螺旋贝壳走。\n Ahem. Go out into that corridor and follow the spiral shells.",
+          "speaker": "饥饿的卡基\n Hungry Kaki"
+        },
+        {
+          "index": 16,
+          "text": "螺旋贝壳？\n Spiral shells?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 17,
+          "text": "再、再给10眼球，我们就解释给你们听——\n F-for another 10 eyeballs, we can explain—",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        },
+        {
+          "index": 18,
+          "text": "那很可能……是蜗牛的壳。\n They are likely... shells of snails.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 19,
+          "text": "那片区域，很可能曾经是它们的栖息地。\n That area had once been their habitat, most likely.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 20,
+          "text": ".......",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        },
+        {
+          "index": 21,
+          "text": "看来我们已经获得了所有必要的信息。我们在这里还有别的事吗？\n It appears we have obtained all necessary information. Do we have any further business here?",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 22,
+          "text": "浮士德话音刚落，两位顾客的目光便飞快地对视了一下。随后，他们攥紧手里那几枚宝贝般的眼球，一溜烟地跑开了。\n As soon as Faust finished speaking, the customers' eyes darted about, exchanging glances. Then they scurried away, our eyeballs preciously nestled in their hands."
+        },
+        {
+          "index": 23,
+          "text": "接下来，我们前往美食广场。\n We will proceed to the Food Court next.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<……这是搞什么……>\n <... What the...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<那么……这些扶梯里有一条能通到地下二层……据说是这样？>\n <So... one of these escalators leads down to B2F... Supposedly...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "这么多扶梯，就算分头找，也得花上一整天。\n With this many escalators, it's gonna take us all day to find it, even if we split up.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 3,
+          "text": "我们无法分头行动。因为我是这个象征界域的主体，与我绑定的罪人不能离开我一定距离之外。\n We cannot search separately. As I am the subject of this Symbolic realm, the Sinners who are bound to me must not move beyond a certain distance from me.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<好吧。看来我们没法分头行动了……>\n <Right. We can't split up...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "即便如此……只要运气足够好……搜索或许能比预想的更快结束。\n Even so... with sufficient luck... the search might end sooner than expected.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 6,
+          "text": "<好吧。那我们一起找路下去吧。>\n <All right. Let's all find the way down.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一段望不到头的上行扶梯。不知道它究竟通向何处。\n An ascending escalator with no end in sight. There is no telling where it might lead."
+        }
+      ]
+    },
+    {
+      "key": "D-1004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一段深不可测的下行扶梯。或许它的尽头是被封死的。\n A descending escalator whose depth is impossible to gauge. Perhaps its far end is sealed."
+        }
+      ]
+    },
+    {
+      "key": "D-1005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "道路被堵住了。这样的扶梯，究竟有什么用处？\n The way is blocked. What purpose could an escalator like this possibly serve?"
+        }
+      ]
+    },
+    {
+      "key": "D-1006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "今天又是丰收的一天。得赶紧围到喷泉边上，免得位置被人抢走。\n Another day of abundance today. Better huddle around the fountain before someone steals my spot.",
+          "speaker": "干渴的卡基\n Thirsty Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "五小时定律，伙计……这还是食物……谁捡到就归谁……\n 5 hour rule, man... It's still food... Finders keepers...",
+          "speaker": "饥饿的卡基\n Hungry Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*咕噜噜* *咕噜噜*\n *glhhrrrk* *glhhrrrk*",
+          "speaker": "饥饿的卡基\n Hungry Kaki"
+        }
+      ]
+    },
+    {
+      "key": "D-1009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "嗯？一个会说话的娃娃……你也是那种人体模特之类的东西吗？\n Huh. A talking doll... Are you another one of those Mannequin things?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "我不是娃娃，听清楚了吗？！我是副主厨，听清楚了吗？\n I am not a doll, you hear?! I am the Sous Chef, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "竟然被拿来跟人体模特相提并论……这种放肆的话，我可不接受，听清楚了吗？！\n To think I'd be compared to a Mannequin... I'll not be having that sort of cheek, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "<副主厨……？>\n <Sous Chef...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "厨房里排名第二高的职位，通常被称为副厨或主厨助手。\n The second-highest rank in a kitchen, commonly referred to as the deputy or assistant head chef.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "没错，听清楚了吗？除了布彻，没人的地位比我高，听清楚了吗？\n Exactly, you hear? Nobody outranks me except Boucher, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "<比我预想的……人物分量重多了，外表可真看不出来。>\n <Far more a bigshot than I expected... despite appearances.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "<那她会不会知道金色蚕茧在哪儿？>\n <Then maybe she knows where the Golden Cocoon is?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "浮士德点了点头，向前迈了一步。\n Faust nodded and stepped forward."
+        },
+        {
+          "index": 9,
+          "text": "……我们正在寻找金色蚕茧。\n ... We are searching for the Golden Cocoon.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 10,
+          "text": "我们得到的消息是，它可以在地下一层取得。你是否掌握相关信息？\n We were informed that it could be obtained on Floor B1. Do you possess any relevant information?",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 11,
+          "text": "金色蚕茧……？我不知道那是什么，听清楚了吗？\n The Golden Cocoon...? I don't know what it is, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "它指的是一种包裹着蛹的金色物体或存在。\n It refers to a golden object or an entity that surrounds the pupa.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 13,
+          "text": "我不知道“蛹”是什么，听清楚了吗？\n I don't know what a \"pupa\" is, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 14,
+          "text": "啊……看来得从那儿开始解释了。\n Ah... I suppose we gotta start explaning from there.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 15,
+          "text": "<是啊……这地方的语言，跟我们熟悉的常识不太一样。>\n <Yeah... The language of this place isn't exactly based on the common sense we're familiar with.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 16,
+          "text": "不过我见过那种金色的闪光，听清楚了吗？你们说的会不会是布彻储藏室里那种特殊食材，听清楚了吗？\n But I've seen that golden twinkle, you hear? I wonder if you're talking about that specialty ingredient in Boucher's storeroom, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 17,
+          "text": "嗯，应该就是那个。\n Mm, that's probably the one.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 18,
+          "text": "好。事情能这么顺利推进，感觉真不错。\n Good. Nice when things move along this quickly.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 19,
+          "text": "不过布彻肉品储藏室里的食材是不卖的，听清楚了吗？\n But ingredients in Boucher's meat storage are not for sale, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 20,
+          "text": "它们每一丁点都得拿去做美味苏打，听清楚了吗？\n Every last bit of them have to go into the soda, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 21,
+          "text": "啧。我们自己也急需这东西……有没有什么办法能商量一下？\n Tch. We need it pretty badly ourselves... Any way we can work something out?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 22,
+          "text": "唔……要是你们能拿来合适的替代品，或许能拿去做以物易物，听清楚了吗？\n Hmm... Maybe if you bring the right substitute, you can barter for it, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 23,
+          "text": "让我们瞧瞧，你们能不能当那个合适的替代品，听清楚了吗？\n Let's see if you can be the right substitute, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 24,
+          "text": "<我们？！>\n <Us?!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 25,
+          "text": "唔……当然不是你，听清楚了吗？乌贼墨脑袋每天都进来一大堆，多得不值钱，听清楚了吗？\n Hmm... Certainly not you, you hear? Squid-ink heads come in all the time; they're dime-a-dozen, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 26,
+          "text": ".......",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 27,
+          "text": "这位看着太硬了，没法下锅，听清楚了吗？\n This one looks much too tough to cook, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 28,
+          "text": "嗯。\n Mm.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 29,
+          "text": "这位嘛……虽然稀罕，但我们酿的东西不需要再多点陈年时间，听清楚了吗？\n And this one's... rare, but our brew doesn't need more stretched time, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 30,
+          "text": "<我该松口气吗……？>\n <Should I be relieved...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 31,
+          "text": "副主厨绕着我们转了一圈，嗅了嗅空气，随后在格里高尔面前停了下来。\n The Sous Chef circled us, sniffed the air, then stopped in front of Gregor."
+        },
+        {
+          "index": 32,
+          "text": "她开始上蹿下跳，难掩心中的兴奋。\n She began hopping up and down, unable to contain her excitement."
+        },
+        {
+          "index": 33,
+          "text": "好深邃，好浓郁……！疯狂的风味，听清楚了吗？我要了，听清楚了吗？这味道虫气十足，听清楚了吗？！\n So deep, so full-bodied...! Crazy flavor, you hear? I want it, you hear? It's so buggy-buggy, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 34,
+          "text": "你、你要什么？还有那个“虫气十足”是什么意思？！\n W-what do you want? And what's that about \"buggy-buggy?!\"",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 35,
+          "text": "拿这条爬来爬去的手臂，布彻绝对二话不说就批了，听清楚了吗？礼尚往来，听清楚了吗？\n Boucher'll sign off without a peep for that creepy-crawly arm, you hear? Tit-for-tat, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 36,
+          "text": "嗯……！她该不会是在为我的手臂流口水吧？我去，这还是头一回。\n Huh...! Is she actually salivating for my arm? I'll be damned, that's a first.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 37,
+          "text": "<我觉得他们是想把格里高尔的手臂……当成食材用。>\n <I think they want to use Gregor's arm... as an ingredient.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 38,
+          "text": "<可是……呃，这也算个选项吗？>\n <But... Uh, is that even an option?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 39,
+          "text": "砍掉格里高尔的手臂？这地方真办得到这种事……？\n\n Cutting off Gregor's arm? Is that even possible in here...?\n"
+        },
+        {
+          "index": 40,
+          "text": "多亏了默尔索，我们其余人现在都能在西西弗百货内实际触碰物体了。我们现在能拿起东西、移动它们，可是……\n Thanks to Meursault, the rest of us can now physically interact with objects within Grand Magasin Sisyphe. We can now pick things up and move them around, but..."
+        },
+        {
+          "index": 41,
+          "text": "目前为止，这里似乎依然只有默尔索会受到伤害与死亡的威胁……至少是这地方的顾客所造成的那种。我不确定这条规则是否也适用于其他罪人。\n So far, it still seems that Meursault's the only one susceptible to injury and death here... at least from those inflicted by the customers of this place. I wasn't sure if that law extended to the rest of the Sinners."
+        },
+        {
+          "index": 42,
+          "text": "更重要的是……\n More importantly..."
+        },
+        {
+          "index": 43,
+          "text": "反正这条该死的手臂总会重新长出来，不过……\n This damned arm always grows back anyway, but...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 44,
+          "text": "<我……觉得我们不该对你的手臂动手。我有种不祥的预感——我们不知道它长回来的时候，会不会牵扯别的风险。>\n <I... don't think we should do anything to your arm. Got a bad feeling about this—we don't know if it'll grow back without any other risks involved.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 45,
+          "text": "我说不清具体是为什么，\n I couldn't exactly say why,"
+        },
+        {
+          "index": 46,
+          "text": "但我隐隐觉得，在这个象征界域里砍掉格里高尔的手臂，结果恐怕不会只是断肢处简简单单再长出一条新的虫臂那么简单。\n But I had this feeling that the result of cutting off Gregor's arm within the Symbolic wouldn't be as simple as a new bug arm growing back from the stump."
+        },
+        {
+          "index": 47,
+          "text": "嗯，这地方应该算是某种精神……呃，反正是个我们不该乱搞的诡异空间，对吧？那这笔交易就算黄了。\n Yeah, this place is supposed to be some kind of mental... uh, a weird space we shouldn't mess around in, right? Guess that kills the deal, then.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 48,
+          "text": "如果还有别的东西，你愿意接受作为交换——\n If there's another item you would be willing to accept in exchange—",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 49,
+          "text": "别的什么都不行了，听清楚了吗？闻过你那股诱人的虫气十足的香味以后，就不行了，听清楚了吗？！\n Nothing else'll do now, you hear? Not after that delicious whiff of your buggy-buggy aroma, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 50,
+          "text": "<她根本听不进任何道理……>\n <She's not listening to reason at all...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 51,
+          "text": "好吧！那我就只好让你不情不愿地也贡献一份了，听清楚了吗？！\n Fine! I'll just have to make sure you contribute whether you want to or not, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 52,
+          "text": "把那条虫子手臂交出来，听清楚了吗？！\n Hand over the bug arm, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 53,
+          "text": "哦，好极了……直接动手抢了。\n Oh, great... Straight to robbery she goes.",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "暂……暂停，听清楚了吗？！好痛，听清楚了吗？！\n Time... Time out, you hear?! That hurts, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 1,
+          "text": "听着……是你先动手打我们的。这点你自己清楚。\n Look... you're the one who attacked us first. You know that.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 2,
+          "text": "可是……我<i>需——</i>要那条虫子手臂，听清楚了吗……？需要那股虫气十足的风味……\n But... I <i>neeeed</i> the bug arm, you hear...? Need that buggy-buggy flavor...",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "好了，你这虫气也说得够多了。你这是真要——\n Alright, that's enough buggy outta you. You're really starting to—",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 4,
+          "text": "嗬呃啊！你、你最好别再打我了，听清楚了吗？！我要溜了，听清楚了吗？！\n Heeeeugh! Y-you better not hit me again, you hear?! I'm gonna skedaddle, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 5,
+          "text": "都说了，不是我们先动手的——嘿！？她跑了！\n Like I said, we're not the ones who started—hey!? She's getting away!",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 6,
+          "text": "<……跑没影了。现在怎么办？>\n <... Aaand she's gone. What now?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "我们还有更多问题需要询问。追上去是最优选择。\n We still have more questions to ask. Pursuit would be the optimal course of action.",
+          "speaker": "浮士德\n Faust"
+        }
+      ]
+    },
+    {
+      "key": "D-1026",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我不太确定这地方算不算得上“美食广场”……\n I'm not sure I'd call this place a \"Food Court\"...",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1027",
+      "texts": [
+        {
+          "index": 0,
+          "text": "她朝那边跑了。快，我们赶紧追上去。\n She scampered off down that way. Come on, let's hurry after her.",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1028",
+      "texts": [
+        {
+          "index": 0,
+          "text": "呼……你可真能跑。听着，咱俩别再互相为难了。\n Whew... You sure ran a long way. Look, let's not make things harder for the both of us.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "别、别再靠近了，听清楚了吗？！\n D-don't come any closer, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "告诉我们布彻在哪里，我们就停止追赶。\n Tell us where Boucher is located, and we will cease our pursuit.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "布、布彻反正不会放弃那种特殊食材的，听清楚了吗？那可是珍稀美味，听清楚了吗？要拿去做苏打的，听清楚了吗？！\n B-Boucher won't give up the specialty ingredient anyway, you hear? It's rare and gourmet, you hear? It's going in the soda, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": "你们早该把那条虫子手臂砍下来给我们的，听清楚了吗？我本来可以帮你们说说好话、帮你们讨价还价的，听清楚了吗？\n You should've cut off the buggy-buggy arm for us, you hear? I'd have put in a good word and helped you barter it, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 5,
+          "text": "来嘛~不谈谈怎么知道呢，对吧？把我们介绍给布彻，剩下的交给我们处理就行。\n C'mon~ We'll never know until we talk it over, right? Just introduce us to Boucher and let us handle the rest.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 6,
+          "text": "好、好吧，不过你们得帮我个忙才行，听清楚了吗？\n O-okay, but only if you do me a favor, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 7,
+          "text": "<i>这下</i>总算有点眉目了。好吧，你想要什么？\n <i>Now</i> we're getting somewhere. All right, what do you want?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 8,
+          "text": "让我舔一下那条虫子手臂，听清楚了吗？就三次，听清楚了吗？\n Let me lick that buggy-buggy arm, you hear? Just three times, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 9,
+          "text": "......",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 10,
+          "text": "格里高尔的脸扭曲了起来，仿佛脸上的皮肤都快要脱落了。\n Gregor's face contorted as though the skin were about to fall off his face."
+        },
+        {
+          "index": 11,
+          "text": "<我是说，要是她只想舔一两下，那……>\n <I mean, if all she wants is a lick or two, then...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "经理老兄，你说得倒轻巧。反正被舔的又不是你的手臂，对吧？\n Easy for you to say, Manager Bud. It's not your arm that's getting licked, is it?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 13,
+          "text": "你倒是站在我的立场想想。假设那个小家伙让你答应她，把手伸进你那头火焰般的头发里摸三次，你不觉得恶心吗？\n Try putting yourself in my shoes. Suppose that little fella asked you if she could run her hands through your flame hair 3 times. Wouldn't it feel icky?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 14,
+          "text": "<还记得前几天金笠对我做的事吗？相信我，我懂那种感觉，但绝不是什么受不了的事。>\n <Remember what Bamboo-hatted Kim did to me the other day? Believe me, I know what it's like, but it's nothing you can't take.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 15,
+          "text": "唔……\n Ugh...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 16,
+          "text": "这条件对我们有利。\n The terms are favorable to us.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 17,
+          "text": "……求你答应吧，听清楚了吗？\n ... Please say yes, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 18,
+          "text": "<比起截肢什么的，舔一舔的危险性可小多了……>\n <Licking's way less dangerous compared to, well, amputation...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 19,
+          "text": "全世界都跟我对着干，是吧……？行吧，你们爱干嘛干嘛。\n It's just me against the world, huh...? Fine, do whatever you want.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 20,
+          "text": "副主厨指了指上方的肉铺，随即一把攥住了格里高尔的手臂。\n The Sous Chef pointed to the butcher shop above, then latched onto Gregor's arm."
+        },
+        {
+          "index": 21,
+          "text": "布彻就在上头那家大肉铺里，听清楚了吗？\n Boucher is in that big butcher shop up there, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 22,
+          "text": "唔啊……*呻吟*该死……！\n Ughhh... *groan* dammit...!",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 23,
+          "text": "<肉铺……布彻到底是干什么的？>\n <A butcher shop... What exactly does Boucher do, anyway?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 24,
+          "text": "经理想知道布彻究竟是什么样的人物。\n The Manager wishes to know what manner of individual Boucher is.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 25,
+          "text": "布彻是楼层经理，听清楚了吗？他负责处理地下一层各种各样的事务，听清楚了吗？\n Boucher is the Floor Manager, you hear? He handles all sorts of work across B1, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 26,
+          "text": "那<i>你</i>是干什么的？嘿，<i>嘿！</i>别舔了！你说好只舔三下的！\n Then what do <i>you</i> do? Hey, <i>HEY!</i> stop licking! You said three licks only!",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 27,
+          "text": "那根本不够，听清楚了吗……？\n That was nowhere near enough, you hear...?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 28,
+          "text": "我是副主厨，听清楚了吗？当然是我负责给美食广场的苏打调味的，听清楚了吗？\n And I'm the Sous Chef, you hear? Of course I'm in charge of flavoring the Food Court soda, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 29,
+          "text": "那、那味道真是撩拨味蕾，听清楚了吗？我还想要更多……不过好吧，我们走吧，听清楚了吗？\n Th-that... was a tastebud tickler, you hear? I want more... but all right, let's get going, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……你带了陌生人过来。什么事，主厨？\n ... You brought strangers with you. What is it, Head Chef?",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 1,
+          "text": "是副主厨，不是主厨，听清楚了吗？我上次升职了，听清楚了吗？\n It's Sous Chef; not Head Chef, you hear? I got promoted last time, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "*叹气*……是的。你是从副主厨升为主厨的。\n *sigh*... Yes. You were promoted from Sous Chef to Head Chef.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 3,
+          "text": "可副主厨这名字听起来更高级，听清楚了吗？所以说，我是升职成了副主厨，听清楚了吗？\n But Sous Chef sounds fancier, you hear? Which means I was promoted to Sous Chef, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": "……你来这儿做什么，副主厨？\n ... Why have you come here, Sous Chef?",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 5,
+          "text": "我带他们来，是因为他们需要储藏室里的那种特殊食材，听清楚了吗？\n I brought them because they need the specialty ingredient in the storeroom, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "更准确地说，我们需要的是金色蚕茧。我们无法交出格里高尔的手臂，但可以提供眼球作为交换——\n More precisely, we require the Golden Cocoon. We cannot surrender Gregor's arm, but we could offer eyeballs—",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "我不需要眼球——已经多得不知道该怎么处理了。\n I don't need eyeballs—already got more than I know what to do with.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 8,
+          "text": "再说，我也不确定库存里还有没有存货……这个季节快过去了，你知道的。\n Besides, I don't know if we even have any left in stock... The season's nearly over, you see.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 9,
+          "text": "副主厨，去查查储藏室里还剩多少搁浅幼虫。\n Sous Chef, go check how many beached larvae we have in the storeroom.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 10,
+          "text": "这就去，听清楚了吗？\n On it, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 11,
+          "text": "只剩一只还有气儿了，听清楚了吗？\n There's only one still breathing, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "……只剩一只？怎么会这样？\n ... Just one? How'd that happen?",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 13,
+          "text": "因为我们一季接一季地用幼虫给苏打调味啊，听清楚了吗？\n Because we've been using larvae to flavor the soda up season after season, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 14,
+          "text": "这年头要弄到活的幼虫，可真是个大难题，听清楚了吗？\n Getting living larvae's become a real toughie these days, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 15,
+          "text": "这么说，已经没有幼虫再被冲上岸了。看来这里，就是前一个时代的最后遗迹，终将彻底消失、不留痕迹的地方……\n So there are no more larvae left to wash ashore. I suppose this is where the last vestiges of the previous age finally vanish without a trace...",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 16,
+          "text": "……看来是时候开始用别的东西当基础食材了。我们有什么替代品？\n ... It may be time to start using something else as the base ingredient. What substitutes do we have?",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 17,
+          "text": "卡门布莱克刀鱼……金色树脂……猎物反刍肉……还有那条虫子手臂，听清楚了吗？\n Camemblack Scabbardfish... Golden Resin... Ruminations of the Prey... and the buggy-buggy arm, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 18,
+          "text": "……我的手臂不在考虑范围内，听清楚了吗？别再打它的主意了。\n ... My arm's out of the question, you hear? Quit pushing it.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 19,
+          "text": "话说回来，你提到的那个“幼虫”——就是金色蚕茧吗？\n Anyways, that \"larva\" you mentioned—is that the Golden Cocoon?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 20,
+          "text": "没错。它只是附着在幼虫身上、风味最浓郁的那部分。\n Correct. It's only the most flavorful part attached to the larva.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 21,
+          "text": "<所以它真的是食物……>\n <So it really was food...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 22,
+          "text": "猎物反刍肉。是的，那个部位可以。因为难以获取，我们一直用得不多，所以你们应该能拿到一份新鲜的切肉。\n Ruminations of the Prey. Yes, that cut of meat will do. We've not been using it much on account of it being difficult to get, so you should be able to get your hands on a fresh cut.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 23,
+          "text": "我们要去哪里获取它？\n Where can we acquire it?",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 24,
+          "text": "所以你们会把它带来这里？很好。给我们食材，我们就从剩下的那只幼虫身上，为你们剥出一枚金色蚕茧。\n So you will bring it here? Very well. Provide us the ingredient, and we will peel a Golden Cocoon off the remaining larva for you.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 25,
+          "text": "它就悬悬荡荡地挂在天花板上，听清楚了吗？裹着层层金色毛皮，风干熟成着呢，听清楚了吗？！\n It's dingle-dangling from the ceiling, you hear? Dry-aged in layers of Golden Hide, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 26,
+          "text": "鲜肉科的食品检验员们，恐怕正为熟成它而忙得焦头烂额，所以想拿到手，恐怕不是下去把它从锈蚀吊钩上摘下来那么简单。好了，这份麻烦事，就交给你们去处理了。\n Food testers at the Fresh Meat Section are probably having one hell of a time aging it, so procuring it'll probably be a bit more involved than just going down there and plucking it off the hook. Well, I'll leave it to you to deal with the annoying part of the job.",
+          "speaker": "布彻\n Boucher"
+        }
+      ]
+    },
+    {
+      "key": "D-1012",
+      "texts": [
+        {
+          "index": 0,
+          "text": "副主厨。我有个问题。\n Sous Chef. I have a question.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "什、什么事，听清楚了吗？\n W-what is it, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 2,
+          "text": "我想知道，猎物反刍肉呈现什么样的形态，以及可以通过什么标准来辨认它。\n I want to know what form the Ruminations of the Prey take and by what criteria they may be identified.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "我不知道，听清楚了吗？\n I don't know, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 4,
+          "text": "我们打算为美味肉苏打做出贡献。还请您指点一二。\n We intend to contribute to the Meat Soda. Your guidance would be appreciated.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 6,
+          "text": "嘿……汤主厨。\n Hey... Soup Chef.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 7,
+          "text": "我不知道，听清楚了吗？！我不知道！\n I don't know, you hear?! I don't know!",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 8,
+          "text": "天呐……*吐口气*好吧，“副主厨”。\n Good grief... *puff* All right, \"Sous Chef.\"",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 9,
+          "text": ".......",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 10,
+          "text": "你连那玩意儿长什么样都不肯说，我们要怎么帮你弄到那个什么反刍肉？拜托，我们可是在努力“做贡献”呢——你不是副主厨吗？拿出点副主厨的样子来。\n How're we supposed to get you that Ruminations thing if you won't even tell us what it looks like? Come on, we're trying to make a \"contribution\" here—you're the Sous Chef, aren't you? Act like one.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 11,
+          "text": "那条虫子手臂本来是最合适的……不过美味肉苏打对大家来说更重要，听清楚了吗？我会回答，是因为我是个称职、负责任的副主厨，听清楚了吗？\n The buggy buggy arm would be perfect... but the Meat Soda matters more for everyone's sake, you hear? I'll answer because I'm a good, responsible Sous Chef, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "猎物反刍肉挂在最左边，听清楚了吗？晃晃悠悠地垂着，听清楚了吗？肋骨之间闪着什么亮晶晶的东西，听清楚了吗？\n The Ruminations of the Prey hang at the far left, you hear? They dangle-dongle, you hear? Something glitters between the ribs, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 13,
+          "text": "<……那我们该找的是带着金色毛皮的那块肉。>\n <... Then we should look for a cut of meat with the Golden Hide attached.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "哦？你早说不就好了。能省我们俩不少麻烦。\n Oh? You could've told us from the start, you know. Would've saved us both a lot of trouble.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 15,
+          "text": "只是好奇，你该不会其实讨厌那条手臂吧，听清楚了吗？\n Wondering if you don't hate that arm, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 16,
+          "text": "……我确实讨厌它。讨厌到你难以置信的地步。我没有哪一天，不想把它从身上生生撕下来的。\n ... I do hate it. Like you wouldn't believe it. I don't go a day without wanting to rip it clean off my body.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 17,
+          "text": "那你就可以贡献出来啊，听清楚了吗？我就纳闷你为什么不肯，听清楚了吗？\n That you can just contribute, you hear? Wondering why you wouldn't, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 18,
+          "text": "有时候啊，副主厨……有些东西，不管你再怎么讨厌它，它还是会黏在你身上，听清楚了吗？\n Sometimes, Sous Chef... there are things that stick to you no matter how much you hate them, you hear?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 19,
+          "text": "我还是想要那玩意儿……不过既然如此，那你就好好珍惜吧，听清楚了吗？我现在得走了，听清楚了吗？忙的又不止你一个，听清楚了吗？\n I still want it... But if that's so, cherish it, you hear? Now I must go, you hear? You're not the only one who's busy, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 20,
+          "text": "<哦，厉害。>\n <Oh, wow.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 21,
+          "text": "格里高尔，你在劝说与恐吓之间转换得相当纯熟。浮士德必须承认，浮士德今天算是学到了一课。\n You transitioned between persuasion and intimidation with notable fluency, Gregor. Faust must admit that Faust has learned something today.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 22,
+          "text": "这是一种格外有效的方法。\n It was an exceptionally effective method.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 23,
+          "text": "呃……你们几个什么时候开始这么会夸人了？……咳。总之……我们走吧。\n Eh... Since when did you start giving me compliments like that, fellas? ... Ahem. Anyhow... Let's get moving.",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1033",
+      "texts": [
+        {
+          "index": 0,
+          "text": "猎物反刍肉挂在最左边，听清楚了吗？晃晃悠悠地垂着，听清楚了吗？\n The Ruminations of the Prey hang on the far left, you hear? They dangle-dongle, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1034",
+      "texts": [
+        {
+          "index": 0,
+          "text": "再见了，听清楚了吗？\n It's goodbye now, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一块干瘪的肉，与其说是肉，更像是肉干。说明上坚称它异常新鲜……\n A desiccated slab of meat, closer to jerky than anything else. The description insists it is exceptionally fresh..."
+        }
+      ]
+    },
+    {
+      "key": "D-1014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一块肋眼肉，大理石纹路如花朵般绽放……字面意义上的绽放。\n A cut of rib eye, the marbling blooming like a flower... quite literally."
+        }
+      ]
+    },
+    {
+      "key": "D-1015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "绽放的其实是腐败。这东西真能吃吗？\n What blooms there is the rot. Is it even edible?"
+        }
+      ]
+    },
+    {
+      "key": "D-1016",
+      "texts": [
+        {
+          "index": 0,
+          "text": "它的汁液已经冻结，变成了蓝色。这<i>真的</i>是肉汁吗……？\n Its juice has frozen and turned blue. It <i>is</i> meat juice, right...?"
+        }
+      ]
+    },
+    {
+      "key": "D-1017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "获得了“猎物反刍肉”。\n Obtained the \"Ruminations of the Prey.\""
+        },
+        {
+          "index": 1,
+          "text": "<呼。没花多长时间。>\n <Whew. That didn't take too long.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "那个话痨小家伙就已经够烦人了，可其他那些盯着肉流口水的混蛋更糟糕。啧。\n The talk-too-much runt is annoying enough, but all those other bastards drooling over the meat are worse. Tch.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 3,
+          "text": "这块肉里含有极少量的金色毛皮。他们想据为己有，也在情理之中。\n The meat contains a minute quantity of the Golden Hide. It's reasonable that they want it for themselves.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "我们现在该回去找布彻了。\n We should now return to Boucher.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 5,
+          "text": "<走吧。>\n <Let's go.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "看来是全须全尾地回来了。我还以为，火焰头旁边至少得挂着四条手臂在肉钩上呢。\n Back in one piece, I see. Thought I'd find at least four arms dangling from meat hooks beside flambé-head.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 1,
+          "text": "猎物反刍肉在哪儿？\n Where's the Ruminations of the Prey?",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 2,
+          "text": "*嗅嗅* *嗅嗅*这味道，听清楚了吗？我闻到了，听清楚了吗？你们拿对东西了，听清楚了吗？\n *sniff* *sniff* The smell, you hear? I can smell it, you hear? You got the right one, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 3,
+          "text": "趁它还没坏，先放进储藏室。\n Put it in the storeroom before it spoils.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 4,
+          "text": "我们会确保他们得到公道的报酬。把幼虫带过来——那只还在蠕动的。\n And we'll see that they're given a fair reward for it. Bring a larva here—the one that's still squirming.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 5,
+          "text": "马上回来，听清楚了吗？！\n Be right back, you hear?!",
+          "speaker": "副主厨\n Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1104",
+      "texts": [
+        {
+          "index": 0,
+          "text": "在交货之前，先问一件事。你们不需要那条幼虫，对吧？只要金色蚕茧就行？\n One thing before I hand over the goods. You don't need the larva, do you? You need just the Golden Cocoon?",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 1,
+          "text": "正是。\n Correct.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "很好。\n Excellent.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 3,
+          "text": "透过窗户，我们看到布彻咧开嘴，露出满口尖牙，开始对副主厨带来的食材下刀。\n Through the window, we saw Boucher's mouth splitting open into a toothy grin as he began hacking into the ingredients the Sous Chef had brought him."
+        },
+        {
+          "index": 4,
+          "text": "拿去吧，客人们。你们要的金色蚕茧。\n Take it, guests. The Golden Cocoon you requested.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 5,
+          "text": ".......",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<……这是……<i>在哭吗？</i>>\n <... Is it... <i>crying?</i>>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "呃……这世上可算不上什么悦耳的声音，是吧？\n Ugh... Not the most pleasant sound in the world, is it?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 8,
+          "text": "怎么会不哭呢？这道菜才刚刚诞生。来到这世上，便是被恐惧所吞没，而恐惧，是如此孤独的东西——自然而然，便伴随着哭泣。\n Why would it be? The dish was only just born. To come into the world is to be swallowed by terror, and terror is such a lonely thing—which is, naturally, accompanied by weeping.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 9,
+          "text": "……总之，我得开始准备营业了。如果你们在这里没有别的事，还请离开。\n ... In any case, I must begin preparing for service. I would prefer that you leave if you have no further business here.",
+          "speaker": "布彻\n Boucher"
+        },
+        {
+          "index": 10,
+          "text": "谢谢这笔双赢的交易，听清楚了吗？\n Thanks for the win-win deal, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 11,
+          "text": "这个算我请客的，听清楚了吗？\n And here's a little something on the house, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 12,
+          "text": "嗯？请客？\n Huh? On the house?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 13,
+          "text": "你们可以喝一杯苏打，听清楚了吗？这是本季末尾的，所以没那么多气泡……不过味道一点没少，听清楚了吗？\n You can have one cup of soda, you hear? It's from the tail end of this season, so it's not as fizzy... but the flavor's all there, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        },
+        {
+          "index": 14,
+          "text": "换句话说……就相当于没气的苏打水。\n In other words... the equivalent of flat soda pop.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 15,
+          "text": "谢谢。\n Thank you.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 16,
+          "text": "这层楼是否还有剩余的任务？\n Are there no remaining tasks on this floor?",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 17,
+          "text": "<他们说蚕茧可以在地下二层纺成丝束，所以……嗯，我们这边算是完事了。>\n <They said the cocoon could be spun into a skein on B2, so... yeah, we're done here.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 18,
+          "text": "我看到走廊再往前有条通道，应该能带你们下去。\n I saw a passage farther down the corridor that should take you fellas below.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 19,
+          "text": "我们现在前往走廊的尽头。\n We will proceed now to the lower end of the corridor.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 20,
+          "text": "等等——你们下去之前，我能不能至少喝一小口苏打？走了这么久，我渴死了……\n Wait—can I at least take a small sip of the soda before you head down? I'm thirsty after all this walking...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 21,
+          "text": "奇怪。格里高尔先生，在这个象征界域里，你本不应该感受到“真实”的口渴感才对。\n Odd. You should not be able to feel thirst as a \"real\" sensation in the Symbolic, Herr Gregor.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 22,
+          "text": "不，我——拜托，我就是这么觉得，行吗？\n No, I—come on, I just feel that way, okay?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 23,
+          "text": "总之，走之前先尝尝这杯免费饮料吧。\n Anyway, let's try the free drink before we go.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 24,
+          "text": "浮士德也对这苏打的风味感到好奇。\n Faust is also curious about the soda's flavor.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 25,
+          "text": "<反正我也喝不了，你们三个分了吧。>\n <I can't drink it anyway, so the three of you can have it .>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 26,
+          "text": "……我谢绝了，经理。\n ... I will decline, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 27,
+          "text": "诶……？为什么？我还以为在这地方，我们吃的是……那个叫什么来着，那种“感觉”……\n Eh...? But why? Thought we eat the... what was it, the \"feeling\" of it in here...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 28,
+          "text": "这就是说，只要你愿意，就能尝到你记忆中最深刻的那顿饭的味道。这不值得一试吗？\n Which means you could taste the meal you remember best if you will it. Isn't that worth a try?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 29,
+          "text": "正因如此，我才无法食用它。\n That is precisely why I cannot consume it.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 30,
+          "text": "它的味道，或许能以近乎完美的精确度，逼近我记忆中那份食物的价值，\n Its flavor might approximate the value of the food preserved in my memory with near-perfect accuracy,",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 31,
+          "text": "但那终究不会是同一样东西。\n but it would not be the same.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 32,
+          "text": "我说不好，不确定那味道非得保留什么真实的“价值”不可。\n I don't know, not sure the flavor has to retain real \"worth.\"",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 33,
+          "text": "一样东西的“价值”，不就是取决于你当下对它的感受吗，对吧？\n Something's \"worth\" changes depending on how you feel about it at that moment, right?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 34,
+          "text": "对有些人来说……那就够了。我甚至想说，绰绰有余。\n For some folks... that's enough. More than enough, I'd say.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 35,
+          "text": ".......",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 36,
+          "text": "我完全理解你的意思。然而……\n I understand your point fully. However...",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 37,
+          "text": "我认为自己目前还做不到这一点。\n I do not believe I am presently capable of it.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 38,
+          "text": "嘿，不想喝就别喝——我不是想逼你。就是说说我自己的想法罢了。\n Hey, don't drink it if you don't want to—I'm not trying to press the matter here. Just sharing my thoughts, that's all.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 39,
+          "text": "……这也没有办法。\n ... It cannot be helped.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 40,
+          "text": "不过，让我感到意外的是，默尔索在这场交锋中，并没有像他平时那样固执地反驳。至少没有平常那么强烈。\n What surprised me, though, was that Meursault didn't push back with his usual obstinate demeanor in this exchange. At least not as much as he normally would."
+        },
+        {
+          "index": 41,
+          "text": "或许格里高尔的想法，终究还是说进了他心里？\n Maybe Gregor's opinion got across to him after all?"
+        },
+        {
+          "index": 42,
+          "text": "或许格里高尔是对的。重要的，从来不是味道本身。\n Perhaps Gregor is right. It's not the flavor itself that matters."
+        },
+        {
+          "index": 43,
+          "text": "我们所说的“怀念”，大概是围绕着那些我们觉得愉快的记忆，重新构建出来的东西。\n What we call \"nostalgia\" is probably something reconstructed around the memories we found pleasant."
+        },
+        {
+          "index": 44,
+          "text": "记忆会随时间淡去。如果它们不曾淡去——如果痛苦的记忆始终清晰如初……或许“怀念”便永远不会存在。\n Memories fade with time. If they don't—if painful memories linger with clarity at all times... Perhaps \"nostalgia\" is never to be."
+        }
+      ]
+    },
+    {
+      "key": "D-1021",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我跟在默尔索身后，踏上了第一级台阶。\n I step onto the first staircase behind Meursault."
+        },
+        {
+          "index": 1,
+          "text": "这坡度其实并不算陡，可我却怎么也摆脱不了身体正往下倾的感觉。\n It's not even that steep, yet I cannot shake the sensation that my body is pitching downward."
+        },
+        {
+          "index": 2,
+          "text": "我连忙抓住两侧，小心翼翼地一步一步往下走。\n I hurriedly grip both sides and descend one careful step at a time."
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>恭喜啊，ma puce。</color>\n <color=#ebcaa2>Congratulations, ma puce.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>你又拿下了一个。</color>\n <color=#ebcaa2>You nailed another one.</color>"
+        },
+        {
+          "index": 5,
+          "text": "让娜的声音渐渐远去，带着一丝苦涩。随后……\n Jeanne's voice recedes, carrying a trace of bitterness. And then..."
+        }
+      ]
+    },
+    {
+      "key": "D-1020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我跟在默尔索身后，踏上了第一级台阶。\n I step onto the first staircase behind Meursault."
+        },
+        {
+          "index": 1,
+          "text": "一阵微风拂过，光亮渐渐靠近。\n A faint breeze brushes past, and the light gradually draws nearer."
+        },
+        {
+          "index": 2,
+          "text": "有那么一瞬间，感觉像是在往上爬。随后坡度渐渐变平，脚步又将我们引向了下坡。\n For a moment, it feels as though we are climbing. Then the slope slowly levels, and our steps lead us to a descent."
+        }
+      ]
+    },
+    {
+      "key": "D-1019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我跟在默尔索身后，踏上了第一级台阶。\n I step onto the first staircase behind Meursault."
+        },
+        {
+          "index": 1,
+          "text": "我的每一步，都轻得不可思议。\n Each of my steps feels impossibly light."
+        },
+        {
+          "index": 2,
+          "text": "我不太确定自己是在往上走还是往下走，但能感觉到脚尖被一种柔软的缓冲感包裹着。\n I'm not quite certain whether I am ascending or descending, but I feel the soft sensation of cushioning enveloping the tip of my feet."
+        }
+      ]
+    },
+    {
+      "key": "D-1022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……一架梯子。\n ... A ladder.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "或者是一座小山——又或者是一只鞋。\n Or a hill—or a shoe.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "经理，该如何定义它？\n How should it be defined, Manager?",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<……嗯？>\n <... Huh?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>……说到底，你还是打算让他们来做最终裁决。</color>\n <color=#ebcaa2>... So you're going to let them make the final judgment, after everything.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>你知道吗，有时候我觉得，你比我还要懦弱。</color>\n <color=#ebcaa2>You know, sometimes I think you are an even worse coward than I am.</color>"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "默尔索没有回应让娜。他只是看着我，等待着一个答案。\n Meursault gave Jeanne no reply. He merely looked at me and waited for an answer."
+        }
+      ]
+    },
+    {
+      "key": "D-1032",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我跟在默尔索身后，踏上了第一级台阶。\n I step onto the first staircase behind Meursault."
+        },
+        {
+          "index": 1,
+          "text": "他摸了摸它，爬上爬下，又轻轻敲了敲，听它发出的声音。\n He touched it, climbed up and down it, and rapped against it to listen to the sound it made."
+        }
+      ]
+    },
+    {
+      "key": "D-1201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "现在，何不告诉我，这是什么？\n Now, why don't you tell me what this is?",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "咖啡……妈妈，是您喜欢的那个牌子的咖啡。\n Coffee... Coffee from the brand you like, Mother.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "不。你说的，只是世俗惯例强加给它的东西……一段记忆罢了。\n No. You're just telling me what convention has arbitrarily imposed upon it... A memory.",
+          "speaker": "???"
+        },
+        {
+          "index": 3,
+          "text": "别落入熟悉感的陷阱里，默尔索。用你自己的经验，重新定义它。\n Don't fall into the familiarity trap, Meursault. Define it anew through your experiences.",
+          "speaker": "???"
+        },
+        {
+          "index": 4,
+          "text": "每当我碰它，它便会泛起涟漪。它含着光，却依然是黑色的……\n It ripples whenever I touch it. It holds the light, yet remains black...",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "它又苦……又烫……让我眼前的一切都变得湿润起来……\n It is bitter... hot... and it makes everything before my eyes grow wet...",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": "这是……\n This is...",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1023",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 에스컬레이터가 움직이기 시작했다."
+        }
+      ]
+    },
+    {
+      "key": "D-1024",
+      "texts": [
+        {
+          "index": 0,
+          "text": "前往地下二层。\n Moving on to B2."
+        }
+      ]
+    },
+    {
+      "key": "D-1065",
+      "texts": [
+        {
+          "index": 0,
+          "text": "门开着。要进去吗？\n The door is open. Should we enter?"
+        }
+      ]
+    },
+    {
+      "key": "D-1066",
+      "texts": [
+        {
+          "index": 0,
+          "text": "里面堆满了眼球，高高一堆。旁边躺着一位疑似店主的顾客，已经死了，肚子肿得像座小山。\n There are eyeballs inside, piled up high. A customer who seems to be the owner lies dead nearby, their belly swollen like a mountain."
+        }
+      ]
+    },
+    {
+      "key": "D-1067",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一栋看起来像普通民宅的房子。敲门无人应答。\n A house resembling an ordinary private residence. No one responds when we knock."
+        }
+      ]
+    },
+    {
+      "key": "D-1068",
+      "texts": [
+        {
+          "index": 0,
+          "text": "门开着。要进去吗？\n The door is open. Should we enter?"
+        }
+      ]
+    },
+    {
+      "key": "D-1069",
+      "texts": [
+        {
+          "index": 0,
+          "text": "里面堆满了眼球，高高一堆。旁边躺着一位疑似店主的顾客，已经死了，肚子肿得像座小山。\n There are eyeballs inside, piled up high. A customer who seems to be the owner lies dead nearby, their belly swollen like a mountain."
+        }
+      ]
+    },
+    {
+      "key": "D-1059",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一栋看起来像普通民宅的房子。敲门无人应答。\n A house resembling an ordinary private residence. No one responds when we knock."
+        },
+        {
+          "index": 1,
+          "text": "窗户后面，时不时闪过一个诡异的身影。\n Every so often, an uncanny silhouette passes behind the window."
+        }
+      ]
+    },
+    {
+      "key": "D-1060",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这栋房子似乎无人居住。肉块、皮革一类的材料，堆得像家具一样。\n The house appears uninhabited. Meat, hides, and similar materials are heaped inside in place of furniture."
+        }
+      ]
+    },
+    {
+      "key": "D-1061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "门开着。要进去吗？\n The door is open. Should we enter?"
+        }
+      ]
+    },
+    {
+      "key": "D-1062",
+      "texts": [
+        {
+          "index": 0,
+          "text": "从敞开的门走了进去。\n Entered through the open door."
+        }
+      ]
+    },
+    {
+      "key": "D-1063",
+      "texts": [
+        {
+          "index": 0,
+          "text": "门开着。要进去吗？\n The door is open. Should we enter?"
+        }
+      ]
+    },
+    {
+      "key": "D-1064",
+      "texts": [
+        {
+          "index": 0,
+          "text": "从敞开的门走了进去。\n Entered through the open door."
+        }
+      ]
+    },
+    {
+      "key": "D-1058",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一块干瘪的肉。散发着一股冰冷、腥臭的气味。\n A desiccated slab of meat. It gives off a cold, fishy odor."
+        }
+      ]
+    },
+    {
+      "key": "D-1052",
+      "texts": [
+        {
+          "index": 0,
+          "text": "他们似乎正忙着整理布料。\n They appear occupied with arranging the fabric."
+        }
+      ]
+    },
+    {
+      "key": "D-1053",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……看来我得在这里等上一阵子了。\n ... It appears I'll be waiting here for some time.",
+          "speaker": "漆黑者搬运工\n Le Noir Porter"
+        },
+        {
+          "index": 1,
+          "text": "……嗯？有什么需要吗？\n ... Hm? Is there something you need?",
+          "speaker": "漆黑者搬运工\n Le Noir Porter"
+        },
+        {
+          "index": 2,
+          "text": "我们想询问一下，这些布料是什么性质的东西。\n We wish to inquire as to the nature of these fabrics.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 3,
+          "text": "这些是从地下二层运上来的布匹。休闲装厅下的订单。\n They are bolts of fabric brought up from B2. The Casualwear Hall placed the order.",
+          "speaker": "漆黑者搬运工\n Le Noir Porter"
+        },
+        {
+          "index": 4,
+          "text": "嗯，这不就有了。我们何不直接问问这位店员？既然是从地下二层送上来的，他们应该知道路吧？\n Well, there we go. Why don't we just ask this clerk? If they came from B2, they ought to know the way there, shouldn't they?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 5,
+          "text": "知道如何从某地返回，与知道如何抵达该地，并非同一回事。不过，这位个体两者都知道的概率很高。\n Knowing how to return from a given place is not the same as knowing how to get there. The probability that this individual knows both, however, is high.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "漆黑者搬运工\n Le Noir Porter"
+        },
+        {
+          "index": 7,
+          "text": "不知为何，我能感觉到他们的视线牢牢锁在我的头上。或许保险起见，该把我们在三楼收到的那件东西给他们看看。\n For some reason, I can feel their gaze fixed upon my head. I should probably show them the item we received on the 3rd floor, just in case."
+        },
+        {
+          "index": 8,
+          "text": "这是……啊。原来你们是在替三楼那边办事的，我明白了。若想前往楼下，只需搭乘往下走的电梯即可。知晓自己既定目的地之人，是没有理由迷路的。\n This is... Ah. You are on an errand for those on the third floor, I see. If you wish to descend to the lower floors, simply take the escalator leading downward. Those who know their appointed destination have no cause to lose their way.",
+          "speaker": "漆黑者搬运工\n Le Noir Porter"
+        },
+        {
+          "index": 9,
+          "text": "<……这话听起来，跟我们之前听说的走廊那套说法很像。>\n <... That sounds a lot like what we were told about the Corridors.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "见鬼……这根本没帮上什么忙。\n Darn it... That doesn't help at all.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 11,
+          "text": "漆黑者店员重新开始整理布料。\n The Noir clerk resumes arranging the fabric."
+        }
+      ]
+    },
+    {
+      "key": "D-1054",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦。你们带来的，确实是件极为珍贵之物。\n Oh. You have brought a most precious thing indeed.",
+          "speaker": "漆黑者搬运工\n Le Noir Porter"
+        },
+        {
+          "index": 1,
+          "text": "愿你们的下行之路，一路顺遂，陌生人们。\n May your descent be untroubled, Strangers.",
+          "speaker": "漆黑者搬运工\n Le Noir Porter"
+        }
+      ]
+    },
+    {
+      "key": "D-1055",
+      "texts": [
+        {
+          "index": 0,
+          "text": "愿你们的下行之路，一路顺遂，陌生人们。\n May your descent be untroubled, Strangers.",
+          "speaker": "漆黑者搬运工\n Le Noir Porter"
+        }
+      ]
+    },
+    {
+      "key": "D-1056",
+      "texts": [
+        {
+          "index": 0,
+          "text": "早知道该多带双手来……\n Should've brought another pair of hands...",
+          "speaker": "赤红者搬运工\n Le Rouge Porter"
+        },
+        {
+          "index": 1,
+          "text": "……你们这些人到底是谁啊？\n ... Who the hell are you people?",
+          "speaker": "赤红者搬运工\n Le Rouge Porter"
+        },
+        {
+          "index": 2,
+          "text": "<你们在这里等什么呢？>\n <Are you waiting for something here?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "我们很好奇，你们在这里等待着什么。\n We are curious as to what you are awaiting here.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 4,
+          "text": "得去剥地下三层的毛皮，再扛回来。不知道为什么，最近补给一直送不上来——\n Need to strip the Hides from B3 and haul 'em back. Don't know why, but supplies haven't been coming through lately—",
+          "speaker": "赤红者搬运工\n Le Rouge Porter"
+        },
+        {
+          "index": 5,
+          "text": "……！等等。嘘……我又听见“声音”了！\n ...! Wait. Shh... I can hear the Voice again!",
+          "speaker": "赤红者搬运工\n Le Rouge Porter"
+        },
+        {
+          "index": 6,
+          "text": "那位赤红者搬运工推开我们，一把贴到墙上，脸上绽开一抹陶醉的笑容。\n The Rouge porter shoved past us, pressed themself against the wall, and broke into a blissful grin."
+        }
+      ]
+    },
+    {
+      "key": "D-1057",
+      "texts": [
+        {
+          "index": 0,
+          "text": "他们贴在墙上，脸上挂着陶醉的笑容。\n They are pressed against the wall with a blissful grin."
+        }
+      ]
+    },
+    {
+      "key": "D-1051",
+      "texts": [
+        {
+          "index": 0,
+          "text": "染好的布料堆得高高的。\n Dyed fabrics are piled high."
+        }
+      ]
+    },
+    {
+      "key": "D-1049",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<没想到这种地方居然还有扇门。>\n <Didn't expect to see a door in a place like this.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "从它所朝的方向来看，打开它很可能会连通到美食厅……\n Given where it faces, opening it has a high probability of connecting us to the Food Hall...",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 2,
+          "text": "……不过现有证据尚不足以完全确定。\n ... Though the available evidence is insufficient to be absolutely certain.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 3,
+          "text": "门后是一片被黑暗吞没的空旷空间。\n The door opens onto an empty space drowned in darkness."
+        },
+        {
+          "index": 4,
+          "text": "<呃……>\n <Uh...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "呃……经理老兄，我们不是要进那里面去吧？\n Uh... We're not going in there, are we, Manager Bud?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 6,
+          "text": "<……我们还是走走廊吧。那样应该更安全。>\n <... Let's take the corridor. Might be safer that way.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1050",
+      "texts": [
+        {
+          "index": 0,
+          "text": "门后只有一片深不见底的黑暗。\n Nothing but impenetrable darkness lies beyond the door."
+        },
+        {
+          "index": 1,
+          "text": "……我们该不顾风险，径直走进黑暗吗？\n ... Should we ignore the risk and proceed into the dark?"
+        }
+      ]
+    },
+    {
+      "key": "D-1045",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一张洁白无瑕的桌子。上面摆着各种切好的肉块和皮革。\n A pristine white table. Various cuts of meat and hides lie arranged across it."
+        }
+      ]
+    },
+    {
+      "key": "D-1046",
+      "texts": [
+        {
+          "index": 0,
+          "text": "肉块之中，摆着一道用眼球做成的菜。或许我们能把它带走。\n Among the cuts of meat sits a dish made from eyeballs. We may be able to take it with us."
+        }
+      ]
+    },
+    {
+      "key": "D-1047",
+      "texts": [
+        {
+          "index": 0,
+          "text": "肉块之中，摆着一道用眼球做成的菜。或许我们能把它带走。\n Among the cuts of meat sits a dish made from eyeballs. We may be able to take it with us."
+        }
+      ]
+    },
+    {
+      "key": "D-1048",
+      "texts": [
+        {
+          "index": 0,
+          "text": "肉块之中，摆着一道用眼球做成的菜。或许我们能把它带走。\n Among the cuts of meat sits a dish made from eyeballs. We may be able to take it with us."
+        }
+      ]
+    },
+    {
+      "key": "D-1042",
+      "texts": [
+        {
+          "index": 0,
+          "text": "好几位顾客把头埋进了喷泉里。\n Several customers have their heads plunged into the fountain."
+        }
+      ]
+    },
+    {
+      "key": "D-1043",
+      "texts": [
+        {
+          "index": 0,
+          "text": "他们把脸埋在水里，大口大口地灌着苏打，简直到了快要淹死的地步。有几个已经彻底一动不动了。\n They are guzzling soda with their faces submerged, right up to the brink of drowning. Some have already gone completely still."
+        }
+      ]
+    },
+    {
+      "key": "D-1044",
+      "texts": [
+        {
+          "index": 0,
+          "text": "美味肉苏打做好了。就算我是这个象征界域的主体，能比默尔索更自如地与之互动，我恐怕也没胆量去尝一口。\n The Meat Soda is ready. I doubt I could bring myself to try it even if I were the subject of the Symbolic who could interact with it better than Meursault."
+        }
+      ]
+    },
+    {
+      "key": "D-1040",
+      "texts": [
+        {
+          "index": 0,
+          "text": "门被堵住了。把耳朵贴上去，能听到门后传来一团嘈杂的声音——人声、脚步声，还有别的。\n The door is blocked. Pressing an ear against it reveals a jumble of noises beyond—voices, footsteps, and more."
+        },
+        {
+          "index": 1,
+          "text": "嗯，反正这里是过不去了，这点可以确定。这玩意儿连个划痕都留不下。\n Well, we're not getting through here, that's for certain. Thing won't even take a scratch.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 2,
+          "text": "它很可能通向地下一层的另一片区域。或许满足某个特定条件后，就能进入……不过目前尚无法获取该前提条件的相关信息。\n It likely leads to another area of B1. Access may become possible once a particular condition is satisfied... but information on the prerequisite is not yet accessible.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 3,
+          "text": "<这座百货商店到底有多大啊……？>\n <Just how enormous is this department store...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>如同巨人的想象一般浩瀚无边。这就是这个地方。</color>\n <color=#ebcaa2>As vast as a Giant's imagination. That's the kind of place it is.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<巨人的想象……>\n <A Giant's imagination...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1041",
+      "texts": [
+        {
+          "index": 0,
+          "text": "门被堵住了。把耳朵贴上去，能听到门后传来一团嘈杂的声音——人声、脚步声，还有别的。\n The door is blocked. Pressing an ear against it reveals a jumble of noises beyond—voices, footsteps, and more."
+        }
+      ]
+    },
+    {
+      "key": "D-1039",
+      "texts": [
+        {
+          "index": 0,
+          "text": "附近飘来一股咸涩的气味。前方的路，被布料堵得严严实实。\n A briny stench drifts from nearby. The path ahead is packed shut with fabric."
+        }
+      ]
+    },
+    {
+      "key": "D-1036",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理，美食广场区域，是以地面上的一个螺旋标记来标识的。\n The Food Court area is marked by a spiral symbol on the floor, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-1035",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D-1029",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] ……."
+        }
+      ]
+    },
+    {
+      "key": "D-1025",
+      "texts": [
+        {
+          "index": 0,
+          "text": "该把它定义为什么？\n What should it be defined as?"
+        }
+      ]
+    },
+    {
+      "key": "D-1030",
+      "texts": [
+        {
+          "index": 0,
+          "text": "他们看起来很忙。最好别靠太近。\n They look busy. Better not get too close."
+        }
+      ]
+    },
+    {
+      "key": "D-1031",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我很忙。自己想办法。\n I'm busy. Work it out yourself.",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D-1071",
+      "texts": [
+        {
+          "index": 0,
+          "text": "窗户后面，似乎有什么东西正潜伏着。\n Something seems to be lurking beyond the window."
+        },
+        {
+          "index": 1,
+          "text": "敲了敲门。\n听到声音后，一阵匆忙的脚步声迅速逃开，那道存在感随即消失了。\n Knocked on the door.\nHurried footsteps scurry away at the sound, and then the presence vanishes."
+        },
+        {
+          "index": 2,
+          "text": "<感觉我们被躲开了……>\n <I think we're being avoided...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1072",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<……嗯？>\n <... Huh?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "有那么一瞬间，我感觉门缝里似乎有什么东西正窥视着我们。\n For a moment, I had the feeling that something was peering through the crack in the door."
+        }
+      ]
+    },
+    {
+      "key": "D-1073",
+      "texts": [
+        {
+          "index": 0,
+          "text": "默尔索刚握住门把手的瞬间，一股不明力量猛地将他甩了回去。\n The instant Meursault grips the doorknob, an unknown force hurls him backward."
+        }
+      ]
+    },
+    {
+      "key": "D-1074",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<默尔索！>\n <Meursault!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<你没事吧？！>\n <Are you all right?!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "我的皮肤出现了几处撕裂伤，但程度不足以妨碍行动。\n I've sustained dermal lacerations, but they are not severe enough to impede me.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "默尔索站起身，迅速拍掉身上的灰尘，这时我听见有什么人——或者什么东西——在窃笑他。\n As Meursault rises and briskly dusts himself off, I could hear someone—or something—snickering at him."
+        }
+      ]
+    },
+    {
+      "key": "D-1075",
+      "texts": [
+        {
+          "index": 0,
+          "text": "唔。\n Hmm.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<…?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "哇……这是什么，哑剧表演吗？\n Whoa... what's this, a mime routine or something?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 3,
+          "text": "默尔索明明握住了门把手，动作看起来就像是在用力拉开门。可门本身，却纹丝未动，停留在原地。\n Meursault had clearly grasped the knob and moved as though wrenching the door open. Yet the door itself remained exactly where it was."
+        },
+        {
+          "index": 4,
+          "text": "转动门把手、推开门的触感，确实存在过。\n The tactile sensation of turning the doorknob and pushing the door open was there.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "呃……说不定你的脑袋，自从楼上那位改衣师打开过之后，就一直没完全合上……经理老兄，要不帮他把指针拨一拨？\n Uh... Maybe your head never closed all the way after the Alterationist opened it upstairs... Manager Bud, how about giving the clock a spin for him?",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D-1076",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你猜怎么着，这家伙还挺有当滑稽戏演员的天赋。\n You know, this fella's got a sneaky knack for slapstick.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "嗯？哎呀，瞧瞧这个。\n Huh? Well, look at that.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 2,
+          "text": "……看来格里高尔刚经历了一模一样的事。\n ... It would appear that Gregor has just experienced the exact same thing."
+        }
+      ]
+    },
+    {
+      "key": "D-1077",
+      "texts": [
+        {
+          "index": 0,
+          "text": "狭窄的窗户后面，仿佛拉着一层厚厚的遮光帘。\n It looks as though a thick blackout curtain has been drawn behind the narrow window."
+        },
+        {
+          "index": 1,
+          "text": "……时不时传来一阵湿漉漉的<i>挤压声</i>，就像有什么东西正被拧干一样。\n ... Every so often, something makes a wet <i>squelch</i> as though something is being wrung out."
+        }
+      ]
+    },
+    {
+      "key": "D-1078",
+      "texts": [
+        {
+          "index": 0,
+          "text": "又凑近帘子，仔细听了听。\n Leaned in toward the curtain again to listen some more."
+        },
+        {
+          "index": 1,
+          "text": "帘子里面传来一阵湿哒哒的拍打声。片刻后，帘子随着一记清脆的啪嗒声，轻轻抽动了一下。\n A wet patter sounded from within. A moment later, the curtain gave a small twitch with a sharp smack."
+        },
+        {
+          "index": 2,
+          "text": "……似乎有什么东西喷了出来，溅得帘子上到处都是。\n ... Something appears to have sprayed out and splattered all over it."
+        }
+      ]
+    },
+    {
+      "key": "D-1079",
+      "texts": [
+        {
+          "index": 0,
+          "text": "没有再传来别的声音。\n No other sounds follow."
+        },
+        {
+          "index": 1,
+          "text": "……不过时不时地，我似乎能听见帘子底下有水珠滴落的声音。\n ... Though every so often, I think I hear droplets falling from beneath the curtain."
+        }
+      ]
+    },
+    {
+      "key": "D-1080",
+      "texts": [
+        {
+          "index": 0,
+          "text": "从半开的门缝望进去，只见成排的肉块密密麻麻地铺满了整个木地板。\n Peering through the slightly open door reveals rows of meaty chunks, densely arranged all over the wooden floor."
+        },
+        {
+          "index": 1,
+          "text": "……很难判断那些肉究竟来自哪里，又是什么。\n ... It is difficult to tell where or what that meat came from."
+        }
+      ]
+    },
+    {
+      "key": "D-1081",
+      "texts": [
+        {
+          "index": 0,
+          "text": "金属与金属重重相撞，发出沉闷的铿锵声。\n Metal clashes against metal with a heavy clanging."
+        },
+        {
+          "index": 1,
+          "text": "透过窗户，一个巨大到难以辨认的东西，正把看似皮革的物件塞进墙上的一个洞里。\n Through the window, a huge, unidentifiable thing is feeding what looks like hide into a hole in the wall."
+        },
+        {
+          "index": 2,
+          "text": "<它在干什么……？>\n <What is it doing...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "那种开口是多户住宅中常见的垃圾处理装置。也被称为“垃圾滑道”。\n That aperture is the kind commonly employed for waste disposal in multi-unit residences. It is also referred to as \"dust chute.\"",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 4,
+          "text": "可是……这不就是栋独栋住宅吗？\n But... isn't this just a detached house?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 5,
+          "text": "格里高尔先生，那是都市内确立的常识。在象征界域的运作方式中，很难套用同样的标准。\n That is common sense as established within the City, Herr Gregor. It is difficult to apply the same standard to the way things are in the Symbolic.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 6,
+          "text": "嗯……你的意思是，在这里，垃圾滑道根本算不上常识概念……？\n Huh... you're saying a dust chute isn't a common-sense concept here then...?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 7,
+          "text": "……我赶在两位罪人的争执进一步升级之前，把他们拉开了。\n ... I pull the two Sinners apart before their squabbling can get worse."
+        }
+      ]
+    },
+    {
+      "key": "D-1082",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那到底是怎么回事？尽管刚才发生了那桩怪事，我还是再次抓住门把手，试图把门拉开——可它依旧纹丝不动。\n Just what was that? Despite the bizarre phenomenon, I seize the doorknob once more and try to pull the door open—but it refuses to budge."
+        }
+      ]
+    },
+    {
+      "key": "D-1083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一台饮料自动贩卖机上，贴着一张看起来像是百货商店导览图的东西。大部分文字都因损坏而看不清了。\n What looks like a department-store directory is glued on a drink vending machine. Damage has obscured most of the lettering."
+        },
+        {
+          "index": 1,
+          "text": "边缘处粘着什么东西。\n Something is stuck to its edge."
+        },
+        {
+          "index": 2,
+          "text": "默尔索获得了地图残片。\n Meursault obtained Map Fragment."
+        }
+      ]
+    },
+    {
+      "key": "D-1084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一台饮料自动贩卖机上，贴着一张看起来像是百货商店导览图的东西。大部分文字都因损坏而看不清了。\n What looks like a department-store directory is glued on a drink vending machine. Damage has obscured most of the lettering."
+        }
+      ]
+    },
+    {
+      "key": "D-1085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "陈列着一些泛红的肉块和皮革之类的东西。看起来比外面悬挂的那些肉更新鲜。\n Reddish pieces of meat, hides, and the like have been put on display. They look fresher than the cuts hanging outside."
+        }
+      ]
+    },
+    {
+      "key": "D-1086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "扶梯前的地板上，躺着什么东西。\n Something lies on the floor before the escalator."
+        },
+        {
+          "index": 1,
+          "text": "默尔索获得了10眼球。\n Meursault obtained 10 eyeballs."
+        }
+      ]
+    },
+    {
+      "key": "D-1087",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一段起点与终点都同样超出感知范围的扶梯。\n An escalator whose origin and terminus alike lie beyond perception."
+        }
+      ]
+    },
+    {
+      "key": "D-1088",
+      "texts": [
+        {
+          "index": 0,
+          "text": "在几具被啃得干干净净的尸体之间，能看到什么东西。\n Something is visible among the corpses that have been gnawed clean."
+        }
+      ]
+    },
+    {
+      "key": "D-1089",
+      "texts": [
+        {
+          "index": 0,
+          "text": "叫我副主厨，听清楚了吗？\n Call me Sous Chef, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1090",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不会再那么饿了。\n Won't be so hungry anymore."
+        }
+      ]
+    },
+    {
+      "key": "D-1091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "终于，从饥饿的折磨中解脱了。\n At last, freed from their hunger pangs."
+        }
+      ]
+    },
+    {
+      "key": "D-1094",
+      "texts": [
+        {
+          "index": 0,
+          "text": "现在还有谁来看着这苏打呢……？\n Who's going to keep an eye on the soda now...?"
+        }
+      ]
+    },
+    {
+      "key": "D-1095",
+      "texts": [
+        {
+          "index": 0,
+          "text": "没有回应。\n No answer."
+        }
+      ]
+    },
+    {
+      "key": "D-1096",
+      "texts": [
+        {
+          "index": 0,
+          "text": "很难分辨空气中那股咸腥味，究竟是来自海水，还是来自血液。\n It's hard to tell whether the briny smell in the air is coming from the sea or the blood."
+        }
+      ]
+    },
+    {
+      "key": "D-1097",
+      "texts": [
+        {
+          "index": 0,
+          "text": "他们眼中的光，已经彻底熄灭了。\n The light has completely gone out of their eyes."
+        }
+      ]
+    },
+    {
+      "key": "D-1098",
+      "texts": [
+        {
+          "index": 0,
+          "text": "连抽动一下都没有。很可能已经死了。\n Doesn't even so much as twitch. Most likely dead."
+        }
+      ]
+    },
+    {
+      "key": "D-1099",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<不过是具尸体罢了。>\n <It's just a corpse.>"
+        }
+      ]
+    },
+    {
+      "key": "D-1100",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<不过是具尸体罢了。>\n <It's just a corpse.>"
+        }
+      ]
+    },
+    {
+      "key": "D-1101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "虽然只是被切下了一小部分，但如今，它感觉起来跟这里其他的肉块并无二致。\n Though only a small part of it has been trimmed, it now feels no different from any other cut of meat here."
+        }
+      ]
+    },
+    {
+      "key": "D-1901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "来杯苏打吧，听清楚了吗？\n Take a cup of soda, you hear?",
+          "speaker": "副主厨\n Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "D-1105",
+      "texts": [
+        {
+          "index": 0,
+          "text": "天呐……我差点就跟那些挂钩上的肉块一样被剁了。\n Jeez... Almost got chopped down like those meat slabs on hooks.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<……默尔索<i>确实</i>被变成了挂钩上的肉块。>\n <... Meursault <i>did</i> get turned into a meat slab on a hook.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<总之，我觉得我们可以通过它们的外观，来预判它们投掷的轨迹。>\n <Anyway, I think we can look at their appearances to predict what kind of trajectory their throws'll have.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "<我们把它们的规律记下来，设法克服这个威胁吧。>\n <Let's try to commit their patterns to memory and overcome this threat.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1106",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<跟一楼那些东西一模一样，是吧……>\n <Just like those things on the first floor, huh...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "与那个敌人碰撞，立刻将我们拖入了「阴影」之中。\n Colliding with that enemy immediately dragged us into the Shadowed.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 2,
+          "text": "<这比人体模特还是一楼那些好，还是更糟？我也说不好。>\n <Is that better than the Mannequins or the first floor... or worse? I don't know.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-1107",
+      "texts": [
+        {
+          "index": 0,
+          "text": "嗯。说了那么一大堆什么虫气十足虫气十足的……\n Huh. For all that song and dance about buggy-buggy this, buggy-buggy that...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "……结果她把默尔索的手臂给剁了。\n ... she ended up chopping Meursault's arm off.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 2,
+          "text": "她这手屠宰功夫，倒是配得上她“副主厨”这个头衔。\n Her butchershop skills live up to her title as the Sous Chef.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "……作为象征界域中的存在，对她这样的外部力量而言，本应难以与罪人们互动，唯一的例外便是默尔索。\n ... As a being of the Symbolic, it would have been difficult for her, an external force, to interface with the Sinners; the only exception being Meursault.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 4,
+          "text": "当然，这项限制是双向的。\n Of course, that limitation goes both ways.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 5,
+          "text": "<所以说……理论上，我们<i>是</i>能把格里高尔的手臂砍下来的？>\n <So... we <i>can</i> cut Gregor's arm off, technically?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "正确。只要我是这个界域的主体，我便可以充当媒介，将其转移到副主厨的手中。\n Correct. And as long as I am the subject, I can be the medium by which it is transferred to the Sous Chef's hands.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "<……嗯。不了，我总觉得在这地方砍格里高尔的手臂，会有不好的预感。>\n <... Hmm. Nah, I've got a bad feeling about cutting off Gregor's arm in here.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "<我们回美食广场吧。>\n <Let's head back to the Food Court.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    }
+  ]
+}

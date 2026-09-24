@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "key": "230200",
+      "text": "晾晒室\n Drying Room"
+    },
+    {
+      "key": "230400",
+      "text": "皮革室\n Leather Room"
+    },
+    {
+      "key": "230500",
+      "text": "晾晒室走廊\n Drying Room Corridor"
+    },
+    {
+      "key": "230600",
+      "text": "晾晒室\n Drying Room"
+    },
+    {
+      "key": "230700",
+      "text": "制革工坊走廊\n Tannery Corridor"
+    },
+    {
+      "key": "230800",
+      "text": "制革工坊\n Tannery"
+    },
+    {
+      "key": "230900",
+      "text": "裁剪室走廊\n Cutting Room Corridor"
+    },
+    {
+      "key": "231000",
+      "text": "裁剪室\n Cutting Room"
+    }
+  ]
+}

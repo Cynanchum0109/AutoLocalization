@@ -1,0 +1,210 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "오프닝",
+      "description": "로딩 직후 오프닝 연출(S1001B) 재생 처리용 숨겨진 퀘스트",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1011",
+      "title": "探索周围\n Explore the Surroundings",
+      "description": "我们来到了一个名为西西弗百货的地方。默尔索会在哪里……？先四处看看，弄清楚周围的情况吧。\n We've arrived at a place called Grand Magasin Sisyphe. Where could Meursault be...? Let's first look around and get our bearings.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索周围\n Explore the Surroundings"
+        }
+      ]
+    },
+    {
+      "key": "Q1012",
+      "title": "返回洗手间\n Return to the Restroom",
+      "description": "我们在西西弗百货遇到了克罗默的姐姐。先回洗手间重新会合吧。\n We ran into Kromer's older sister at Grand Magasin Sisyphe. We should return to the restroom and regroup first.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回洗手间\n Return to the Restroom"
+        }
+      ]
+    },
+    {
+      "key": "Q1013",
+      "title": "寻找默尔索\n In Search of Meursault",
+      "description": "默尔索似乎就在百货商店的某处。我们看到那里铺着地毯，前方还陈列着服装。探索百货商店，找到陈列服装的地方吧。\n Meursault seems to be somewhere in the department store. We saw carpeting on the floor, with clothes displayed in the front. We should explore the department store and find the place where clothes are on display.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索百货商店\n Explore the Department Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1014",
+      "title": "???",
+      "description": "这里似乎藏着什么东西。\n It seems something is hidden here.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q1021",
+      "title": "寻找默尔索（2）\n In Search of Meursault (2)",
+      "description": "默尔索似乎就在附近。去找找他吧。\n Meursault seems to be somewhere nearby. We should look for him.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "找到默尔索\n Locate Meursault"
+        }
+      ]
+    },
+    {
+      "key": "Q1022",
+      "title": "默尔索的提议\n Meursault's Suggestion",
+      "description": "决定是否接受默尔索的提议。\n→ 接受后将开始讨伐任务；若暂缓决定，之后仍可从休闲服饰馆的店员处再次接取此任务。\n Decide whether to accept Meursault's suggestion.\n→ Accepting begins the hunting quest; if deferred, this quest can be received again from the Casualwear Hall employee.",
+      "steps": [
+        {
+          "index": 0
+        },
+        {
+          "index": 1
+        }
+      ]
+    },
+    {
+      "key": "Q1023",
+      "title": "将人偶送往出口\n Show the Mannequins to the Exit",
+      "description": "为了让默尔索回来，我们需要“帮助人偶前往出口”——总共三具。杀死它们，然后向看起来是店主的米莫萨报告。\n To get Meursault back, we need to \"help the Mannequins to the exit\"—three of them, in total. Kill them and report back to Mimosa, who seems to be the proprietor of the store.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "帮助人偶“前往出口”\n Help the Mannequins \"to the Exit\""
+        },
+        {
+          "index": 1,
+          "goalDescription1": "返回米莫萨处\n Return to Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "Q1031",
+      "title": "探索西西弗百货\n Explore Grand Magasin Sisyphe",
+      "description": "默尔索说明了他所了解的西西弗百货。虽然我没能全部听懂，但有一点很明确：这里似乎没有正常的出口。继续探索吧。\n Meursault explained what he knows about Grand Magasin Sisyphe. I didn't follow all of it, but one thing is clear: there doesn't seem to be a normal way out. Let's keep exploring.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索百货商店\n Explore the Department Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1032",
+      "title": "探索西西弗百货（2）\n Explore Grand Magasin Sisyphe (2)",
+      "description": "我们遇到了一个叫杜博阿的人。和我们一样，他似乎也没来这里多久。继续在百货商店里寻找上楼的办法吧。\n We met a guy named Dubois. Like us, he doesn't seem to have been here long. Let's keep searching the department store for a way upstairs.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索百货商店\n Explore the Department Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1041",
+      "title": "查看陈列的服装\n Browse the Clothing Display",
+      "description": "我们来到了现代馆。店员似乎无意交谈，不如看看这里陈列的服装。\n We've reached a Contemporary Hall. The employee doesn't seem interested in talking. We may as well look through the clothes on display.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "查看服装\n Browse the Clothes"
+        }
+      ]
+    },
+    {
+      "key": "Q1042",
+      "title": "击退敌对的漆黑者店员\n Fend off the Hostile Noir Employee",
+      "description": "",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1051",
+      "title": "前往赤红者的店铺\n Head to the Rouges' Store",
+      "description": "一名漆黑者店员告诉了我们金丝绞的事。接下来去看看上方的赤红者现代服饰店吧。\n A Noir employee told us about Golden Resin. Next, let's check Le Rouge's Contemporary store on the upper side.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往赤红者现代服饰店\n Go to Le Rouge's Contemporary Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1052",
+      "title": "寻找巨针\n Find a Huge Needle",
+      "description": "赤红者现代服饰店的奎利安让我们带回一根巨针。找到携带巨针的人偶，夺取巨针后回到奎利安处。\n Quillian at Le Rouge's Contemporary Store asked us to bring back a huge needle. Find the Mannequin carrying it, take the needle, and return to Quillian.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "取回巨针并返回奎利安处\n Retrieve the Huge Needle and Return to Quillian"
+        }
+      ]
+    },
+    {
+      "key": "Q1061",
+      "title": "购买服装\n Go Shopping for Clothes",
+      "description": "我们需要积累购买记录，才能进入上一层。先向奎利安购买一些衣服，再继续寻找上楼的办法。\n We need to build up a purchase record before we can access the upper floor. Buy some clothes from Quillian, then keep looking for a way upstairs.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "向奎利安购买服装\n Buy Clothes from Quillian"
+        }
+      ]
+    },
+    {
+      "key": "Q1062",
+      "title": "前往扶梯\n To the Escalator",
+      "description": "我们找到了通往下一层的扶梯，杜博阿也在这里。上楼前先和他谈谈吧。\n We've found an escalator leading to the next floor. Dubois is here too. Let's talk to him before heading up.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与杜博阿交谈\n Talk to Dubois"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "搭乘扶梯\n Take the Escalator",
+      "description": "扶梯已经恢复运行。我们终于可以前往2层了。\n The escalator is working. We should finally be able to reach 2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "搭乘扶梯前往2层\n Take the Escalator to 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1018",
+      "title": "???",
+      "description": "(히든) 못 획득 시 대화",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "퀘스트1 - 시작",
+      "description": "미사용"
+    }
+  ]
+}

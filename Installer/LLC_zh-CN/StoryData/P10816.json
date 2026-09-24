@@ -1,0 +1,418 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "<color=#cf0000>渴望。以及与你的渴望相称的……</color>\n <color=#cf0000>Desire. And to the measure of your desire...</color>"
+    },
+    {
+      "id": 1,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "欢迎光临，亲爱的顾客。\n Welcome, dear customer."
+    },
+    {
+      "id": 2,
+      "content": "西西弗百货。这是我被判处西西弗刑之后，发现自己身处的地方。\n Grand Magasin Sisyphe. The place I've found myself in after being sentenced to the Sisyphe Penalty."
+    },
+    {
+      "id": 3,
+      "content": "而在这该死的整整两周里……\n And for the last two whole damn weeks..."
+    },
+    {
+      "id": 4,
+      "content": "……我买卖衣服，在污秽中翻找一切能弄到手的眼球……结果也只往上爬了两层楼，从一楼到了三楼。\n ... I've purchased and hawked clothes, dug through filth to scrounge for what eyeballs I could get my hands on... and only managed to make it two floors up, from the first floor to the third."
+    },
+    {
+      "id": 5,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "这是你第一次来红色精品店吗？\n Might this be your first time in Boutique du Rouge?"
+    },
+    {
+      "id": 6,
+      "teller": "杜博阿\n Dubois",
+      "title": "???",
+      "content": "是啊，不过我想问——\n Yeah, but I wanted to ask—"
+    },
+    {
+      "id": 7,
+      "content": "在那场考验中，我心里始终只有一个目的：联系上外面的朋友。\n Throughout that ordeal, I've had but one purpose in mind: to get in touch with my friends on the outside."
+    },
+    {
+      "id": 8,
+      "content": "于是我一路往楼上走，想看看这座\"监狱\"是否允许探视，或者至少让囚犯们打个电话……\n So I've made my way upstairs, hoping to see if this \"prison\" does visits or, at the very least, allows its inmates to make calls..."
+    },
+    {
+      "id": 9,
+      "content": "……可我怎么看，这层楼看到的也<i>还是</i>服装店。\n ... but look around as I might, all I see on this floor is <i>more</i> apparel shops."
+    },
+    {
+      "id": 10,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "唔……\n Hmmm..."
+    },
+    {
+      "id": 11,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "你看着太迷茫，不像卡基……可说起话来又太伶俐，不像人偶……\n You look too lost to be a Kaki... yet too eloquent to be a Mannequin..."
+    },
+    {
+      "id": 12,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "咦。好久没在三楼见到陌生人了。\n Huh. It's been quite a while since I've seen a stranger on the third floor."
+    },
+    {
+      "id": 13,
+      "teller": "杜博阿\n Dubois",
+      "title": "陌生人\n Stranger",
+      "content": "这、这么明显吗？\n I-is it that obvious?"
+    },
+    {
+      "id": 14,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "你从进来开始就四处张望，却几乎没正眼看过这些衣服。我还以为你对自己那身乱七八糟的打扮出奇地不在意呢。\n You've been looking all around the shop since you came in, but hardly giving the clothes a second glance. Thought you seemed surprisingly unconcerned about your incredibly disheveled fashion."
+    },
+    {
+      "id": 15,
+      "teller": "杜博阿\n Dubois",
+      "title": "陌生人\n Stranger",
+      "content": "啊哈……\n Aha..."
+    },
+    {
+      "id": 16,
+      "teller": "杜博阿\n Dubois",
+      "title": "陌生人\n Stranger",
+      "content": "总、总之，我想问问能不能借用一下你的电话？我得联系外面的朋友，可一楼好像没人知道哪里能打电话。\n A-anyways, I wanted to ask if I could borrow your phone? I need to get in touch with my friends outside, but no one on the first floor seems to know where I can make a call."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "……\"电话\"……？\n \"Phone\"...?"
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "还真没听说过这种\"款式\"。\n Can't say I've heard of that style before."
+    },
+    {
+      "id": 19,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "得了吧，你身上穿的分明就是休闲装大厅里那些无牌廉价货。\n Look, you've clearly been wearing nothing but no-name, bargain-bin rags from the Casualwear Hall."
+    },
+    {
+      "id": 20,
+      "content": "<color=#cf0000>吞噬……毫无节制……</color>\n <color=#cf0000>Devour... without restraint...</color>"
+    },
+    {
+      "id": 21,
+      "content": "我跟这些人根本说不通。不管我提什么话题，最后都会变成八卦，或者聊起衣服和时尚。\n I can't get through to any of these people. Whatever subject I bring up, they all devolve into gossip or discourse about clothes and fashion."
+    },
+    {
+      "id": 22,
+      "content": "倒也不是说这一切努力都白费了——我确实打听到了一个传闻，说这座百货公司更高的楼层有个\"顾客服务中心\"。\n That isn't to say that all my efforts have been for nothing—I did manage to pick up a rumor about this \"Customer Service Center\" somewhere higher up in this department store."
+    },
+    {
+      "id": 23,
+      "content": "去那里碰碰运气看来是我最好的选择，可要凑够眼球才能到那儿去，得花多少呢？光是想想就让我心里一沉。\n Trying my luck there seems like my best bet, but how many eyeballs would I have to scrape and spend just to get there? Just thinking about it makes my heart sink."
+    },
+    {
+      "id": 24,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "反正你都已经到三楼了。不如给自己来个漂亮的形象改造，怎么样？\n You've made it to the third floor anyway. Why don't you do yourself a favor and get a nice style makeover?"
+    },
+    {
+      "id": 25,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "顺便还可以考虑换上一整套赤红者品牌的服装……\n You could consider switching over to a full kit of Rouge-branded apparel while you're at it..."
+    },
+    {
+      "id": 26,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "这件皮衣如何，嗯？\n How about this leather coat, hm?"
+    },
+    {
+      "id": 27,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "我觉得穿在我身上有点大了……\n I think it'll look a bit big on me..."
+    },
+    {
+      "id": 28,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "我向你保证，像你这么纤瘦的顾客，正需要这种宽松的版型。来，我帮你穿上……\n I promise you, an oversized fit is exactly what customers with a frame as slim as yours need. Here, let me help you put it on..."
+    },
+    {
+      "id": 29,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "啊哈，怎么样？相当帅气吧，你说是不是？\n Aha, how's that? Positively dashing, wouldn't you agree?"
+    },
+    {
+      "id": 30,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "确、确实挺帅的，不过……\n I-it's pretty cool, I guess, but..."
+    },
+    {
+      "id": 31,
+      "content": "<color=#cf0000>耗尽……所有……</color>\n <color=#cf0000>Deplete... all...</color>"
+    },
+    {
+      "id": 32,
+      "content": "我试着在镜子里打量了自己一番，可唯一吸引我目光的是价签上的数字。360……就算粗略算一下，光这一件外套就要吞掉我到这儿以来存下的一半眼球。\n I try to give myself a once-over in the mirror, but the only thing that catches my eye is the number on the price tag. 360... Even by quick math, this one coat would swallow up half of all the eyeballs I've saved up since arriving here."
+    },
+    {
+      "id": 33,
+      "content": "诚然，我在这里不会饿也不会渴，也不用为了有个栖身之所而不断失血似的花钱……\n Granted, I don't get hungry or thirsty in here, and I don't have to worry about constantly bleeding money just to keep a roof over my head..."
+    },
+    {
+      "id": 34,
+      "content": "……可我并不想在这里花掉这么多积蓄。\n ... but I wasn't keen on spending so much of my savings here."
+    },
+    {
+      "id": 35,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "……对我来说有点太贵了。能打个折吗？\n ... It's a bit too pricey for me. Do you offer discounts?"
+    },
+    {
+      "id": 36,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "……你是认真的吗？\n ... Are you being serious?"
+    },
+    {
+      "id": 37,
+      "content": "设计师那抹本就在得意与礼貌之间摇摆的营业笑容，瞬间皱成了一副怒容。\n The designer's customer-service smile, which was already walking the line between smug and polite, instantly scrunched up into a scowl."
+    },
+    {
+      "id": 38,
+      "content": "我在楼下休闲装大厅的一家店里见过一件看起来很相似的外套，那件才卖120颗眼球……\n I'd seen a coat that looked pretty similar to this back downstairs in one of the Casualwear Hall stores, and that one cost just 120 eyeballs..."
+    },
+    {
+      "id": 39,
+      "content": "她很可能是看出我是个\"陌生人\"——似乎是这里用来称呼百货公司新人的说法——才故意抬高价格宰我。\n It's entirely possible that she's ripping me off with marked-up prices because she's clocked me as a stranger—which seems to be the lingo referring to people who are new to the Grand Magasin."
+    },
+    {
+      "id": 40,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "*叹气* 好吧，我承认，做工是可以更精细一点。\n *sigh* Fine, I'll admit, it could've used a finer finish."
+    },
+    {
+      "id": 41,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "可你倒是看看这个。看到金皮交叉缝进面料里，在平面上做出的那种独特立体感了吗？还有这色泽——为了弄到手所花的功夫，可不能小看。\n But just look at it. See how the Golden Hide cross-stitched into the material achieves a unique sense of three-dimensionality on a plane? Look at the color, too—you can't undersell the amount of grind that went into attaining it."
+    },
+    {
+      "id": 42,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "说实话，要是我们店稍微在乎点潮流，管你收三倍的价钱都不为过。你知道吗，现在可是人字纹的季节。\n Honestly, if our boutique cared even one bit for the trends, we would've been justified in charging you three times the asking price. It's the Herringbone season now, you know."
+    },
+    {
+      "id": 43,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "好吧，你不要就算了。你自己吃亏——不过很快就会有一大群顾客抢着买我这条时尚线的东西。到时候可别哭着回来说我没劝过你。\n Well, if you don't want it, you don't want it. Your loss—but we'll soon be getting a slew of customers chomping at the bit to buy from my fashion line. Don't come back crawling later and tell me I didn't try to convince you otherwise."
+    },
+    {
+      "id": 44,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "对了……我一直想问件别的事。我一直听到的那个广播，到底是什么？\n Actually... there's something else I've been meaning to ask. What exactly is that broadcast I've been hearing this whole time?"
+    },
+    {
+      "id": 45,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "要我说还挺瘆人的……那种时断时续、拉得老长的调子……\n Kinda creepy if you ask me... With how it stutters and stretches..."
+    },
+    {
+      "id": 46,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "哦，那个啊？那是……我曾经信奉的\"声音\"。\n Oh, that? It's... the Voice I used to worship."
+    },
+    {
+      "id": 47,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "\"曾经\"……？\n \"Used to\"...?"
+    },
+    {
+      "id": 48,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "是啊。我现在侍奉的是另一位\"声音\"。\n Oh yes. I serve a different Voice now."
+    },
+    {
+      "id": 49,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "\"声音\"的主人，把钉入我体内的尖钉拔除……又治好了我失明的眼睛。\n The Voice of the one who freed me from the nails that were driven into me... and mended my blinded eye."
+    },
+    {
+      "id": 50,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "自从我皈依……开始忠心侍奉这个新的信仰以来……我就不再去听这个广播了。\n Ever since my conversion... and my dutiful service to this new faith began... I've stopped lending my ear to this broadcast."
+    },
+    {
+      "id": 51,
+      "content": "设计师说话时，我似乎看到她脸上闪过一丝哀伤。可与此同时，她又像是沉浸在某种美好的回忆里，那份回忆让她满心振奋。\n As the designer spoke, I thought I saw a trace of sadness flicker over her expression. Yet at the same time, she seemed caught up in the memory of something wonderful, something that filled her with exhilaration."
+    },
+    {
+      "id": 52,
+      "content": "我在一楼也偶尔听到过广播系统的声音——这里管它叫\"声音\"——可那个从没像这个一样时断时续，也没有这么不自然地拖长音……\n I occasionally heard the PA system—a \"Voice\" as they call it here—speak on the first floor too, but that one never cut in and out like this one, or sounded so unnaturally drawn out..."
+    },
+    {
+      "id": 53,
+      "content": "这广播是不是出了什么问题……？\n Something wrong with the broadcast, I wonder...?"
+    },
+    {
+      "id": 54,
+      "content": "我才刚从店里溜达出去没几步，设计师忽然像是想起了什么，把我叫住了。\n I had scarcely begun to amble away from the store when the designer suddenly stopped me in my tracks as though something had occurred in her mind."
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "在你走之前，亲爱的顾客……你去过黑色精品店吗？就在对面那家店。\n Before you go, dear customer... Have you visited the Maison du Noir? The store just across."
+    },
+    {
+      "id": 56,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "黑色……什么？\n Maison du... what?"
+    },
+    {
+      "id": 57,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "黑色精品店。是那些……漆黑者\"设计师\"卖自家品牌的店之一。\n Maison du Noir. It's one of the shops where those... Noir \"designers\" sell their label."
+    },
+    {
+      "id": 58,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "啊，没有。应该没去过……\n Ah, no. Don't think I've been there..."
+    },
+    {
+      "id": 59,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "嗯。\n Hm."
+    },
+    {
+      "id": 60,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "那么，200颗眼球对你的预算来说，是不是更……负担得起？\n Say, does 200 eyeballs seem like a more... affordable price for your budget?"
+    },
+    {
+      "id": 61,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "呃……是啊，其实！200听起来触手可及多了！\n Uh... Yeah, actually! 200 sounds a lot more within reach!"
+    },
+    {
+      "id": 62,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "那真是太好了。算我们走运——我正好想找人做件差事。\n Good to hear. Lucky us—I was actually looking to hire someone for a gig."
+    },
+    {
+      "id": 63,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "我把那件外套给你留着，你不如帮我个忙，换个折扣怎么样？\n I'll save that coat for you, so why don't you help me out for a discount?"
+    },
+    {
+      "id": 64,
+      "content": "我眼睁睁看着一根骨制的尖钉，将一名漆黑者的店员整个刺穿。\n I watch as a nail made out of bone stabs a Noir sales associate clean through."
+    },
+    {
+      "id": 65,
+      "content": "一大团手从这位精品店设计师的躯干中喷涌而出，吱嘎作响地蠕动着，用其重量将漆黑者店铺的员工死死压住，再撕扯下一片片血肉。\n A mass of hands erupts from the boutique designer's body, creaking and shuffling as it pins down the employees of the Noir shop beneath its weight, before wrenching away ragged pieces of flesh."
+    },
+    {
+      "id": 66,
+      "content": "趁我把守卫——这里管他们叫\"两件套\"——引开入口老远的时候，她成功冲进了店里。\n She managed to charge into the shop while I drew the guards—\"Two-piece,\" as they say in here—far away from the entrance."
+    },
+    {
+      "id": 67,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "哦，我已经等不及要把这间阴暗压抑的屋子，重新粉刷成美丽的赤红色了……\n Oh, I'm already so excited to give this dark, dreary room a new paint job in beautiful Rouge..."
+    },
+    {
+      "id": 68,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "……咦，亲爱的顾客，你的手脚倒是挺利落。\n ... Huh, you've got quick hands, dear customer."
+    },
+    {
+      "id": 69,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "在那场混乱里，你倒是捡了不少眼球呢。\n That's quite a pile of eyeballs you managed to scavenge in that mess."
+    },
+    {
+      "id": 70,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "总得抓住机会不是吗……？\n Gotta seize the opportunity, right...?"
+    },
+    {
+      "id": 71,
+      "content": "也许是我在后巷练出来的掏肠子功夫派上了用场。那些漆黑者在混乱中掉落的一大堆眼球，我抢起来毫不费劲。\n Maybe all that gut-harvesting I've tried my hand at in the Backstreets paid off. I didn't have any trouble snatching up the tidy haul of eyeballs the Noirs dropped in all that chaos."
+    },
+    {
+      "id": 72,
+      "content": "我大概在这儿找到的眼球，不用打折都够买那件外套了……\n I've probably found enough eyeballs here to afford that coat without a discount..."
+    },
+    {
+      "id": 73,
+      "teller": "杜博阿\n Dubois",
+      "title": "顾客\n Customer",
+      "content": "那、那也别耽误你给我打折啊！\n W-well, I hope that doesn't stop you from giving me that discount!"
+    },
+    {
+      "id": 74,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "折扣照给。差事就是差事嘛，你懂的。\n I'll honor it. Job's a job, you know?"
+    },
+    {
+      "id": 75,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "而且你干得也不错……多亏了你，我拆这家店拆得毫无阻碍。这些自命不凡的漆黑者，压根不懂金皮的价值。\n And you've done fine work, too... Thanks to you, I've had no problems tearing down this shop. These stuck-up Noirs have zero appreciation for how much the Golden Hide is worth."
+    },
+    {
+      "id": 76,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "我们回我的精品店去吧，好吗？我们的新\"声音\"听到这个消息会很高兴的。\n Let's return to my boutique, shall we? Our new Voice will be happy to hear of this news."
+    },
+    {
+      "id": 77,
+      "model": "이스마엘",
+      "title": "红色精品店\n Boutique du Rouge",
+      "content": "至于你，亲爱的顾客……我向你保证，等你穿上那件新外套……你一定会对这次购物百分之百满意。\n And as for you, dear customer... I promise, once you are wearing your new coat... you'll be every bit as pleased with your purchase."
+    }
+  ]
+}

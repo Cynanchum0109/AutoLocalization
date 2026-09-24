@@ -1,0 +1,84 @@
+{
+  "dataList": [
+    {
+      "key": "ItemFilterBuffetUpgrade",
+      "text": "布布强化\n Pwie Upgrades"
+    },
+    {
+      "key": "Setting_Tab_Key",
+      "text": "按键映射\n Key Mapping"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveUp",
+      "text": "向上移动\n Move up"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveDown",
+      "text": "向下移动\n Move down"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveLeft",
+      "text": "向左移动\n Move left"
+    },
+    {
+      "key": "KeyDesc_PlayerMoveRight",
+      "text": "向右移动\n Move right"
+    },
+    {
+      "key": "KeyDesc_PlayerFieldAttack",
+      "text": "攻击\n Attack"
+    },
+    {
+      "key": "KeyDesc_PlayerGuard",
+      "text": "格挡\n Block"
+    },
+    {
+      "key": "KeyDesc_PlayerDodge",
+      "text": "闪避\n Evade"
+    },
+    {
+      "key": "KeyDesc_PlayerRun",
+      "text": "疾跑\n Sprint"
+    },
+    {
+      "key": "KeyDesc_PlayerQuestNavigationToggle",
+      "text": "切换任务导航箭头\n Toggle quest navigation arrow"
+    },
+    {
+      "key": "KeyDesc_PlayerLanternToggle",
+      "text": "开关提灯\n Lantern ON/OFF"
+    },
+    {
+      "key": "KeyDesc_PlayerAutoAttackToggle",
+      "text": "自动攻击\n Auto-attack"
+    },
+    {
+      "key": "KeyDesc_PlayerSuicide",
+      "text": "返回泉\n Return to the Fount"
+    },
+    {
+      "key": "KeyDesc_UiToggleInventoryTab",
+      "text": "查看物品栏\n View inventory"
+    },
+    {
+      "key": "KeyDesc_UiToggleQuestTab",
+      "text": "日志：任务\n Journal: Quests"
+    },
+    {
+      "key": "KeyDesc_UiToggleManualTab",
+      "text": "键盘快捷键指南\n Keyboard shortcuts guide"
+    },
+    {
+      "key": "KeyDesc_UiToggleSystemLog",
+      "text": "查看日志记录\n View Log History"
+    },
+    {
+      "key": "KeyBind_InvalidKey",
+      "text": "无法使用此按键。\n This key is unavailable."
+    },
+    {
+      "key": "MoveToKeyBind",
+      "text": "前往按键映射\n To Key Mapping"
+    }
+  ]
+}

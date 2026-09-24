@@ -1,0 +1,60 @@
+{
+  "dataList": [
+    {
+      "key": "999999",
+      "text": "源泉\n The Fount"
+    },
+    {
+      "key": "110200",
+      "text": "美妆馆1层\n Beauty Hall, 1F"
+    },
+    {
+      "key": "110300",
+      "text": "美妆馆\n Beauty Hall"
+    },
+    {
+      "key": "110400",
+      "text": "美妆馆走廊\n Beauty Hall, Corridor"
+    },
+    {
+      "key": "110500",
+      "text": "休闲服饰馆西区\n Casualwear Hall, West"
+    },
+    {
+      "key": "110600",
+      "text": "休闲服饰馆中央区\n Casualwear Hall, Central"
+    },
+    {
+      "key": "110700",
+      "text": "休闲服饰馆东区\n Casualwear Hall, East"
+    },
+    {
+      "key": "110800",
+      "text": "休闲服饰馆走廊\n Casualwear Hall, Corridor"
+    },
+    {
+      "key": "110900",
+      "text": "漆黑者现代馆\n Le Noir Contemporary Hall"
+    },
+    {
+      "key": "111000",
+      "text": "现代馆走廊\n Contemporary Hall Corridor"
+    },
+    {
+      "key": "111100",
+      "text": "赤红者现代馆\n Le Rouge Contemporary Hall"
+    },
+    {
+      "key": "8000",
+      "text": "A放映厅\n Theater A"
+    },
+    {
+      "key": "8001",
+      "text": "B放映厅\n Theater B"
+    },
+    {
+      "key": "8002",
+      "text": "C放映厅\n Theater C"
+    }
+  ]
+}

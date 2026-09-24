@@ -1,0 +1,67 @@
+{
+  "dataList": [
+    {
+      "key": "NAR_3F_HighDomestic_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>欲求。依汝欲求之量，吞尽一切。</color>\n <color=#cf0000>Desire. And to the measure of your desire, consume all.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>以一切披挂己身。毫无节制地吞噬。</color>\n <color=#cf0000>Don yourself with all. Devour without restraint.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>渴求。依汝渴求之量，耗尽一切。</color>\n <color=#cf0000>Desiderate. And to the measure of your desideration, deplete all.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_HighDomestic_4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>欲求。它便将披于汝身。</color>\n <color=#cf0000>Desire. Then it shall be donned.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>纵汝可得满足，亦不可为。纵汝可纵情享用，亦当克制。</color>\n <color=#7d7d7d>Though thou canst sate thyself, thou shalt not. Though thou canst indulge, thou shalt refrain.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>汝当戒绝过量。汝当遵循秩序之诫命。</color>\n <color=#7d7d7d>Thou shalt refrain from excess. Thou shalt abide by the commandments of order.</color>"
+        }
+      ]
+    },
+    {
+      "key": "NAR_3F_Le_Noir_3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>汝不可违逆规则。汝受苦的每一刻，皆由西西弗亲自铭刻并铭记。</color>\n <color=#7d7d7d>Thou shalt not defy the rules. Every moment of thy suffering is etched into and remembered by Sisyphe itself.</color>"
+        }
+      ]
+    }
+  ]
+}

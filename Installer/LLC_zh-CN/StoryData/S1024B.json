@@ -1,0 +1,108 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "走失儿童中心 4F\n Lost Child Center, 4F",
+      "model": "뷔페어린이",
+      "content": "……这是……\n ... Are these..."
+    },
+    {
+      "id": 1,
+      "model": "뷔페어린이",
+      "content": "……食物？\n ... food?"
+    },
+    {
+      "id": 2,
+      "model": "돈키호테",
+      "content": "啊，小布布……这是鞋子，吾想。\n Ah, Young Pwie... These are shoes, I believe."
+    },
+    {
+      "id": 3,
+      "model": "돈키호테",
+      "content": "它们护汝双足免受伤痛……挡住风雪与寒风……使嬉戏玩耍成为一桩乐事。诚然，每位冒险者都该穿一双结实的鞋。\n They shield thy soles from pain... keep out the snow and rain and bitter wind... and make frolicking about a most joyous thing. Forsooth, every adventurer ought to wear a stout pair of shoes."
+    },
+    {
+      "id": 4,
+      "model": "뷔페어린이",
+      "content": "......."
+    },
+    {
+      "id": 5,
+      "model": "뷔페어린이",
+      "content": "这些鞋能让饥饿消失吗？\n Will these shoes make the hunger go away?"
+    },
+    {
+      "id": 6,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 7,
+      "model": "돈키호테",
+      "content": "……不，吾并不惧怕。\n ... Nay, I fear not."
+    },
+    {
+      "id": 8,
+      "model": "돈키호테",
+      "content": "诚然，忍受那份渴望——不，那份饥饿——是桩艰苦的考验。故而……吾始终不懈地压抑着这股冲动。\n Verily, 'tis a grievous trial to endure the yearning—nay, hunger. Wherefore... I labor to suppress the urge without end."
+    },
+    {
+      "id": 9,
+      "model": "뷔페어린이",
+      "content": "压抑这股冲动有什么好处？\n What's good about suppressing the urge?"
+    },
+    {
+      "id": 10,
+      "model": "돈키호테",
+      "content": "其一，汝之冒险将不致蒙羞，而会化作汝无需羞于诉说的故事……\n For one, thine adventure shall remain unmarred, and become tales thou shan't be ashamed to tell..."
+    },
+    {
+      "id": 11,
+      "model": "돈키호테",
+      "content": "……借此，汝方能梦见汝所渴望成为的、未来的自己。\n ... through which thou mayest dream of the future self thou seekest to become."
+    },
+    {
+      "id": 12,
+      "model": "돈키호테",
+      "content": "终有一日，汝将毫无愧色地，向那愿聆听汝一切经历的人，诉说汝的冒险。\n And someday, thou wilt, without suffering dishonor, tell all about thine adventures to another soul who shall heed thine accounts."
+    },
+    {
+      "id": 13,
+      "model": "뷔페어린이",
+      "content": "我想成为的自己……\n The self I want to become..."
+    },
+    {
+      "id": 14,
+      "content": "布布久久凝视着那双鞋……\n Pwie stared at the shoes for a long while..."
+    },
+    {
+      "id": 15,
+      "content": "缓缓走上前去，最终把鞋穿上了脚。\n And approached them slowly, before finally slipping them on."
+    },
+    {
+      "id": 16,
+      "model": "뷔페어린이신발",
+      "content": "……感觉……很新。\n ... Feels... new."
+    },
+    {
+      "id": 17,
+      "model": "돈키호테",
+      "content": "如今便踏着属于汝自己的鞋，以更饱满的气力继续前行吧！\n Now march onward with greater vigor, astride shoes of thine own!"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<也许只是我的错觉，默尔索……>\n <This might just be me, Meursault...>"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<但你不觉得……布布最近跟我们跟得比以前更紧了吗？>\n <But don't you think... Pwie's started to follow us more closely than before?>"
+    },
+    {
+      "id": 20,
+      "model": "뫼르소",
+      "content": "……是的，经理。\n ... They have, Manager."
+    }
+  ]
+}

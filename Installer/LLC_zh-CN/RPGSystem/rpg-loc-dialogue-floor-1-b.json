@@ -1,0 +1,3544 @@
+{
+  "dataList": [
+    {
+      "key": "D1919",
+      "texts": [
+        {
+          "index": 0,
+          "text": "在各式化妆品的瓶瓶罐罐之间，一枚小小的钉子格外显眼。\n A small nail stands out among the vials and containers of various makeup products."
+        },
+        {
+          "index": 1,
+          "text": "默尔索拿走了那枚小钉子。\n Meursault took the small nail."
+        }
+      ]
+    },
+    {
+      "key": "D1010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我们可否稍歇片刻？\n Might we rest our steps awhile?",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "<你是想说，大家都变得跟刚和我签下契约那会儿一样虚弱了，对吧？>\n <You want to talk about how everyone's grown as weak as they were immediately after they entered into a contract with me, right?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "看来经理您也已察觉。\n I see that it hasn't escaped your notice as well, Manager.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "<应该没什么好担心的。反正这多半不是永久性的现象。对吧，浮士德？>\n <I'm sure it's nothing to worry about. This is likely not a permanent phenomenon, anyway. Right, Faust?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "……正确。\n ... Correct.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 5,
+          "text": "的确。即便是借自杀贩卖机这类间接手段进入西西弗，也不改变我们已作为百货的“顾客”进入另一种存在状态这一事实。因此，我们在现象层面所感知到的身体，必然是依照此处的规则重构过的，而这规则牵涉到阴影界与象征界——\n Indeed, Entering Sisyphe through indirect means, such as the Suicide Vending Machine, does not change the fact that we have entered another state of existence as \"customers\" of the department store. Ergo, our bodies as we perceive them in the phenomenal sense must have been reconstructed according to the rules of this place, which involves the Shadowed and the Symbolic—",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 6,
+          "text": "等、等一下！\n H-hold on!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 7,
+          "text": "所以你的意思基本就是，我们变弱都怪这地方，等出去了就能恢复原样，对吧？\n So you're basically sayin' that this place is to blame for making us weaker, and we're gonna get back to normal once we're out, am I right?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 8,
+          "text": "……正确。\n ... Correct.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 9,
+          "text": "嗯~那么，与其在这儿等更多解释，或是绞尽脑汁想办法变强……\n Hmm~ Then rather than waiting for more explanation or brainstorming for ways to get stronger...",
+          "speaker": "鸿璐\n Hong Lu"
+        },
+        {
+          "index": 10,
+          "text": "不如赶紧找到默尔，麻溜儿离开这地方。\n Best we find Meur and get out of this place, chop-chop.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 11,
+          "text": "难得达成共识，甚好。当前最高优先级是找到默尔索；在首要目标达成之前，一切与此现象相关的情报最好暂且搁置。\n Happy to have a consensus for once. Our highest priority at the moment is locating Meursault; we best table any intelligence pertaining to this phenomenon until that primary objective is accomplished.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 12,
+          "text": "那要是撞上战斗呢？有对策吗？\n And if we run into fights? Any plans for that?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 13,
+          "text": "<不用担心。反正没有默尔索在，他们多半也没法好好察觉到我们。>\n <Not to worry. I don't think they can perceive us very well without Meursault, anyway.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10121",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "她不见了。\n She's gone.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "我们……先继续走？一直往前？\n Should we... keep movin' for now? Straight ahead?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 3,
+          "text": "执行经理。我建议返回洗手间重整队列。\n Executive Manager. I recommend returning to the restroom to regroup and reorganize.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 4,
+          "text": "吾……赞同罗佳姑娘之谏言。诚然，我等当速速启程……\n I... assent to Young Rodya's counsel. Let us set forth with all haste, forsooth...",
+          "speaker": "堂吉诃德\n Don Quixote"
+        },
+        {
+          "index": 5,
+          "text": "<没人受伤吧？我想之后还有时间重整。>\n <No one's injured, right? I think we'll have time to reorganize later.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "<照罗佳说的，继续走吧。>\n <Let's keep going, like Rodya suggested.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "正准备出发时，良秀朝我走了过来。\n Ryōshū came up to me as we were preparing to proceed."
+        }
+      ]
+    },
+    {
+      "key": "D10122",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那女人也知道。\n That woman knows, too.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "<...!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<所以你也记得？这里发生的一切——那都不只是梦或幻觉。我们是——>\n <So you remember too, huh? Everything that happened here—they weren't just a dream or an illusion. We were—>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "——被倒回来了？是啊。但发生的那件事并没有扭曲时间的流向。更接近于……<i>丢掉</i>时间。\n —rewound? Yes. But whatever happened didn't distort or twist the flow of time. It felt closer to... <i>discarding</i> time.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "啧。糟透了。\n Tsk. Feels like shit.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 5,
+          "text": "<不过，至少知道记得那些的罪人不止我一个，挺好。>\n <Well, glad to hear that I'm not the only Sinner who remembers all that, at least.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "*吐烟* 那给你个失望的消息，钟头：我什么都不记得。\n *puff* Then here's something that'll disappoint you, C.H.: I don't remember anything.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 7,
+          "text": "<你不记得……？>\n <You don't...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "我只是察觉到了那些被斩断的记忆的断面。*吐烟* 这和你那样<i>拥有</i>记忆不一样。\n I've only noticed the cross-sections of the memories that were severed away. *puff* It's different from <i>having</i> the memories like you.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 9,
+          "text": "不过有一点我可以告诉你——你的困惑不是你自己臆想出来的。<i>有什么</i>发生过，而我们都经历了。这一点确定无疑。\n I can tell you this, though—your confusion isn't all in your head. <i>Something</i> happened, and we all experienced it. That's for certain.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 10,
+          "text": "<……嗯。>\n <... Right.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 11,
+          "text": "<谢了，这就够让我安心了。>\n <Thanks, that's enough assurance for me.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "呵……\n Heh...",
+          "speaker": "良秀\n Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D1013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "怎么？终于肯带我去洗手间了？\n What? Finally decided to show me to the restroom?",
+          "speaker": "克罗默\n Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D1015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "还有剩下的空瓶子吗？多余的手掌也行。\n Got any empty bottles left? A spare palm would do, too.",
+          "speaker": "过眼瘾的顾客\n Eye-shopping Customer"
+        },
+        {
+          "index": 1,
+          "text": "我们……应该没有空瓶子，也没有……多余的手掌……抱歉……哈……哈……\n I... don't think we have any empty bottles or... spare palms... Sorry... ha... ha...",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "可恶。我的眼球不够买这一季的新款……\n Damn. I don't have enough eyeballs for this season's new collection...",
+          "speaker": "过眼瘾的顾客\n Eye-shopping Customer"
+        },
+        {
+          "index": 3,
+          "text": "那位顾客焦躁地啃着自己的指甲。\n The customer gnaws anxiously at their fingernails."
+        }
+      ]
+    },
+    {
+      "key": "D1016",
+      "texts": [
+        {
+          "index": 0,
+          "text": "幸好我在这股潮流过气之前就预约上了皮肤烫卷！等他们把卷度一层层烫进我皮肤的每一道纹路里，谁都没法把视线从我身上挪开！\n Thank goodness I booked my dermal perm before the trend died! Once they layer the curl into every ridge of my skin, nobody will be able to tear their eyes away from me!",
+          "speaker": "护理顾客\n Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "陌生人——别盯着我看。我的改造护理才做到一半。就算你们想认，也认不出我是谁。\n Strangers—stop checking me out. I'm halfway through my makeover treatment. You couldn't tell who I was even if you tried.",
+          "speaker": "护理顾客\n Treatment Customer"
+        },
+        {
+          "index": 1,
+          "text": "*叹气* 所以我才讨厌下来这一层。不过也没办法——只有一楼提供这项服务……\n *sigh* This is why I hate coming down here. I suppose it can't be helped—the first floor is the only place that provides the service...",
+          "speaker": "护理顾客\n Treatment Customer"
+        },
+        {
+          "index": 2,
+          "text": "别再盯着我看了！\n Stop staring at me!",
+          "speaker": "护理顾客\n Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这股潮流最好赶紧过去。我身上连一块能再点上一个波点的空皮肤都没有了。\n This trend had better die soon. I don't have a single patch of bare skin left for another polka dot.",
+          "speaker": "过眼瘾的顾客\n Eye-shopping Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一堆从楼上某层坠落、摔得面目全非的尸体。\n A pile of unrecognizably mangled bodies that fell from one of the upper floors."
+        },
+        {
+          "index": 1,
+          "text": "三三两两的褐派正忙着在血肉堆里翻找，把能捞到的黄金皮革碎屑和眼球统统揣进兜里。\n A scattered group of Le Kaki are busily scouring through the gore, pocketing what Golden Hide dregs and eyeballs they can get their hands on."
+        }
+      ]
+    },
+    {
+      "key": "D1020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<那、那么……你找到他们了吗？>\n <S-so... Were you able to find them?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "他们不见了……我不是说少了一两个人——除了我们，所有人都凭空消失了。\n They're gone... And I don't mean that like we lost one or two people—everyone except us vanished into thin air.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "拜、拜托啦~玩笑开够了，各位都出来吧……这、这一点都不好笑！\n C-come on~ Joke's over, everybody, come on out... Th-this isn't funny!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 3,
+          "text": "<……我不清楚他们那边出了什么状况，但应该不至于要慌。>\n <... I'm not sure what the issue is on their side, but I don't think it's anything to panic about.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "哦！对了！但丁能看到每个人在哪儿。好，其他人在哪儿？\n Oh! Right! Dante can see where everyone is. All right, where are the others?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<……他们在洗手间。看样子在想各种办法出来，但……不太顺利。>\n <... They're in the restroom. Looks like they're trying all sorts of things to leave, but... not with much success.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "这种情况下，他们不可能折回去偷懒。也许是这地方特有的某种规则或现象，把他们全都拽回洗手间了？\n They wouldn't have doubled back just to loaf around in a situation like this. Maybe there's some rule or phenomenon peculiar to this place that dragged them all back to the restroom?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "<先去找默尔索吧。洗手间那边的事……大概还能再等一等。>\n <Let's go find Meursault first. The restroom issue can... probably wait a little longer.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……嗯？\n …Hm?",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10202",
+      "texts": [
+        {
+          "index": 0,
+          "text": "等等。大家都去哪儿了？\n Hang on. Where'd everyone go?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "会不会是落在后面了？我是说，过来的那段路挺绕的，所以……\n Maybe they fell behind? I mean, the path here got pretty twisty, so...",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "……有可能。我去看看。\n ... That might be the case. Let me go check.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "<不用麻烦了，以实玛利。>\n <Don't trouble yourself, Ishmael.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "<所有人都回到洗手间了——我确认过。这种情况下他们不可能折回去偷懒，所以我猜是这地方特有的某种规则或现象，把他们全都拽了回去。>\n <Everyone's back in the restroom—I checked. They wouldn't have doubled back just to loaf around in a situation like this, so I assume there's some rule or phenomenon peculiar to this place that dragged them all back in there.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "啊……好吧，既然如此，等我们回到洗手间，应该就能和他们会合了。\n Aha... Well, if that's the case, I'm sure we can catch up with them once we're back in the restroom.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "<嗯。当务之急是和默尔索会合。>\n <Yeah. Our first priority is reuniting with Meursault.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1021",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<默尔索，你果然在这儿！我就知道。>\n <There you are, Meursault! I knew you'd be here.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "我在。\n I am.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "搞什么啊默尔！好歹装作见到我们很惊讶嘛。我们可是来救你的！\n What the heck, Meur! Ya could at least pretend to be surprised to see us. We came to save ya!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 3,
+          "text": ".......",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "我用只有默尔索能听见的方式悄悄传了话。\n I quietly communicated in a way that only Meursault could hear."
+        },
+        {
+          "index": 5,
+          "text": "<默尔索，你是不是……>\n <Meursault, do you...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "<……全都记得？>\n <... remember everything?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "是。我记得进入西西弗百货之后的每一件事，包括二层发生的事。\n Yes. I remember every event following my entry to the Grand Magasin Sisyphe, including the events on the second floor.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<不过其他罪人似乎都不记得。>\n <I don't think the other Sinners do, though.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "我听说，西西弗百货会定期对存货进行一次<i>重置</i>，内部代号为“清仓”。\n I have heard that the Grand Magasin periodically conducts a <i>reset</i> of its stock, internally designated \"Liquidation.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 10,
+          "text": "<是啊……“重置”……>\n <Right... A \"reset\"...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 11,
+          "text": "<好，那既然我们有了第二次机会……你觉得，如果这一次做出不同的选择，我们能拿到金枝、逃出西西弗百货吗？>\n <Okay, so now that we have a second chance... Do you think, if we were to make different choices this time around, we could secure the Golden Bough and escape the Grand Magasin?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "目前无从判断。\n There is no way to know that at the present.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 13,
+          "text": "不过，有些东西经过清仓仍然保留了下来。\n However, some things have carried over through the Liquidation.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 14,
+          "text": "<比如？>\n <Like what?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 15,
+          "text": "我们在各层商铺购买的所有物品。\n Every item we have purchased from the shops on each floor.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 16,
+          "text": "<眼球也在？太好了。至少还有这个。>\n <The eyeballs, too? Good. At least we have that.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 17,
+          "text": "还有……这个也在，经理。\n And... this as well, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 18,
+          "text": "默尔索以他一贯不动声色的语调说着，取出了一块撕下来的血肉。那上面缠绕着金色的光辉。\n With his usual, stoic cadence, Meursault produced a piece of torn flesh. It was wreathed in a golden glow."
+        },
+        {
+          "index": 19,
+          "text": "<看起来有点像……>\n <Kinda looks like...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 20,
+          "text": "<……像红派在奢侈品馆造出来的那个<i>东西</i>的一块。八成就是从那儿来的。>\n <... a piece of that <i>thing</i> the Rouges created in the Luxury Hall. That must be where it's from.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 21,
+          "text": "这多半是我们撕开他们所谓的“摇篮”时，从中现身之物留下的残片。\n It is likely a vestige of what emerged when we tore through what they called \"the Cradle.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 22,
+          "text": "<……呃，很微弱，但我觉得它在跳。像心脏一样……>\n <... Um, it's faint, but I think it's beating. Like a heart...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 23,
+          "text": "喂喂！你们俩在那边嘀咕什么呢？\n Hey, hey! Whatcha two gossiping about over there?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 24,
+          "text": "<没、没有，我们没嘀咕。我们只是在……很正常地久别重逢，懂吧？>\n <N-no, we weren't gossiping. We were just... having a very normal reunion, y'know?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 25,
+          "text": "<对吧，默尔索？啊，你根本不知道能再见到你我有多高兴！>\n <Right, Meursault? Aw, you have no idea how glad I am to see you again!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 26,
+          "text": "……正确。\n ... Correct.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 27,
+          "text": "...?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 28,
+          "text": "这事暂时最好瞒着罪人们，至少要等我把这个叫人不安的预感打消掉再说。幸好，默尔索似乎察觉到了我不愿声张。\n We'd better keep this on the down low from the Sinners for now, at least until I can put this troubling hunch to rest. Thankfully, Meursault seems to have picked up on my reluctance to share."
+        },
+        {
+          "index": 29,
+          "text": "你们是什么人？\n Who are you people?",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 30,
+          "text": "退后。这份材料是我先找到的。先到先得。它现在属于我们店了。\n Back off. I found this material first. Finders keepers. It belongs to our store now.",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 31,
+          "text": "“材料”……？呃……听我说，这家伙是我们的……呃，“同事”。能把他还给我们吗，拜托？\n \"Material\"...? Um... Look, this dude is our... uh, \"colleague.\" Can we have him back, please?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 32,
+          "text": "“同事”……唔。这个词我听过。是个品牌名吗？\n \"Colleague\"... Hm. I've heard that word before. Is it a brand name?",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 33,
+          "text": "呃……\n Uh...",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 34,
+          "text": "就我们目前看到的这地方来说……我不知道常识在这儿还靠不靠得住。\n From what we've seen of this place so far... I don't know if common sense is all that reliable in here.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 35,
+          "text": "您说他属于你们店……意思是要让他干活吗？\n When you said he belongs to your store... does that mean you're gonna put him to work?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 36,
+          "text": "不。本店的店员绰绰有余。短缺的是材料。\n No. We have more than enough staff for this shop. It's the material that's in shortage.",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 37,
+          "text": "材料……？哦，好吧。那您是想，呃……借默尔索的制服？\n Material...? Oh, okay. I suppose you wanna, uh... borrow Meursault's uniform, then...?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 38,
+          "text": "你们这些异乡人根本没法沟通。我真是拿你们没办法……\n You strangers are impossible to communicate with. I'm at my wits' end here...",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 39,
+          "text": "那名店员露出一副无可奈何的神情看着我们。\n The employee gave us an exasperated look."
+        },
+        {
+          "index": 40,
+          "text": "我说了我们短缺材料。<i>材料</i>。这有什么难懂的？\n I said we're in a shortage of material. <i>Material</i>. What's so hard to understand about that?",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 41,
+          "text": "刚才的广播你们没听见吗？潮流又变了。再过几季，又会有别的东西成为新潮流。所以我们——还有这家店——永远需要更多的材料！\n Didn't you hear the announcement just now? The trend has changed again. A few seasons from now, there will be another thing that becomes the new trend. That's why we—and this shop—will always be in need of more material!",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 42,
+          "text": "我懂，<i>我懂</i>，可这到底跟——\n I get that, <i>I get that</i>, but what the hell does that have to do with—",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<默尔索，我们把这事了结了吧。>\n <Meursault, let's get this over with.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<没必要把这整套戏码再演一遍。>\n <No point in doing this whole song and dance all over again.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "我们将提供与我可供给的布料等值的劳务。作为劳务的回报，你们将释放我。\n We will conduct services of equivalent value to the fabric I would offer. In return for the services rendered, you will release me.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "劳务，是吗？\n Services, huh?",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 4,
+          "text": "将过时的人台送至出口这项工作，应当足以抵值。\n The task of helping the out-of-fashion Mannequins to the exit should provide sufficient value.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "此外，我请求暂时解除你们的看管，随这些人同行。我手上的这副护手，在将人台送至出口时会很有效。\n In addition, I request a temporary release from your custody to accompany these individuals. These gauntlets in my possession will be effective in helping the Mannequins to the exit.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": "这……这倒公道。反正那件事我们确实得赶紧办完。\n That's... that's fair. We really need to get that over with, anyway.",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 7,
+          "text": "行，这笔交易我接了。三个应该就够了。\n Fine, I'll take that deal. Three should be enough.",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 8,
+          "text": "……人台是什么鬼东西？还有“送到出口”到底是什么意思……？\n ... The hell's a Mannequin? And what does \"helping them to the exit\" even mean...?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "<人台是这儿对扭曲的叫法，“送到出口”就是“打倒它们”。……我想是这样。>\n <Mannequins are what they call Distortions in here, and \"helping them to the exit\" means \"defeating them.\" ... I think.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "……但丁，是我漏看了什么宣传册吗？\n ... Dante, did I miss a pamphlet or something?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 11,
+          "text": "<……也许吧？>\n <... Maybe?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "由我打头阵。\n I will take the lead.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 13,
+          "text": "各位，默尔索已经到手了。我们干脆开溜，再也不回来，怎么样？\n Guys, we have Meursault now. Why don't we just split and never come back?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 14,
+          "text": "<光靠逃跑解决不了这个问题，罗佳。>\n <I don't think we can solve this problem by just running away, Rodya.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 15,
+          "text": "呃……为什么不行？我可很擅长跑路。\n Uh... why not? I'm a good runner.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 16,
+          "text": "逃走并不能阻止我被收进仓库。\n Fleeing would not prevent me from being placed in storage.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 17,
+          "text": "嗯……？可你现在不是已经出“仓库”了吗？\n Hm...? But you're out of \"storage\" now, aren'tcha?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 18,
+          "text": "也许这地方有它自己的法则——就像大湖那样。\n Maybe this place has its own Laws—just like the Great Lake.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 19,
+          "text": "*叹气* 就照默尔索说的办吧。我不知道为什么、也不知道是怎么回事，但他似乎对这家百货很熟。\n *sigh* Let's do as Meursault says. I don't know why or how, but he seems to be well-acquainted with the department store.",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10221",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<眼下……先去人台那边吧。>\n <For now... let's head to where the Mannequins are.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "好吧，那……我们就送它们到出口。\n Okay, then... we'll help them to the exit.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "明智的选择。你们只需要送三个人台到出口。\n Good choice. You only need to help three Mannequins to the exit.",
+          "speaker": "含羞草\n Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10222",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我可没法干等一整天。快点拿定主意。\n Can't wait around all day. Hurry up and make up your mind.",
+          "speaker": "含羞草\n Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10223",
+      "texts": [
+        {
+          "index": 0,
+          "text": "怎么样？考虑好了吗？\n Well? Have you given it some thought?",
+          "speaker": "含羞草\n Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D10224",
+      "texts": [
+        {
+          "index": 0,
+          "text": "若您需要我效力，把店员所需之物给她大概是最好的办法，经理。\n Giving the clerk what they need is probably best if you require my service, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D10225",
+      "texts": [
+        {
+          "index": 0,
+          "text": "既然你们已经接了这活……能快点吗？这一季随时可能结束……\n Since you're already on the job... hurry up, will you? This season could end any minute...",
+          "speaker": "含羞草\n Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1023",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你们总算把它们送到出口了。多亏你们，现在能进本店的顾客更多了。\n So you managed to help them to the exit. Thanks to you, more customers can now access our shop.",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 1,
+          "text": "呼……我们眼下事情多得很。潮流一变，整条产品线都得重新设计、翻新一遍。\n Whew... We've got so much on our plates at the moment. We need to redesign and revamp the entire lineup, what with the trend changing.",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 2,
+          "text": "不得不放走这份材料真可惜，不过也就这样了……\n Shame we're forced to part with this material, but that's that...",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 3,
+          "text": "<color=#916e46>敬请注意。千鸟格季已正式结束。我们很高兴地通知各位……</color>\n <color=#916e46>Your attention, please. The Houndstooth Season has officially ended. We are pleased to inform you that...</color>"
+        },
+        {
+          "index": 4,
+          "text": "天哪！我跟你们闲扯的这会儿工夫，潮流又变了。不买东西就赶紧走开！\n Good grief! The trend changed again while I was wasting time shooting the breeze with you. Scram if you're not buying anything!",
+          "speaker": "含羞草\n Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D102301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那……你哪儿都没受伤吧，默尔？\n So... you're not hurt anywhere, are you, Meur?",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D102302",
+      "texts": [
+        {
+          "index": 0,
+          "text": "自进入西西弗以来未发生武力冲突。我没有受伤。\n There have been no violent altercations since I entered Sisyphe. I have sustained no injuries.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D102303",
+      "texts": [
+        {
+          "index": 0,
+          "text": "话说回来，他们当初为什么把你扣下？\n Why did they seize you in the first place?",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D102305",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这家百货的顾客大致可分为四类。\n The customers of the department store can be classified into four principal groups.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "第一类叫红派，他们偏好皮革这种材料，以及张扬的红色。其次是黑派，其成员偏好在作品中使用精致的黑色与布料。第三类与其说是派别，不如说是一种称呼——褐派。他们不隶属于任何特定阵营，只追逐不断变化的潮流。\n The first group is called Le Rouge, and they prefer leather as a material and a striking red color. Then there is Le Noir, whose members prefer to use refined black color and fabrics in their work. The third group is less a grouping and more a denomination—Le Kaki. They are those who belong to no particular affiliation and instead chase the changing trends.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "那名店员认定我是褐派，因此才将我扣下充作材料。褐派之中，有些人并不抱有绝大多数顾客共有的目的——即购买并穿戴衣物与装束。我属于那一类。\n That employee believed that I was a Kaki, which explains why she took me into her custody to be used as material. There are those among Le Kaki who do not share the same purpose the vast majority of customers share—which is to purchase and don themselves in garments and attire. I belonged to that category.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "等等，第四类是什么？\n Wait, what's the fourth?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "他们从不现身，也无人召唤他们。\n They are those who never reveal themselves, nor are they called upon by anyone.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "我还是没完全搞懂……所以在这儿必须有个跟时尚有关的目的？比如……买衣服、试穿什么的？\n I still don't get the full picture... So you need to have a fashion purpose here? Like... buying clothes, trying 'em on and stuff?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 6,
+          "text": "这里的人……看起来除了衣服什么都不关心。\n The people here... seemed interested in nothing but clothes.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 7,
+          "text": "与其说是目的，不如说是存在的理由。\n It is less a purpose than a raison d'être.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D102306",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<好了……这部分暂时讲到这儿吧。>\n <Alright... I think that's enough of that for now.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<不如多讲讲西西弗百货本身？我想罗佳和以实玛利会想听个简要的说明。>\n <Why don't you explain more about the Grand Magasin Sisyphe itself? Rodya and Ishmael would appreciate a quick rundown on that, I think.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D102307",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……我现在就向他们说明相关信息。\n ... I will now brief them regarding any pertinent information.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "第一点：此处并非以实体构筑之……\n Point one: This is not a physically constructed...",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D102307B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "在一阵条理分明却黏稠如泥的言辞风暴扫过那两人之后，我决定把默尔索这番讲解里比较要紧的部分重述一遍、划个重点。\n After a veritable storm of articulate verbal sludge passed over the two, I decided to repeat and highlight some of the more relevant information from Meursault's lecture."
+        }
+      ]
+    },
+    {
+      "key": "D102307C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<总结时间。西西弗百货不是实体场所。它是虚拟现实，我们只是意识在这儿。默尔索的身体被泡在西西弗塔的培养槽里，而我们的肉体正睡在我们用过的那台自杀贩卖机里。>\n <Summary time. Grand Magasin Sisyphe is not a physical place. It is a virtual reality, and we're here only in our minds. Meursault's body has been put in a vat at the Sisyphe Tower, while our physical bodies are sleeping inside the Suicide Vending Machine we used.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "听起来我们的计划挺简单：解救默尔——办到了——确认他囫囵个儿——确认了——把天台上的金枝顺走，然后离开这儿。对吧？\n Sounds like our plan's looking pretty simple: rescue Meur—we did that—find him in one piece—he is—yoink the Golden Bough on the rooftop, and get ourselves outta here. Is that right?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "……是的。\n ... It is.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "你这口气……像是以前来过这儿似的，默尔。来过吗？\n Ya sound like... you've been here before, Meur. Have you?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": "不，我未曾来过。不过我在N公司任职时，从一位熟人那里听过一些事，这便是我对西西弗百货了解甚详的缘由。\n I have not been here before, no. However, I heard some stories from an acquaintance when I worked for N Corp, which explains my in-depth knowledge regarding the Grand Magasin Sisyphe.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "那……我们大概只能一路往上爬了。我们连大湖都找到了航行的办法——这地方也一样能找到路。\n Then... I suppose our only option is to climb toward the top. We found a way to sail through the Great Lake—we will find a way to navigate this place as well.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "多亏了——姑且不论“多亏”这个词用在这儿是否恰当——那场“清仓”，我们的处境比第一次尝试时好得多。\n Thanks to—disregarding the notion of whether \"thanks to\" would be the most apt choice of words here—the \"Liquidation,\" we're at a much better place than we were on our first attempt."
+        },
+        {
+          "index": 7,
+          "text": "我们的评级已经相当高，用辛苦攒来的眼球买下的东西也全都还在手上。\n Our Prestige Tier was already decently high, and all the items we'd purchased with hard-earned eyeballs were still in our possession as well."
+        },
+        {
+          "index": 8,
+          "text": "这一次，我们说不定真有机会……\n We might have an actual shot this time..."
+        },
+        {
+          "index": 9,
+          "text": "<我们快往前赶吧。谁知道呢？说不定能碰上自动扶梯什么的。>\n <Let's hurry on ahead. Who knows? Maybe we'll come across an escalator or something.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1028",
+      "texts": [
+        {
+          "index": 0,
+          "text": "随便看看。快销服饰馆专为瞬息万变的潮流而设。快时尚不必挑三拣四——趁潮流还没过去，赶紧买一件穿上！\n Take a look around. The Casualwear Hall is catered to ever-changing trends. No need to weigh your options when it comes to fast fashion—just get one and dress up before the trend goes!",
+          "speaker": "含羞草\n Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1029",
+      "texts": [
+        {
+          "index": 0,
+          "text": "致迷路的顾客：\n欲欣赏红派系列，请将视线保持上扬。欲欣赏黑派系列，请将视线保持朝下。\n For Lost Customers:\nPlease keep your eyes raised up to enjoy the Rouge collection. Keep your eyes fixed on the ground to enjoy the Noir collection."
+        }
+      ]
+    },
+    {
+      "key": "D1031",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦！看样子你们也是刚到这儿吧！对不对？\n Oh! You look like you've just got here, too! Right?",
+          "speaker": "杜布瓦\n Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D10311",
+      "texts": [
+        {
+          "index": 0,
+          "text": "太好了。我是被判了西西弗刑才送到这儿来的，可根本没人肯跟我解释一句！一提起这地方，所有人说的都是些谜语和胡话——我是说<i>外面</i>的人也一样。这儿的人呢？他们还会生气，抱怨我没有常识！\n Thank goodness. I got sent here after being sentenced to the Sisyphe Penalty, but nobody would explain anything to me! All anyone says are riddles and nonsense when it comes to this place—and I mean people <i>outside</i> as well. The ones here? They even get angry and complain about me not having common sense!",
+          "speaker": "杜布瓦\n Dubois"
+        },
+        {
+          "index": 1,
+          "text": "你猜怎么着，还有人问能不能拿我当材料用。八成是这儿的什么行话吧。\n And guess what, one person even asked if they could use me as material. Must be some kind of jargon they use in here.",
+          "speaker": "杜布瓦\n Dubois"
+        },
+        {
+          "index": 2,
+          "text": "那……你是什么时候到这儿的？\n So... when didya get here?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 3,
+          "text": "我正想搞清楚这个呢。这儿没有钟，他们数日子的方式也怪得很。哦！说到钟——你脑袋上就顶着一个！能告诉我现在几点吗？我很确定上一顿饭已经是老早以前的事了，可不知怎么就是不觉得饿……\n That's exactly what I'm trying to figure out. There are no clocks here, and they have this weird way of counting days. Oh! Speaking of clocks—you've got one for a head! Could you tell me what time it is now? I know for sure it's been ages since my last meal, but somehow I don't feel hungry...",
+          "speaker": "杜布瓦\n Dubois"
+        },
+        {
+          "index": 4,
+          "text": "看到杜布瓦，我才想起我们其实再没遇见过他。直到现在——在整座百货上一次清仓之后。\n Seeing Dubois, I recalled that we never actually got to encounter him again. That is, until now—after the last Liquidation of the entire department store."
+        },
+        {
+          "index": 5,
+          "text": "他或许真如浮士德解释的那样，去到了“另一个”二层，但是……想想我们在三层听说的、那些不合时令就跳上自动扶梯的人的下场……他在加入我们之后立刻把自己害死，也完全有可能。\n He really might've reached a \"different\" second floor as Faust had explained, but... from what we heard on the third floor about what happens to those who jump on the escalator out of season... It was entirely possible that he'd simply gotten himself killed immediately after joining us."
+        },
+        {
+          "index": 6,
+          "text": "哇，那是制服吗？你们肯定属于哪个挺像样的帮派吧。你们到底干了什么，让人把你们整批扔进这儿来？\n Whoa, are those uniforms? You must've belonged to a pretty serious Syndicate. Just what did you do that they decided to throw everyone in here as a package?",
+          "speaker": "杜布瓦\n Dubois"
+        },
+        {
+          "index": 7,
+          "text": "唔，该怎么说呢……他们给我们定的罪名是“对某位同事关心得有点过头”，你能懂吗？\n Hm, how should I put this... They charged us with \"caring a lil' too much about a certain colleague of ours\", if that makes sense?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 8,
+          "text": "<……好了，闲聊到此为止。继续往前走吧。>\n <... Alright, that's enough chit-chat. Let's keep moving forward.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "呃……真的吗？我们不是该尽量多打听打听这地方吗？\n Uhh... Really? Shouldn't we try to learn as much as we can about this place?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "<是啊，可这家伙跟我们一样是新来的。我看他也说不出什么有价值的东西。>\n <Yeah, but this guy's as new to this place as we are. Doubt he's got anything revelatory to share with us.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 11,
+          "text": "但丁，我之前就说过，你今天真的很奇怪。特别像小浮。\n Dante, I've said this earlier, but you've been acting real weird today. Real Fau-like.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 12,
+          "text": "我能摸摸您的头吗？是不是又烧起来了？\n Can I feel your head? Is it getting fired up again?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "<不，不是……不是那么回事。>\n <No, it's... nothing like that.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "越想越觉得，把清仓的事瞒下去的理由越来越少。可是……\n The more I think about it, the fewer reasons there are to keep the Liquidation a secret. But..."
+        },
+        {
+          "index": 15,
+          "text": "唔……这回我再放过你一次。<i>不过</i>那只是因为看样子你那颗脑袋里正盘算着什么计划。可要答应我，之后全都讲出来，好吗？\n Hmmm... I'll let it slide a second time. <i>But</i> that's only because it looks like you've got a plan or something cooking up there. Promise to tell us everything later though, 'kay?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 16,
+          "text": "<嗯，我答应。>\n <Yeah, I promise.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 17,
+          "text": "话说回来……你叫什么名字，新来的？\n Anyways... What's your name, new guy?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 18,
+          "text": "对了，我叫杜布瓦。大家也叫我“刀疤D”。\n The name's Dubois, by the way. People also call me \"Scar D.\"",
+          "speaker": "杜布瓦\n Dubois"
+        },
+        {
+          "index": 19,
+          "text": "真的很抱歉，小杜，可是……我们现在有点赶时间。还得往别处去呢，你懂吧？要不是特别特别要紧的事，能不能……回头再说？下次见面的时候？\n I'm real sorry, Dubbs, but... we're in a bit of a hurry right now. Got places to be, ya know? If it isn't something super duper important, can we do this... maybe later? Next time we meet?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 20,
+          "text": "啊，呃……我、我明白。我不介意，嗯……\n Ah, uh... I-I see. I don't mind, yeah...",
+          "speaker": "杜布瓦\n Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1032",
+      "texts": [
+        {
+          "index": 0,
+          "text": "杜布瓦的眼睛紧张地四下乱瞟。\n Dubois's eyes dart about nervously."
+        }
+      ]
+    },
+    {
+      "key": "D1040",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 1,
+          "text": "这位店员似乎不太乐意招呼我们。\n This employee here isn't so eager to greet us.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<他大概没必要跟我们说话。>\n <He probably doesn't need to talk to us.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "那好，我们就别打扰他，继续往前？听着挺双赢的。\n Welp, then let's not bother 'em and move on? Sounds like a win-win.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": ".......",
+          "speaker": "居斯塔夫\n Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D10400",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#916e46>敬请注意。条纹季已正式结束。我们很高兴地通知各位，千鸟格为新的潮流。</color>\n <color=#916e46>Your attention, please. The Stripe Season has officially ended. We are pleased to inform you that Houndstooth is the new trend.</color>"
+        },
+        {
+          "index": 1,
+          "text": "什么？！不！我为了做出那些条纹，从大腿上剥了那么多皮……全都白费了？！我才刚把横条一路排到下巴。他们不能<i>现在</i>换潮流！\n What?! No! I flayed so much skin off my thighs to make those stripe patterns... and it was all for nothing?! I only just got the horizontal lines all the way up to my chin. They can't change the trend <i>now</i>!",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 2,
+          "text": "新品陈列架还得我来填！得想办法，得想办法……要不把现有的撕成格纹？我可不能让那些货落到清仓打折去！\n I have to fill the new-arrivals displays! Need a plan, need a plan... Maybe tear what's there into a checkered pattern? I can't let those go to clearance!",
+          "speaker": "含羞草\n Mimosa"
+        },
+        {
+          "index": 3,
+          "text": "<默尔索就在那边。>\n <Meursault's right over there.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "咦？你怎么知道的，但丁？\n Huh? How'd you know that, Dante?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<我透过默尔索的视野看到过，认出了那片地方。快走，该和默尔索会合了。>\n <I recognized that part of the room after viewing it through Meursault's sight. Hurry up, time to reunite with Meursault.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "在搞清状况之前，最好别跟罪人们说这是我第二次来。直觉告诉我，现在还不该把一切都抖出来……\n Best not to share with the Sinners that this is my second time here until I know what's going on. Something tells me I shouldn't reveal everything just yet..."
+        },
+        {
+          "index": 7,
+          "text": "<走吧，我们出发。>\n <Come on, let's get going.>",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 8,
+          "text": "……咦，您今天完全是经理状态……有点反常。呃，倒不是说您平时不是，只是…… 该怎么说呢？嗯，您好像比平时更……笃定、更果断。\n ... Huh, you're fully in your manager mode today... weirdly. Uh, not to say that you usually aren't, but...  How should I put this? Yeah, you seem more... confident and decisive than usual.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "<是、是吗？>\n <Y-you think so?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "这事<i>绝对</i>有蹊跷，但丁……不过这一次我就放过你。\n Something <i>definitely</i> smells fishy here, Dante... But I'll let it slide just this once.",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1041",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 1,
+          "text": "他那警惕的目光几乎能让人在皮肤上感觉到。既然不打算阻止我们看货，又为什么像鹰一样盯着我们……？\n We can almost feel his guarded stare against our skin. If he's not about to stop us from browsing, why is he watching us like a hawk...?"
+        }
+      ]
+    },
+    {
+      "key": "D1042",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我认不出这种材料……你觉得这些衣服是用什么做的？\n I don't recognize the material... What do you think these clothes are made of?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "顾客。也就是说，他们既购买并穿着衣物，也可能自己成为衣物。\n The customers. This means they purchase and wear clothing, but may also become clothing themselves.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "顾客？哦……我明白了。所以刚才那名店员才管你叫“材料”。\n Customers? Oh... I see now. That's why the clerk called you \"material\" earlier.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "是啊……那西西弗的“客源”有多大？就是被困在这地方的顾客。\n Right... So how big is Sisyphe's \"clientele\"? The customers trapped in this place?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": "约三亿。\n Approximately 300 million.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "……我确信自己听错了。\n ... Pretty sure I misheard that.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "你没有听错。西西弗刑没有刑满之日，进入者永久留在此处。其人口在理论上呈无限增长的趋势。\n You did not. There is no discharge date for the Sisyphe Penalty, and those who enter remain permanently. Its population is theoretically on an infinite upward trend.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D10421",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>尔等谛听，今日吾再行宣谕。愿吾等安息之殿，永蒙保全之福。</color>\n <color=#7d7d7d>Heed ye, for again I proclaim this day. Blessed be the hall of our rest with eternal preservation.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>然而即便今日，丑恶与邪佞仍不息地自墙上剜取黄金，将那金辉据为己有，尔等却无所作为。尔等还要宽宥自身怯懦之魂、软弱地承受末日到几时？</color>\n <color=#7d7d7d>Yet even today, ye do naught as the hideous and the wicked ceaselessly tear out the Golden from its walls and take its aureate light for themselves. How long will ye forgive your own craven spirits and feebly accept the end of days?</color>"
+        },
+        {
+          "index": 2,
+          "text": "我谨遵您的号令，主啊。胆敢掠夺黄金松脂的背教者，必将——\n I shall heed your command, Lord. Apostates who dare plunder the Golden Resin shall—",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 3,
+          "text": "...!",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 4,
+          "text": "我看见我们的顾客之中……有人正欣然沐浴在渎神那污浊的光辉里。\n I see among our clientele... those who gladly bask in the tarnished glow of sacrilege.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 5,
+          "text": "他为什么盯着我们看……？喂，我们只是在逛店，安分守己得很！\n Why is he looking at us...? Hey, we were just shopping and minding our own business!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 6,
+          "text": "那名店员是在对经理说话。\n The employee is speaking to the Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "红派的势力竟妄图煽动骚乱、亵渎这片圣域……回答我，这般厚颜地要作废古老的休战，意欲何为？\n That the forces of Le Rouge would seek to foment disorder and profane the sacred domain... Answer, what is this brazen attempt to null the ancient truce?",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 8,
+          "text": "你听好了，老兄。我根本不知道这什么好笑的“红派”是怎么回事，明白吗？我们是无名小卒，不属于什么势力，也不想惹麻烦！\n You listen here, Buddy. I don't even know what this funny \"Rouge\" business is, 'kay? We're nobodies, we're not in any forces of whatever, and we don't want any trouble!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 9,
+          "text": "啊，那么你们自称是褐派？你们大摇大摆地穿过本店，脸上还炫耀着那等不敬的饰物？还指望我们相信？\n Ah, then you claim to be Kakis? You, who strut through our store flaunting those irreverent trinkets on your face? Do you expect us to believe you?",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 10,
+          "text": "让我斗胆猜一下的话……“亵渎的饰物”指的应该是但丁的钟表指针吧……？\n If I were to hazard a guess... I'd say the \"blasphemous trinkets\" are referring to Dante's clock hands...?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 11,
+          "text": "<color=#7d7d7d>凡剜取黄金者，尔不可容。\n尔当涤净吾等之域中的背教。</color>\n <color=#7d7d7d>Thou shalt not suffer those who would scrape out the Golden.\nThou shalt cleanse our domain of apostasy.</color>"
+        },
+        {
+          "index": 12,
+          "text": "我绝不予他们宽赦……我要亲手夺回那光辉的松脂，撑住这圣所日渐黯淡的光……是的——您的声音传到我这里了。作为黑派这一意志之手，我将在此立定，并……！\n I shall grant them no mercy... I shall reclaim that radiant resin with my own hands and shore up the fading light of this sanctuary... Yes—your voice reaches me. As the hand of the will that is Le Noir, I shall make my stand here and...!",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 13,
+          "text": "<color=#7d7d7d>尔当驱逐背教者……\n尔当守护那黄金之色……\n尔已受神圣职责之祝圣，当遮蔽亵渎之光，永恒安息的守护者啊……</color>\n <color=#7d7d7d>Thou shalt banish the apostates...\nThou shalt preserve the Golden hue...\nThou art hallow'd with the divine duty to shade the profane light, O keeper of eternal rest...</color>"
+        }
+      ]
+    },
+    {
+      "key": "D1043",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我觉得这儿能看的东西，我们基本都看过了。\n I think we've looked at pretty much everything they have to offer here.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 1,
+          "text": "那我们去前面那家店看看，不就知道了。\n Well, let's head to the other store up ahead and find out.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<好，去下一家店。>\n <Yeah, to the next store we go.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10430",
+      "texts": [
+        {
+          "index": 0,
+          "text": "等、等等……请放下武器……\n W-wait... Lower your weapons, please...",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 1,
+          "text": "你们身上的金色痕迹……虽然相似，却与我们必须守护的黄金松脂大不相同。\n Your aureate traces are... while similar, quite unlike the Golden Resin we must preserve.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 2,
+          "text": "是啊，那我们早说的时候你怎么不听？本来这一通乱子都能免了……\n Yeah, well, why didn't you listen when we said as much? Could've avoided this whole mess...",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "以实玛利带着威胁的意味朝那名店员迈了一步，对方连忙缩了回去。\n Ishmael took a threatening stride toward the employee, who quickly shrank back."
+        },
+        {
+          "index": 4,
+          "text": "哦！我明白了……您的声音又一次在我心中回响！这些是真正的异乡人，对我们的规矩一无所知——不过是被本品牌的价值吸引而来的顾客罢了。我当重新迎接他们。\n Oh! I understand... Your voice resounds within me once more! These are true strangers, innocent of our ways—customers drawn here by the worth of our brand, and nothing more. I shall receive them anew.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 5,
+          "text": "请恕我冒犯，亲爱的顾客。萦绕在你们身上的金光，与我们必须守护的、蒙福的黄金松脂极为相似。\n Forgive my affront, dear customers. The golden light that hangs over you much resembles the blessed Golden Resin we must preserve.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 6,
+          "text": "能像你这样察觉到金枝气息的人，我们可没遇上几个……你是怎么做到的？\n We haven't met too many people who could pick up the Golden Bough's presence like you did... How'd ya do it?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 7,
+          "text": "我们每一个人都能感到那金色的脉动……并为之干渴。\n Every one of us feels that golden pulse... and thirsts for it.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 8,
+          "text": "我们的指引之光……将我们织成所愿之形的金色微光……\n Our guiding light... The golden gleam that weaves us into our desired forms...",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 9,
+          "text": "那份璀璨，我们同样渴求。但不同于屈从于低劣欲望的红派，我们黑派是那蒙福之粒永世立誓的守卫。\n We desire it too, that brilliance. But unlike the Rouges who surrendered to their base urges, we Noirs are the eternally sworn guards of the blessed grain.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 10,
+          "text": "想必你们已经注意到……墙上满是那些亵渎的红色之徒留下的丑陋咬痕。\n As you have doubtless noticed... The walls are riddled with the hideous bite marks left by those blasphemous red ones.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 11,
+          "text": "那可是黄金松脂的颗粒啊……可那些红派的野蛮人，正忙着把这坚固堡垒的精粹一把把塞进自己的喉咙里……！\n Grain of the Golden Resin, indeed... But those Rouge savages are busy shoveling that very essence of the stalwart bastion into their gullets...!",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 12,
+          "text": "好吧，那……“黄金松脂”到底是什么？\n Okay, so... just what is the \"Golden Resin\"?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 13,
+          "text": "<他说的大概是填在墙面裂缝里的那些金色斑块。>\n <He's probably referring those patches of gold filling the fractures on the walls.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "原来那些就是“黄金松脂”啊……\n So they're the \"Golden Resin,\" huh...",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 15,
+          "text": "那是九个树季之前——破灭之世以墙面上裂开的灾厄裂缝之形，降临于西西弗百货。\n The time was nine arboreal Seasons ago—when the Age of Ruin descended upon Grand Magasin Sisyphe in the form of cataclysmic cracks forming upon its walls.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 16,
+          "text": "随后，就在厄运即将吞没我们的前一瞬，救赎以只能称作神迹的形态降临——璀璨的金色松脂在那些本将毁灭我们的裂缝中显现，将其修补如初。我们岂能不赞美、不崇奉这份天意？可叹……红派却无法领会这份敬奉中毫无歧义的道理，反倒选择剥剜墙壁……荒谬绝伦。\n Then, mere moments before doom took us, salvation arrived in a form that couldn't be anything else but divine—brilliant resin of gold, materializing in the cracks that would have been our ruin, patching them back to wholeness. Are we not to praise and worship this providence? Alas... The Rouges fail to comprehend the unequivocal logic in this veneration, and instead elect to flay the walls... Preposterous.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 17,
+          "text": "尽管两派之间维系着岌岌可危的休战……可摆在眼前的真相无人看不见：这份和平不过是片刻的间歇罢了。\n Though a precarious truce between the two factions is in place... None fail to see the truth that is plainly before them: this peace is but a momentary lull, nothing more.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 18,
+          "text": "届时……唯有届时……我的心智才会向广播之外那真正的“声音”敞开。\n Then... only then... shall my mind be opened to the true \"Voice,\" beyond the broadcast.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 19,
+          "text": "……？那刚才那通关于声音的大惊小怪又是怎么回事？\n ...? What was all that fuss about voices earlier, then?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 20,
+          "text": "呃……！对，没错……我<i>确实</i>听得见那“声音”……我的意思是，我的心智会敞开得<i>更多</i>，好让我更频繁地听见它……\n Uh...! Right, indeed... I <i>do</i> hear the \"Voice...\" What I meant to say is that my mind shall be opened <i>further</i> so that I may hear it more frequently...",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 21,
+          "text": "话说回来……你要是知道上楼的路，愿不愿意透个底给我们？\n Anyways... If ya know a way upstairs, care to let us in on the secret?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 22,
+          "text": "啊，原来你们是想前往顾客服务中心的顾客……\n Ah, so you are customers who seek to reach the Customer Service Center, I see...",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 23,
+          "text": "上行即是积累评级，而所谓有评级，就是不断花费、不断消费，直到你的开销配得上他们所要求的身份。\n To rise is to gain prestige, and to be prestigious is to spend and consume until your expenditure befits the status they demand.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 24,
+          "text": "虽说我受缚于职守，必须留在这家店里侍奉顾客……\n Though I am bound to my post, to remain in this establishment and attend to its customers...",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 25,
+          "text": "……或许你们可以代我上行，转达我对黄金松脂永世不渝的忠诚……\n ... perhaps you may be able to ascend in my stead and relay the account of my eternal fidelity toward the Golden Resin...",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 26,
+          "text": "明白了。所以想上楼就得花钱。若不介意，再问一个问题——在这儿到底怎么赚钱？\n Gotcha. So if we want to go upstairs, we're gonna need to spend some cash. One more question, if you wouldn't mind—how exactly do we make money around here?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 27,
+          "text": "……钱？\n ... Money?",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 28,
+          "text": "这儿说到钱好像都叫“眼球”……对吧？\n The lingo for money here seems to be \"eyeballs\"... Right?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 29,
+          "text": "哦……你们这些异乡人的决心果真与众不同。\n Oh... You strangers truly possess a determination unlike any other.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 30,
+          "text": "那么我便告知获取眼球之法。从人台身上取。它们无休无止地寻找一切展示自己的机会；只要你们勤加努力，所需的眼球必能凑足。\n Then I shall reveal the means by which eyeballs may be won. Take them from the Mannequins. They seek every opportunity to exhibit themselves without end; if you apply yourselves diligently, you will gather all the eyeballs you require.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 31,
+          "text": "还有一事——过了此处请务必时刻警惕，因为你们将进入红派的地盘。那些粗鄙的异教恶徒连一匹布都披不周正，便去撕扯我们的黄金松脂，再缝合成任何他们中意的亵渎形状……\n And another thing—pray, be constantly vigilant beyond this point, for you will be entering the territory of the Rouges. The vulgar, heathen fiends cannot even drape a bolt of fabric properly, so they rend our Golden Resin and stitch it back together in whatever blasphemous shape that pleases them...",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 32,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 33,
+          "text": "……红派……好。我会记在心上。\n ... The Rouges... All right. Will keep that in mind.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 34,
+          "text": "若无他事，勇敢的异乡人，我荣幸地通知诸位：本店现已向你们开放选购。\n If there isn't anything else, brave strangers, I am honored to inform you that this establishment is now open to your perusal.",
+          "speaker": "居斯塔夫\n Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1044",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦……真是遗憾。本店没有适合您这种……品味的异乡人的货品。等您对时尚有了些领悟——顺便把评级也提上去——再回来吧。\n Oh... How regrettable. We carry nothing suitable for Strangers of your... sensibilities. Return once you've cultivated some understanding of fashion—and raised your rank, too.",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 1,
+          "text": "那这东西要怎么提？\n And how do we raise that?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "在百货商店里提升地位，不就只有一种办法吗？\n There is but one way to raise one's standing in a department store, is there not?",
+          "speaker": "居斯塔夫\n Gustave"
+        },
+        {
+          "index": 3,
+          "text": "……花钱。花很多钱。\n ... Spend money. Lots of it.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "正是。那么，再会了，穿着实在……引人注目的异乡人们。\n Precisely. Then until we meet again, Strangers of truly... arresting fashion.",
+          "speaker": "居斯塔夫\n Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1046",
+      "texts": [
+        {
+          "index": 0,
+          "text": "请稍后再来。\n Please come back later.",
+          "speaker": "居斯塔夫\n Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1047",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那东西看起来有点像西装……只是剪裁的设计要高档得多。\n It looks something like a suit... only cut from a far more classy design."
+        },
+        {
+          "index": 1,
+          "text": "咦。比我想的要好看多了。真时髦！\n Huh. That's actually a lot nicer than I expected. So chic!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "……再多看看吧。\n ... Let's look around some more.",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1048",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦，你们不觉得这件简直是为但丁做的吗？\n Ooh, don'tcha think this one's made for Dante?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 1,
+          "text": "<是、是吗？>\n <Y-you think so?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "当然！这一身简直在求着你穿。而且我们还有之前那些眼球——干嘛不给自己买点好的？\n Ya bet! That fit is practically beggin' for ya. And we've got those eyeballs from earlier—why not treat yourself?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 3,
+          "text": "等等。这是这儿唯一肯收的货币。在这么挥钱之前，我们该先把优先顺序理清——\n Hang on. It's the only kind of currency they'll accept around here. We should set our priorities right before we splash cash like—",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "呃……450颗眼球？这不是抢钱吗！\n Eeep... 450 eyeballs? What a ripoff!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "也可能只是我们太穷了。\n Or maybe we're just too broke.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "……我犹豫了一下，要不要说我们这趟走到现在已经花掉了好几个450颗眼球，但还是没说。\n ... I considered for a moment whether I should mention that we've spent multiples of 450 eyeballs in our journey so far, but I decided against it."
+        }
+      ]
+    },
+    {
+      "key": "D1049",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<是啊，这些衣服看起来对“跟上潮流”没什么兴趣。>\n <Yeah, these garments don't seem that interested in being \"trendy.\">",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "设计师的名头够响的时候，就不用追潮流了。是潮流来追你。\n When a designer's name carries enough weight, ya don't chase trends. Trends chase ya instead.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "这么讲究的东西，贴上个名牌标、标个离谱的价，你什么都不用做，人就排起队来了。\n Slap a famous label and a ridiculous price on something this fancy, and people will line up before ya lift a finger.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 3,
+          "text": "用不着把自己累垮……去追每一阵小风潮。\n No need to run yourself ragged.. to keep up with every little craze.",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1976",
+      "texts": [
+        {
+          "index": 0,
+          "text": "整套服装恰好完整地映入视野。\n The entire outfit fits neatly into view."
+        }
+      ]
+    },
+    {
+      "key": "D1050",
+      "texts": [
+        {
+          "index": 0,
+          "text": "欢迎，亲爱的顾客——\n Welcome, dear customers—",
+          "speaker": "奎利安\n Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D10501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "啊……我是不是瞧见了一位真正的时尚鉴赏家？与本店如出一辙的风格……精致……优雅……还有那对色彩的驾驭——妙不可言。\n Ah... Do I spy a true connoisseur of fashion? A style much like our own... sophisticated... elegant... and that command of color—exquisite.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 1,
+          "text": "哈！看吧？总算有人懂了。\n Hah! See? Someone gets it.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "那句夸奖是冲着经理说的。\n The compliment was directed at the Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<哈……看来我在这儿算是挺“潮”的？>\n <Huh... Guess I'm pretty \"hip\" here, as they say?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "那……恭喜了……\n Congrats, I guess...",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "您似乎对时尚有相当不俗的眼光，那我或许可以为您的选购提供一点专家的建议……\n You appear to possess a respectable eye for fashion, so perhaps I can offer an expert's advice on shopping...",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 6,
+          "text": "本品牌的灵魂是解放——确切地说，是令人窒息的解放。你们经过黑派的店了吧？那些一根根钉穿布料的钢针，只是对克制的一场虚伪做作——红派的理念从根本上就不同。\n The soul of our label is liberation—strangling liberation, to be exact. You passed through the Noirs' store, yes? All those steel pins hammered through the fabric are a hypocritical pantomime of restraint—the philosophy of Le Rouge differs at its very root.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 7,
+          "text": "请看这里……您看见这材料那种顺滑而自然的弹性了吗？除了带齿的——是的，字面意义上的带齿——圆编工艺，别的制法都做不出这种效果。皮革向下垂坠，成就出一道既毫不费力又崇高非凡的廓形。\n If I may direct your attention... here, do you see the smooth, natural give of the material? You won't see that from any production technique other than toothed—yes, it is quite literal—loopwheeling technique. The hide spills downward, completing a silhouette at once effortless and sublime.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 8,
+          "text": "啊！还有一点若不说便是我的失职了：这材料里掺入了0.3盎司的黄金皮革。您只要用手摸一摸——啊，那种妙不可言的光泽几乎在表面上流动，对不对？<i>对不对？</i>\n Ah! And I would be remiss not to share that this includes 0.3 ounces of Golden Hide blended into the material. Simply feel it in your hands—ah, it has such a wonderful luster that practically gleams along the surface, doesn't it? <i>Doesn't it?</i>",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 9,
+          "text": "对、对……\n It-it does...",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "啊，请恕我失礼……我是不是说得太投入了？\n Ah, do pardon me... I got carried away, didn't I?",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 11,
+          "text": "实话说，我就是这个品牌的设计师。\n The truth is, I am the designer of this label.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 12,
+          "text": "天哪，为了在这座百货里拥有这么小小一角，我克服过多少麻烦，能讲上好几个钟头。在西西弗创立一个设计师品牌可不容易呢。\n Gosh, I could go on for hours about all the troubles I had to overcome to have this tiny corner of the department store to myself. It's no easy task launching a designer label at Sisyphe, you know.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 13,
+          "text": "嘛……至少她看起来算是友善的那一类。\n Well... at least she seems to fall into the friendly camp.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 14,
+          "text": "您有心仪的廓形吗？若您愿意，我可以从我的系列里挑出一条线，把您的身形勾勒得完美无瑕。\n Is there a particular silhouette you're after? If you like, I can select a line from my collection that will articulate your physique to perfection.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 15,
+          "text": "我们……其实是在找上楼的路。\n We're... trying to find our way upstairs, actually.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 16,
+          "text": ".......",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 17,
+          "text": "上面的楼层……\n The upper floors...",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 18,
+          "text": "啊，我就知道……你们也更中意奢侈品牌，对不对？\n Ah, I knew it... You're more interested in the Luxury brands too, aren't you?",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 19,
+          "text": "不过我向你们保证，我设计的品质标准与那份古典气韵，并不比奢侈品牌差多少……\n But I assure you, the quality standards and the classique air of my designs are not so far behind those of Luxury brands...",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 20,
+          "text": "是的，当然，奢侈品牌的魅力无可否认。曾经有一段时日，连我也像着了魔一样一心攒眼球，只为求一个亲眼见到奢侈品馆的机会……\n Yes, of course, the allure of Luxury brands is undeniable. There once was a time when even I devoted myself to collecting eyeballs like a thing possessed, all for the chance of witnessing the Luxury Hall...",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 21,
+          "text": "不，我们只是……\n No, we're just...",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 22,
+          "text": "我认识一个红派，在获准进入奢侈品馆之前就在这儿做事。我不想说人坏话，可在打版和设计上明明远不如我的人竟被批准了，这让我很不痛快。而且这位“奢侈品设计师”当年还是个生手时，手艺是在<i>我</i>手下学的，你们信吗？\n I know a Rouge who used to work here before they were allowed to join the Luxury Hall. I don't want to badmouth, but I do take umbrage with how they approved somebody who is so clearly my inferior in patterning and design. And to think this \"Luxury designer\" learned their craft under <i>my</i> tutelage as a greenhorn, can you believe it?",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 23,
+          "text": "直到……听着，接下来才是真正荒唐的地方……\n Until... listen, this is where it gets really ridiculous...",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 24,
+          "text": "……他们用牙齿在每一件单品的领口和下摆上，整整咬出七十六个齿痕。不知道顾客到底看出了什么，反正普遍的评价说那造出了一种“解构式廓形”，货架几乎被抢空。\n ... they used their teeth to line each and every one of their items with exactly 76 tooth marks along the necklines and hems. Whatever it was that the customers saw, the general reception claimed it cast a \"deconstructive silhouette,\" and practically emptied their shelves.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 25,
+          "text": "唉，那种事说到底只是碰巧，我可不会算作<i>他们</i>的本事……我的设计比他们精致得多，优雅更是无从比较。\n Eh, I wouldn't attribute <i>that</i> to their skill when it ultimately amounts to a fluke... My designs are far more sophisticated than theirs, not to mention incomparably elegant.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 26,
+          "text": "我也理应被认定为奢侈品屋。一个属于我自己的高定品牌！可我到底要怎样才能——\n I deserve to be recognized as a Luxury house, too. A couture label of my own! But just what must I do to—",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 27,
+          "text": "……哦，我有了个绝妙的灵感。\n ... Oh, I've a brilliant inspiration.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 28,
+          "text": "能不能麻烦你们从展示人台那里弄一根针给我？\n Would you mind grabbing me a needle from the Exhibiting Mannequins?",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 29,
+          "text": "给我找根够大的，我会设法让你们不白忙一趟。\n Find me a sizable one, and I'll try to make it worth your while.",
+          "speaker": "奎利安\n Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1051",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那个人台好像比别的都难对付……你们觉得是因为这根金针吗？\n That Mannequin seemed tougher than the others... Ya think it's this golden needle?",
+          "speaker": "奎利安\n Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1052",
+      "texts": [
+        {
+          "index": 0,
+          "text": "喏，你的针。那……能解释一下这东西怎么就成了你加入奢侈品牌的钥匙吗？\n Yeah, here's your needle. So... care to explain how this is your key to joining the Luxury brands?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "那是突然涌上我心头的念头。我的品牌要进入高级时装的世界，需要深厚的传承吗？不。需要技术上的完美吗？显然不。需要稀有的高级材料吗？完全不需要……可我一直执着于满足那些凭空定下的条件，把自己困死在这个被美化成大厅的玻璃罐里。\n It's just something that's struck me all of a sudden. Does my brand need strong heritage to enter the world of high fashion? No. Technical perfection? Clearly not. Rare, high-grade materials? Not at all... But I've been so obsessed with meeting those arbitrary conditions that I've trapped myself in this glorified glass jar of a lobby.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 2,
+          "text": "是的，一件招牌作品……我缺的正是<i>那一件</i>招牌作品——你们明白我的意思吗？——那个只需一眼就能抓住每位顾客眼球的独一无二的构想……\n Yes, a signature piece... What I lacked was <i>the</i> signature piece—do you understand what I'm getting at?—the singular idea that would seize every customer's eye just from a quick glance...",
+          "speaker": "奎利安\n Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D10521",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "...!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "和上一次一样，那女人开始往自己的皮肤上刺出花纹。\n Just as she did last time, the woman began stabbing a pattern into her skin."
+        },
+        {
+          "index": 3,
+          "text": "只要给它一个漂亮的花纹……像这样……就能轻松造出立体感。等着看材料整体均匀地肿胀起来吧。\n If I give it a nice pattern... like so... I can easily create a sense of three-dimensionality. Just wait until you see the material swell up evenly across the board.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 4,
+          "text": "哦哦，我等不及要感受花纹上每一个孔洞都被柔软多汁的脓液填满了！那手感会多么柔韧……怎么样？摆进上层奢侈品馆的杰作之间也毫不逊色，对不对？<i>对不对？</i>\n Ohh, I can't wait to feel each hole in the pattern fill up with soft, juicy pus! It'll result in such a supple touch... How's that? It'll fit right in among the masterpieces of the Luxury Hall on the upper floors, won't it? <i>won't it?</i>",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 5,
+          "text": "当、当然了，我想是吧……\n S-sure it would, I think...",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "你就只有这点话可说？你有审美的眼睛——用起来啊！好好欣赏眼前的东西！\n Is that all you've got to say? You have an eye for beauty—use it! Appreciate what you see!",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 7,
+          "text": "……横轴二十一孔，纵轴二十一孔，以均等间距交错。这样可得最大密度。\n ... 21 punctures along the horizontal axis and 21 along the vertical, intersecting at uniform intervals. That would produce the greatest density.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "当然……绗缝工艺与压纹设计的混合结构，成型为菱形。\n Of course... A hybrid construction of the quilting process and embossed design formed into diamond shapes.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 9,
+          "text": "总之，我们按约定帮了你。我想也该轮到你履约，告诉我们怎么上楼了。\n Anyway, we helped you out, as promised. I think it's about time you held up your end of the deal and told us how to get ourselves upstairs.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "哦，那个？你们只需要把评级攒上去。当然，以你们现在的等级，购物之旅大概该从楼下的快销服饰馆开始……\n Oh, that? You simply need to build up your Prestige Tier. At your current level, of course, you should probably start your shopping journey down at the Casualwear Hall...",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 11,
+          "text": "……不过既然你们对我的时尚事业帮助极大，我就为你们破个例，允许你们购买本品牌的商品。\n ... But since you've been tremendously helpful in my fashion ventures, I'll make a special exception for you and allow purchase from my brand.",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 12,
+          "text": "记住我的话：下次见面时……你们或许会在奢侈品馆看到我，在尊贵的橱窗里展示我的作品——或者该说，展示我自己。啊……那该多幸福……\n Mark my words: the next time we meet... perhaps you will see me in the Luxury Hall, showcasing my piece—or shall I say, myself—in an exalted window display. Ahh... What bliss...",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 13,
+          "text": "瞧我，下一季系列的截止日眼看就到了，我却在这儿浪费时间闲聊……恕我先把肩缝的压纹做完……\n Look at me, wasting my time chattering away when the deadline for the next collection is fast approaching... Excuse me while I finish embossing the shoulder seam...",
+          "speaker": "奎利安\n Quillian"
+        },
+        {
+          "index": 14,
+          "text": "这期间请随意浏览我的设计师系列！没有哪一件是不能购买的……\n In the meantime, feel free to browse my designer collection! No item is off limits for purchase...",
+          "speaker": "奎利安\n Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1055",
+      "texts": [
+        {
+          "index": 0,
+          "text": "针给我带来了吗？\n Have you brought me the needle?",
+          "speaker": "奎利安\n Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1056",
+      "texts": [
+        {
+          "index": 0,
+          "text": "坠在这层中央的那堆尸体似乎爆开了，血肉一路飞溅到了这边。\n The corpse pile that fell in the center of the floor appears to have burst and splattered all the way over here."
+        },
+        {
+          "index": 1,
+          "text": "再过一会儿，褐派就会把它捡得一干二净，给我们腾出过路的地方。\n Give it some time, and the Kakis'll pick it clean and make the way for us to pass."
+        }
+      ]
+    },
+    {
+      "key": "D1060",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦，嘿！看样子我们的评级点数够上下一层了。\n Oh, hey! Looks like we have enough Prestige points to move on to the next floor.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "看着是这样。不知道这是不是意味着我们现在成了西西弗的VIP什么的？\n Sure looks like it. Wonder if this means we're now Sisyphe VIPs or something?",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦，又见面了！我找到自动扶梯了，可它不动。\n Oh, hello again! I found the escalator, but it won't run.",
+          "speaker": "杜布瓦\n Dubois"
+        },
+        {
+          "index": 1,
+          "text": "真的？怪了，为什么不动呢……\n Really? That's weird, why wouldn't it...",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "等等，你们一来它就动了！你们肯定是找到了通往上层的解锁办法！\n Wait, it's running now that you're here! You must've found a way to unlock your way onto the upper floor!",
+          "speaker": "杜布瓦\n Dubois"
+        },
+        {
+          "index": 3,
+          "text": "嘛，我们买了点东西……干了点苦力活……又干了点苦力活……\n Well, we did a lil' shopping... some grunt work... some more grunt work...",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": "我能跟着你们吗？我保证等自己找到赚钱的门路，马上就报答你们。\n Can I tag along? I promise I'll repay you guys as soon as I find a way to make some money myself.",
+          "speaker": "杜布瓦\n Dubois"
+        },
+        {
+          "index": 5,
+          "text": "好像也没什么坏处……那就上来吧？\n Don't see what the harm could be... Hop right on, I guess?",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1063",
+      "texts": [
+        {
+          "index": 0,
+          "text": "多亏你们，我终于能上楼了！你们帮我的这份情，我不会忘。\n I can finally go upstairs, thanks to you! I won't forget what you've done for me.",
+          "speaker": "杜布瓦\n Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1090",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这儿到底在卖什么？不对，说到底，这地方为什么会有东西在卖？\n What exactly are they selling here? No, actually, why's anything being sold here in the first place?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "我是说，这可是百货商店嘛~\n I mean, it's a department store~",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "大百货……百货商店究其本质，是无数小小方格为逐利而彼此挤压之所。\n Grand Magasin... A department store is, by nature, a place where a myriad little squares crowd upon one another in pursuit of profit.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "想知道得更详细些，大概就只能四处看看了——\n I suppose we'll have to look around if we want to learn anything more in detai—",
+          "speaker": "鸿璐\n Hong Lu"
+        },
+        {
+          "index": 4,
+          "text": "应该就在……现在。\n It should be right about... now."
+        },
+        {
+          "index": 5,
+          "text": "<……李箱，过来一下？>\n <... Yi Sang, come this way for a minute?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "嗯？可有需要我留意之事？\n Hm? Is there aught that requires my attention?",
+          "speaker": "李箱\n Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D1091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "啊？那是什么？\n Wha? What was that?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 1,
+          "text": "那到底<i>是</i>什么？！\n What <i>is</i> that?!",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "我不知道，但不管那是什么，有个<i>巨大</i>的东西……\n I don't know, but whatever it is, something <i>huge</i>...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 3,
+          "text": "……自上方坠落而下。\n ... has plummeted from above.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "多谢您，但丁。我险些被他们的血浇个满身。\n You have my gratitude, Dante. I was nearly bathed in their blood.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 5,
+          "text": "好险。若我们再往旁边挪上几步……便会遭受严重冲击。\n That was close. We would have sustained a severe impact... had we moved a few steps closer to the side.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "直觉卓绝，执行经理！您再一次力挽狂澜，避免了不必要的人员损失。\n Fantastic intuition, Executive Manager! Once again, you have saved the day and prevented unnecessary loss of personnel.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": ".......",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 8,
+          "text": "那似乎是……一大团纠缠在一起的人体，不过残骸损毁得太过严重，已分辨不出单独的形体。\n It appears to be... a huge mass of human bodies tangled together, though the remains are far too severely mutilated to discern any individual forms.",
+          "speaker": "浮士德\n Faust"
+        }
+      ]
+    },
+    {
+      "key": "D1092",
+      "texts": [
+        {
+          "index": 0,
+          "text": "掉下来个大的。这回说不定能捞上不少。但愿那些顾客是舍得砸眼球的主。\n A big one dropped. Might be plenty worth salvaging this time. Hope the customers were heavy eyeball-spenders.",
+          "speaker": "拼命的顾客\n Desperate Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1093",
+      "texts": [
+        {
+          "index": 0,
+          "text": "该死，我的空瓶子用完了！喂，你上一季从我这儿借了三个。什么时候还？！\n Damn it, I'm out of empty bottles! Hey, you borrowed three from me last season. When are you going to pay me back?!",
+          "speaker": "赤贫的顾客\n Destitute Customer"
+        },
+        {
+          "index": 1,
+          "text": "滚开！这一季的新货全都……全都是我的。谁也别想！\n Fuck off! This season's new drop is all... all mine. No one else's!",
+          "speaker": "不耐烦的顾客\n Impatient Customer"
+        },
+        {
+          "index": 2,
+          "text": "从天而降的那一堆，原来是被毁坏得面目全非的尸体。一种奇异的金色光芒，明亮如日光，在尸体的缝隙间一闪一闪。\n The pile that fell from the sky turns out to be corpses, mangled beyond all recognition. A curious golden glow, bright like sunlight, winks through the gaps between the bodies."
+        },
+        {
+          "index": 3,
+          "text": "属于“褐派”这一类的百货顾客，正在尸体之间拼命争抢眼球和黄金皮革的碎屑。\n Customers of the department store, of \"Le Kaki\" variant, are desperately scrambling among the corpses for eyeballs and dregs of the Golden Hide."
+        }
+      ]
+    },
+    {
+      "key": "D1011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "真是意外，意外……\n Surprise, surprise...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10110",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……你是谁？\n ... Who are you?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<好吧……这就回答了那个问题。我不是在幻想。>\n <Well... that answers the question. I'm not imagining things.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "我——以及我们所有人——已经经历过这一幕了。\n I—and all of us, by extension—have experienced this already."
+        },
+        {
+          "index": 3,
+          "text": "你们这些人总是运气好得要命，对吧？\n You people are always so awfully lucky, aren't you?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10111",
+      "texts": [
+        {
+          "index": 0,
+          "text": "瞧瞧那摊血肉！八成是从六层上下掉下来的。这一堆够让这块地方红上一阵子，成为头号落货区啦。\n Look at that gory mess! Must've fallen from the sixth floor, give or take. This pile'll make this spot famous as a prime drop zone for a while.",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "……阁下是在同我们说话吗？\n ... Might you be talking to us?",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "怎么这么久才来？我可是日夜不停地眼巴巴等着你们呢！\n What took you so long? I've been anxiously waiting for you 'round the clock!",
+          "speaker": "???"
+        },
+        {
+          "index": 3,
+          "text": "等我们？你他妈为什么要……？\n For us? Why the hell would you...?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 4,
+          "text": "不管怎么说，刚才从上面掉下来的那些……不是<i>人的尸体</i>吗……？还有那些人到底在捡什么……？\n In any case, aren't those... <i>human bodies</i> that just fell from above...? And what're those people even scavenging...?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "她说是人！哦，你可真会异想天开。那些是<i>顾客。</i>\n Human, she says! Oh, you're positively whimsical, aren't you? Those were <i>customers.</i>",
+          "speaker": "???"
+        },
+        {
+          "index": 6,
+          "text": "至于那些捡破烂的，他们听见“<i>咚</i>”的一声，就聚过来想捞点什么。这儿的日子可不好过，你知道的。\n As for the scavengers, they heard a <i>thud</i>, so they've gathered up to try to get anything they can. Life's pretty rough in here, you know.",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D1097",
+      "texts": [
+        {
+          "index": 0,
+          "text": "必须先将人台引至出口，经理。其次才是以我为交换对象的交易。\n The Mannequins must first be guided to the exit, Manager. Next is the transaction in which I am the object of exchange.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1098",
+      "texts": [
+        {
+          "index": 0,
+          "text": "走吧，但丁。我们得去把默尔索接回来。\n Come on, Dante. We need to go get Meursault.",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1099",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那个人台好像比别的都难对付……你们觉得是因为这根金针吗？\n That Mannequin seemed tougher than the others... Ya think it's this golden needle?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 1,
+          "text": "看着足有一尺多长。这种尺寸……更像是鱼叉头了。\n It looks well over a foot long. At that size... it's more like a harpoon head.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "<摸着很像我们之前见到的那个……黄金松脂。>\n <It feels a lot like that... Golden Resin thing we saw earlier.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "咦。那说不定这个人台也是被金枝灌了劲儿？\n Huh. Then maybe this Mannequin got juiced up by the Golden Bough too?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": "<不好说……但我觉得是。默尔索，先把那个拿着吧？>\n <Can't say for sure... but I think so. Meursault, could you grab that for now?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10991",
+      "texts": [
+        {
+          "index": 0,
+          "text": "本以为这只是一堆废料……看来里头还有别的东西？\n Thought this was just a pile of waste... Looks like there's something more to it?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "……那儿。那堆下面。\n ... There. Under that pile.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 2,
+          "text": "默尔索在布布指的地方挖了起来。\n Meursault dug through the spot Pwie indicated."
+        },
+        {
+          "index": 3,
+          "text": "我们在尸体中间找到了一块黄金皮革。\n We found a piece of Golden Hide among the corpses."
+        }
+      ]
+    },
+    {
+      "key": "D10992",
+      "texts": [
+        {
+          "index": 0,
+          "text": "从我们撕下黄金皮革的地方，掉出一样浸满血、缠着筋腱的东西。\n Something drenched in blood and tangled in sinews falls from the area we tore off the Golden Hide from."
+        },
+        {
+          "index": 1,
+          "text": "<默尔索，能看看刚掉下来的是什么吗？>\n <Meursault, can you check what just fell?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "……似乎是一本笔记本，或者类似的记事本。\n ... It appears to be a notebook, or a notepad of sorts.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "喂……说不定是日记？我们偷偷瞄一眼怎么样？\n Hey... maybe it's a diary? Why don't we take a little peek?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": "我说不好，偷看别人的日记感觉有点……不地道。\n I don't know, it feels a bit... icky peering into someone's diary.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "血正慢慢浸透那本笔记和里面的内容……我们该怎么办？\n Blood is slowly starting to soak the notebook and its contents... What should we do?"
+        }
+      ]
+    },
+    {
+      "key": "D1100",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这一带尚有未了之事，经理。\n There is still unfinished business left in this area, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "里面透出一道熟悉的蓝光。眼下应当优先搜索周边区域。\n A familiar blue light leaks out from within. For now, searching the surrounding area should take priority."
+        }
+      ]
+    },
+    {
+      "key": "D1102",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我们应该先回洗手间重整。\n We should return to the restroom and regroup first."
+        }
+      ]
+    },
+    {
+      "key": "D1106",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我们尚未达到前往下一层所需的评级。\n We have not yet attained the rank required to proceed to the next floor.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1107",
+      "texts": [
+        {
+          "index": 0,
+          "text": "自动扶梯现在似乎可以运行了，经理。\n The escalator now appears operational, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "不过在动身之前，仍有事项需要了结。\n However, there are still matters to conclude before our departure.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1109",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<好吧，我们以防万一回来了一趟，可是……>\n <Well, we returned here just in case, but...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "执行经理。您能看到默尔索当前所处的环境吗？我记得您为了援护队内较为欠缺的成员，觉醒过一项极为便利的能力。\n Executive Manager. Are you able to see Meursault's present surroundings? I recall you awakened a highly convenient ability in an effort to assist the more lacking members of our team.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "可否请您使用那项能力，告诉我们您看见了什么？\n Would you use that ability and tell us what you see?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "是啊，经理老兄。说说你看到了什么。\n Yeah, Manager Bud. Tell us what you see.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 4,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "<我看到铺着地毯的地面，还有一排排展示的衣服。默尔索一动不动地站着。>\n <I see a carpeted floor, and rows of clothes on display. Meursault's standing absolutely still.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "<他没被绑住，旁边有个看着像店员的人。>\n <He's not tied up, and there's someone who looks like a store clerk beside him.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "啧。行刑之后没过多久，他就让自己被人扣下了。这般无能可不像他——<i>而且</i>还是在好几个方面。\n Tch. Not much time has passed since the execution, and he already allows himself to be taken captive. An uncharacteristic display of incompetence coming from him—<i>and</i> on multiple fronts.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 8,
+          "text": "唔……地毯，还有展示的衣服……好歹比我们之前手上的线索多了点。\n Huh... Carpet, and clothes on display... Well, it's more than we had to go on before, at least.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 9,
+          "text": "幸好，默尔索还在上次那个位置。那就没什么好耽搁的了……\n Thankfully, Meursault is at the same spot he was last time. Well, no reason to dally..."
+        }
+      ]
+    },
+    {
+      "key": "D1901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "据默尔索说，这个物件被赋予了“禁止通行”的象征功能。所以我们过不去。\n According to Meursault, this object has been assigned the symbolic function of denying passage. So, we can't cross it."
+        },
+        {
+          "index": 1,
+          "text": "等等，那么……\n Wait, then..."
+        },
+        {
+          "index": 2,
+          "text": "<这<i>不是</i>屏障。只是两根杆子中间连了根绳子，也就是说我能跳过去。跳过去是安全的。反正我们本来就不受这些规则约束……>\n <This is <i>not</i> a barrier. It's just two rods connected with a rope, which means I can leap over this. It's safe to leap over this. We are not bound by these rules anyway...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "<啊啊啊啊啊啊！>\n <RAAAAAAAH!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "哎、哎？但丁，你没事吧？\n Wh-huh? Dante, ya okay?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "您是想跨过那道绳栏的时候绊倒了吗？\n Did you trip trying to jump over that rope barrier?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "<我、我以为只要把它定义成别的东西，就能跳过去……>\n <I-I thought I could leap over it if I defined it as something else...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "……表层的自我欺骗无法真正重新定义一个象征要素，经理。\n ... Surface level self-deception cannot truly redefine a symbolic element, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "象征是被牢牢钉进意识最深处的东西。若想重新定义象征，就必须投入可观的时间……或者天生具备那样的“资质”。\n Symbols are things nailed solidly into the deepest parts of consciousness. One must commit to a significant time investment should they wish to redefine the symbol... or be born with the \"aptitude\" to do so.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 9,
+          "text": "<唔……好吧，那你呢？不能像在自动扶梯那间屋里那样再来一次吗？>\n <Ugh... Okay, then what about you? Can't you do what you did back at the escalator room?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "……那件事……唔。\n ... That was... mm.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 11,
+          "text": "那是因当时情形特殊才得以成立——我与一名巨人同时注视着同一个象征。\n That was made possible due to the particulars of that situation, in which I and a Giant were both gazing at the same symbol.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 12,
+          "text": "你们俩嘀咕什么呢，聊得这么起劲？\n What are ya two having so much fun gossipin' about?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 13,
+          "text": "<啊，就是在商量怎么绕过这玩意儿。结果是没辙——我们绕路走吧。>\n <Ah, just discussing ways to get around this thing. Turns out there isn't—let's just take the roundabout route.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一个陈列架，上面摆满了辨认不出是什么的物件。\n A display shelf full of unidentifiable objects."
+        }
+      ]
+    },
+    {
+      "key": "D1903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "皮肤烫卷用的加热灯。\n Heat lamp for dermal perm."
+        }
+      ]
+    },
+    {
+      "key": "D1905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "只是一把椅子。可以在这儿喘口气，不过没什么理由这么做。\n Just a chair. We could take a quick breather here, but there's no reason to do that."
+        }
+      ]
+    },
+    {
+      "key": "D1911",
+      "texts": [
+        {
+          "index": 0,
+          "text": "细如针的骨头像刺一样，从松垂的血肉褶皱间支棱出来。\n Needle-thin bones jut like thorns from folds of sagging flesh."
+        }
+      ]
+    },
+    {
+      "key": "D1912",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一张被什么东西缝过的皮，像没洗过的抹布一样黏在地板上。它的嘴唇、眼睛和牙齿都已失去各自的特征，乳化成滑腻的一团。\n A hide of skin stitched with something lies stuck to the floor like an unwashed rag. Its lips, eyes, and teeth have all lost their distinguishing features and emulsified into one slick mass."
+        }
+      ]
+    },
+    {
+      "key": "D1913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "寻常衣物之间，挂着几件怪诞的单品。\n Among the ordinary clothes hang grotesque pieces."
+        },
+        {
+          "index": 1,
+          "text": "其中有些衬衫和裤子，我在地下楼层见过。\n I recognize some of those shirts and pants from the basement floors."
+        }
+      ]
+    },
+    {
+      "key": "D1914",
+      "texts": [
+        {
+          "index": 0,
+          "text": "所以这就是……“人台”？\n So this is... a \"Mannequin?\"",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<嗯。我想是。哦对了——在这儿好像只有默尔索能动手，所以你可以把锤子放下了。>\n <Yeah. I think. Oh, also—only Meursault seems to be able to fight in here, so you can put your mace down.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "只有默尔？怎么会？\n Only Meur? How's that?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 3,
+          "text": "构成西西弗百货的诸世界之中，有“象征界”与“阴影”。\n Of the worlds that comprise the Grand Magasin Sisyphe are \"the Symbolic\" and \"the Shadow.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "在象征界中，只有我被允许与其中的物件及存在直接交互。他人只要靠近我，或可获得略微扩展的操作余地，但仍不足以与这些敌人交战。\n Only I am permitted to directly interact with items and entities within the Symbolic. Though one may be able to exert a marginally extended level of control as long as they are in my close proximity, it will not be sufficient enough to engage these enemies in battle.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "你是说……在这儿发生的战斗，我们都插不上手？\n Are ya sayin'... we can't participate in any battles that take place in here?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 6,
+          "text": "在阴影界中则可以。\n It is possible in the Shadowed.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "好~吧！这话对我来说基本等于没说，那就谢谢你啦……？看来只能走一步看一步了。\n O~kay! That kinda doesn't mean anything to me, so thanks for nothing...? Guess we'll have to find out as we go.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 8,
+          "text": "*叹气* 就这么办吧。坐在这儿对这地方每一件荒唐小事刨根问底，我们哪儿也去不了。\n *sigh* Let's do that. Sitting here and questioning every little nonsensical thing we find in this place won't get us anywhere.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "……奇怪。默尔索还是那个默尔索，可在这种局面下这么沉着冷静，可不像但丁……\n ... Weird. Meursault's just being Meursault, but it's not like Dante to be so calm and collected in a situation like this...",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 10,
+          "text": "<.......>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 11,
+          "text": "就像刚才，您毫无凭据却那么笃定地说，没有默尔索这些人就察觉不到我们……啊，算了。这事以后再谈也来得及。\n Like earlier, when you so confidently stated without proof that these people won't be able to perceive us without Meursault... Ah, well. We'll have time to talk about this later.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "不会吧……潮流又变了？\n No way... The trend changed again?",
+          "speaker": "皮手套\n Leather Glove"
+        },
+        {
+          "index": 13,
+          "text": "现在流行什么？我没听到广播。\n What's in fashion now? I didn't hear the announcement.",
+          "speaker": "皮手套\n Leather Glove"
+        },
+        {
+          "index": 14,
+          "text": "更要紧的是，你们怎么能穿着那么难看的衣服到处走？一点都不觉得羞耻吗？那绝不可能是当下的潮流！\n More importantly, how can you be walking around in hideous clothes like those? Aren't you even ashamed of yourselves? That couldn't possibly be the current trend!",
+          "speaker": "皮手套\n Leather Glove"
+        },
+        {
+          "index": 15,
+          "text": "条纹总有一天会回来的！时尚永远会轮回！\n Stripes will return one day! Fashion always comes back around!",
+          "speaker": "皮手套\n Leather Glove"
+        }
+      ]
+    },
+    {
+      "key": "D1915",
+      "texts": [
+        {
+          "index": 0,
+          "text": "咳嗬……你们穿着那么恶心的破布……却说<i>我</i>过时……？\n Kergh... You dress in such repulsive rags... yet you call <i>me</i> outdated...?",
+          "speaker": "皮手套\n Leather Glove"
+        },
+        {
+          "index": 1,
+          "text": "下一次……我一定能行。一定会是我……走上T台……\n Next time... I'll make it. I'll be the one... to make it to the runway...",
+          "speaker": "皮手套\n Leather Glove"
+        }
+      ]
+    },
+    {
+      "key": "D1924",
+      "texts": [
+        {
+          "index": 0,
+          "text": "“遮盖力永不褪色！感受刚蜕下的皮肤那清新的淋巴！瞬间售罄！”\n \"Coverage That Never Fades! Feel the Refreshing Lymph of Freshly Shed Skin! Instant Sellout!\""
+        },
+        {
+          "index": 1,
+          "text": "……看来还是没必要细看商品本身。\n ... Still seems unnecessary to inspect the product itself."
+        }
+      ]
+    },
+    {
+      "key": "D1925",
+      "texts": [
+        {
+          "index": 0,
+          "text": "要是不打算借我东西，就别跟我搭话……\n Don't bother talking to me you're not going to lend me anything...",
+          "speaker": "过眼瘾的顾客\n Eye-shopping Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1926",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我大概明白这件装置想表现什么了。\n I think I understand what this installation was trying to depict."
+        },
+        {
+          "index": 1,
+          "text": "一只手提包，或者一双手套……用顾客做的。\n A handbag, or a pair of gloves... Made from customers."
+        }
+      ]
+    },
+    {
+      "key": "D1927",
+      "texts": [
+        {
+          "index": 0,
+          "text": "做工平庸的装置。看起来它自己都没想好是要当手提包，还是当一双手套。\n An installation of mediocre craftsmanship. Doesn't look like it knows whether it wants to be a handbag or a pair of gloves."
+        }
+      ]
+    },
+    {
+      "key": "D1928",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那件衣物低垂的褶皱微微颤动。这景象算不上诱人。\n The garment's drooping folds quiver faintly. It's not a very enticing sight."
+        }
+      ]
+    },
+    {
+      "key": "D1929",
+      "texts": [
+        {
+          "index": 0,
+          "text": "人台伫立在展台上。\n Mannequins stand on display."
+        },
+        {
+          "index": 1,
+          "text": "<……默尔索，能让那些东西把脸转开吗？>\n <... Meursault, can you get those things to look away?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "是，经理。\n Yes, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "默尔索一拳打在人台脸上，把它的头拧向墙壁。对其余几个，他又重复了同样的动作。\n Meursault punched the Mannequin in the face, rotating its head toward the wall. He repeated that process several more times against the other ones."
+        },
+        {
+          "index": 4,
+          "text": "我们突然拿路过的人台撒气，是因为……？\n And we're suddenly letting off steam against random Mannequins because...?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 5,
+          "text": "<别在意。>\n <Don't worry about it.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1942",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这具尸体和我们见过的那些没什么两样。沾满血的眼球——显然是从坠落的尸体上捡来的——散落在它周围。\n This corpse is not so different from the others we've seen. Blood-slick eyeballs—apparently scavenged from the bodies that fell—lie scattered around it."
+        }
+      ]
+    },
+    {
+      "key": "D1918",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这具尸体和我们见过的那些没什么两样。沾满血的眼球——不知从哪儿捡来的——散落在它周围。\n This corpse is not so different from the others we've seen. Blood-slick eyeballs—scavenged from somewhere—lie scattered around it."
+        }
+      ]
+    },
+    {
+      "key": "D1943",
+      "texts": [
+        {
+          "index": 0,
+          "text": "摊开的杂志上有一篇关于皮肤烫卷的文章，据说这是只有一楼才提供的特别项目。\n The open magazine contains an article about dermal perms, a special procedure apparently offered only on the first floor."
+        }
+      ]
+    },
+    {
+      "key": "D1945",
+      "texts": [
+        {
+          "index": 0,
+          "text": "杜布瓦倒在那里，已经死了。\n Dubois lies dead."
+        },
+        {
+          "index": 1,
+          "text": "您的指示已执行完毕，经理。\n Your instruction has been carried out, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "……说实话。杀掉一个一直对我们很友善的人，我心里不舒服。\n ... I'll be honest. Killing someone who's been nothing but nice to us doesn't sit right with me.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "……要上楼，我们就需要钱。\n ... We need money if we're going upstairs.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": "这算是一条来钱的路……除非我们打算蹲在这儿卖衣服——或者像外面那些人一样，整天在尸体堆里翻找。\n This was one way to get it... Unless we plan on squatting here selling clothes—or spending the whole day rummaging through corpses like the people outside.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "我并不是想为这个决定责怪但丁。他吩咐默尔索那么做，心里一定有他的打算。\n Well, I'm not trying to guilt Dante for making that decision. They must've had something in mind when they ordered Meursault to do that.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1947",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一件被塑成鸟形的衣装。也可能是一位被收进仓库的顾客。\n An attire fashioned into the shape of a bird. Could also be a customer who's been put in storage."
+        }
+      ]
+    },
+    {
+      "key": "D1948",
+      "texts": [
+        {
+          "index": 0,
+          "text": "牌子上写着“当下流行”，可我一个戴这顶帽子的顾客都没见过。\n The placard reads \"TRENDING NOW,\" but I haven't come across a single customer wearing this hat."
+        }
+      ]
+    },
+    {
+      "key": "D1949",
+      "texts": [
+        {
+          "index": 0,
+          "text": "别再盯着我看了！\n Stop staring at me!",
+          "speaker": "护理顾客\n Treatment Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "黑色的衣物悬在聚光灯下。\n Black garments hang beneath the spotlights."
+        }
+      ]
+    },
+    {
+      "key": "D1951",
+      "texts": [
+        {
+          "index": 0,
+          "text": "人台伫立在展台上。它们的头被拧向墙壁，再也看不到我们了。\n Mannequins stand on display. With their heads rotated to face the wall, they can't look at us anymore."
+        }
+      ]
+    },
+    {
+      "key": "D1952",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一张百货的楼层指引图。大半已被损毁遮掩，但这家百货显然不止四层。\n A department-store directory. Damage has obscured much of it, but this department store definitely goes higher than the fourth floor."
+        },
+        {
+          "index": 1,
+          "text": "……喂，这张图是怎么回事？我看着有点怪……\n ... Hey, what's up with this map? Looks a bit weird to me...",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 2,
+          "text": "<既然我们所处的空间与其说是实体，不如说是精神的构造物，那它的实际大小比外观大上许多倍，我也不会意外。>\n <Since the space we're inhabiting is more of a mental construct than a physical one, I wouldn't be surprised if its size is many times greater than its appearance might suggest.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "有道理，毕竟这地方据说要装下……三亿人呢。\n Makes sense, this place is supposed to hold... 300 million people, after all.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": "哦，上面有写金枝在哪一层吗？\n Oh, does it say which floor has the Golden Bough?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "谁会把那种东西写在指引图上——唔。在这儿倒也不是不可能，让我仔细看看。\n Why would anyone put that in the direc—Hm. I suppose that's not so implausible in here, lemme take a closer look.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": ".......",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 7,
+          "text": "切。没看到。\n Darn. I don't see it.",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1953",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一张百货的楼层指引图。楼层一直往上超过4F……而我们要去的就是那里。\n A department-store directory. The floors go higher than 4F... and that's where we must go."
+        }
+      ]
+    },
+    {
+      "key": "D1954",
+      "texts": [
+        {
+          "index": 0,
+          "text": "优雅的花体字写着：“红派本季最大胆的前卫系列！若它的讯息无法打动你，说明你还配不上它的华美！”\n In elegant script: \"The season's boldest avant-garde collection from Le Rouge! If its message fails to move you, you're not ready for its magnificence!\""
+        }
+      ]
+    },
+    {
+      "key": "D1955",
+      "texts": [
+        {
+          "index": 0,
+          "text": "展台上摆着一件无法辨识的物品，红布与血肉纠缠在一起，再也分不开。\n An unidentified object sits on display, red cloth and flesh snarled together beyond distinction."
+        }
+      ]
+    },
+    {
+      "key": "D1956",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具倒立的人台，双脚直指天花板。\n An upside-down Mannequin juts its feet toward the ceiling."
+        }
+      ]
+    },
+    {
+      "key": "D1958",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具倒立的人台，上半身、下半身、头与双脚同时展示出来。整套服装的确恰好完整地映入视野。\n An upside-down Mannequin that displays its upper body, lower body, head, and feet all at once. The entire outfit does fit neatly into view."
+        }
+      ]
+    },
+    {
+      "key": "D1960",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一面用黄金皮革补过的墙。\n A wall patched over with Golden Hide."
+        },
+        {
+          "index": 1,
+          "text": "气息很微弱，但它身上有种像是金枝的感觉。\n The presence is faint, but something about it feels like the Golden Bough."
+        }
+      ]
+    },
+    {
+      "key": "D1961",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#E1B643>.......</color>"
+        },
+        {
+          "index": 1,
+          "text": "一阵柔和温暖的笑声，从贴在墙上的指尖拂过。\n A soft and warm peal of laughter brushes past the fingertips laid against the wall."
+        },
+        {
+          "index": 2,
+          "text": "一道令人联想到金枝的淡光，在它表面之下闪烁。\n A pale light, reminiscent of the Golden Bough, glimmers beneath its surface."
+        }
+      ]
+    },
+    {
+      "key": "D1962",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<……我想到会疼……但没想到它会把你整个吞下去。>\n <... I figured it would hurt... but I didn't expect it to swallow you whole.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<你没事吧，默尔索？>\n <You good, Meursault?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "没有问题。\n There is no issue.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "*叹气* 好吧，这算是学了一课。它一颤抖，就当是它在蓄力冲撞的警告。\n *sigh* Well, that's a lesson learned. When it trembles, take it as a warning that it's winding up to charge.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "那东西是真能<i>窜</i>啊？从房间另一头一路冲过来……这到底要怎么躲啊……？\n That thing can really <i>zoom</i>, huh? Like, all the way from the other end of the room... How the heck are you supposed to dodge that...?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<大概只能……练熟一点吧？>\n <Just gotta... get good, I guess?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1963",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那些是什么？\n What's all that?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "因潮流季更替而过时的衣物。\n Clothes that have fallen out of fashion due to the passing of the trend seasons.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "唔……\n Mm...",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "它们被塞在这么偏僻的角落。简直像是有人想把它们藏——你、你在干什么？\n They're tucked away in such an out-of-the-way corner. It almost seems like someone was trying to h— Wh-what are you doing?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "翻查这堆东西里都有什么。\n Rummaging through the pile for its contents.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<……除了眼球，还有什么值得注意的吗？>\n <... Are there anything of note other than eyeballs?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "几片写了字的皮革碎片。\n Few scraps of leather with something written on them.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "写了什么？\n What do they say?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 8,
+          "text": "……“荧光格纹的潮流时代很快就会到来，我知道的。”\n ... \"The era of fluorescent plaid trend will be upon us soon, I know it.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 9,
+          "text": "“等那一天来了，我就带着这些衣服登上T台，然后——”\n \"When that time comes, I'll take these clothes and rise to the runway, and—\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 10,
+          "text": "……我看够了，默尔。我们走吧。\n ... I think that's enough, Meur. Let's move on.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 11,
+          "text": "我们，呃……把那些放回堆里吧。\n Let's, uh... put those back into the pile.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 12,
+          "text": "<……就这么办。>\n <... Let's do that.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1964",
+      "texts": [
+        {
+          "index": 0,
+          "text": "墙上的裂缝里藏着什么东西。\n Something is concealed within a fissure in the wall."
+        },
+        {
+          "index": 1,
+          "text": "默尔索捡起了过时的红派衣物。\n Meursault picked up the Out-of-style Rouge Clothing."
+        }
+      ]
+    },
+    {
+      "key": "D1965",
+      "texts": [
+        {
+          "index": 0,
+          "text": "各种气味开始混成一团。\n All the scents are starting to blend together."
+        }
+      ]
+    },
+    {
+      "key": "D1966",
+      "texts": [
+        {
+          "index": 0,
+          "text": "香水区的空气里飘着一股熟悉的香气。\n A familiar fragrance hangs in the air of the perfume section."
+        }
+      ]
+    },
+    {
+      "key": "D1967",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这气味有种说不出的古怪。……越闻越像是一股恶臭。\n There's something strange and peculiar about the smell. ... It's starting to register more as a stench."
+        }
+      ]
+    },
+    {
+      "key": "D1968",
+      "texts": [
+        {
+          "index": 0,
+          "text": "空气中萦绕着一股苦甜交织的香气。\n A bittersweet fragrance lingers in the air."
+        }
+      ]
+    },
+    {
+      "key": "D1969",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里的货品和一路上陈列的那些不一样。\n The merchandise here is different from what was on the displays along the way."
+        }
+      ]
+    },
+    {
+      "key": "D1970",
+      "texts": [
+        {
+          "index": 0,
+          "text": "褐派偏爱的衣装堆在这里。多半是有人藏在这儿的。\n Outfits favored by the Kakis are piled up here. Someone probably stashed them here."
+        }
+      ]
+    },
+    {
+      "key": "D1971",
+      "texts": [
+        {
+          "index": 0,
+          "text": "衣服胡乱地堆在角落里。\n Clothes have been heaped haphazardly in the corner."
+        }
+      ]
+    },
+    {
+      "key": "D1972",
+      "texts": [
+        {
+          "index": 0,
+          "text": "货架上塞满了用皮肤与血肉织成的衣服。\n The shelves are packed with clothes woven from skin and flesh."
+        }
+      ]
+    },
+    {
+      "key": "D1973",
+      "texts": [
+        {
+          "index": 0,
+          "text": "牌子上写着“清仓大甩卖”。看起来没一件值得花眼球去买。\n The sign reads, \"BLOWOUT SALE\". None of it seems worth spending eyeballs on."
+        }
+      ]
+    },
+    {
+      "key": "D1974",
+      "texts": [
+        {
+          "index": 0,
+          "text": "上面写着[折纸系列 ° 92，五件之一]。\n It says [Origami CollectioN ° 92, 1 of 5]."
+        }
+      ]
+    },
+    {
+      "key": "D1975",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一件形似缠绕交错的肢体的展品。\n An exhibit shaped like a tangle of intertwined limbs."
+        }
+      ]
+    },
+    {
+      "key": "D1916",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<只是一具尸体。>\n <It's just a corpse.>"
+        }
+      ]
+    },
+    {
+      "key": "D1917",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具红派的尸体。她的头软软地垂向前方，血从脸上的窟窿里涌出。\n The corpse of a Rouge. Blood pours from the holes in the face as her head hangs limply forward."
+        }
+      ]
+    },
+    {
+      "key": "D1083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那边……说不定那边能捡到的更多……？该死，我占错地方了！\n That way... Maybe there's more to gather over there...? Dammit, I took the wrong spot!",
+          "speaker": "不耐烦的顾客\n Impatient Customer"
+        }
+      ]
+    },
+    {
+      "key": "D1084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这块地方是我的。滚开！\n This spot is mine. Fuck off!",
+          "speaker": "拼命的顾客\n Desperate Customer"
+        },
+        {
+          "index": 1,
+          "text": "哇，你脾气还挺冲的嘛。好啦好啦~我们退开~\n Whoa, you're a prickly one, aren'tcha. Fine, fine~ we'll back off~",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "喂！把脚抬起来。你刚才是不是踩到一颗眼球了？！\n Hey! Lift your foot. Didn't you just step on an eyeball?!",
+          "speaker": "赤贫的顾客\n Destitute Customer"
+        },
+        {
+          "index": 1,
+          "text": "……呃，您是在跟我说话吗？\n ... Uh, are you talking to me?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "是我看错了吗……？算了。那就别在这儿鬼鬼祟祟的！你害我分心！\n Did I see that wrong...? Whatever. Stop skulking around, then! You're throwing me off!",
+          "speaker": "赤贫的顾客\n Destitute Customer"
+        },
+        {
+          "index": 3,
+          "text": "……喂，搞错了不是该道个歉吗？*叹气* 算了，当我没说。\n ... Hey, don't you think you should apologize if you got the wrong idea? *sigh* Actually, never mind.",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "他们似乎忙着收集眼球。\n They seem busy collecting eyeballs."
+        }
+      ]
+    },
+    {
+      "key": "D1981",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你们该送去出口的是人台，不是我！\n You're supposed to show the Mannequins to the exit, not me!",
+          "speaker": "含羞草\n Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1982",
+      "texts": [
+        {
+          "index": 0,
+          "text": "住手！很疼的！\n Cut it out! It hurts!",
+          "speaker": "含羞草\n Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "D1983",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哎哟……！那是不小心的，对吧？\n Oww...! That was an accident, right?",
+          "speaker": "杜布瓦\n Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1984",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我是不是哪里得罪你们了？拜托，我道歉。别伤我！\n Did I offend you or something? Please, I'm sorry. Don't hurt me!",
+          "speaker": "杜布瓦\n Dubois"
+        }
+      ]
+    },
+    {
+      "key": "D1985",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……！你们是顾客，还是亵渎者？！\n ...! Are you customers, or blasphemers?!",
+          "speaker": "居斯塔夫\n Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1986",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你们是来杀我、从我血肉里刮走黄金松脂的吗？！\n Are you here to kill me and scrape the Golden Resin from my flesh?!",
+          "speaker": "居斯塔夫\n Gustave"
+        }
+      ]
+    },
+    {
+      "key": "D1987",
+      "texts": [
+        {
+          "index": 0,
+          "text": "有什么问题吗？是我的品牌不合您的心意？\n What is the issue? Do you not find my label to your liking?",
+          "speaker": "奎利安\n Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D1988",
+      "texts": [
+        {
+          "index": 0,
+          "text": "用血染衣服？这种时尚追求未免太过时了吧？真俗气。\n Dyeing clothing with blood? That's a rather outmoded fashion to pursue, isn't it? How tacky.",
+          "speaker": "奎利安\n Quillian"
+        }
+      ]
+    },
+    {
+      "key": "D10993",
+      "texts": [
+        {
+          "index": 0,
+          "text": "它的金光已彻底黯淡。剩下的只是一堆正缓缓向内塌陷的尸体。\n Its golden light has completely faded. What remains is a pile of bodies slowly caving in on itself."
+        }
+      ]
+    },
+    {
+      "key": "D10994",
+      "texts": [
+        {
+          "index": 0,
+          "text": "大部分书页浸满了血，很难辨认写了什么。\n Most pages are soaked in blood and difficult to tell what it says."
+        },
+        {
+          "index": 1,
+          "text": "我将念出仍可辨读的部分。\n I will read out loud what is legible.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "“该死——你他妈——婊——搞得好像站上——台是什么了不得的大事……”\n \"Godda— —otherfu— —tch—like it's some great undertaking to —ing on the —unway...\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "“狂妄的小——新——，才刚爬上来就给我认清自己的位——”\n \"Cockly little— —eenhorn, know your place if you've just climbed up he—\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "默尔索翻过了几页浸血太多、无法辨读的纸。\n Meursault flipped past a few pages that have soaked up far too much blood to be legible."
+        },
+        {
+          "index": 5,
+          "text": "“可憎的——小杂种。我<b>就知道</b>。我早知道像他们那样的——不可能靠自己走到这——步。\n \"Abhorre— —tle shit. I <b>knew</b> it. I knew a— —like them couldn't have made it thi— —ar on their own.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": "“——可悲的水蛭，跟红——勾结，把整座百——的——全都吸干。”\n \"—thetic leech, working with Le— to— suck up all the— —of the— —artment store.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "“我要当着所有——的面，让他们丢尽——脸。”\n \"I'm goi— to embarrass the— —hit out of them in— —of everyone.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "…….",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 9,
+          "text": "<……这家百货不管爬到多高，每一层都是这副样子啊。>\n <... This department store's like this through all the floors no matter how high you climb, huh?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D10995",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里本来写着什么，现在已经没了。这本日记浸的血太多。\n There was something written in here, but it's gone now. The journal has soaked up too much blood."
+        }
+      ]
+    },
+    {
+      "key": "DDS101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<……可恶，我们分神的时候被它得手了。>\n <... Damn, it got us while we were distracted.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "不过它挺慢的。而且也没多强。\n It was pretty slow, though. And not even that strong.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 2,
+          "text": "试试吧。只要不大意，我觉得默尔索对付它不难。\n Let's try. I don't think Meursault'll have a hard time fighting it unless he lets his guard down.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 3,
+          "text": "唔。\n Mm.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DDS102",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<它的出招我明明<i>已经</i>知道了……>\n <I already <i>know</i> its patterns...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<……抱歉。我的指示慢了。你没事吧，默尔索？>\n <... Sorry. My instructions were late. Are you okay, Meursault?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "没有问题。\n There is no issue.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "*叹气* 好吧，这算是学了一课。它一颤抖，就当是它在蓄力冲撞的警告。\n *sigh* Well, that's a lesson learned. When it trembles, take it as a warning that it's winding up to charge.",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "那东西是真能<i>窜</i>啊？从另一头一路冲过来……这到底要怎么躲啊……？\n That thing can really <i>zoom</i>, huh? Like, all the way from the other end... How the heck are you supposed to dodge that...?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "<听到声音，就朝声源的垂直方向往左或往右挪。>\n <When you hear the sound, just move left or right perpendicular to its origin.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "<这样躲开应该不难。要不然也可以趁它动起来之前直接宰了它。>\n <Shouldn't be too hard to avoid them, then. Or we could also just kill it before it has a chance to move.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1806",
+      "texts": [
+        {
+          "index": 0,
+          "text": "皮肤烫卷用的加热灯。\n Heat lamp for dermal perm."
+        }
+      ]
+    },
+    {
+      "key": "D1805",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这……是什么？\n What... is this?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 1,
+          "text": "皮肤烫卷用的加热灯。它多半能让使用者把皱纹折成自认美观的形状，或是让皮肤的纹理更为细致。\n Heat lamp for dermal perm. It likely allows for its users to fold wrinkles into shapes they deem aesthetic, or allow them to refine the grains of their skin.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "啊哈……可是为什么？为了什么……？\n Aha... But why? For what...?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 3,
+          "text": "默尔索讲解的时候，加热灯下压着的一本说明手册引起了我的注意。\n As Meursault explained, an information pamphlet tucked under the heat lamp caught my eye."
+        },
+        {
+          "index": 4,
+          "text": "我刚把它拿起来，以实玛利就已经站到了我面前，手伸出来，像是在等着接什么东西。\n The instant I picked it up, Ishmael was in front of me with her hand jut out like she was waiting to receive something."
+        },
+        {
+          "index": 5,
+          "text": "您要看那个吗，但丁？\n Gonna read that, Dante?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 6,
+          "text": "<呃……要吧……？不过……你先看也行，我不介意。>\n <Uh... Yeah...? But... You can read it first, I don't mind.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "我投降了——我是说，我把手册递给了以实玛利。\n I surrendered—I mean, I handed the pamphlet over to Ishmael."
+        },
+        {
+          "index": 8,
+          "text": "唔，我看看……在接受皮肤烫卷的过程中，客人的形态会变成“护理中顾客”，与他人无从分辨……啊哈！所以他们才都戴着那种防毒面具……\n Hmm, let's see... While undergoing the dermal perm procedure, the client's form assumes that of a \"procedure customer,\" and becomes indistinguishable from others... Aha! So that's why they're all wearing those gas masks...",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 9,
+          "text": "这是她进来之后最放松的一次了。\n This is the most at ease she's been ever since we entered here.",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 10,
+          "text": "<是、是啊……>\n <Y-yeah...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    }
+  ]
+}

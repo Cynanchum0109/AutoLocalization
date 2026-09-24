@@ -1,0 +1,353 @@
+{
+  "dataList": [
+    {
+      "key": "Q4001",
+      "title": "前往制鞋馆\n To the Footwear Hall",
+      "description": "我们到了4层。沿着走廊前往制鞋馆吧。\n We've arrived at 4F. Let's follow the Corridor to the Footwear Hall.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "沿着走廊前往制鞋馆\n Follow the corridor to the Footwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q4002",
+      "title": "前往制鞋馆\n Head to the Footwear Hall",
+      "description": "我们给一直跟着我们的孩子取了个名字——“布布”。祂看起来还有些警惕我们……不过眼下，我们应该像之前一样，优先前往4层的制鞋馆。\n We gave a name to the child following us—\"Pwie\". They still seem a little wary of us... But for now, our priority should be to head to the Footwear Hall on 4F, just like before.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往制鞋馆\n Head to the Footwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q4002A",
+      "title": "杀死四脚人\n Kill Four-legs",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4003",
+      "title": "杀死单脚人\n Kill One-leg",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4003A",
+      "title": "르루주 신발관 NPC A\n 르루주 신발관 NPC A",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与制鞋馆里剩下的人交谈\n Talk to whoever's left in the Footwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q4003B",
+      "title": "前往家具馆\n Head to the Furniture Hall",
+      "description": "红派制鞋馆的多罗西娅请我们找到一块心脏碎片，好让她找到回家的路。作为回报，她会告诉我们如何前往5层。前往家具馆找她要的东西吧。\n Dorothea from Le Rouge's Footwear Hall asked us to find a shard of heart so she can find her way home. In return, she'll tell us how to reach 5F. Head to the Furniture Hall to find what she wants.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往家具馆的快乐衣橱\n Head to the Happy Closet in the Furniture Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q4004",
+      "title": "与驼背落地灯交谈\n Talk to the Arc Floor Lamp",
+      "description": "家具馆的快乐衣橱依旧一言不发。我们从它身上撬出了一些东西。是时候去找驼背落地灯了。\n The Happy Closet in the Furniture Hall still refuses to say a word. We pried a few things loose from them. Time to head over to the Arc Floor Lamp.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与驼背落地灯交谈\n Talk to the Arc Floor Lamp"
+        }
+      ]
+    },
+    {
+      "key": "Q4005",
+      "title": "등굽은 조명의 새 옷[미사용]",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "把衣服拿给驼背落地灯\n Take the clothing to the Arc Floor Lamp"
+        }
+      ]
+    },
+    {
+      "key": "Q4006",
+      "title": "返回快乐衣橱\n Return to the Happy Closet",
+      "description": "我们把从快乐衣橱那儿拿来的衣服交给了驼背落地灯。现在其他家具也开始吵着要自己的行头了。返回快乐衣橱那里吧。\n We gave the Arc Floor Lamp the clothing we took from the Happy Closet. Now the other Furnishings are clamoring for outfits of their own. Head back to the Happy Closet.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回快乐衣橱\n Return to the Happy Closet"
+        }
+      ]
+    },
+    {
+      "key": "Q4007",
+      "title": "把衣服送给家具们\n Deliver the Clothes to the Furnishings",
+      "description": "快乐衣橱再次毫无怨言地交出了它拥有的东西。把衣服送给家具们吧。\n Once again, the Happy Closet gave up what they had without complaint. Deliver the clothes to the Furnishings.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "送给骨衣架\n Delivery for Bonehanger",
+          "goalDescription2": "送给软皮革床\n Delivery for Mellow Leather Bed",
+          "goalDescription3": "送给剥制皮革帘\n Delivery for Taxidermied Leather Curtain",
+          "goalDescription4": "送给红垫凳\n Delivery for Red-cushioned Stool",
+          "goalDescription5": "送给人皮沙发\n Delivery for Skinhide Couch",
+          "goalDescription6": "送给双子台灯\n Delivery for Lamp Twin"
+        }
+      ]
+    },
+    {
+      "key": "Q4008",
+      "title": "询问快乐衣橱能否给我们一块心脏碎片\n Ask the Happy Wardrobe whether we can get a shard of heart",
+      "description": "我们帮完了家具们的忙。是时候向快乐衣橱要一块心脏碎片了。\n We've finished helping the Furnishings. Time to ask the Happy Closet for a shard of heart.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "询问快乐衣橱能否给我们一块心脏碎片\n Ask the Happy Wardrobe whether we can get a shard of heart"
+        }
+      ]
+    },
+    {
+      "key": "Q4008A",
+      "title": "家具们的袭击\n The Furnishings' Ambush",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "家具们正把快乐衣橱撕成碎片。\n The Furnishings are ripping the Happy Closet apart."
+        }
+      ]
+    },
+    {
+      "key": "Q4013",
+      "title": "查看快乐衣橱的残骸\n Inspect the Happy Closet's remains",
+      "description": "家具们为了抢夺各自的东西把快乐衣橱撕成了碎片，随后又自相残杀直至无人站立。查看快乐衣橱的残骸吧。\n The Furnishings tore the Happy Closet apart in their scramble for their belongings, then turned on each other until no one was left standing. Let's search the Happy Closet's remains.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "查看快乐衣橱的残骸\n Inspect the Happy Closet's remains"
+        }
+      ]
+    },
+    {
+      "key": "Q4021",
+      "title": "前往红派制鞋馆\n Head to the Rouge Footwear Hall",
+      "description": "我们和黑派制鞋馆的事已经办完了。是时候前往紧挨着它楼下的红派制鞋馆了。\n Our business with the Noir Footwear Hall is done. Time to head to the Rouge's Footwear Hall just next door below.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往红派制鞋馆\n Head to the Rouge Footwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q4022",
+      "title": "返回红派制鞋馆\n Return to the Rouge Footwear Hall",
+      "description": "我们从快乐衣橱那儿收集到了一块心脏碎片。返回红派制鞋馆，把它交给多罗西娅吧。\n We managed to collect a shard of heart from the Happy Closet. Let's return to Le Rouge's Footwear Hall and give it to Dorothea.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回红派制鞋馆\n Return to the Rouge Footwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q4023",
+      "title": "跟随多罗西娅\n Follow Dorothea",
+      "description": "我们把从快乐衣橱那儿拿到的心脏碎片交给了多罗西娅，她答应告诉我们如何前往5层。跟着她走吧。\n We gave Dorothea the shard of heart taken from the Happy Closet, and she agreed to tell us how to get to 5F. Let's follow her.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "跟随多罗西娅\n Follow Dorothea"
+        }
+      ]
+    },
+    {
+      "key": "Q4023A",
+      "title": "墙上的洞\n The Hole in the Wall",
+      "description": "墙上有个洞。我们应该查看一下。\n There's hole in the wall. We should inspect it.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "查看洞口\n Inspect the hole"
+        }
+      ]
+    },
+    {
+      "key": "Q4023B",
+      "title": "钻进洞里\n Head into the Hole",
+      "description": "多罗西娅碰了碰鞋跟，墙上出现了一个开口。我们进去吧。\n Dorothea clicked her shoes together, and an opening appeared in the wall. Let's head inside.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "钻进洞里\n Head into the hole"
+        }
+      ]
+    },
+    {
+      "key": "Q4023C",
+      "title": "跟随异想体\n Follow the Abnormality",
+      "description": "通道把我们引到了一个叫“迷童中心”的地方。一只异想体出现，把多罗西娅掳走了。我们应该追上去。\n The passage led us to a place called the Lost Child Center. An Abnormality appeared and carried Dorothea away. We should go after it.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "跟随异想体\n Follow the Abnormality"
+        }
+      ]
+    },
+    {
+      "key": "Q4023D",
+      "title": "查看异想体的残骸\n Inspect the Abnormality's Remains",
+      "description": "我们解决了那只异想体。查看它的残骸吧。\n We dealt with the Abnormality. Let's inspect its remains.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "查看异想体的残骸\n Inspect the Abnormality's remains"
+        }
+      ]
+    },
+    {
+      "key": "Q4023E",
+      "title": "查看异想体的残骸\n Inspect the Abnormality's Remains",
+      "description": "被掳走的多罗西娅倒在地上。查看她吧。\n The abducted Dorothea is lying on the floor. Let's inspect her.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        },
+        {
+          "index": 1,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q4024",
+      "title": "前往其他店铺\n Head to the Other Stores",
+      "description": "布布有了一双漂亮的新鞋。4层似乎还有我们没去过的店铺。去看看吧。\n Pwie has a fine new pair of shoes. There still seems to be stores on 4F we haven't visited yet. Let's go check them out.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往其他店铺\n Head to the other stores",
+          "goalDescription2": "与手袋馆里的另一名员工交谈\n Talk to the other employee in the Handbags Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q4024A",
+      "title": "查看红派手袋馆内的墙壁\n Inspect the Wall in the Le Rouge Handbags Hall",
+      "description": "我们应该查看一下那面墙。\n We should check the wall out.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查墙壁\n Investigate the wall"
+        }
+      ]
+    },
+    {
+      "key": "Q4024B",
+      "title": "墙后藏着什么？\n What was Hidden Behind the Wall?",
+      "description": "藏在墙后的人现身了。我们该决定拿她怎么办。\n The one who was hidden behind the wall revealed herself. We should decide what to do with her.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "决定拿蕾妮怎么办\n Decide what to do with Renée"
+        }
+      ]
+    },
+    {
+      "key": "Q4024C",
+      "title": "决定拿蕾妮怎么办\n Decide what to do with Renée",
+      "description": "等待决定被执行。\n Wait for the decision to be carried out.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "决定拿蕾妮怎么办\n Decide what to do with Renée"
+        }
+      ]
+    },
+    {
+      "key": "Q4025",
+      "title": "前往其他店铺\n Head to the Other Stores",
+      "description": "我们在红派手袋馆的事已经办完了。是时候去看看另一家店铺了。\n Our business in the Rouge Handbags Hall is done. Time to check out the other store.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往其他店铺\n Head to the other stores"
+        }
+      ]
+    },
+    {
+      "key": "Q4025A",
+      "title": "收集黄金材料\n Collect the Golden material",
+      "description": "黑派手袋馆的设计师请我们收集一些黄金材料。帮她一把，好换来通往5层的自动扶梯的位置信息。材料可以从人台身上取得。\n The designer at Le Noir's Handbags Hall asked us to gather some Golden materials. Help out so we can obtain information about where to find the escalator to the 5F. The materials can be taken from Mannequins.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "收集黄金纽扣\n Collect the Golden Button",
+          "goalDescription2": "收集黄金牙齿\n Collect the Golden Tooth",
+          "goalDescription3": "收集黄金毛发\n Collect the Golden Hair"
+        }
+      ]
+    },
+    {
+      "key": "Q4025B",
+      "title": "返回黑派手袋馆的设计师那里\n Return to the designer at the Noir Handbags Hall ",
+      "description": "我们已经收集齐了要求的全部黄金材料。是时候回到设计师那里了。\n We've collected all the Golden materials requested. Time to head back to the designer.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回黑派手袋馆的设计师那里\n Return to the designer at the Noir Handbags Hall "
+        },
+        {
+          "index": 1,
+          "goalDescription1": "与第一件杰作交谈\n Talk to the first masterpiece",
+          "goalDescription2": "与第二件杰作交谈\n Talk to the second masterpiece",
+          "goalDescription3": "与第三件杰作交谈\n Talk to the third masterpiece"
+        }
+      ]
+    },
+    {
+      "key": "Q4025C",
+      "title": "设计师的决定\n The Designer's Decision",
+      "description": ".",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "等待设计师做出决定\n Wait for the designer's decision"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "等到最后\n Wait until the end"
+        }
+      ]
+    },
+    {
+      "key": "Q4026",
+      "title": "搭乘自动扶梯前往5层\n Take the Escalator to 5F",
+      "description": "我们在手袋馆的事已经办完了。该前往通往5层的自动扶梯了。\n Our business in the Handbags Hall is done. We should head to the escalator leading to 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "搭乘自动扶梯前往5层\n Take the Escalator to 5F"
+        }
+      ]
+    }
+  ]
+}

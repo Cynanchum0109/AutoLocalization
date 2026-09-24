@@ -1,0 +1,107 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "豪华厅，2楼\n Luxury Hall, 2F",
+      "model": "붉은신",
+      "content": "<i>啊啊啊啊啊！</i>\n <i>AAAHHHHHH!</i>"
+    },
+    {
+      "id": 1,
+      "model": "뫼르소엄마",
+      "content": "不，不，不……！默尔索……我的儿子啊……！\n No, no, no...! Meursault... My son...!"
+    },
+    {
+      "id": 2,
+      "model": "뫼르소엄마",
+      "content": "不管我走到哪里——它总在那里！它不肯离开我。我从来都不是一个人！\n It doesn't matter where I go—it's always there! It won't leave me. I'm never alone!"
+    },
+    {
+      "id": 3,
+      "model": "뫼르소엄마",
+      "content": "我不行了……我不行了……它终于要来找我了吗，那最终的虚无……？\n I can't... I can't... Has it finally come for me, the final nothingness...?"
+    },
+    {
+      "id": 4,
+      "model": "뫼르소엄마",
+      "content": "这是逃不掉的，默尔索……它正勒着我的喉咙……\n There's no running from this, Meursault... It's choking me..."
+    },
+    {
+      "id": 5,
+      "model": "뫼르소엄마",
+      "content": "默尔索……！那盯着我的视线……是……是我自己的……！它正<i>变成</i>我的了，我正被自己的视线注视着……！\n Meursault...! That gaze that watches me... it's... it's mine...! It's <i>becoming</i> mine, I'm being watched by my own gaze...!"
+    },
+    {
+      "id": 6,
+      "model": "뫼르소엄마",
+      "content": "杀了我吧，默尔索……你是我的儿子……这是你能为你母亲做的最起码的事……默尔索……\n Kill me, Meursault... You're my son... It's the least you can do for your maman... Meursault..."
+    },
+    {
+      "id": 7,
+      "model": "뫼르소엄마",
+      "content": "别再想了，默尔索——<i>杀了我就是了！</i>\n Stop thinking about it, Meursault—<i>just kill me!</i>"
+    },
+    {
+      "id": 8,
+      "model": "뫼르소엄마",
+      "content": "别再评判了，好吗？只管……动手。这是……唯一能……救你自己的……办法……\n No more judgments, okay? Just... act. It's the... only way to... save... yourself..."
+    },
+    {
+      "id": 9,
+      "content": "那生物笨拙地用两只脚站着，像个刚学会走路的婴儿。\n The creature stands awkwardly on its two feet, like an infant that had only just learned how to walk."
+    },
+    {
+      "id": 10,
+      "content": "它似乎在哭泣，那张大张的嘴，像是一汪暗红色的深渊。\n It looked like it was crying, its gaping mouth a basin of crimson dark."
+    },
+    {
+      "id": 11,
+      "content": "它发出了声音，但那些声音是否带有意义，我无从得知。\n It was making sounds, but whether those sounds carried any meaning, I could not know."
+    },
+    {
+      "id": 12,
+      "model": "붉은신",
+      "content": "啊……\n Ah..."
+    },
+    {
+      "id": 13,
+      "model": "붉은신",
+      "content": "嗯……哈……\n Hnnh... Hhh..."
+    },
+    {
+      "id": 14,
+      "model": "단테",
+      "content": "<它……在说什么？>\n <What... is it saying?>"
+    },
+    {
+      "id": 15,
+      "model": "붉은신",
+      "content": "睡吧……我的宝贝……\n Sleep tight... My baby..."
+    },
+    {
+      "id": 16,
+      "model": "붉은신",
+      "content": "……只解开……最柔滑的……丝线……\n ... Undo... only the silkiest... threads..."
+    },
+    {
+      "id": 17,
+      "model": "히스클리프",
+      "content": "这……不是在跟我们说话吧……？\n It's... it ain't speaking to us, is it...?"
+    },
+    {
+      "id": 18,
+      "model": "단테",
+      "content": "<我觉得它是在唱歌……>\n <I think it's singing...>"
+    },
+    {
+      "id": 19,
+      "model": "뫼르소",
+      "content": "那是一首摇篮曲，经理。\n It's a lullaby, Manager."
+    },
+    {
+      "id": 20,
+      "model": "뫼르소",
+      "content": "从内容和旋律来看，与百货公司外的人所称的\"摇篮曲\"高度相似。\n The content and rhythm suggest a high degree of similarity to what those outside the Grand Magasin call a \"lullaby.\""
+    }
+  ]
+}

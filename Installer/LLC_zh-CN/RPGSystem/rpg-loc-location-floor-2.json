@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "key": "120100",
+      "text": "豪华厅入口\n Luxury Hall Entrance"
+    },
+    {
+      "key": "120200",
+      "text": "豪华厅摇篮入口\n Entrance to Luxury Hall Cradle"
+    },
+    {
+      "key": "120300",
+      "text": "豪华厅\n Luxury Hall"
+    },
+    {
+      "key": "120400",
+      "text": "豪华厅摇篮\n Luxury Hall Cradle"
+    }
+  ]
+}

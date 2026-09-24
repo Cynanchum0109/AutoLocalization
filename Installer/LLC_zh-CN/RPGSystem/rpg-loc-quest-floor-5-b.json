@@ -1,0 +1,150 @@
+{
+  "dataList": [
+    {
+      "key": "Q5001",
+      "title": "调查五楼\n Investigate 5F",
+      "description": "我们终于和布布一起到达了五楼。不知道这一层会遇到什么，继续探索吧。\n We finally reached 5F with Pwie. There's no telling what we'll encounter on this floor, but we should keep exploring.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查五楼走廊上的门\n Investigate the Door on 5F Corridor"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "听克罗默说完\n Hear Kromer Out"
+        }
+      ]
+    },
+    {
+      "key": "Q5011",
+      "title": "???",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "???"
+        }
+      ]
+    },
+    {
+      "key": "Q5002",
+      "title": "前往地下一楼\n Head to B1F",
+      "description": "看来我们的“美德”还不足以进入五楼。布布说自己需要穿上黄金裹布，而地下楼层的某处，有人能加工皮革。去那里看看吧。\n Apparently, we're still lacking in \"virtue\" to enter 5F. Pwie said they need to wear a Golden Shroud, and that somewhere down on the underground floors, there's someone who can process hides. Let's head there.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下一楼\n Head to B1F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "触摸五楼的帘幕\n Touch the Curtain on 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q5004",
+      "title": "前往五楼深处\n Head to the Inner Part of 5F",
+      "description": "监工做好了黄金皮革衣服，布布终于能穿上它。然而，吞下蠕蠕后，布布看起来一点也不高兴。\n……该前往五楼了。\n The Overseer completed the Golden Hide, allowing Pwie to don clothing made from it. Pwie, however, doesn't seem glad at all after devouring Wriggley.\n... It's time to head to 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往五楼深处\n Head to the Inner Part of 5F"
+        },
+        {
+          "index": 1,
+          "goalDescription2": "抵御猛攻\n Fend off the Onslaught"
+        }
+      ]
+    },
+    {
+      "key": "Q5008",
+      "title": "(내부) 르누아르 길막 대면",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "迎战挡路的黑派\n Face the Noir Blocking the Path"
+        }
+      ]
+    },
+    {
+      "key": "Q5006",
+      "title": "(내부) 르누아르 무리 돌파",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "打倒9名黑派店员[阳光]\n Defeat 9 Le Noir Sales Associates [Sunshone]",
+          "goalDescription2": "르누아르 경비원 7기 처치",
+          "goalDescription3": "르누아르 컨템포러리 점원 3기 처치",
+          "goalDescription4": "르누아르 메종 점원 2기 처치",
+          "goalDescription5": "르누아르 메종 2기 처치"
+        }
+      ]
+    },
+    {
+      "key": "Q5007",
+      "title": "靠近五楼深处的帘幕\n Approach the Curtain Beyond 5F",
+      "description": "我们挡住了五楼敌人的猛攻。现在该往里面走，伸手触碰帘幕了。布布穿着黄金裹布，这次或许会有不同的结果。\n We dealt with the onslaught of enemies on 5F. Now it's time to head to the inside and lay our hands on the curtain. With the Golden Shroud on Pwie, things may turn out different this time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "触摸五楼的帘幕\n Touch the Curtain on 5F",
+          "goalDescription2": ""
+        }
+      ]
+    },
+    {
+      "key": "Q5003",
+      "title": "杀死黑派品牌经理\n Kill Le Noir's Brand Manager",
+      "description": "挡路的黑派品牌经理必须打倒。\n We need to defeat the Le Noir Brand Manager who's standing in the way.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "打倒黑派品牌经理\n Defeat Le Noir's Brand Manager"
+        }
+      ]
+    },
+    {
+      "key": "Q5005",
+      "title": "观察布菲\n Observe Buffet",
+      "description": "茧终于裂开。\n看看布菲会变成什么样吧。\n The cocoon finally parted.\nLet's see what Buffet will transform into.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "观察布菲直到最后\n Keep Observing Buffet until the End"
+        }
+      ]
+    },
+    {
+      "key": "Q5009",
+      "title": "进入餐厅\n Enter the Restaurant",
+      "description": "我们得以穿过此前挡住五楼去路的帘幕。\n We were able to venture beyond the curtain that had been blocking our path on 5F. ",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "进入餐厅\n Enter the Restaurant"
+        }
+      ]
+    },
+    {
+      "key": "Q5010",
+      "title": "保护茧，抵御黑派猛攻\n Protect the Cocoon from the Le Noir Onslaught",
+      "description": "布布说自己很累，随后睡着并变成了一只茧。黑派似乎发现了茧的位置，一小支队伍赶来要摧毁它。\n\n保护布布。\n Pwie told us they were feeling tired moments before they fell asleep and became a cocoon. Seemingly having discovered the cocoon's location, a small army of Le Noir have arrived here to destroy it.\n\nLet's protect Pwie.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "保护茧，抵御黑派猛攻\n Protect the Cocoon from the Le Noir Onslaught"
+        }
+      ]
+    },
+    {
+      "key": "Q5012",
+      "title": "杀死黑之丝\n Kill Blackthread",
+      "description": "解决黑之丝，打开前路。\n We should deal with the Blackthread and open the path.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "杀死黑之丝\n Kill the Blackthread"
+        }
+      ]
+    }
+  ]
+}

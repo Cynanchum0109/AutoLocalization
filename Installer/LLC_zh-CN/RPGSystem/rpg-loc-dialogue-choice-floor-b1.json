@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "key": "DC-1019",
+      "text": "鞋子\n Shoe"
+    },
+    {
+      "key": "DC-1020",
+      "text": "小山\n Hill"
+    },
+    {
+      "key": "DC-1021",
+      "text": "梯子\n Ladder"
+    },
+    {
+      "key": "DC-1061",
+      "text": "进去。\n Enter."
+    },
+    {
+      "key": "DC-1062",
+      "text": "不进去。\n Don't enter."
+    },
+    {
+      "key": "DC-1063",
+      "text": "进去。\n Enter."
+    },
+    {
+      "key": "DC-1064",
+      "text": "不进去。\n Don't enter."
+    },
+    {
+      "key": "DC-1065",
+      "text": "进去。\n Enter."
+    },
+    {
+      "key": "DC-1066",
+      "text": "不进去。\n Don't enter."
+    },
+    {
+      "key": "DC-1067",
+      "text": "进去。\n Enter."
+    },
+    {
+      "key": "DC-1068",
+      "text": "不进去。\n Don't enter."
+    },
+    {
+      "key": "DC-1069",
+      "text": "离开。\n Leave."
+    },
+    {
+      "key": "DC-1070",
+      "text": "不离开。\n Don't leave."
+    }
+  ]
+}

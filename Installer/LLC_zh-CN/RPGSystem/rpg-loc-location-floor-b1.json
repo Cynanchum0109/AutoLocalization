@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "key": "210100",
+      "text": "美食广场\n Food Court"
+    },
+    {
+      "key": "210200",
+      "text": "鲜肉区\n Fresh Meat Section"
+    },
+    {
+      "key": "210500",
+      "text": "自动扶梯厅\n Escalator Hall"
+    },
+    {
+      "key": "210600",
+      "text": "右侧走廊\n Corridor, Right"
+    },
+    {
+      "key": "210700",
+      "text": "左侧走廊\n Corridor, Left"
+    }
+  ]
+}

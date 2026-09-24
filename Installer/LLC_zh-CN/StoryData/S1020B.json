@@ -1,0 +1,80 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "改衣铺，3F\n Alteration Shop, 3F",
+      "model": "싱클레어",
+      "content": "呃……你好？\n Um... Hello?"
+    },
+    {
+      "id": 1,
+      "model": "3층가위",
+      "content": "肩缝垂得略低了些……袖口又短了一拃。这一身要改的地方可不少。那么，你们想改什么？\n Shoulder seams hanging a touch too low... hems of the arm a span too short. Much work to be done, this one. So, what would you like to have altered?"
+    },
+    {
+      "id": 2,
+      "model": "뫼르소",
+      "content": "我们希望购得一把剪刀。\n We would like to procure a pair of scissors."
+    },
+    {
+      "id": 3,
+      "model": "싱클레어",
+      "content": "……什么？剪刀？\n ... What? Scissors?"
+    },
+    {
+      "id": 4,
+      "model": "3층가위",
+      "content": "……我的剪刀可不是挂在货架上卖的工具。我的刃，不是随便什么人都能拿走的。\n ... My scissors are not tools to be hung and sold from the product racks. I do not part with my blades for just anyone, you see."
+    },
+    {
+      "id": 5,
+      "model": "3층가위",
+      "content": "它们只留给那些眼里闪着<i>咔嚓咔嚓</i>渴望的顾客。就像黑派，我的老主顾——他们总来找我，让我为他们织布。\n They're reserved for customers whose eyes twinkle with the desire to go <i>snip-snip</i>. Like the Noirs, my longtime customers—they always visit me to have me weave fabric for them."
+    },
+    {
+      "id": 6,
+      "model": "싱클레어",
+      "content": "您……和黑派很熟吗？\n Are you... well-acquainted with the Noirs?"
+    },
+    {
+      "id": 7,
+      "model": "3층가위",
+      "content": "我给他们供布已有一阵子了，算得上是伙伴。\n I've been supplying them with fabric for a while now, so one could say that we are partners."
+    },
+    {
+      "id": 8,
+      "model": "3층가위",
+      "content": "黑派最近忙得很——四处放话、四处打听，怀疑红色那帮人在搞鬼。\n The Noirs have been quite busy as of late—spreading and fishing tales, suspicious that the red ones are up to no good."
+    },
+    {
+      "id": 9,
+      "model": "3층가위",
+      "content": "我在你们身上看不到那份炽热的渴望。不过，别的东西倒是可以卖给你们。\n I simply do not see that same passionate desire in you. I do have other items available for purchase, however."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<看来对她直来直去行不通……这跟上次不一样。>\n <Looks like getting straight to the point won't work on her... This isn't what happened last time.>"
+    },
+    {
+      "id": 11,
+      "model": "뫼르소",
+      "content": "或许……剪刀可以等下次机会再购得，经理。\n Perhaps... we could procure the pair of scissors at our next opportunity, Manager."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<看来我们也没别的选择。>\n <Don't think we have any other choice.>"
+    },
+    {
+      "id": 13,
+      "model": "싱클레어",
+      "content": "那个……我们到底为什么需要一把剪刀来着？\n So... why did we need a pair of scissors, again?"
+    },
+    {
+      "id": 14,
+      "model": "오티스",
+      "content": "剪刀若磨至锋锐，便是极佳的武器。这显然是在为即将到来的战争做准备。\n Scissors, when honed to perfection, can be excellent weapons. It is obviously in preparation for the coming war."
+    }
+  ]
+}

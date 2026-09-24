@@ -1,0 +1,548 @@
+{
+  "dataList": [
+    {
+      "id": 40004101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "猩红之钉\n Crimson Nail",
+          "desc": "[WhenUse]目标每有4级[Laceration]强度，基础威力+1（最多+2）\n [WhenUse] Base Power +1 for every 4 [Laceration] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "猩红之钉\n Crimson Nail",
+          "desc": "[WhenUse]目标每有4级[Laceration]强度，基础威力+1（最多+2）\n [WhenUse] Base Power +1 for every 4 [Laceration] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]自身每有2级[ChargeRouge]强度，对目标施加1层[BloodyMucusAlly]（最多2层）\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly] for every 2 [ChargeRouge] Potency (max 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "对无精神力单位造成的伤害+50%\n Against non-SP units, deal +50% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack]目标失去10点精神力\n [OnSucceedAttack] Target loses 10 SP"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "猩红之钉\n Crimson Nail",
+          "desc": "[WhenUse]目标每有4级[Laceration]强度，基础威力+1（最多+2）\n[WhenUse]若自身精神力高于目标，或目标为无精神力单位，硬币威力+1\n [WhenUse] Base Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] If this unit has higher SP than the target, or if target is a non-SP unit, Coin Power +1",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]自身每有2级[ChargeRouge]强度，对目标施加1层[BloodyMucusAlly]（最多2层）\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly] for every 2 [ChargeRouge] Potency (max 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "对无精神力单位造成的伤害+50%\n Against non-SP units, deal +50% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack]目标失去10点精神力\n [OnSucceedAttack] Target loses 10 SP"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BuffetGold]\n [OnSucceedAttack] Inflict 1 [BuffetGold]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "走开\n Go Away",
+          "desc": "[WhenUse]目标每有4级[Laceration]强度，硬币威力+1（最多+2）\n [WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Laceration]\n [OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "走开\n Go Away",
+          "desc": "[WhenUse]目标每有4级[Laceration]强度，硬币威力+1（最多+2）\n[WhenUse]自身每有2级[ChargeRouge]强度，攻击加权值+1（最多+2）\n [WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Laceration]\n [OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]自身每有2级[ChargeRouge]强度，对目标施加1层[BloodyMucusAlly]（最多2层）\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly] for every 2 [ChargeRouge] Potency (max 2)"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]自身每有2级[ChargeRouge]强度，对目标施加1层[BloodyMucusAlly]（最多2层）\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly] for every 2 [ChargeRouge] Potency (max 2)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "走开\n Go Away",
+          "desc": "[WhenUse]目标每有4级[Laceration]强度，硬币威力+1（最多+2）\n[WhenUse]自身每有2级[ChargeRouge]强度，攻击加权值+1（最多+2）\n [WhenUse] Coin Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Laceration]\n [OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]自身每有2级[ChargeRouge]强度，对目标施加1层[BloodyMucusAlly]（最多2层）\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly] for every 2 [ChargeRouge] Potency (max 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BuffetGold]\n [OnSucceedAttack] Inflict 1 [BuffetGold]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]自身每有2级[ChargeRouge]强度，对目标施加1层[BloodyMucusAlly]（最多2层）\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly] for every 2 [ChargeRouge] Potency (max 2)"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BuffetGold]\n [OnSucceedAttack] Inflict 1 [BuffetGold]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "振作起来\n Perk Up",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]施加1层[ParryingResultUp]\n [EndCoin] Apply 1 [ParryingResultUp]"
+                },
+                {
+                  "desc": "[EndCoin]自身每有1级[ChargeRouge]强度，施加1层[AttackUp]（最多5层）\n [EndCoin] Apply 1 [AttackUp] for every [ChargeRouge] Potency on self (max 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "振作起来\n Perk Up",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse]自身每有2级[ChargeRouge]强度，攻击加权值+1（最多+2）\n [CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]施加1层[ParryingResultUp]\n [EndCoin] Apply 1 [ParryingResultUp]"
+                },
+                {
+                  "desc": "[EndCoin]自身每有1级[ChargeRouge]强度，施加1层[AttackUp]（最多5层）\n [EndCoin] Apply 1 [AttackUp] for every [ChargeRouge] Potency on self (max 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "振作起来\n Perk Up",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse]自身每有2级[ChargeRouge]强度，攻击加权值+1（最多+2）\n[EndSkill]若自身拥有[GourmandiseAlly]，且[ChargeRouge]层数达到10，最多消耗10层[ChargeRouge]，对所有命中的目标施加1层[SkillPowerUp]\n [CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self (max 2)\n[EndSkill] If this unit has [GourmandiseAlly], and at 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] and apply 1 [SkillPowerUp] to all targets that were hit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]施加1层[ParryingResultUp]\n [EndCoin] Apply 1 [ParryingResultUp]"
+                },
+                {
+                  "desc": "[EndCoin]自身每有1级[ChargeRouge]强度，施加1层[AttackUp]（最多5层）\n [EndCoin] Apply 1 [AttackUp] for every [ChargeRouge] Potency on self (max 5)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 4,
+          "name": "振作起来\n Perk Up",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse]自身每有2级[ChargeRouge]强度，攻击加权值+1（最多+2）\n[EndSkill]若自身拥有[GourmandiseAlly]，且[ChargeRouge]层数达到10，最多消耗10层[ChargeRouge]，对所有命中的目标施加1层[SkillPowerUp]\n [CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Gain +1 Atk Weight for every 2 [ChargeRouge] Potency on self (max 2)\n[EndSkill] If this unit has [GourmandiseAlly], and at 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] and apply 1 [SkillPowerUp] to all targets that were hit",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]施加1层[SkillPowerUp]\n [EndCoin] Apply 1 [SkillPowerUp]"
+                },
+                {
+                  "desc": "[EndCoin]自身每有1级[ChargeRouge]强度，本回合及下回合施加1层[AttackUp]（最多5层）\n [EndCoin] Apply 1 [AttackUp] this turn and next turn for every [ChargeRouge] Potency on self (max 5)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "不要痛痛\n Don't Get Hurty",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]使目标回复（技能最终威力×2）点体力\n- 若目标为“赤红者”单位，则改为消耗其体力，并为自身回复等量体力（此效果造成的伤害不会使目标陷入混乱，也不会使目标体力降至1以下）\n [EndCoin] Heal (Skill Final Power x 2) HP on target\n- If target is a \"Le Rouge\" unit, consume their HP instead and heal self by the same amount (damage dealt by this effect does not Stagger or reduce the target's HP below 1)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "不要痛痛\n Don't Get Hurty",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse]若[ChargeRouge]强度达到3，攻击加权值+2\n [CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] At 3+ [ChargeRouge] Potency, gain +2 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]使目标回复（技能最终威力×2）点体力\n- 若目标为“赤红者”单位，则改为消耗其体力，并为自身回复等量体力（此效果造成的伤害不会使目标陷入混乱，也不会使目标体力降至1以下）\n [EndCoin] Heal (Skill Final Power x 2) HP on target\n- If target is a \"Le Rouge\" unit, consume their HP instead and heal self by the same amount (damage dealt by this effect does not Stagger or reduce the target's HP below 1)"
+                },
+                {
+                  "desc": "[EndCoin]使目标回复等同于技能最终威力的精神力\n- 若目标精神力已满，则移除其身上1种可移除的负面效果\n [EndCoin] Heal (Skill Final Power) SP on target\n- If target is at max SP, remove 1 removable negative effect applied on target"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "不要痛痛\n Don't Get Hurty",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse]若[ChargeRouge]强度达到3，攻击加权值+4\n [CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] At 3+ [ChargeRouge] Potency, gain +4 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]使目标回复（技能最终威力×2）点体力\n- 额外使目标回复（自身[ChargeRouge]强度×2）%体力\n- 若目标为“赤红者”单位，则改为消耗其体力，并为自身回复等量体力（此效果造成的伤害不会使目标陷入混乱，也不会使目标体力降至1以下）\n [EndCoin] Heal (Skill Final Power x 2) HP on target\n- Additionally heal ([ChargeRouge] Potency on self x 2)% HP on target\n- If target is a \"Le Rouge\" unit, consume their HP instead and heal self by the same amount (damage dealt by this effect does not Stagger or reduce the target's HP below 1)"
+                },
+                {
+                  "desc": "[EndCoin]使目标回复等同于技能最终威力的精神力\n- 额外使目标回复（自身[ChargeRouge]强度×3）点精神力\n- 若目标精神力已满，则移除其身上1种可移除的负面效果\n [EndCoin] Heal (Skill Final Power) SP on target\n- Additionally heal ([ChargeRouge] Potency on self x 3) SP on target\n- If target is at max SP, remove 1 removable negative effect applied on target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "抓住我的手\n Grab My Hand",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse]下回合获得5层[Binding]\n [CantDuel]\n[CantChangeTarget]\n[SupportAlly]\n\n[WhenUse] Gain 5 [Binding] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]解除目标的混乱状态\n [EndCoin] Recover target from Stagger"
+                },
+                {
+                  "desc": "[EndCoin]使目标回复等同于此技能最终威力的体力\n [EndCoin] Heal HP on target equal to this Skill's Final Power"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "抓住我的手\n Grab My Hand",
+          "desc": "[CantDuel]\n[CantChangeTarget]\n[SupportAlly]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[EndCoin]解除目标的混乱状态\n [EndCoin] Recover target from Stagger"
+                },
+                {
+                  "desc": "[EndCoin]使目标回复等同于此技能最终威力的体力\n [EndCoin] Heal HP on target equal to this Skill's Final Power"
+                },
+                {
+                  "desc": "[EndCoin]使目标在下回合获得等同于其最大体力50%的护盾\n [EndCoin] Apply Shield next turn equal to 50% of target's max HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "猩红之钉的洗礼\n Baptism of Crimson Nails",
+          "desc": "[WhenUse]若[ChargeRouge]层数达到10，最多消耗10层[ChargeRouge]，使攻击加权值+2、硬币威力+2\n [WhenUse] At 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] Count to gain +2 Atk Weight and Coin Power +2",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Laceration]\n [OnSucceedAttack] Inflict +2 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 2,
+          "name": "猩红之钉的洗礼\n Baptism of Crimson Nails",
+          "desc": "[WhenUse]若[ChargeRouge]层数达到10，最多消耗10层[ChargeRouge]，使攻击加权值+2、硬币威力+2\n[WhenUse]目标每有4级[Laceration]强度，基础威力+1（最多+2）\n [WhenUse] At 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] Count to gain +2 Atk Weight and Coin Power +2\n[WhenUse] Base Power +1 for every 4 [Laceration] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Laceration]\n [OnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "level": 3,
+          "name": "猩红之钉的洗礼\n Baptism of Crimson Nails",
+          "desc": "[WhenUse]若[ChargeRouge]层数达到10，最多消耗10层[ChargeRouge]，使攻击加权值+2、硬币威力+2\n[WhenUse]目标每有4级[Laceration]强度，基础威力+1（最多+2）\n[WhenUse]若[ChargeRouge]强度达到5，施加以下效果：\n- 攻击加权值+2\n- 硬币威力增加（自身[ChargeRouge]强度-3）\n [WhenUse] At 10+ [ChargeRouge] Count, consume up to 10 [ChargeRouge] Count to gain +2 Atk Weight and Coin Power +2\n[WhenUse] Base Power +1 for every 4 [Laceration] on target (max 2)\n[WhenUse] At 5+ [ChargeRouge] Potency, apply the following effects:\n- Gain +2 Atk Weight\n- Gain Coin Power +([ChargeRouge] Potency on self - 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BuffetGold]\n [OnSucceedAttack] Inflict 1 [BuffetGold]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BuffetGold]\n [OnSucceedAttack] Inflict 1 [BuffetGold]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BloodyMucusAlly]\n [OnSucceedAttack] Inflict 1 [BloodyMucusAlly]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Laceration]\n [OnSucceedAttack] Inflict +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[BuffetGold]\n [OnSucceedAttack] Inflict 1 [BuffetGold]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "我来替你结束……\n I'll End It for You...",
+          "desc": "[CantDuel]\n目标每失去1%体力，造成的伤害+0.5%（最多+30%）\n[WhenUse]若自身拥有[GourmandiseAlly]，攻击加权值+1\n [CantDuel]\nDeal +0.5% damage for every 1% missing HP on target (max 30%)\n[WhenUse] If this unit has [GourmandiseAlly], gain +1 Atk Weight",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]下回合对目标施加1层[Binding]\n [OnSucceedAttack] Inflict 1 [Binding] next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack]若自身拥有[GourmandiseAlly]，重复使用此硬币（最多1次）\n [OnSucceedAttack] If this unit has [GourmandiseAlly], Reuse this Coin (1 time max)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "恶心\n La Nausée",
+          "desc": "[StartBattle]消耗自身全部[ChargeRouge]层数，使包含自身在内的所有友方回复相当于（消耗的[ChargeRouge]层数）%的体力\n [StartBattle] Consume all [ChargeRouge] Count on self and heal ([ChargeRouge] Count consumed)% HP on all allies, including this unit",
+          "flavor": "正在成长为神者无法避免的成长之痛。\n\n这种感觉有许多形态：眩晕、恶心、癫痫、自欺……对某些人而言，还有拒绝。对他们来说，世界充满恐怖与疏离的混乱。为了忍受恶心，为了保护尚属于自己的存在，以及那些尚未变得多余的存在，新生的神呕吐了。\n The inevitable growing pains for those who are maturing into gods.\n\nThis sensation takes many forms: vertigo, nausea, seizure, self-deception... and to some, refusal. To them, the world is full of terror and alienating chaos. To endure the nausea, to protect those that are yet their own and those that are yet to become superfluous, the nascent god vomits.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 40004202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "赤红之洞\n Le Trou Rouge",
+          "desc": "[StartBattle]获得4层[ChargeRouge]\n [StartBattle] Gain +4 [ChargeRouge] Count",
+          "flavor": "这是一处赤红色的空洞。\n尽管它已经闭合，无尽的饥饿仍然徘徊，渴望着不可能到来的饱足。\n\n因为其他人期待这个存在成为如此模样。因为它正是为此而生。\n This is a crimson hollow.\nThough it is closed, the endless hunger lingers, desiring the impossible satiation.\n\nFor that is what the others expect this being to be. For that is the purpose for which this being was born.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

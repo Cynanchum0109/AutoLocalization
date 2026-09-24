@@ -1,0 +1,36 @@
+{
+  "dataList": [
+    {
+      "key": "220100",
+      "text": "纺纱厂\n Spinning Mill"
+    },
+    {
+      "key": "220200",
+      "text": "丝绞巢\n Skein Nest"
+    },
+    {
+      "key": "220300",
+      "text": "走廊\n Corridor"
+    },
+    {
+      "key": "220400",
+      "text": "染坊\n Dyehouse"
+    },
+    {
+      "key": "220500",
+      "text": "染泪仓库\n Dye-tear Storage"
+    },
+    {
+      "key": "221400",
+      "text": "隐秘扶梯厅\n Secret Escalator Hall"
+    },
+    {
+      "key": "221500",
+      "text": "丝绞巢走廊\n Skein Nest Corridor"
+    },
+    {
+      "key": "221600",
+      "text": "染泪仓库走廊\n Dye-tear Storage Corridor"
+    }
+  ]
+}

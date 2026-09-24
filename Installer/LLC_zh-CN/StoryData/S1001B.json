@@ -1,0 +1,310 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "眼前是一片布满尖钉的地面，每一根尖钉都朝上竖立着尖锐的顶端。\n A floor bristling with nails entered my vision. Every last one stood with its sharpened point aimed upward."
+    },
+    {
+      "id": 1,
+      "content": "如果我就这样径直坠落下去，毫无疑问会被那些尖钉刺穿。\n There was no doubt they would skewer me if I kept falling straight toward them."
+    },
+    {
+      "id": 2,
+      "content": "我除了无助地坠落，别无他法，比起坠地的冲击，我更害怕下方等待着我的痛苦和折磨。\n I could do nothing but plummet helplessly, far more terrified of the pain and torture waiting below than of the impact of the fall itself."
+    },
+    {
+      "id": 3,
+      "content": "但就在那一瞬间，我听到了一个声音。\n But right that instant, I heard a voice."
+    },
+    {
+      "id": 4,
+      "content": "<color=#4457b1>……那就朝大海去吧……</color>\n <color=#4457b1>... Make for the sea, then...</color>"
+    },
+    {
+      "id": 5,
+      "content": "随着那声音响起，布满尖钉的地面化作了一片汪洋大海，蔚蓝的海面泛起阵阵柔和的波浪。\n At the sound of that voice, the nail-strewn floor transformed into a vast sea, its blue surface rolling in gentle waves."
+    },
+    {
+      "id": 6,
+      "content": "当那深不见底的海水的波浪终于涌上来迎接我的时候……\n And when the waves of those fathomless waters finally surged up to meet me..."
+    },
+    {
+      "id": 7,
+      "content": "<color=#916e46>热烈欢迎各位贵宾今日光临西西弗百货。</color>\n <color=#916e46>We extend our warmest welcome to the valued guests of Grand Magasin Sisyphe visiting today.</color>"
+    },
+    {
+      "id": 8,
+      "content": "<color=#916e46>西西弗百货始终致力于珍视各位顾客在店内获得的每一次体验。</color>\n <color=#916e46>Grand Magasin Sisyphe is ever committed to cherishing every experience our customers procure within.</color>"
+    },
+    {
+      "id": 9,
+      "content": "<color=#916e46>为紧跟最新潮流，本店积极鼓励店内各类商铺根据流行趋势随时开张或关闭，逛店时请注意不要迷路。</color>\n <color=#916e46>To keep abreast of the latest fashions, we actively encourage the wide variety of shops available at the department store to open and close according to trends. Please take care not to lose your way as you explore the establishment.</color>"
+    },
+    {
+      "id": 10,
+      "content": "<color=#916e46>一如既往，各楼层的洗手间目前均在维修中，请各位在安排行程时留意此事，为此带来的不便我们深表歉意。</color>\n <color=#916e46>As always, restrooms on every floor are currently under repair. Please take note of this when planning your visit. We apologize for the inconvenience.</color>"
+    },
+    {
+      "id": 11,
+      "content": "<color=#916e46>为防止卫生问题，各楼层的入场资格将限定为已达到相应荣誉等级的顾客，如有疑问请前往六楼顾客服务中心咨询。</color>\n <color=#916e46>To prevent hygiene issues, entry to each floor will be limited to customers who have achieved the required Prestige Tier. Please visit our Customer Service Center on the sixth floor for any further queries.</color>"
+    },
+    {
+      "id": 12,
+      "content": "<color=#916e46>欢迎顾客与展出的人体模特进行肢体接触，反之，人体模特也被允许与顾客进行肢体接触。若您希望参与，请联系相关商铺的销售人员，他们将乐意为您提供帮助。</color>\n <color=#916e46>Customers are welcome to make physical contact with all Mannequins on display. Conversely, Mannequins are also allowed to make physical contact with all customers. Should you wish to participate, please talk to the sales associate at the relevant shop, who will be delighted to assist you.</color>"
+    },
+    {
+      "id": 13,
+      "content": "<color=#916e46>希望各位齐心协力，让顾客们今天也能收获一次物有所值的消费体验。感谢您选择西西弗百货，祝您购物愉快。</color>\n <color=#916e46>We ask everyone to do their best to ensure another day of worthwhile consumer experience for our customers. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping.</color>"
+    },
+    {
+      "id": 14,
+      "place": "洗手间？\n Restroom?",
+      "model": "이상",
+      "content": "我们刚才经历的……\n What we experienced just now..."
+    },
+    {
+      "id": 15,
+      "model": "이스마엘",
+      "content": "我只知道我绝不想再经历第二次……我是说，在这支队伍里，我以各种各样的方式死去过，可被逼着在根本不是战斗的场合里面对死亡……而且还得亲身感受<i>自己动手</i>的那种感觉，简直……绝对不行。\n I just know it's something I never want to go through again... I mean, I've been killed in a variety of different ways on this team, but to be forced to face death when it wasn't even a combat situation... And on top of that, having to feel the sensation of <i>doing it myself</i> is just... a big no."
+    },
+    {
+      "id": 16,
+      "model": "이스마엘",
+      "content": "真不敢相信N公司的居民居然肯花<i>钱</i>去买那种恶心的体验。给我钱我也不要再经历第二次。\n Can't believe residents in N Corp. pay <i>money</i> to purchase that nasty experience. You couldn't pay me to go through that twice."
+    },
+    {
+      "id": 17,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 18,
+      "model": "돈키호테",
+      "content": "把生命的终结本身包装成消遣，再当作商品出售……\n To package the very severing of life as amusement, then sell it as a product..."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "虽说征服无聊并非易事，然此举……唔……\n Though conquering boredom is, forsooth, no simple feat, this is... hmm..."
+    },
+    {
+      "id": 20,
+      "model": "홍루",
+      "content": "感觉比我想象的更真实。\n It felt more real than I imagined."
+    },
+    {
+      "id": 21,
+      "model": "홍루",
+      "content": "我知道这一切都只是在机器里发生的……可那一刻，我真切地感觉自己……仿佛正在见证自己生命的最后时刻。\n I knew it was all taking place within a machine... Yet in that moment, I truly felt as though... I were witnessing the final moments of my life."
+    },
+    {
+      "id": 22,
+      "model": "로쟈",
+      "content": "绳套收紧的时候，我还以为自己的脖子要断了……\n When the noose tightened, I thought my neck was gonna snap..."
+    },
+    {
+      "id": 23,
+      "model": "로쟈",
+      "content": "我和以实一个想法……真的会有人花<i>钱</i>让自己经历这种事？\n I'm with Ishy... People actually pay <i>money</i> to put themselves through this?"
+    },
+    {
+      "id": 24,
+      "model": "파우스트",
+      "content": "有些人毫无目的地把自己绑在绳子上从高处纵身跃下，又或者把自己交给汹涌的海浪，去试探自己会不会被卷走。\n There are those who, with no real purpose in mind, tie themselves to a cord and leap from great heights, or surrender themselves to violent waves to see whether or not they will be swept under."
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "据说人们会通过那些让自己无限接近死亡的体验，来更强烈地感受到自己还活着。\n It is said that people come to feel the sensation of being alive more keenly via experiences that bring them infinitely close to death."
+    },
+    {
+      "id": 26,
+      "model": "로쟈",
+      "content": "……你是说他们是故意这么干的？\n ... So ya sayin' they do it on purpose?"
+    },
+    {
+      "id": 27,
+      "model": "로쟈",
+      "content": "真令人反感。\n Distasteful."
+    },
+    {
+      "id": 28,
+      "content": "所有人都还沉浸在那段经历的余韵中，一时陷入了沉默。\n Silence prevailed as everyone reeled from the aftermath of the experience."
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<这里到底是哪儿……？>\n <Where are we anyway...?>"
+    },
+    {
+      "id": 30,
+      "content": "其实这问题根本没必要问。映入眼帘的景象已经明明白白地告诉了我们，这房间究竟是做什么用的。\n It was an unnecessary question, actually. The view that entered my sight told me in no uncertain terms what exactly this room's purpose was."
+    },
+    {
+      "id": 31,
+      "place": "洗手间\n Restroom",
+      "model": "이스마엘",
+      "content": "……是洗手间。\n ... It's a restroom."
+    },
+    {
+      "id": 32,
+      "model": "돈키호테",
+      "content": "此言不虚，正是茅房！\n Verily, 'tis a privy!"
+    },
+    {
+      "id": 33,
+      "model": "이상",
+      "content": "一处能让人将内心的烦恼尽情放空之地。\n A place where one's innermost troubles may be emptied."
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "我们在那该死的机器里经历了那么多破事……就为了来上个厕所？\n We went through all that shite in that bloody machine... just to get to a toilet?"
+    },
+    {
+      "id": 35,
+      "model": "홍루",
+      "content": "耐莉的谎言确实曾经把我们置于险境，但这次在我看来，她似乎并不是想伤害或欺骗我们……\n It's true Nelly's lies have put us in danger before, but it didn't appear to me that she was trying to harm or deceive us this time around..."
+    },
+    {
+      "id": 36,
+      "model": "로쟈",
+      "content": "浮，我们触发的那台机器……难道是某种传送装置？\n Fau. The machine we triggered... was it some kind of teleporter?"
+    },
+    {
+      "id": 37,
+      "model": "파우스트",
+      "content": "结论会因我们对这段经历的理解不同而有所差异，但可以肯定的是，我们的身体并未被物理性地送到这里。不过这应该无关紧要，因为这里正是我们本该抵达的目的地，而我们也确实成功到达了。\n The verdict would differ depending on our interpretation of the experience, but it is certain that our bodies were not physically sent to this place. That shouldn't be an issue, however, as this is indeed the destination we were bound for, which we have reached successfully."
+    },
+    {
+      "id": 38,
+      "model": "로쟈",
+      "content": "所以……我们到底他妈在哪儿？要去哪儿才能找到默尔？\n So... where the heck are we? Where do we go to find Meur?"
+    },
+    {
+      "id": 39,
+      "content": "罗佳一脸茫然地问道。\n Rodya asked, completely lost."
+    },
+    {
+      "id": 40,
+      "model": "파우스트",
+      "content": "正如广播所说，这个地方是……\n As indicated by the announcement, this place is..."
+    },
+    {
+      "id": 41,
+      "model": "파우스트",
+      "content": "西西弗百货。我们能在这里找到默尔索。\n The Grand Magasin Sisyphe. We will be able to locate Meursault here."
+    },
+    {
+      "id": 42,
+      "model": "그레고르",
+      "content": "那不就是生产经验罐头的工厂吗……？\n That's the factory that produces Canned Experiences, right...?"
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "……站在那边的那位女士，或许知道更多关于这地方的信息。\n ... That woman standing there might have more information about this place."
+    },
+    {
+      "id": 44,
+      "model": "싱클레어",
+      "content": "...!"
+    },
+    {
+      "id": 45,
+      "model": "싱클레어",
+      "content": "她看起来……和德米安有点像……\n She looks similar... to Demian..."
+    },
+    {
+      "id": 46,
+      "model": "오티스",
+      "content": "表明你的身份。你对这个地方了解多少？\n Identify yourself. What do you know about this place?"
+    },
+    {
+      "id": 47,
+      "model": "푸른여인",
+      "content": "……这个地方……\n ... This place..."
+    },
+    {
+      "id": 48,
+      "content": "那女人唇边挂着一抹慈祥的微笑，静静地注视着我们。\n The woman, with a benevolent smile gracing her lips, is watching us serenely."
+    },
+    {
+      "id": 49,
+      "content": "光是看到她的微笑，就足以让我安下心来。\n The sight of her smile alone is enough to set me at ease."
+    },
+    {
+      "id": 50,
+      "model": "푸른여인",
+      "content": "……是一切被冲走之物最终安息之地。“源泉”……\n ... It is where everything that is washed away comes to rest. The \"Fount\"..."
+    },
+    {
+      "id": 51,
+      "model": "오티스",
+      "content": "……我们问的不是这个。\n ... That's not what we asked."
+    },
+    {
+      "id": 52,
+      "model": "오티스",
+      "content": "你和这家店有关系吗？不得不说，你身上有种莫名的熟悉感。\n Are you affiliated with this establishment? Can't deny there is something familiar about you."
+    },
+    {
+      "id": 53,
+      "model": "푸른여인",
+      "content": "……一切事物，皆如人心所信的那般显现……\n ... All things appear... as one believes them to be."
+    },
+    {
+      "id": 54,
+      "model": "이스마엘",
+      "content": "嗯，至少她看起来对我们没有敌意……\n Well, at least she doesn't seem hostile to us..."
+    },
+    {
+      "id": 55,
+      "model": "이스마엘",
+      "content": "你知不知道我们……该在这里做些什么……？如果知道的话，能告诉我们吗？\n Do you happen to know what we're... supposed to do here...? Could you tell us if you do?"
+    },
+    {
+      "id": 56,
+      "model": "오티스",
+      "content": "……德米安、林、参孙……\n ... Demian, Rim, Sansón..."
+    },
+    {
+      "id": 57,
+      "model": "오티스",
+      "content": "她给人的感觉和那三位很像。尤其是那种让人分不清她究竟是敌是友的感觉。\n She gives off much the same impression as the three of them. Especially in how difficult it is to tell whether she is a friend or a foe."
+    },
+    {
+      "id": 58,
+      "model": "오티스",
+      "content": "话说回来，那三位虽然心思难测，但到头来也确实在某种程度上帮了我们。也许这一位也会一样。\n Then again, those three did, in the end, prove helpful to us to some degree, despite their inscrutable intentions. Perhaps this one will be the same."
+    },
+    {
+      "id": 59,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 60,
+      "content": "或许她想说的都已经说完了，只是报以沉默的微笑作为回应，就像先前那抹慈祥的微笑。\n Perhaps she had said all she meant to say, because she only gave a silent smile in return. The same benevolent smile she had given us earlier."
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "如果我们就这样……从那扇门出去，还安全吗？\n Would it still be safe if we just... left through that door over there?"
+    },
+    {
+      "id": 62,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 63,
+      "content": "……她依旧什么都没说，但我似乎看见她微微点了点头，像是在表示肯定。\n ... She still said nothing, but I thought I saw her inclining her head in affirmation ever so slightly."
+    },
+    {
+      "id": 64,
+      "model": "단테",
+      "content": "<……看来我们也没有别的选择了。干脆出去看看外面有什么吧。>\n <... Doesn't look like we got any other choice. Let's just head outside and see what's there.>"
+    }
+  ]
+}

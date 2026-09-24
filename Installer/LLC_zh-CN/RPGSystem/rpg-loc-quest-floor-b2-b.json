@@ -1,0 +1,180 @@
+{
+  "dataList": [
+    {
+      "key": "Q-2000",
+      "title": "가리기 - 지하 2층 도착",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "지하 2층 방적장 진입용"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "방직장 컷씬"
+        }
+      ]
+    },
+    {
+      "key": "Q-2000A",
+      "title": "가리기 - 바늘이 대화 파트",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "줄 선 바늘이 대화"
+        }
+      ]
+    },
+    {
+      "key": "Q-2001",
+      "title": "探索地下2层\n Explore B2F",
+      "description": "我们到达了地下2层。顾客们挤成一条长龙，等着购买黄金染料。去和上次跟我们交易过的裸体谈谈吧。\n We've arrived on B2F. A tightly packed line of customers is waiting for Golden Dye. Let's speak with Naked, the one we traded with before last time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与裸体交谈\n Talk to Naked"
+        }
+      ]
+    },
+    {
+      "key": "Q-2002",
+      "title": "与裸体交谈\n Talk to Naked",
+      "description": "我们到达了地下2层。顾客们挤成一条长龙，等着购买黄金染料。去和上次跟我们交易过的裸体谈谈吧。\n We've arrived on B2F. A tightly packed line of customers is waiting for Golden Dye. Let's speak with Naked, the one we traded with before last time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与裸体交谈\n Talk to Naked"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "击退黑派的袭击\n Fight off the Le Noir assault"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "战后确认情况\n Get your bearings after the battle"
+        }
+      ]
+    },
+    {
+      "key": "Q-2003",
+      "title": "前往染色室\n Head to the Dyehouse",
+      "description": "黑派开始追杀我们了。眼下得找条路去更深的地下。去染色室问问调色板该怎么下去吧。\n The Noirs have started coming after us. For now, we need to find a way farther underground. Let's ask Palette in the Dyehouse how to get down.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往染色室\n Head to the Dyehouse"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004",
+      "title": "前往染色室\n Head to the Dyehouse",
+      "description": "黑派开始追杀我们了。眼下得找条路去更深的地下。去染色室问问调色板该怎么下去吧。\n The Noirs have started coming after us. For now, we need to find a way farther underground. Let's ask Palette in the Dyehouse how to get down.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往染色室\n Head to the Dyehouse"
+        }
+      ]
+    },
+    {
+      "key": "Q-2004A",
+      "title": "前往线团之巢\n Head to the Skein Nest",
+      "description": "调色板似乎需要地下2层楼层经理手中的彩色线团。前往线团之巢，完成调色板的委托吧。\n Palette appears to need the Colorful Skein held by the B2F's Floor Manager. Let's head to the Skein Nest to carry out Palette's request.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往线团之巢\n Head to the Skein Nest"
+        }
+      ]
+    },
+    {
+      "key": "Q-2005",
+      "title": "杀死黑派成员\n Kill the Noirs",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "杀死黑派成员\n Kill the Noirs"
+        }
+      ]
+    },
+    {
+      "key": "Q-2006",
+      "title": "杀死黑派成员（2）\n Kill the Noirs (2)",
+      "description": "更多黑派成员挡住了去路。清除他们，继续前进。\n More Noirs stand in the way. We should clear them out and press onward.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "继续清除黑派成员\n Keep clearing out the Noirs"
+        }
+      ]
+    },
+    {
+      "key": "Q-2007",
+      "title": "继续前往线团之巢\n Press onward to the Skein Nest",
+      "description": "挡路的黑派成员已经解决了。动身前往线团之巢吧。\n The Noirs blocking the way have been dealt with. Let's make for the Skein Nest.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "继续前往线团之巢\n Press onward to the Skein Nest"
+        }
+      ]
+    },
+    {
+      "key": "Q-2008",
+      "title": "与地下2层楼层经理交谈\n Talk to B2F's Floor Manager",
+      "description": "我们到了线团之巢。去和地下2层的楼层经理谈谈吧。\n We've arrived at the Skein Nest. Let's speak with B2F's Floor Manager.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与地下2层楼层经理交谈\n Talk to B2F's Floor Manager"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "杀死地下2层楼层经理\n Kill the B2F Floor Manager"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "获得彩色线团\n Obtained Colorful Skein"
+        }
+      ]
+    },
+    {
+      "key": "Q-2009",
+      "title": "将线团带给调色板\n Bring the Skein to Palette",
+      "description": "调色板似乎需要地下2层楼层经理手中的彩色线团。前往线团之巢，完成调色板的委托吧。\n Palette appears to need the Colorful Skein held by the B2F's Floor Manager. Let's head to the Skein Nest to carry out Palette's request.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "将线团带给调色板\n Bring the Skein to Palette"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010",
+      "title": "前往地下3层的自动扶梯\n Head to B3F's Escalator",
+      "description": "调色板遵守承诺，告诉了我们通往地下3层的自动扶梯在哪里。去那里继续向下吧。\n Palette kept her word and told us where to find the escalator to B3F. Let's head there and continue downward.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下3层的自动扶梯\n Head to B3F's Escalator"
+        }
+      ]
+    },
+    {
+      "key": "Q-2010A",
+      "title": "前往地下3层\n Head down to B3F",
+      "description": "我们到了自动扶梯。搭乘它前往地下3层吧。\n We've reached the escalator. Let's take it down to B3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下3层\n Head down to B3F"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "探索3层\n Explore 3F"
+        }
+      ]
+    }
+  ]
+}

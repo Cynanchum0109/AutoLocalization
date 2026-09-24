@@ -1,0 +1,208 @@
+{
+ "_note": "跨 agent 共享的新造专名台账：glossary.json 里没有、但本轮已经定下来的译名。两个 agent 都要读、都要写。",
+ "Pwie": {
+  "zh": "布布",
+  "by": "a",
+  "note": "Buffet 的幼儿发音（原文：只能发出 Buffet 第一个音节）→ 布菲的第一个音「布」→ 布布"
+ },
+ "Buffet": {
+  "zh": "布菲",
+  "by": "a",
+  "note": "5F 自助餐厅的大人；其幼名 Pwie=布布 由本名第一音节来"
+ },
+ "Skadi": {
+  "zh": "斯卡蒂",
+  "by": "a",
+  "note": "明日方舟联动，采用方舟官方译名"
+ },
+ "Kal'tsit": {
+  "zh": "凯尔希",
+  "by": "a",
+  "note": "明日方舟联动，采用方舟官方译名"
+ },
+ "Irene": {
+  "zh": "艾丽妮",
+  "by": "a",
+  "note": "明日方舟联动，采用方舟官方译名"
+ },
+ "Inquisition": {
+  "zh": "异端审判庭",
+  "by": "a",
+  "note": "艾丽妮的所属组织（nickName 位是所属，不是头衔）"
+ },
+ "Mayors": {
+  "zh": "梅厄斯",
+  "by": "a",
+  "note": "沿用官方「梅厄斯，羡望漂流」"
+ },
+ "Bishop of the Church": {
+  "zh": "教团主教",
+  "by": "a",
+  "note": "The Church=教团（术语表）"
+ },
+ "Followers of the Deep": {
+  "zh": "深海信徒",
+  "by": "a"
+ },
+ "Church of the Deep": {
+  "zh": "深海教会",
+  "by": "a"
+ },
+ "Xue Family Servant": {
+  "zh": "薛家家仆",
+  "by": "a",
+  "note": "Xue Family=薛家（术语表）"
+ },
+ "Clock": {
+  "zh": "钟",
+  "by": "a",
+  "note": "良秀/希斯克利夫对但丁的称呼（钟表头）"
+ },
+ "C.H.": {
+  "zh": "钟头",
+  "by": "a",
+  "note": "良秀对但丁的缩写称呼 Clock Head；中文「钟头」保留缩写感"
+ },
+ "M.P.": {
+  "zh": "记毒",
+  "by": "a",
+  "note": "良秀缩写 memory poisoning=记忆中毒；下一句原文会把全称念出来，需对得上「记忆中毒」"
+ },
+ "Meur": {
+  "zh": "默尔",
+  "by": "a",
+  "note": "罗佳/鸿璐对默尔索的简称"
+ },
+ "Suicide Vending Machine": {
+  "zh": "自杀贩卖机",
+  "by": "a",
+  "note": "RPG 同名设施"
+ },
+ "Arayashiki": {
+  "zh": "阿赖耶识",
+  "by": "a",
+  "note": "良秀的刀"
+ },
+ "The Fount": {
+  "zh": "泉",
+  "by": "a",
+  "note": "1F 地点（术语表已有，登记以防分叉）"
+ },
+ "Eye-shopping Customer": {
+  "zh": "过眼瘾的顾客",
+  "by": "a",
+  "note": "1F 只看不买的顾客（eye-shopping=橱窗购物，此处双关眼球）"
+ },
+ "Treatment Customer": {
+  "zh": "护理顾客",
+  "by": "a",
+  "note": "1F 美容厅做护理的顾客"
+ },
+ "Manager": {
+  "zh": "经理",
+  "by": "a",
+  "note": "角色当面称呼但丁时用「经理」；名表 nickName 位是「执行经理」"
+ },
+ "Liquidation": {
+  "zh": "清仓",
+  "by": "a",
+  "note": "西西弗百货定期重置存货的内部代号（原文带引号）"
+ },
+ "Sisyphe Penalty": {
+  "zh": "西西弗刑",
+  "by": "a",
+  "note": "被判此刑者被送进西西弗百货"
+ },
+ "Sisyphe Tower": {
+  "zh": "西西弗塔",
+  "by": "a",
+  "note": "现实中存放肉体培养槽的塔"
+ },
+ "Casualwear Hall": {
+  "zh": "快销服饰馆",
+  "by": "a",
+  "note": "1F 卖场"
+ },
+ "Houndstooth Season": {
+  "zh": "千鸟格季",
+  "by": "a",
+  "note": "潮流季名，广播里出现"
+ },
+ "the Cradle": {
+  "zh": "摇篮",
+  "by": "a",
+  "note": "红派在奢侈品馆造出的东西"
+ },
+ "Golden Shroud": {
+  "zh": "黄金裹布",
+  "by": "a",
+  "note": "B1F 可穿戴的皮料制品"
+ },
+ "Ruminations of the Prey": {
+  "zh": "猎物反刍肉",
+  "by": "a",
+  "note": "沿用 B1F dialogue 既有译名"
+ },
+ "Wriggley": {
+  "zh": "蠕蠕",
+  "by": "a",
+  "note": "由活幼虫制成的黄金之茧昵称"
+ },
+ "Scar D.": {
+  "zh": "刀疤D",
+  "by": "a",
+  "note": "杜布瓦的诨名"
+ },
+ "Dubbs": {
+  "zh": "小杜",
+  "by": "a",
+  "note": "罗佳对杜布瓦的昵称"
+ },
+ "Stripe Season": {
+  "zh": "条纹季",
+  "by": "a",
+  "note": "潮流季名"
+ },
+ "Age of Ruin": {
+  "zh": "破灭之世",
+  "by": "a",
+  "note": "九个树季前墙体开裂的时代"
+ },
+ "arboreal Season": {
+  "zh": "树季",
+  "by": "a",
+  "note": "居斯塔夫的计时单位"
+ },
+ "Customer Service Center": {
+  "zh": "顾客服务中心",
+  "by": "a",
+  "note": "6F，管评级"
+ },
+ "Brand Director": {
+  "zh": "品牌总监",
+  "by": "a"
+ },
+ "Renée": {
+  "zh": "蕾妮",
+  "by": "a"
+ },
+ "Le Rouge Handbags Hall Designer": {
+  "zh": "红派手袋馆设计师",
+  "by": "a"
+ },
+ "Colorful Skein": {
+  "zh": "彩色线团",
+  "by": "a",
+  "note": "B2F 任务物品"
+ },
+ "False Voice": {
+  "zh": "虚假之声",
+  "by": "a",
+  "note": "B2F 黑派搜捕对象称呼"
+ },
+ "Voice of Fate": {
+  "zh": "命运之声",
+  "by": "a",
+  "note": "B2F 楼层经理信奉的声音"
+ }
+}

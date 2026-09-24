@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "key": "N201101",
+      "displayName": "眼睛试味员\n Eye Taste Tester"
+    },
+    {
+      "key": "N201102",
+      "displayName": "鼻子试味员\n Nose Taste Tester"
+    },
+    {
+      "key": "N201103",
+      "displayName": "干渴的卡基\n Thirsty Kaki"
+    },
+    {
+      "key": "N201104",
+      "displayName": "皮革钱包\n Leather Wallet"
+    },
+    {
+      "key": "N201105",
+      "displayName": "丹宁钱包\n Denim Wallet"
+    },
+    {
+      "key": "N201106",
+      "displayName": "饥饿的卡基\n Hungry Kaki"
+    },
+    {
+      "key": "N201107",
+      "displayName": "嘴巴试味员\n Mouth Taste Tester"
+    },
+    {
+      "key": "N201108",
+      "displayName": "干渴的卡基\n Thirsty Kaki"
+    },
+    {
+      "key": "N201109",
+      "displayName": "饥饿的卡基\n Hungry Kaki"
+    },
+    {
+      "key": "N201110",
+      "displayName": "皮革钱包\n Leather Wallet"
+    }
+  ]
+}

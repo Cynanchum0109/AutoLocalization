@@ -1,0 +1,47 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "teller": "广播\n Announcement",
+      "title": "西西弗百货\n Grand Magasin Sisyphe",
+      "content": "热烈欢迎各位贵宾今日光临西西弗百货。\n We extend our warmest welcome to the valued guests of Grand Magasin Sisyphe visiting today."
+    },
+    {
+      "id": 1,
+      "teller": "广播\n Announcement",
+      "title": "西西弗百货\n Grand Magasin Sisyphe",
+      "content": "西西弗百货始终致力于珍视各位顾客在店内获得的每一次体验。\n Grand Magasin Sisyphe is ever committed to cherishing every experience our customers procure within."
+    },
+    {
+      "id": 2,
+      "teller": "广播\n Announcement",
+      "title": "西西弗百货\n Grand Magasin Sisyphe",
+      "content": "为紧跟最新潮流，本店积极鼓励店内各类商铺根据流行趋势随时开张或关闭，逛店时请注意不要迷路。\n To keep abreast of the latest fashions, we actively encourage the wide variety of shops available at the department store to open and close according to trends. Please take care not to lose your way as you explore the establishment."
+    },
+    {
+      "id": 3,
+      "teller": "广播\n Announcement",
+      "title": "西西弗百货\n Grand Magasin Sisyphe",
+      "content": "一如既往，各楼层的洗手间目前均在维修中，请各位在安排行程时留意此事，为此带来的不便我们深表歉意。\n As always, restrooms on every floor are currently under repair. Please take note of this when planning your visit. We apologize for the inconvenience."
+    },
+    {
+      "id": 4,
+      "teller": "广播\n Announcement",
+      "title": "西西弗百货\n Grand Magasin Sisyphe",
+      "content": "为防止卫生问题，各楼层的入场资格将限定为已达到相应荣誉等级的顾客，如有疑问请前往六楼顾客服务中心咨询。\n To prevent hygiene issues, entry to each floor will be limited to customers who have achieved the required Prestige Tier. Please visit our Customer Service Center on the sixth floor for any further queries."
+    },
+    {
+      "id": 5,
+      "teller": "广播\n Announcement",
+      "title": "西西弗百货\n Grand Magasin Sisyphe",
+      "content": "欢迎顾客与展出的人体模特进行肢体接触，反之，人体模特也被允许与顾客进行肢体接触。若您希望参与，请联系相关商铺的销售人员，他们将乐意为您提供帮助。\n Customers are welcome to make physical contact with all Mannequins on display. Conversely, Mannequins are also allowed to make physical contact with all customers. Should you wish to participate, please talk to the sales associate at the relevant shop, who will be delighted to assist you."
+    },
+    {
+      "id": 6,
+      "teller": "广播\n Announcement",
+      "title": "西西弗百货\n Grand Magasin Sisyphe",
+      "content": "希望各位齐心协力，让顾客们今天也能收获一次物有所值的消费体验。感谢您选择西西弗百货，祝您购物愉快。\n We ask everyone to do their best to ensure another day of worthwhile consumer experience for our customers. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping."
+    },
+    {}
+  ]
+}

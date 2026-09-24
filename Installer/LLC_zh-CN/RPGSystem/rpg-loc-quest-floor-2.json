@@ -1,0 +1,59 @@
+{
+  "dataList": [
+    {
+      "key": "Q2001",
+      "title": "探索二楼\n Explore 2F",
+      "description": "我们终于抵达了二楼。这里一片昏暗，浸满了红色，一切都透着不对劲。四处看看吧。\n We've finally reached 2F. It's dark, drenched in red, and nothing about it feels right. Let's look around.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索二楼\n Explore 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2002",
+      "title": "前往二楼\n Head to 2F",
+      "description": "法兰绒和毛毡对我们带去的武器感到十分兴奋。他们请我们阻止赤红者在二楼奢华厅里正在进行的事情。不知道二楼的装修工程结束了没有。是时候下楼去了。\n Flannel and Felt were thrilled by the weapon we brought them. They asked us to stop whatever the Rouges are doing in the Luxury Hall on 2F. I wonder if the renovation on 2F is over yet. Time to head back down.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往二楼\n Head to 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2003",
+      "title": "进入奢华厅\n Enter the Luxury Hall",
+      "description": "二楼的屠杀仍在继续。守卫奢华厅的漆黑者看到了我们的金钉，放我们通过，并请我们摧毁赤红者正在里面创造的伪神。我们需要查看入口之后等待着我们的是什么。\n The slaughter on 2F is still going on. The Noir guarding the Luxury Hall saw our Golden Nail and let us through, asking us to destroy the false god the Rouges are creating inside. We need to check what's waiting beyond the entrance.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "进入奢华厅\n Enter the Luxury Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q2011",
+      "title": "抵御赤红者的猛攻\n Fend off the Rouge Onslaught",
+      "description": "我们需要抵达圣幕之外的区域。帮助漆黑者消灭赤红者，然后击败把守道路的赤红者品牌总监。\n We need to reach the area beyond the Tabernacle. Let's help the Noirs wipe out the Rouges, then take down the Le Rouge Brand Director guarding the way.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "击杀赤红者品牌总监\n Kill the Rouge Brand Director"
+        }
+      ]
+    },
+    {
+      "key": "Q2004",
+      "title": "进入圣幕\n Enter the Tabernacle",
+      "description": "我们已经消灭了守卫奢华厅的赤红者。跟着默尔索前往圣幕之外吧。\n We've wiped out the Rouges guarding the Luxury Hall. Let's follow Meursault beyond the Tabernacle.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "进入圣幕\n Enter the Tabernacle"
+        }
+      ]
+    }
+  ]
+}

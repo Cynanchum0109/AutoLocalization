@@ -1,0 +1,512 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：我一直想发财。\n I always wanted to get rich."
+    },
+    {
+      "id": 1,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "......."
+    },
+    {
+      "id": 2,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：呃……发财了要做什么呢……？\n Uh... what would I do once I got rich...?"
+    },
+    {
+      "id": 3,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：我……呃，还没想那么远……\n I, uh... haven't really thought that far ahead..."
+    },
+    {
+      "id": 4,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：哦对了！我预订的布料！谢谢提醒，我得赶紧过去了！\n Oh, right! My fabric reservation! Thanks for reminding me. I'd better get going!"
+    },
+    {
+      "id": 5,
+      "content": "......."
+    },
+    {
+      "id": 6,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：你好！我是来取我预订的布料的。听说已经准备好了……\n Hello! I'm here to pick up the fabric I reserved. I was told it would be ready..."
+    },
+    {
+      "id": 7,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "你确定那件外袍不用修补吗？你就这样穿着也满意？\n Are you sure that shroud of yours doesn't need mending? You're happy leaving it as it is?"
+    },
+    {
+      "id": 8,
+      "model": "싱클레어",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 9,
+      "content": "阳光洒进改衣室。\n Sunshine is pouring into the Alteration Shop."
+    },
+    {
+      "id": 10,
+      "content": "另一位顾客正在与改衣师小姐说话。他肩上披着一件褪色的金色斗篷。\n Another customer is there talking to Miss Alterationist. He has a faded golden cloak over his shoulders."
+    },
+    {
+      "id": 11,
+      "content": "我想这正是合适的季节前来光顾。但看到前面还有顾客，我担心自己是不是来得太早了。\n I thought this was exactly the right season to come by. But seeing the customer ahead of me, I wonder if I've shown up a little early."
+    },
+    {
+      "id": 12,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "我不知道你想拿那把剪刀做什么……\n I don't know what you want to do with those scissors..."
+    },
+    {
+      "id": 13,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "但你心里确实藏着那份渴望……深到我能看出，总有一天你会回来求我把它剪掉。\n But you've got that desire in you... enough that I can see you coming back to have me severed someday."
+    },
+    {
+      "id": 14,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "等那天到来时，你知道该找谁做改衣服务。\n When that day comes, you know whose alteration services to go with."
+    },
+    {
+      "id": 15,
+      "content": "那位顾客一边听改衣师小姐说话一边点头。事情谈妥后，他转身朝我这边走来。\n The customer nods along as Miss Alterationist speaks. Then, with his business apparently concluded, he turns and walks in my direction."
+    },
+    {
+      "id": 16,
+      "content": "他看见我时，惊讶得张大了嘴……随即歪着头，像是在数着什么。\n When he sees me, his mouth falls open in apparent surprise... Then he tilts his head, like he's counting something."
+    },
+    {
+      "id": 17,
+      "content": "我试着回想他是谁。我们以前见过吗？可我怎么都想不起在百货公司哪里见过这种款式的衣服。\n I try to place him. Did we meet somewhere before? But I can't recall ever seeing that style of clothing anywhere in the department store."
+    },
+    {
+      "id": 18,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：哦……呃，你好。很高兴认识你……\n Oh... uh, hello. Nice to meet you..."
+    },
+    {
+      "id": 19,
+      "model": "싱클레어",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    },
+    {
+      "id": 20,
+      "content": "这是个笨拙的打招呼方式，但我想着或许能借此打破僵局……\n It was a clumsy attempt at a greeting, but I thought it might help break the ice..."
+    },
+    {
+      "id": 21,
+      "content": "但他低声笑了——更像是嗤笑——像是想通了什么。不管想通了什么，他都没说出口，一言不发地转身离开了。\n But he chuckled—scoffed, really—under his breath, as though he'd just worked something out. Whatever it was, he kept it to himself and left without a word."
+    },
+    {
+      "id": 22,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "...?"
+    },
+    {
+      "id": 23,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "阳光是很舒服，我知道，但也别整天泡在里面。你可不想变成那种在店里游荡的人台。\n The sunshine feels lovely, I know, but don't go basking in it all day. You don't want to end up like those Mannequins shambling around the shops."
+    },
+    {
+      "id": 24,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "来，靠近点儿。你站在那边，后面的顾客都不知道自己排到哪儿了。\n Here, come a little closer. The next customers won't know where they are in the queue if you stand over there."
+    },
+    {
+      "id": 25,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：啊，对哦。抱歉。\n Ah, right. Sorry about that."
+    },
+    {
+      "id": 26,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "还在想刚才那位顾客吗？你脸上还挂着那副表情呢。\n Still thinking about the customer who just left? You've still got that look on your face."
+    },
+    {
+      "id": 27,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：哈哈……只是没想到会在你店里看见红派的顾客。我还以为他们不会跟改衣师小姐有来往呢。\n Haha... I just wasn't expecting to see a Rouge customer at your shop. I didn't think they'd have dealings with you, Miss Alterationist."
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "谁来找布料，我都欢迎。\n Anyone who comes looking for fabric is welcome here."
+    },
+    {
+      "id": 29,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "所以黑派的人求我给他们开店，我一直没答应。而且，说实话，他们还真是不厌其烦地问个不停。\n That's why I keep ignoring the Noirs when they ask me to run a shop for them. And believe me, they don't tire of asking."
+    },
+    {
+      "id": 30,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "你的已经好了。再给我一点时间把这一件收个尾，很快就好。\n Yours is all ready to go. Give me a moment to put the finishing touches on this other one. Won't be much longer."
+    },
+    {
+      "id": 31,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "这么纯粹、高贵的材料，必须悉心对待……可不是那种能放下再捡起来接着做的活儿。\n You have to treat such pure, noble material with care... It's not the sort of work you can just put down to pick up again later."
+    },
+    {
+      "id": 32,
+      "content": "搭在她膝上的那块布料散发着我从未见过的光泽。这段时间我看过不少布料，但从没见过那样的颜色。\n The fabric resting in her lap had a radiance I'd never seen before. I'd looked at plenty of fabrics by now, but nothing with a color quite like that."
+    },
+    {
+      "id": 33,
+      "content": "我看过的大多数布料，都得仔细端详才能大致判断出各种材质的含量……可这一块？光凭眼睛就能看出它的纯度极高。\n Most fabrics I've seen so far had to be scrutinized to get an idea of how much of each material was in them... But this one? I could tell it's high-purity just by looking."
+    },
+    {
+      "id": 34,
+      "content": "买那样一块布料得花多少眼球啊……？我根本没法想象那价钱。\n How many eyeballs would it take to buy fabric like that...? I couldn't even begin to put a price on it."
+    },
+    {
+      "id": 35,
+      "content": "也许要在1楼捡上几百个季度的眼球……不，我骗谁呢？就算那样也够不着。\n Maybe if I spent hundreds of seasons picking up eyeballs on 1F... No, who am I kidding? Even that wouldn't put it within reach."
+    },
+    {
+      "id": 36,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：你手上这件……是黑派委托你做的吗？\n That piece you're working on... is it something the Noirs asked you to make?"
+    },
+    {
+      "id": 37,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "嗯哼。是他们的品牌经理定的。\n Mmhmm. Their Brand Manager did."
+    },
+    {
+      "id": 38,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "给他们的铠甲做黄金面料……要那种够“正义”够“崇高”的感觉。这是他们的要求。\n Golden Fabric for their armor... something suitably \"righteous\" and \"exalted\". That was the request."
+    },
+    {
+      "id": 39,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：这么漂亮的布料……最后要变成铠甲？真的假的……？\n All this beautiful fabric... and it's going to end up as armor? Really...?"
+    },
+    {
+      "id": 40,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：可要是做成裙子，那该有多美啊……？那样肯定好看多了……\n Wouldn't it be lovely as a dress, though...? It'd be so much better that way..."
+    },
+    {
+      "id": 41,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "......."
+    },
+    {
+      "id": 42,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "把每一层布料叠加起来，一层又一层……就能做出一件坚固又轻便的铠甲。\n Overlay each ply of fabric, layer after layer... and you can make a suit of armor with plenty of strength and very little weight."
+    },
+    {
+      "id": 43,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "这能让他们在跟红派的较量中占上风。\n It'll give them an edge in their competition with the Rouges."
+    },
+    {
+      "id": 44,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：较量……哦，怪不得最近这么难预约。\n Competition... Oh, so that's why it's been so hard to get a reservation lately."
+    },
+    {
+      "id": 45,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "那，其他顾客怕是得排队等我做完黑派这批大订单了……我连接零活的时间都快挤不出来。\n Well, customers may have to get in line while I work on the Noirs' bulk fabric order... I can't even squeeze in much time to handle odd jobs."
+    },
+    {
+      "id": 46,
+      "content": "改衣师小姐看样子做完了，小心翼翼地把黄金面料放下。\n Her work apparently finished, Miss Alterationist carefully set the Golden Fabric down."
+    },
+    {
+      "id": 47,
+      "content": "现在她做完黑派的订单了，终于轮到我了……我等这一天等了好几个季度。我真的要拿到我的布料了……\n Now that she's done with the Noirs' order, it's my turn, finally... I've been waiting for this for seasons. I'm actually going to get my fabric..."
+    },
+    {
+      "id": 48,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "给你。你要的绣花布料。看到这些线交织缠绕了吗？我就是这么织出这片浓密繁茂的森林纹样的。\n Here you go. The embroidered fabric you asked for. See the threads winding through each other? That's how I made that dense, lush forest pattern."
+    },
+    {
+      "id": 49,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：哇。要是把这个缠在袖口上……整套衣服会优雅好多……\n Whoa. If I put this around my cuffs... the whole outfit would look so much more elegant..."
+    },
+    {
+      "id": 50,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：谢谢你！我下次一定还来找你！\n Thank you! I'll be sure to come to you again next time!"
+    },
+    {
+      "id": 51,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "那，你接下来要去哪儿？\n So, where are you headed now?"
+    },
+    {
+      "id": 52,
+      "content": "我本打算回到1楼我熟悉的那个好地方，先在那儿捡些眼球，然后再去4楼。\n I'd meant to go back down to a good spot I knew on 1F. Gather some eyeballs there, then head up to 4F."
+    },
+    {
+      "id": 53,
+      "content": "我本想去手袋馆找个包，配我正在做的这条裙子……\n I was going to find a bag from the Handbags Hall to go with the dress I'm working on..."
+    },
+    {
+      "id": 54,
+      "content": "可我的目光怎么也挪不开，一直落在她放下的那块黄金面料上。\n Except my eyes wouldn't stay on anything else. They kept returning to that Golden Fabric, sitting right where she'd put it down."
+    },
+    {
+      "id": 55,
+      "content": "要是我下到地下楼层……要是我能自己找到那样的材料……\n If I went down to the basement floors... if I could find materials like that for myself..."
+    },
+    {
+      "id": 56,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：我想……其实我想去地下楼层看看。\n I think I'll head... down to the basement floors, actually."
+    },
+    {
+      "id": 57,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：听说地下一楼有种饮料，能喝出你想要的任何味道。呃，至少……我是这么听说的。\n There's supposed to be a drink on B1F that can taste like anything you want. Or, um... that's what I've heard, at least."
+    },
+    {
+      "id": 58,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "呼呼……我看出你打的什么主意了。不过想弄到做这块布料的材料，可没那么容易。\n Fuhu... I can see where this is going. But getting hold of the materials for this fabric won't be nearly as easy as you're hoping."
+    },
+    {
+      "id": 59,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "不过……脚夫们跟我说，下面有不少东西跟地上完全不一样。至少你能找到点不一样的东西。\n Still... the porters tell me there's plenty down there that's nothing like what we have above ground. You might find something different, at least."
+    },
+    {
+      "id": 60,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：那我该付你多少眼球？这看起来可不像上次那样只值200……\n So, how many eyeballs do I owe you? This looks way too good to pay just 200, like last time..."
+    },
+    {
+      "id": 61,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "那件……？拿去吧，不用付钱。\n That one...? Just take it. You don't have to pay."
+    },
+    {
+      "id": 62,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：等等，真的吗？你要白送我？！\n Wait, really? You're giving it for free?!"
+    },
+    {
+      "id": 63,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "要是你能到地下二楼，帮我个忙。我有个小道消息，想让你散布给黑派听。\n Just do me a favor if you manage to get to B2F. A little rumor I'd like you to put about among the Noirs."
+    },
+    {
+      "id": 64,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：哦，这个我可以！我很擅长散布消息，其实也算是练出来的了！\n Oh, I can do that! I'm good at getting a rumor around. I've had a bit of practice, actually!"
+    },
+    {
+      "id": 65,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：你知道4楼开始流传的那把传说之剑的传闻吗？我亲自把它带到了1楼和3楼！传到你这儿了没？\n You know the rumor about a legendary sword that started going around on 4F? I brought it to 1F and 3F myself! Has it reached you yet?"
+    },
+    {
+      "id": 66,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "……还没传到我这儿。不过只要你会让顾客们聊起来，那对我来说就够了。\n ... Can't say it has. But if you know how to get customers talking, that's good enough for me."
+    },
+    {
+      "id": 67,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "我想让他们听到这样一句话。3楼的平衡撑不了多久了……马上就要彻底崩塌。\n Here's what I want them to hear. The balance on 3F won't hold much longer... It's about to come apart altogether."
+    },
+    {
+      "id": 68,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：呃，“平衡”……？\n Uh, \"balance\"...?"
+    },
+    {
+      "id": 69,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "红派的精品店又重新站稳脚跟了。现在几乎可以说，是他们在引领潮流了。\n The Rouges' Boutiques are finding their feet again. You could pretty much say they're the ones setting the trends now."
+    },
+    {
+      "id": 70,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "黑派的品牌经理东奔西跑地想跟上……可那样还不够扭转局面。\n The Noir Brand Manager's running all over the place, trying to keep up... but that won't be enough to turn things around."
+    },
+    {
+      "id": 71,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "现在有个“声音”在指引红派……对每一步都有应对。就好像早在开始之前，一切就已经算计好了。\n There's a Voice guiding the Rouges now... and it has an answer for every move. As if it had the whole thing figured out before it even began."
+    },
+    {
+      "id": 72,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "而线头已经在松脱，却没人察觉……\n Without even noticing the threads coming loose..."
+    },
+    {
+      "id": 73,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "总之，我要你转达的就是这些。就靠你了，亲爱的顾客。\n Anyway, that's all I need you to pass on. I'm counting on you, dear customer."
+    },
+    {
+      "id": 74,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：当然！我一定会把这话原原本本地带到。\n Of course! I'll make sure the message gets through, just as you said."
+    },
+    {
+      "id": 75,
+      "content": "我道过别正要离开时，一个个穿着红衣的身影陆续走进了改衣室。\n I'd said my goodbyes and was about to leave when figures dressed in red began filing into the Alteration Shop, one after another."
+    },
+    {
+      "id": 76,
+      "content": "看来她确实有不少红派顾客……也许只是我以前没在对的时候撞见过他们。\n So she really did get plenty of Rouge customers... Maybe I'd simply never been around at the right time to see them."
+    },
+    {
+      "id": 77,
+      "content": "我正这么想着朝出口走去……一把剪刀突然朝我飞了过来，挡在我面前。\n That was what I was thinking as I made for the entrance... when a pair of scissors came flying into my path."
+    },
+    {
+      "id": 78,
+      "content": "剪刀上嵌着一根骨制的钉子……我这才意识到，是某个红派朝我扔了过来。剪刀替我挡下了它。\n There was a nail, made of bone, embedded in the scissors... and only then did I realize that one of the Rouges had thrown it at me. The scissors blocked it."
+    },
+    {
+      "id": 79,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：哈……？\n Huh...?"
+    },
+    {
+      "id": 80,
+      "teller": "敌意顾客\n Hostile Customer",
+      "title": "红派\n Le Rouge",
+      "content": "算你走运，褐派。\n A lucky escape, Kaki."
+    },
+    {
+      "id": 81,
+      "teller": "敌意顾客\n Hostile Customer",
+      "title": "红派\n Le Rouge",
+      "content": "红派的皮衣配上黑派的鞋……？光看这身打扮，我就足够送你直接坠入谷底了。\n A Rouge leather coat, paired with Noir shoes...? One look at that ensemble was enough for me to send you free-falling to rock bottom."
+    },
+    {
+      "id": 82,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "杜布瓦：可、可你看它们多搭啊……这样明明更好看……\n B-but look at how well they go together... It's much prettier like this..."
+    },
+    {
+      "id": 83,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "*叹气* 亲爱的顾客……现在不是时候。\n *sigh* My dear customer... not now."
+    },
+    {
+      "id": 84,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "少废话，从那堆线轴后面的帘子出去。赶紧离开这家店，除非你更想摔一跤。\n Save the talk and get out through the curtains behind that stack of thread spools. Get yourself out of the shop, unless you'd rather take a fall."
+    },
+    {
+      "id": 85,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "至于你……你可不是来买布料的吧。是那孩子派你来的？\n As for you... You sure didn't come for fabric. Was it that child who sent you?"
+    },
+    {
+      "id": 86,
+      "teller": "敌意顾客\n Hostile Customer",
+      "title": "红派\n Le Rouge",
+      "content": "我们珍视的那位给了我们指引。若要关闭黑派的每一家店铺，改衣室必须是我们的首要目标。\n Our cherished one gave us his guidance. If we're to shut down every last Noir establishment, the Alteration Shops have to be our first targets."
+    },
+    {
+      "id": 87,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "……瞧瞧那双眼睛。满满的贪婪，满满的渴望……都要烧穿了。\n ... Look at those eyes. All that greed, all that desire... burning right through."
+    },
+    {
+      "id": 88,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "也许正因如此，我最终还是没喜欢上黑派的风格。要知道，我就是喜欢你们红派眼里的那种神情。\n Maybe that's why I never did take to Noir's fashion in the end. I like that look in the eyes of you Rouges, you know."
+    },
+    {
+      "id": 89,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "所以接下来这一幕，对你们来说想必也不意外：\n Which means this next part shouldn't come as any surprise to you:"
+    },
+    {
+      "id": 90,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "要是你们想把我剪掉……那最好也有觉悟，自己也会被剪碎。\n If you'd like to cut me away... you'd better have come prepared to be snipped away yourselves."
+    },
+    {
+      "id": 91,
+      "model": "로쟈",
+      "title": "改衣室\n Alteration Shop",
+      "content": "集合。\n Rassemble."
+    }
+  ]
+}

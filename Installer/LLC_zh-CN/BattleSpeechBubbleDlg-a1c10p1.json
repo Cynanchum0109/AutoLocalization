@@ -1,0 +1,269 @@
+{
+  "dataList": [
+    {
+      "id": "10SV-004",
+      "desc": "수셰프 스킬4",
+      "dlg": "越来越好吃了，你听见没？这味道简直绝了，你听见没？\n Yummier and yummier, you hear? The flavor's out of this world, you hear?"
+    },
+    {
+      "id": "10SV-005",
+      "desc": "수셰프 스킬5",
+      "dlg": "你可以加进苏打里，出一份力，你听见没？\n You can go into the soda and contribute, you hear?"
+    },
+    {
+      "id": "10SV-006",
+      "desc": "수셰프 스킬6",
+      "dlg": "快手快脚，噔噔剁剁，你听见没？\n Hurry-scurry, chippy-chop, you hear?"
+    },
+    {
+      "id": "10SV-007",
+      "desc": "수셰프 스킬7",
+      "dlg": "你都出力了，这顿算我请客，你听见没？\n You pitched in, so this one's on the house, you hear?"
+    },
+    {
+      "id": "10SV-008_a",
+      "desc": "수셰프 스킬8",
+      "dlg": "这可满足不了本副主厨，你听见没？\n This won't satisfy a real Sous Chef like me, you hear?"
+    },
+    {
+      "id": "10SV-008_b",
+      "desc": "수셰프 스킬8",
+      "dlg": "那个食材我也想要，你听见没？\n I want that ingredient too, you hear?"
+    },
+    {
+      "id": "10SV-009",
+      "desc": "수셰프 스킬9",
+      "dlg": "气泡都快没了……这可不行，你听见没？\n The fizz is going flat... This won't do, you hear?"
+    },
+    {
+      "id": "10SV-010",
+      "desc": "수셰프 특수 패턴1이 나오는 턴 시작 시 (전투당 1회)",
+      "dlg": "嗯哼哼哼～这股气泡劲儿……简直是最棒的，你听见没？布彻也会乐坏的，你听见没？\n Mnnhnmhmhm~ This fizzy kick... It's the bestest, you hear? Boucher'll be over the moon, too, you hear?"
+    },
+    {
+      "id": "10SV-011",
+      "desc": "수셰프 특수 패턴2가 나오는 턴 시작 시 (전투당 1회)",
+      "dlg": "*嗅嗅* 这香味真诱人，你听见没？闻得我都饿了，你听见没……？\n *sniff* *sniff* Scrumptious aroma, you hear? Makes me hungry, you hear...?"
+    },
+    {
+      "id": "10SV-024-01",
+      "desc": "붉은 신 스킬3",
+      "dlg": "滴……嗒！\n Tiiii... Tock!"
+    },
+    {
+      "id": "10SV-024-02",
+      "desc": "붉은 신 스킬3",
+      "dlg": "滴……嗒！\n Tiiii... Tock!"
+    },
+    {
+      "id": "10SV-026",
+      "desc": "붉은 신 스킬5",
+      "dlg": "该死……我记……！声音……！！\n Dammi... I rememb...!! Voice...!!"
+    },
+    {
+      "id": "10SV-029",
+      "desc": "붉은 신 스킬8",
+      "dlg": "让我听……歌\n Let me h... song"
+    },
+    {
+      "id": "10SV-031",
+      "desc": "붉은 신 스킬10",
+      "dlg": "愤怒！与……哭泣……高度一致！\n Anger! Aligns muc... with... crying!"
+    },
+    {
+      "id": "10SV-032",
+      "desc": "붉은 신 수비 스킬",
+      "dlg": "高度相似……那个……叫做……\"摇篮曲\"……\n High similar... what... called... \"lullab\"... "
+    },
+    {
+      "id": "10SV-034",
+      "desc": "붉은 신 스킬13",
+      "dlg": "呼叫……审判呼叫……经理……！！！\n Call... Judgment caaall... Manager...!!!"
+    },
+    {
+      "id": "10SV-035-a",
+      "desc": "붉은 신 폭식 보유 1턴째 턴 시작",
+      "dlg": "睡吧……我的宝贝……\n Sleep tight... My baby..."
+    },
+    {
+      "id": "10SV-035-b",
+      "desc": "붉은 신 폭식 보유 2턴째 턴 시작",
+      "dlg": "……只解开……最柔滑的……丝线……\n ... Undo... only the silkiest... threads..."
+    },
+    {
+      "id": "10SV-035-c",
+      "desc": "붉은 신 폭식 보유 3턴째 턴 시작",
+      "dlg": "长大……长得又高又壮……\n Grow... tall and strong..."
+    },
+    {
+      "id": "10SV-036-01",
+      "desc": "붉은 신 생명줄 부위 파괴 후 턴 시작",
+      "dlg": "*呜咽* 好痛……好痛……！！\n *sob* Hurts... hurts...!!"
+    },
+    {
+      "id": "10SV-036-02",
+      "desc": "붉은 신 생명줄 부위 파괴 후 턴 시작",
+      "dlg": "*呜咽* 好痛……好痛……！！\n *sob* Hurts... hurts...!!"
+    },
+    {
+      "id": "10SV-157",
+      "desc": "스테이지 시작시 (개전)",
+      "dlg": "在你那亵渎之焰扰乱我们的秩序之前，我将亲手将其扑灭。\n I shall personally snuff out your profane flame before it disrupts our order."
+    },
+    {
+      "id": "10SV-158",
+      "desc": "3턴 시작시",
+      "dlg": "别再狡辩了！你真以为头上顶个钟就能掩人耳目吗？那亵渎般的赤红——我知道，你是赤红者的一员！\n No more excuses! Did you really think wearing a clock on your head could hide your identity? That blasphemous crimson—you are of the Rouges, I know it!"
+    },
+    {
+      "id": "10SV-159",
+      "desc": "146506스킬 사용시 (가장 강력한 스킬. 전투당 1회)",
+      "dlg": "为了我们永恒的安眠，我要夺回树脂！\n For the sake of our eternal rest, I shall reclaim the Resin! "
+    },
+    {
+      "id": "10SV-160",
+      "desc": "5턴 시작시 (르루주가 아닌 것 같은데…)",
+      "dlg": "啊——唔……那些金色的痕迹……和金树脂的不太一样……\n Ah—hmm... Those golden traces are... not quite like those of the Golden Resin..."
+    },
+    {
+      "id": "10SV-090",
+      "desc": "바늘이 왕 스테이지 시작 시",
+      "dlg": "一声……嘶吼……！我的……盛……宴！\n A spirited... cry...! My...! F... east!"
+    },
+    {
+      "id": "10SV-091",
+      "desc": "바늘이 왕 1페이즈 3턴 시작 시",
+      "dlg": "唔嗯嗯嗯！！陈……年回响……我的……金子？\n Hnnnnnnh!! A-ged... ech-o... My...! Gold...?"
+    },
+    {
+      "id": "10SV-092",
+      "desc": "바늘이 왕 1페이즈 4턴 시작 시",
+      "dlg": "气息……声音……渐弱……不……！心跳……不该停……下！\n Breath... sound... dying... no...! The beating... shouldn't sto-p!"
+    },
+    {
+      "id": "10SV-093",
+      "desc": "바늘이 왕 2페이즈 시작 시",
+      "dlg": "不！受不了……了！饥饿……和……干渴……！\n No! Can't... stand... it! Hunger... and... thirst...!"
+    },
+    {
+      "id": "10SV-094",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "G... o...!"
+    },
+    {
+      "id": "10SV-094-01",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "拿……来给我……！\n Bring... it to me...!"
+    },
+    {
+      "id": "10SV-094-02",
+      "desc": "바늘이 왕 149606 스킬 사용 시 (턴마다 1회)",
+      "dlg": "更多……更多……！还……不够……！\n More... More...! Not... enough...!"
+    },
+    {
+      "id": "10SV-095",
+      "desc": "바늘이 왕 149607 스킬 사용 시",
+      "dlg": "闪！闪烁……闪……烁！\n Twick! Winkle... Tw... winkle!"
+    },
+    {
+      "id": "10SV-096",
+      "desc": "바늘이 왕 짝수 턴 시작 시 (전투당 1회)",
+      "dlg": "以……名？义……之……王……！\n In the na? -me of the... K-ing...!"
+    },
+    {
+      "id": "10SV-097",
+      "desc": "바늘이 왕 149609 스킬 사용 시",
+      "dlg": "住……手……！笑……！哈……！\n St-op...! Laugh...! Ha...!"
+    },
+    {
+      "id": "10SV-098",
+      "desc": "바늘이 왕 149610 스킬 사용 시",
+      "dlg": "啊……！嗯……\n Ahh...! Hnnh..."
+    },
+    {
+      "id": "10SV-099",
+      "desc": "바늘이 왕 전투 패배 시",
+      "dlg": "嘿……哈……哈！哈！哈……！\n Heeh... Ha... H-a! H-a! H-a...!"
+    },
+    {
+      "id": "10SV-100",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "闭嘴！闭嘴！\n Shaddap! Shaddap!"
+    },
+    {
+      "id": "10SV-100-01",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "闭嘴！闭嘴！\n Shaddap! Shaddap!"
+    },
+    {
+      "id": "10SV-100-02",
+      "desc": "바늘이 3스킬 적중 시",
+      "dlg": "闭嘴！闭嘴！\n Shaddap! Shaddap!"
+    },
+    {
+      "id": "10SV-161",
+      "desc": "포레그 스테이지 시작 시 (개전)",
+      "dlg": "让我倒下吧……我不想再用这双脚走在大地上了……\n Collapse me... I don't want to walk the earth with my feet again..."
+    },
+    {
+      "id": "10SV-162",
+      "desc": "포레그 148203 스킬 사용시",
+      "dlg": "求你！扯掉！我这没用的腿部！\n Please! Tear off! My useless legs!"
+    },
+    {
+      "id": "10SV-163",
+      "desc": "포레그 148204 스킬 사용시(전투당 1회)",
+      "dlg": "哦……脚步声……到处都是脚步声……\n Oh... footsteps... footsteps everywhere..."
+    },
+    {
+      "id": "10SV-164",
+      "desc": "원레그 스테이지 시작 시 (개전)",
+      "dlg": "你们这群低贱的两足陌生人，也敢挑战堂堂本尊？！\n You, a lowly pack of bipedal strangers, dare challenge my magnificent self?!"
+    },
+    {
+      "id": "10SV-165",
+      "desc": "원레그 148304 또는 148305 스킬 사용 시 (가장 강력한 스킬. 전투당 1회)",
+      "dlg": "记住这份痛楚，用你迈出的每一步！\n Remember this pain with every step you take!"
+    },
+    {
+      "id": "10SV-166",
+      "desc": "원레그 148303 스킬 사용 시 (25% 확률 출력)",
+      "dlg": "驱逐出境！\n Expulsed!"
+    },
+    {
+      "id": "10SV-145",
+      "desc": "스테이지 시작시 (개전. 일반 상태)",
+      "dlg": "蜕去谎言……拥抱真正的自我……\n Slough off the lies... And embrace my true self..."
+    },
+    {
+      "id": "10SV-146",
+      "desc": "고치 상태 패턴 진입시 (전투당 1회)",
+      "dlg": "啊……多么温暖惬意……每一个字都如此崭新、鲜活……如此不依不饶……跟我说话，再多跟我说说……\n Ah... Such cozy warmth... Every word is so new, so alive... and relentless... Speak to me, speak to me more..."
+    },
+    {
+      "id": "10SV-147",
+      "desc": "146605스킬 사용시 ",
+      "dlg": "钉住了！\n Pinned!"
+    },
+    {
+      "id": "10SV-147-01",
+      "desc": "146605스킬 사용시 ",
+      "dlg": "钉死了！\n And nailed!"
+    },
+    {
+      "id": "10SV-148",
+      "desc": "일반 상태 패턴 재 진입시 (전투당 1회)",
+      "dlg": "更多……更多，更多，更多！哦，告诉我！用你那温暖的声音！\n More... More, more, more! Oh, tell me! That warm voice of yours!"
+    },
+    {
+      "id": "10SV-149",
+      "desc": "반격 스킬 발동 시 (전투당 1회. 한 턴에 여러번 출력)",
+      "dlg": "渴求！吞噬！\n Yearn! Consume!"
+    },
+    {
+      "id": "10SV-149-01",
+      "desc": "반격 스킬 발동 시 (전투당 1회. 한 턴에 여러번 출력)",
+      "dlg": "摧毁！吞食！\n Devastate! Devour!"
+    }
+  ]
+}

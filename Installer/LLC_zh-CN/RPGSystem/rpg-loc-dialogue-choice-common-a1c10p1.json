@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "key": "DC11",
+      "text": "你能再告诉我们一次这里是什么地方吗？\n Can you tell us where we are again?"
+    },
+    {
+      "key": "DC12",
+      "text": "你和德米安是什么关系？\n What is your relationship with Demian?"
+    },
+    {
+      "key": "DC13",
+      "text": "你是什么样的存在？\n What kind of being are you?"
+    },
+    {
+      "key": "DC14",
+      "text": "我们晚点再聊。\n Let's talk more later."
+    }
+  ]
+}

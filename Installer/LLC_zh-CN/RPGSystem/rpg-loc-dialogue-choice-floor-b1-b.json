@@ -1,0 +1,56 @@
+{
+  "dataList": [
+    {
+      "key": "DC-1061",
+      "text": "进入。\n Enter."
+    },
+    {
+      "key": "DC-1062",
+      "text": "不进入。\n Don't enter."
+    },
+    {
+      "key": "DC-1063",
+      "text": "进入。\n Enter."
+    },
+    {
+      "key": "DC-1064",
+      "text": "不进入。\n Don't enter."
+    },
+    {
+      "key": "DC-1065",
+      "text": "进入。\n Enter."
+    },
+    {
+      "key": "DC-1066",
+      "text": "不进入。\n Don't enter."
+    },
+    {
+      "key": "DC-1067",
+      "text": "进入。\n Enter."
+    },
+    {
+      "key": "DC-1068",
+      "text": "不进入。\n Don't enter."
+    },
+    {
+      "key": "DC-1069",
+      "text": "前往。\n Go."
+    },
+    {
+      "key": "DC-1070",
+      "text": "不前往。\n Don't go."
+    },
+    {
+      "key": "DC-1294A",
+      "text": "我们给你格里高尔的手臂。\n We'll give you Gregor's arm."
+    },
+    {
+      "key": "DC-1294B",
+      "text": "我们给你熬汤用的骨头。\n We'll give you bone for the broth."
+    },
+    {
+      "key": "DC-1294C",
+      "text": "我们给你很多眼球。\n We'll give you lots of eyeballs."
+    }
+  ]
+}

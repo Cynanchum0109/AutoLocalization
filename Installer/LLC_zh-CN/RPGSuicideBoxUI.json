@@ -1,0 +1,64 @@
+{
+  "dataList": [
+    {
+      "id": "rpg_suicidebox_reset_button_text",
+      "content": "清算\n（重置）\n Liquidation\n(Reset)"
+    },
+    {
+      "id": "rpg_suicidebox_reset_confirm_desc",
+      "content": "要进行清算吗？\n\n选择此项将重置当前进度，且无法撤销。\n Proceed with Liquidation?\n\nSelecting this option will reset your current run and cannot be reverted."
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_button_text",
+      "content": "停业\n（完全重置）\n Close Down\n(Hard Reset)"
+    },
+    {
+      "id": "rpg_suicidebox_hardreset_confirm_desc",
+      "content": "要关闭所有店铺吗？\n\n选择此项将重置所有进度，且无法撤销。\n Close down all Shops?\n\nSelecting this option will reset all runs and cannot be reverted."
+    },
+    {
+      "id": "rpg_suicidebox_main_screen_desc_default",
+      "content": "结束自己的生命，便是承认自己从未真正理解生命。\n那么，你将以何种方式杀死自己，将其献给生命本身？\n To end one's own life is to confess that life was never truly understood.\nBy what means, then, will you kill yourself as a dedication to life itself?"
+    },
+    {
+      "id": "rpg_suicidebox_coming_soon",
+      "content": "预计于{0}-{1}（韩国标准时间）更新\n To be updated on {0}-{1} (KST)"
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_1",
+      "content": "为您带来一生仅此一次、无比鲜明的体验。\n感谢您一直以来对本公司自杀贩卖机的惠顾。\n Get the most vivid experience of a once-in-a-lifetime moment.\nThank you for your continued patronage of our Suicide Vending Machines."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_2",
+      "content": "本型号为多人共享体验设备，适合家人、朋友或情侣等团体共同使用。\n This model is a multi-user communal experience unit intended for use by groups such as families, friends, or couples."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_3",
+      "content": "本型号不支持部分自杀体验，包括漂流于大湖、铁路碰撞、药物过量、雷击及失温死亡。\n如需体验更多样的死亡方式，敬请前往本公司的单人专用自杀贩卖机。\n This model does not support certain suicide experiences, including being stranded upon the Great Lake, railway collision, drug overdose, lightning strike, and death by hypothermia.\nFor an even wider variety of experiences, please visit one of our private single-guest Suicide Vending Machines."
+    },
+    {
+      "id": "rpg_suicidebox_intro_ab_4",
+      "content": "恐惧尽享，刺激尽享，负担全免。\n请按下下方任一按钮，体验前所未有的死亡。\n All the terror. All the thrills. None of the burden.\nPress one of the buttons below and experience a death unlike any other."
+    },
+    {
+      "id": "rpg_suicidebox_pressed_dialog_ab",
+      "content": "孕妇、老年人、正在使用药物者及心血管疾病患者，请谨慎使用。\n因过度使用而造成的任何事故，均由用户自行承担责任。\n Pregnant users, elderly guests, persons using substances, and patients with cardiovascular conditions are advised to proceed with caution.\nAny accidents resulting from excessive use remain the sole responsibility of the user."
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_b",
+      "content": "- 人格：同步化等级4\n- E.G.O：解析等级4\n - Identities : Uptie Tier 4\n- E.G.O : Threadspinning Tier 4"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_b",
+      "content": "要启动自杀贩卖机吗？\n Activate the Suicide Vending Machine?"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_condition_c",
+      "content": "- 人格：同步化等级4\n- E.G.O：解析等级4\n - Identities : Uptie Tier 4\n- E.G.O : Threadspinning Tier 4"
+    },
+    {
+      "id": "rpg_suicidebox_enter_notice_question_c",
+      "content": "要启动自杀贩卖机吗？\n Activate the Suicide Vending Machine?"
+    }
+  ]
+}

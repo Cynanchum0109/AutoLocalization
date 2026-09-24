@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "N202031",
+      "displayName": "红色针族\n Red Needlekin"
+    },
+    {
+      "key": "N202031Alt",
+      "displayName": "红色针族\n Red Needlekin"
+    },
+    {
+      "key": "N202032",
+      "displayName": "绿色针族\n Green Needlekin"
+    },
+    {
+      "key": "N112001",
+      "displayName": "浸软的黄色眼泪\n Macerating Yellow Tears"
+    },
+    {
+      "key": "N112002",
+      "displayName": "溃烂的红色眼泪\n Festering Red Tears"
+    },
+    {
+      "key": "N112003",
+      "displayName": "溢流的蓝色眼泪\n Overflowing Blue Tears"
+    },
+    {
+      "key": "N202034",
+      "displayName": "黑线\n Blackthread"
+    }
+  ]
+}

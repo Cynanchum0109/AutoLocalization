@@ -1,0 +1,115 @@
+{
+  "dataList": [
+    {
+      "key": "Q2001",
+      "title": "快速查看2层\n Take a Quick Look Around 2F",
+      "description": "我们回到了2层。和上次一样，恐怕没法直接进去。先快速查看一下周围吧。\n We're back on 2F. Just like last time, we probably won't be able to head straight in. Let's take a quick look around first.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索2层\n Explore 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q2003",
+      "title": "进入奢侈品馆\n Enter the Luxury Hall",
+      "description": "守在入口的人不见了。也许情况发生了变化。进去看看吧。\n The one guarding the entrance is gone. Maybe things have changed. Let's head inside.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "进入奢侈品馆\n Enter the Luxury Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q2004",
+      "title": "进入奢侈品馆（2）\n Enter the Luxury Hall (2)",
+      "description": "奢侈品馆里遍布黑派的尸体。继续深入吧。\n The Luxury Hall is littered with Le Noir corpses. Let's keep moving in.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "深入奢侈品馆\n Head deeper into the Luxury Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q2005",
+      "title": "进入奢侈品馆（3）\n Enter the Luxury Hall (3)",
+      "description": "红派造出的同一处入口再次出现在这里。穿过去吧。\n The same entrance created by the Rouges is here again. Let's go through.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "通过入口进入奢侈品馆\n Enter the Luxury Hall via the entrance"
+        }
+      ]
+    },
+    {
+      "key": "Q2008",
+      "title": "检查摇篮\n Inspect the Cradle",
+      "description": "红派的品牌总监说，沉睡在摇篮里的东西很快就会醒来，并请求我们留在它身边。现在先靠近摇篮吧。\n Le Rouge's Brand Director says whatever is sleeping in the Cradle will wake soon, and asked us to stay by its side. For now, let's approach the Cradle.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "检查摇篮\n Inspect the Cradle"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "将碎片带到摇篮附近\n Bring the piece near the Cradle"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "尝试将碎片喂给摇篮\n Try feeding the piece to the Cradle"
+        },
+        {
+          "index": 3,
+          "goalDescription1": "从摇篮中解救孩子\n Rescue the child from the Cradle"
+        }
+      ]
+    },
+    {
+      "key": "Q2008A",
+      "title": "与摇篮中的孩子交谈\n Talk to the child from the Cradle",
+      "description": "从摇篮中出现的东西看起来像个小孩子。试着和他交谈吧。\n What emerged from the Cradle looks like a small child. Let's try talking to them.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与摇篮中的孩子交谈\n Talk to the child from the Cradle"
+        }
+      ]
+    },
+    {
+      "key": "Q2008B",
+      "title": "抓住逃跑的孩子\n Catch the runaway child",
+      "description": "摇篮中的孩子一看到我们，就飞快逃进了角落。追上他，试着和他交谈吧。\n The child from the Cradle bolted into a corner the moment they saw us. Catch up and try talking to them.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "抓住摇篮中的孩子\n Catch the child from the Cradle"
+        }
+      ]
+    },
+    {
+      "key": "Q2009",
+      "title": "离开奢侈品馆\n Leave the Luxury Hall",
+      "description": "摇篮中的孩子开始跟着我们，尽管他仍然保持着距离。现在先离开奢侈品馆吧。\n The child from the Cradle has started following us, though they still keep their distance. For now, let's leave the Luxury Hall.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开奢侈品馆\n Leave the Luxury Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q2010",
+      "title": "前往4层\n Head to 4F",
+      "description": "我们带走了红派商贩的脊椎。没人知道接下来会发生什么，不妨把可能派上用场的东西都留在手上。这里暂时处理完了。前往4层吧。\n We took the Rouge vendor's spine with us. There's no telling what will come next, so we may as well hold on to anything that could prove useful. We're done here for now. We should head to 4F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往4层\n Head to 4F"
+        }
+      ]
+    }
+  ]
+}

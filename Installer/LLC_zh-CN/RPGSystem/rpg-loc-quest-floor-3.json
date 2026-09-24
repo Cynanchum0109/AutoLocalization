@@ -1,0 +1,244 @@
+{
+  "dataList": [
+    {
+      "key": "Q3001",
+      "title": "前往3楼\n Head to 3F",
+      "description": "2楼目前正在“装修中”。但不管怎么看，这都不像是普通的施工项目。\n\n既然没法探索这层楼，不如先搭电梯去3楼看看吧。\n 2F is currently \"undergoing renovations.\" Now matter how you cut it, it didn't look like your average construction project. \n\nSince we can't explore the floor anyway, perhaps we should get on the escalator and check out 3F first.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "搭乘电梯前往3楼\n Get on the escalator to 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3002",
+      "title": "循声而去\n Follow the Snip-snip",
+      "description": "我们到了3楼。远处传来咔嚓咔嚓的剪刀声，一下一下的。去看看声音是从哪儿来的吧。\n We're on 3F. What sounds like a distant pair of scissors are going snip-snip. Let's see where that sound's coming from.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "循着咔嚓声探索上方区域\n Follow the snip-snip and explore the area to the top"
+        }
+      ]
+    },
+    {
+      "key": "Q3003",
+      "title": "前往走廊\n Head to the Corridor",
+      "description": "我们见到了裁缝安妮特。要是以后需要织点布料，她应该能派上用场。\n现在，该离开了。\n We met Annette the Alterationist. I suppose she'll come in handy if we ever need a bundle of fabric woven.\nFor now, time to leave.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开改衣店，返回走廊\n Leave the Alteration Shop and head back to the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3004",
+      "title": "探索3楼\n Explore 3F",
+      "description": "可惜没能跟“两件套”说上话。还是该叫“两件套们”？\n\n总之，先探索一下剩下的区域吧。比如左边那家店。\n Sadly, we weren't able to get through to Two-piece. Or is it Two-pieces?\n\nAnyways, let's explore the remaining areas first. That store to the left, for example.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往左边的店铺\n Head to the store on the left"
+        }
+      ]
+    },
+    {
+      "key": "Q3005",
+      "title": "与精品店的Rouge交谈\n Talk to the Rouge at the Boutique",
+      "description": "我们来到了一家叫“精品店”的店铺。店里始终回响着一个不见身影的声音，反复念叨着什么，大概是某个“巨人”的声音。\n找店员聊聊，看能不能打听到关于这地方的更多消息吧。\n We found ourselves inside a store called the \"Boutique.\" A disembodied voice, probably belonging to a \"Giant,\" constantly recites a mantra throughout the store.\nLet's talk to the vendor and see if there's anything more we could learn about this place.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与Boutique du Rouge的店员交谈\n Talk to the employee at Boutique du Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q3006",
+      "title": "前往广播室\n Head to the PA Room",
+      "description": "Rouge的店员不动者看起来十分沮丧，因为那个“声音”只会反复说着它先前说过的话，她想弄清楚原因。\n但那声音的身份，其实是默尔索早已过世的母亲……尽管如此，我们还是按要求前往了广播室。\n The Rouge employee, L'Inamovible, looks distraught that the \"Voice\" would only repeat what it has said before and wants to know why.\nBut the Voice's identity is Meursault's mother, who'd already passed away... Still, we decided to head to the PA Room as asked.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往广播室\n Head to the PA Room"
+        }
+      ]
+    },
+    {
+      "key": "Q3007",
+      "title": "回到不动者身边\n Return to L'Inamovible",
+      "description": "从3楼楼层经理那里拿到了广播室录音带。这盘带子里会不会录着巨人的声音？\n\n该回Boutique du Rouge把这个交给不动者了。\n Received an PA Room Audiotape from the 3F Floor Manager. Maybe this tape contains the Giant's voice?\n\nTime to return to Boutique du Rouge and hand this over to L'Inamovible.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到不动者身边\n Return to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3008",
+      "title": "回到不动者身边\n Return to L'Inamovible",
+      "description": "从3楼楼层经理那里拿到了广播室录音带。这盘带子里会不会录着巨人的声音？\n\n该回Boutique du Rouge把这个交给不动者了。\n Received an PA Room Audiotape from the 3F Floor Manager. Maybe this tape contains the Giant's voice?\n\nTime to return to Boutique du Rouge and hand this over to L'Inamovible.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到不动者身边\n Return to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3009",
+      "title": "与两件套交谈（2）\n Talk to Two-piece (2)",
+      "description": "好了，他们的“会谈”现在应该结束了吧。但愿如此。\n回去找堵在右边走廊的“两件套”问问看吧。\n Okay, their \"meeting\" should be over by now. I hope.\nLet's return to Two-piece blocking the corridor to the right and find out.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "在走廊与两件套交谈\n Talk to Two-piece in the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3010",
+      "title": "前往改衣店\n Head to the Alteration Shop",
+      "description": "会谈仍在进行，丝毫没有结束的迹象。\n奥提斯和辛克莱对视了一眼，提议我们先去改衣店……难道他们想出办法了？\n The meeting is still underway with no signs of ever adjourning.\nOutis and Sinclair exchanged a look, then suggested that we head to the Alteration Shop... Maybe they've come up with a plan?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往改衣店\n Head to the Alteration Shop"
+        }
+      ]
+    },
+    {
+      "key": "Q3012",
+      "title": "前往右边\n Head to the Right",
+      "description": "正如安妮特所说，这把剪刀十分锋利，咔嚓一下就把两件套剪成了两片。\n去探索一下他们身后的地方吧。\n Like Annette said, the scissors were well-sharpened, and managed to snip-snip the Two-piece into two-pieces.\nLet's explore what's behind them.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往右边的店铺\n Head to the store on the right"
+        }
+      ]
+    },
+    {
+      "key": "Q3013",
+      "title": "消灭被蛊惑的Noir\n Eliminate Enthralled Noirs",
+      "description": "来到了Maison du Noir。\n经营这家店的两位Noir——法兰绒和毡呢，想要给品牌“提档升级”，请我们清理几个被某个陌生声音蛊惑的Noir。\n清理约3个被蛊惑的Noir后，该回去找他们谈谈了。\n Made it to Maison du Noir.\nFlannel and Felt, two Noirs managing the store, want to \"premiumize\" their brand and asked us to remove a few Noirs who were enthralled by a foreign Voice.\nWe should talk to them after removing a few enthralled Noirs—about 3 should do.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "消灭3个被蛊惑的Noir\n Eliminate 3 enthralled Noirs"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "回到法兰绒和毡呢身边\n Return to Flannel and Felt"
+        }
+      ]
+    },
+    {
+      "key": "Q3011",
+      "title": "买把剪刀，结束会谈\n Purchase a Pair of Scissors and Adjourn the Meeting",
+      "description": "记得裁缝安妮特那儿有卖几把剪刀。\n去买一把“磨得锋利的裁缝剪刀”，再回到两件套那儿吧。\n奥提斯和辛克莱脸上都挂着同样古怪、自鸣得意的笑容。\n\n等等，他们该不会是想——？\n Annette the Alterationist was selling a few pairs of scissors, last I recall.\nLet's purchase a pair of \"Well-sharpened Sewing Scissors\" and head back to Two-piece.\nOutis and Sinclair are both wearing the same strange, self-satisfied grin on their faces.\n\nWait, are they planning to—?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "向裁缝安妮特购买一把“磨得锋利的裁缝剪刀”\n Purchase a pair of \"Well-sharpened Sewing Scissors\" from Annette the Alterationist"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "回到走廊，找两件套\n Return to Two-piece in the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q4014",
+      "title": "让Noir们知晓近况\n Bring the Noirs up to Speed",
+      "description": "我们在快乐衣橱的残骸里找到一张纸条，上面写着“金色布料”和“钉子”之类的字样。这会不会就是独脚提到的那件传说武器的制作方法？\n按约定把这个带回4楼Noir鞋履厅给独脚，然后回到3楼Maison du Noir找法兰绒和毡呢。\n A note we found in the Happy Closet's remains said something about \"Golden Fabric\" and \"Nail.\" Maybe this is the recipe to crafting that legendary weapon that One-leg mentioned?\nLet's bring this back to that One-leg in the 4F Noir Footwear Hall as promised, then return to Flannel and Felt at Maison du Noir on 3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开前先和弧光落地目灯交谈\n Talk to the Arc Floor Lamp before leaving"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "去4楼Noir鞋履厅找独脚交谈\n Talk to the One-leg in the 4F Noir Footwear Hall"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "去3楼Maison du Noir找法兰绒交谈\n Talk to Flannel in the 3F Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q4015",
+      "title": "前往改衣店\n Head to the Alteration Shop",
+      "description": "我们回到了3楼。把金色丝束带回给裁缝安妮特吧，她会用它织出一块金色布料。\n We're back on 3F. Let's bring the Golden Skein back to Annette the Alterationist, and she'll weave a Golden Fabric out of it.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往改衣店\n Head to the Alteration Shop"
+        }
+      ]
+    },
+    {
+      "key": "Q4017",
+      "title": "前往Boutique du Rouge\n Head to Boutique du Rouge",
+      "description": "从裁缝安妮特那里拿到了金色布料……现在该去取钉子了。\n我们应该能在Boutique du Rouge拿到那根“钉子”——按Noir们的说法，那其实是“不动者的脊骨”。\n Received the Golden Fabric from Annette the Alterationist... Now, to obtain the Nail.\nWe should be able to get the \"Nail\"—or, as the Noirs said, \"L'Inamovible's spine\"—from Boutique du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "回到不动者身边\n Return to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q4016",
+      "title": "取得“钉子”，回到Maison du Noir\n Obtain the \"Nail\" and Return to Maison du Noir",
+      "description": "不动者的扭曲在我们眼前迅速恶化，我们只得将她斩杀。\n该取走她的脊——不，是“钉子”了。\n现在，只需把金色布料裹在这根钉子上，就能完成Noir那件能撕裂万物布料的传说武器。\n\n该回Maison du Noir，把这个消息告诉法兰绒和毡呢了。\n L'Inamovible's Distortion quickly exacerbated before our eyes, so we had to cut her down.\nTime to remove her spi—\"Nail.\"\nNow, we only need to drape the Golden Fabric around the nail to complete the legendary weapon of the Noirs, capable of ripping through any and all fabric.\n\nTime to return to Maison du Noir and deliver the news to Flannel and Felt.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从不动者的残骸中取得“钉子”\n Obtain the \"Nail\" from L'Inamovible's remains"
+        },
+        {
+          "index": 2,
+          "goalDescription1": "回到Maison du Noir\n Return to Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q3016T",
+      "title": "(내부) 플로어 매니저 개전 신호",
+      "description": "0901추가",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 개전"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H1",
+      "title": "(내부) 플로어 매니저 타격 1",
+      "description": "0901",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 1"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H2",
+      "title": "(내부) 플로어 매니저 타격 2",
+      "description": "0901추가",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 2"
+        }
+      ]
+    }
+  ]
+}

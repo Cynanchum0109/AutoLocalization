@@ -1,0 +1,2996 @@
+{
+  "dataList": [
+    {
+      "key": "D-2107",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我们杀死了地下二层的楼层经理，并从他们手中拿走了彩色绞线。\n We killed B2F's Floor Manager and took the Colorful Skein from their hands."
+        }
+      ]
+    },
+    {
+      "key": "D-2201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "唉……这队伍怎么还不见短。一步都没挪。\n Ugh... this line isn't getting shorter. Hasn't budged an inch.",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        },
+        {
+          "index": 1,
+          "text": "针族需要线。\n Needlekin need thread.",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2202",
+      "texts": [
+        {
+          "index": 0,
+          "text": "走不过去了……漆黑的衣服挡在那里，不让任何人通过。\n Can't go any farther... the black clothes are standing there and won't let anybody through.",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2202B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "必须安安-安静。他们说：“闭嘴，等着就行，蠢针族！”\n Have to be quiety-quiet. They said, \"Shut up and just wait, stupid Needlekin!\"",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2202C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我闻到烟味……这里不许抽烟，好吗？！\n I smell ciggy smoke... No smokey-smoke here, okay?!",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2203",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里暂时由我们管控。保持安静，耐心等待。\n This area is under temporary control. Keep quiet and wait patiently.",
+          "speaker": "漆黑者守卫\n Le Noir Guard"
+        }
+      ]
+    },
+    {
+      "key": "D-2204",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这一层的所有人都在监视之下。别做蠢事。\n Everyone on this floor is being watched. Don't try anything stupid.",
+          "speaker": "漆黑者守卫\n Le Noir Guard"
+        }
+      ]
+    },
+    {
+      "key": "D-2205",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理，我们应该先处理挡住去路的漆黑者。\n We should deal with the Noirs blocking our path first, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-2207",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理，我们现在还过不去。\n We cannot go through yet, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-2209",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理，我建议先处理另一件事。看来还有更优先的事情尚未解决。\n I recommend that we attend to another matter first, Manager. There appears to be something of greater priority remaining.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-2210",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你好。你最喜欢什么颜色？\n Hi. What's your favorite color?",
+          "speaker": "帕莱特\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2211",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "普蒂\n Putty"
+        }
+      ]
+    },
+    {
+      "key": "D-2212",
+      "texts": [
+        {
+          "index": 0,
+          "text": "陌生人，你们带着欲望而来。正如那声音所说，要忠于自己的欲望。\n You have brought desire with you, strangers. As the Voice says, be true to your desires.",
+          "speaker": "地下二层楼层经理\n B2F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D-2215",
+      "texts": [
+        {
+          "index": 0,
+          "text": "楼层经理……在绞线巢里。\n The Floor Manager is... in the Skein Nest.",
+          "speaker": "帕莱特\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2216",
+      "texts": [
+        {
+          "index": 0,
+          "text": "陌生人，需要什么吗？\n Need something, strangers?",
+          "speaker": "帕莱特\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2217",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……！原来你们就是一直鬼鬼祟祟在这里活动的亵渎者？\n ...! So you're the blasphemous strangers who've been skulking around here?",
+          "speaker": "漆黑者军官\n Le Noir Officer"
+        }
+      ]
+    },
+    {
+      "key": "D-2230",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……就……咬一口……\n ... Juuust... a bite...",
+          "speaker": "针线之王\n King of Needleworks"
+        },
+        {
+          "index": 1,
+          "text": "就咬一口，在齿间嚼一嚼……然后我就能再次……\n Juuust a bite, chew between the teeth... and again, I can...",
+          "speaker": "针线之王\n King of Needleworks"
+        }
+      ]
+    },
+    {
+      "key": "D-2221",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……哟。\n ... Yo.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "这些分配规则似乎不合常理，执行经理。我开始怀疑，洗手间里的女人是不是搞错了指挥链。\n These assignment rules seem irrational, Executive Manager. I am beginning to suspect that the woman in the restroom has made an error regarding the chain of command.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "她让这个家伙永远跟着你，却让像我这样能力卓越的士兵不是永远坐冷板凳，就是和那些贡献……实在可疑的罪人搭档……\n She keeps this one permanently attached to your service, while keeping an exceptionally competent soldier such as myself either eternally benched or paired with Sinners whose contributions are... questionable...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "而这个存在……我看它也还跟在队伍里。\n And this entity... remains in tow yet, I see.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 4,
+          "text": "……小鬼。\n ... A kid.",
+          "speaker": "良秀\n Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D-2221B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "良秀默默打量着布布，随后从嘴里取下香烟，在墙上碾灭。\n Ryoshu studied Pwie in silence, then took the cigarette from her mouth and ground it against the wall."
+        }
+      ]
+    },
+    {
+      "key": "D-2221C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "她随手将碾碎的烟头弹向附近正在劳作的针族。\n She casually flicked the crushed stub at a Needlekin working nearby."
+        }
+      ]
+    },
+    {
+      "key": "D-2221D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "啊！不要烟！不要烟！\n Agh! No smokey! No smokey!",
+          "speaker": "劳作的针族\n Laboring Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2221D2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "抗议声被清楚地说出口后，眼前这一幕显得更加奇怪。\n Hearing the protest spoken aloud made the entire sight feel even stranger."
+        },
+        {
+          "index": 1,
+          "text": "听说过你，布布。\n Heard about you, Pwie.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "你想做衣服。\n You're trying to get your clothes made.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "嗯。\n Mhm.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "仅仅给这个存在穿上衣服，就能确保我们通往第五层的通行权……我必须承认，这实在相当可疑！\n The idea that having this entity dressed will secure passage to the fifth floor is... I must admit, quite suspect!",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 5,
+          "text": "……不过，格里高尔说没有可行的替代方案……看来也没办法了。\n ... However, Gregor reports no viable alternative... I suppose there is no helping it.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "<默尔索，我们上次走得最远……是地下二层吧？就是这一层。>\n <Meursault, the farthest we made it last time... was B2 right? This same floor.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "<而且布布的衣服必须在地下最底层做好……>\n <And Pwie's clothes have to be made at the very bottom of the underground levels...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "<……也就是说，我们下面至少还有一层。>\n <... Which means there must be at least one more floor below us.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "……是的，很可能如此。\n ... Yes. It is likely so.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-2221E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<那我想，我们可以先在这一层逛逛……>\n <Then I think we can first look around this floor...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<呃……>\n <Uh...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2222",
+      "texts": [
+        {
+          "index": 0,
+          "text": "好了……你们所有人排成一列。我们要从衣摆一直搜到衣领，一个都不放过！\n All right... All of you, form a single line. We're searching each and every one of you from hem to collar!",
+          "speaker": "漆黑者守卫\n Le Noir Guard"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... S.H.I.T.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "前面发生了骚动。执行经理，肯定出了什么事。\n Commotion up ahead. Something must've happened, Executive Manager.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "<我很确定上次不是这样的。>\n <... Pretty sure it wasn't like this last time.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "我需要那种金色染料……真是见鬼。没想到会在这里被堵住……\n I need that Golden Dye... Damn it all. Didn't expect to be stalled here...",
+          "speaker": "裸者\n Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "嘘！安安-安静！发出声音会挨骂。\n Shh! Quiety-quiet! Make noise, get scolded.",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "闭嘴，你这个只会在地下爬的下等人。\n Shut up, you basement-crawling lowlife.",
+          "speaker": "裸者\n Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A4",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<那不是正在寻找稀有染料的人吗……？>\n <Isn't that the one who was looking for rare dyes...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "是“裸者”……漆黑者的一员，经理。\n \"Naked\"... of Le Noir, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<要是让裸者看到布布，事态可能会彻底失控。>\n <The whole situation could blow up if we let Naked see Pwie.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": ".......",
+          "speaker": "良秀\n Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A5",
+      "texts": [
+        {
+          "index": 0,
+          "text": "布布。你喜欢游戏吗？\n Pwie. Do you like games?",
+          "speaker": "良秀\n Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A6",
+      "texts": [
+        {
+          "index": 0,
+          "text": "游戏……？我从来没玩过。那是什么？\n Games...? I've never played one. What is it?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 1,
+          "text": "就是一群人定下规则，然后一起玩的东西。\n It's where a group of people set rules and play together.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "那……需要规则吗？\n Do you... need rules for that?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 3,
+          "text": "规则就像骨架，用自由填充起来。这样更有趣。\n Rules are like bones you flesh out with freedom. More fun that way.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "我……想试试。\n I... want to try.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 5,
+          "text": "好。那就玩“无声死斗”。\n Good. It's \"Silent Deathmatch,\" then.",
+          "speaker": "良秀\n Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A7",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<让布布玩那个游戏真的没问题吗？>\n <You sure it's okay for Pwie to play that game?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "当然是全年龄向的。\n It's for an A.A.A., obviously.",
+          "speaker": "良秀\n Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A8",
+      "texts": [
+        {
+          "index": 0,
+          "text": "“当然是全年龄向的”，经理。\n \"It's for an Audience of All Ages, obviously,\" Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A9",
+      "texts": [
+        {
+          "index": 0,
+          "text": "规则只有一条：说话的人输。\n There is only one rule: you talk, you lose.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "输家没有摇篮曲可听。\n Loser sleeps without lullaby.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "……只有你和我玩？\n ... Only you and me playing?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 3,
+          "text": "……陌生人和蠕蠕会觉得被冷落的。\n ... The strangers and Wriggley are gonna feel left out.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "嗯……那就让蠕蠕加入。正好三个。\n Hmm... Then Wriggley can join. That makes three.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 5,
+          "text": "其他蠢货宁可死也不肯闭嘴。他们自有办法应付被落下的恐惧。\n The other fools would rather die than stop talking. They'll survive the fear of missing out in their own way.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 6,
+          "text": "*尖叫*\n *scree*",
+          "speaker": "茧\n Cocoon"
+        },
+        {
+          "index": 7,
+          "text": "三个玩家……嗯。可以。\n Three players... Mhm. That works.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 8,
+          "text": "好。那么……游戏现在开始，布布。\n Good. Then... game starts now, Pwie.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 9,
+          "text": "唔……！\n Mmph...!",
+          "speaker": "布布\n Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A10",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦？你们这些陌生人是从上面的楼层下来的吧？\n Oh? You strangers came down from the upper floors, didn't you?",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 1,
+          "text": "……可以这么说。\n ... You could say that.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "再跟这些拿针的蠢货困在一起一分钟，我也要变成蠢货了。\n Another minute trapped beside these pin-holding idiots and I might end up an idiot, too.",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 3,
+          "text": "我本来就不该被扣在这里。我得拿到黄金染料，然后上楼……\n I was never supposed to be held here. I have to get the Golden Dye and head upstairs...",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 4,
+          "text": "嗯……\n Mm...",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "*叹气*我的意思是……我来说明情况。我们黑派现在全面戒备。既然你们来自地上，肯定也察觉到了。局势……越来越紧张，像是随时会爆发什么。\n *sigh* What I'm saying is... Let me explain the situation. We Noirs are on full alert right now. Surely you've noticed, if you're from above ground. Things are... getting tense, like something's about to blow.",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 6,
+          "text": "<他现在倒跟我们套起近乎来了？>\n <He's all buddy-buddy with us now, huh?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "看来他是根据我们迄今购买和收集的物品，推断出了我们的身份。\n He appears to have inferred our status from the items we have purchased and collected so far.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<就是说，我们看起来像是有钱挥霍，对吧？>\n <So, basically, we look like we've got money to splurge, is it?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A11",
+      "texts": [
+        {
+          "index": 0,
+          "text": "要安安静静！针不能停下来不缝。王醒过来，会骂我们的……\n Need to be quiety-quiet! Needles can't stop sewing. King wakey-wake, we'll get scolded...",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A12",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我说了闭嘴！外面那些红派在搞什么都不知道，现在还担心针线活有什么用！\n Shut up, I said! Fat lot of good it'll do worrying about needlework when there's no telling what the Rouges are up to out there!",
+          "speaker": "裸体\n Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-2222A13",
+      "texts": [
+        {
+          "index": 0,
+          "text": "瞧见没？这些蠢货对这层楼以外的事一无所知，却偏偏话多得很。简直能把人逼疯。\n See? For idiots who know nothing about what's going on beyond this floor, they sure like to run their mouth. It's enough to drive a man crazy.",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 1,
+          "text": "我要拿到黄金染料，献给我们的大老板，以无可置疑的方式证明我对黑派的忠诚。这样一来，我大概也能获准开一家属于自己的黑派店铺。我连自己品牌的设计都想好了！\n I'll secure the Golden Dye, present it to our big boss, and prove my loyalty to Le Noir beyond dispute. Once that's done, I'll probably be given the right to open my very own Noir store, too. I already have the designs for my own label in my mind!",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 2,
+          "text": "但首先……我必须找到虚假之声。\n But first... I must locate the False Voice.",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 3,
+          "text": "……所以整条走廊都被封锁了？\n ... Is that why the entire corridor is under lockdown?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 4,
+          "text": "对。命令是从最高层下来的。有人偷偷潜入这里，藏起并保护那个发出虚假之声的怪物。\n Yeah. Word came down from the very top. Some people snuck in here to hide and protect the abomination that speaks the False Voice.",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 5,
+          "text": "我申请不列入搜查名单，但看来为了保险起见，我也得跟所有人一样接受检查。黑派就是这样——坚决而彻底，绝无例外。毕竟，我们为百货商店而存在，也是百货商店允许我们存在。\n I asked to be left off the search list, but it looks like I'm to be checked along with everyone else, just in case. That's Le Noir for you—stalwartly thorough, no exceptions. We exist for the department store, and it is the department store that permits us to exist, after all.",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 6,
+          "text": "嗯……他们打算搜查这里的每一个人？那得花上相当长的时间。\n Hm... So they intend to search every last person here? That will take a considerable amount of time.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "对。抓到那些混蛋之前，我们谁也别想离开这里一步。看看那些疯子让我们这些正派人遭了什么罪。连把自己的一切都奉献给维护西西弗百货都做不到……真可耻，对吧？\n Yeah. Until we catch those bastards, none of us are getting so much as a single step out of here. Look at what those lunatics are putting decent people like us through. As if failing to devote every ounce of themselves to preserving the Grand Magasin weren't bad enough... Shame on them, right?",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 8,
+          "text": "……对。确实可耻。\n ... Right. Shame on them indeed.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 9,
+          "text": "不过，能遇到你们这样有教养、能说得上话的地上顾客，也算我走运。反正你们和我都被困在这儿……何不趁机聊些高雅的话题？就从黑派的历史说起——\n Still, at least I've had the good fortune of meeting some cultured above-ground customers I can actually hold a conversation with. Well, you people and I are both stuck here, so... why don't we take the chance to talk about some refined subjects? Let us begin with the history of Le Noir—",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 10,
+          "text": "在那之前……这层下面还有别的楼层吗？\n Before we get to that... are there any more floors beneath this one?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 11,
+          "text": "……就算有，那也不是我们这种人该去的地方。为什么问这个？\n ... Even if there were, they'd be no place for people like us. Why do you ask?",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 12,
+          "text": "如果那些疯子真的潜入了这里……他们可能会往更深的地下走，以躲过搜查。那么，首要任务就该是封锁下去的通道。\n If those lunatics truly infiltrated this place... they may attempt to evade the search by heading farther underground. In which case, the first priority should be sealing off the route down.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 13,
+          "text": "<.......>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "<这种时候，我真庆幸奥提斯不是我们的敌人。>\n <Times like this, I'm just so relieved that Outis isn't our enemy.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 15,
+          "text": "原来如此。\n Is that so.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 16,
+          "text": "……你们还真是……\n ... You people really are...",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 17,
+          "text": "……聪明得吓人。我刚才都起鸡皮疙瘩了！\n ... frighteningly clever. I actually got chills just now!",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 18,
+          "text": "不过放心。你们找不到去更深地下的路。我听说那条通道很久以前就封了。\n But don't you worry. You won't find any way farther underground. I heard the route was sealed off a long time ago.",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 19,
+          "text": "……是吗。\n ... Is that so.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 20,
+          "text": "对了……你们一直带着的那个东西。别告诉我，那是黄金之茧？\n By the way... that thing you've been carrying around. Don't tell me that's a Golden Cocoon?",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 21,
+          "text": "……这是……\n ... It's...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 22,
+          "text": "哦……这手感可真不错。\n Ooh... now that's a nice feel.",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 23,
+          "text": "*尖叫——*\n *screeee*",
+          "speaker": "茧\n Cocoon"
+        },
+        {
+          "index": 24,
+          "text": "……住手。你弄疼蠕蠕了。\n ... Cut it out. You're hurting Wriggley.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 25,
+          "text": "够了。再碰它，我就S.Y.N.——\n Enough. Touch it again, and I'll S.Y.N.—",
+          "speaker": "良秀\n Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D-2222B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……C.了。不错。干得好，布布。\n ... C.-ed. Not bad at all. Well done, Pwie.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "……呃啊！\n ... Gah!",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 2,
+          "text": "那个声音……那个样子……你就是虚假之人……！\n That voice... that form... You're the False One...!",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 3,
+          "text": "吵吵闹闹的被打败了！\n The noisy-noisy got bested!",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2222B2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "等、等等！你们要把我带去哪儿，你们这些低等的——住、住手！\n W-wait! Where do you think you're taking me, you inferior—s-stop!",
+          "speaker": "裸体\n Naked"
+        }
+      ]
+    },
+    {
+      "key": "D-2222B3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "安安静静！想被扎扎吗？！\n Quiety-quiet! You want prickly-prickle?!",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2223",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<我们快离开这里。黑派随时会涌进这条走廊。>\n <Let's make ourselves scarce. The Noirs will be swarming this corridor any second.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": ".......",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 2,
+          "text": "我……输了吗？\n Did I... lose?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 3,
+          "text": "没有。平局。\n No. It's a draw.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "蠕蠕和我几乎同时出了声。\n Wriggley and I broke silence at nearly the same instant.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 5,
+          "text": "我们已经确认还有更深的地下楼层……\n We have confirmed that more basement levels exist...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "但我们找不到通往那里的路，也不知道黑派会追我们多久……\n But we have no way to reach them, and we do not know how long the Noirs will keep pursuing us...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "<……我知道一个人，她或许愿意帮我们。>\n <... I know someone who might be willing to help us.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "她值得信任吗……？\n Can they be trusted...?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 9,
+          "text": "<唔……要说<i>信任</i>，我也说不准，但她大概不是黑派的人。>\n <Hmm... I don't know about <i>trusted</i>, but she probably isn't on the Noirs' side.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "我们在染色室遇见的调色板……不属于任何派系，对我们也没有表现出敌意。\n Palette, whom we had met in the Dyehouse... belonged to no faction and had shown no hostility toward us."
+        },
+        {
+          "index": 11,
+          "text": "<她给我的感觉就是……随波逐流。>\n <She seemed like the sort who simply... went with the flow.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2224",
+      "texts": [
+        {
+          "index": 0,
+          "text": "......",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 1,
+          "text": "不，姐姐。这些人不是来偷我的眼泪的。\n No, Big sis. These people are not here to steal my tears.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 2,
+          "text": ".......",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 3,
+          "text": "M.Q.?",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "我姐姐不是人台。她只是一直都对我保护过头。\n My sister isn't a Mannequin. She's just always been overprotective of me.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 5,
+          "text": "等等，你们在流汗吗？尽量别滴到我的调色板上。盐分会让颜色变浑浊。\n Wait, are you guys sweating? Try not to get any on my palette. The salt makes the colors murky.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 6,
+          "text": "……我们刚从一场紧急状况中脱身。好在黑派似乎还没踏进这里。\n ... We just escaped a rather urgent situation. Fortunately, it seems that the Noirs are yet to set foot in here.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "外面到底怎么了？顾客也突然不来了……\n What exactly is going on outside? The customers have suddenly stopped visiting as well...",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 8,
+          "text": "眼泪得及时挤破。憋得太久，会坏掉的。\n You need to burst those tears in time. Holding them in for too long can make things go bad.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 9,
+          "text": "我们正在寻找通往地下3层的路。你能告诉我们怎么去吗？\n We are looking for a way to B3. Can you give us any information on how to get there?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 10,
+          "text": "以前有路，但我把它堵上了。\n There used to be a way, but I blocked it.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 11,
+          "text": "话说，你们为什么想去更深处？你们下来的地方，肯定比这里更适合生活吧……\n Why do you want to go deeper anyway? Wherever you came down from must be a much better place to live than down here...",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 12,
+          "text": "我们想给布布做衣服。\n We want to clothe Pwie.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 13,
+          "text": "布布？你说这个孩子？\n Pwie? You mean this kid?",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 14,
+          "text": ".......",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 15,
+          "text": "我确认一下……衣服是给孩子做的，不是给你们自己？\n Let me get this straight... You mean the clothes are for the kid, not you?",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 16,
+          "text": "嗯。我需要衣服。黄金皮革做的衣服。\n Mhm. I need clothes. Clothes made of Golden Hide.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 17,
+          "text": "……我见过很多拼命想给自己找衣服穿的人，但想给别人穿衣服的，还真没几个……\n ... I've seen plenty of people desperate to dress themselves, but there's hardly anyone who wants to dress someone else...",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 18,
+          "text": "看来你们确实是异乡人。\n Guess you really are strangers.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 19,
+          "text": "好吧，那么……我们来做笔交易。\n All right, then... Let's make a deal.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 20,
+          "text": "其实，我也需要给姐姐做衣服。\n The truth is, I need clothes for my sister, too.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 21,
+          "text": "好衣服要用好线……但我不要黄金线团。金色不合我的喜好。\n Good clothes need good thread... but I don't want a Golden Skein. Gold isn't my taste.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 22,
+          "text": "我想要的是……颜色更丰富的东西。一个能好好吸收眼泪的线团。\n What I want is... something more colorful. A skein that can soak up tears well.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 23,
+          "text": "而按照这层楼的规矩，只有楼层经理能拥有那么纯净的线团。偶尔会分几缕给黑派，但也只给黑派。\n And under this floor's rules, only the Floor Manager can have a skein that pure. A few strands are handed out to the Noirs now and then. Only the Noirs.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 24,
+          "text": "……烦人的规矩。\n ... Annoying rule.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 25,
+          "text": "这有什么烦人的？在这里……那就是常识。\n What's so annoying about it? Down here... that's just common sense.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 26,
+          "text": "但对我们这些“异乡人”来说，这可不算常识。也就是说，如果我们从那位楼层经理手里夺取——失礼，<i>取回</i>线团……\n And yet, it is hardly common sense to us \"strangers.\" Which means that if we take—excuse me—<i>bring back</i> the skein from that Floor Manager...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 27,
+          "text": "你就会以此作为交换，打开通往下层的路，对吗？\n Then you will open the way down in exchange, is that correct?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 28,
+          "text": "……你们真的愿意为我这么做，异乡人？\n ... You'd really do that for me, strangers?",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 29,
+          "text": "嗯，我想……只要你们能把线团带来……那就行。我保证。\n Well, I suppose... If you can bring me the skein... then yes. I promise.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 30,
+          "text": "楼层经理……在线团之巢。\n The Floor Manager is... in the Skein Nest.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 31,
+          "text": "<黑派会挡住去路。得先冲过他们的防线。>\n <The Noirs will be blocking the route. We'll have to punch through them first.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2225",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] <… 르누아르들이 길을 막고 있어>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "[미사용] <돌파하는 것 밖엔 답이 없겠네>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2226",
+      "texts": [
+        {
+          "index": 0,
+          "text": "欲望牵引着你们的线，把你们带到了这里。\n Want has tugged your thread here.",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "命运之声总在低语：“坦诚面对自己。放纵你的欲望。”\n The Voice of Fate always whispers. \"Be honest with yourself. Indulge in your desires.\"",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 2,
+          "text": "所以，我们先亮出自己的欲望。然后，你们也要让我们听听你们的欲望。\n And so, we will lay our desire bare first. Then you shall let us hear of yours.",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 3,
+          "text": "……至少你直奔主题。很好。你的要求是什么？\n ... At least you cut to the chase. Good. What are your demands?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 4,
+          "text": "更多金线……更圆的线团……饱含希望、成熟丰盈的金色。\n More golden thread... rounder skeins... ripe gold, fat with promise.",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 5,
+          "text": "那只茧里的一切……只要我们的手指合拢，将它绞干，就会汩汩涌出……\n Everything that would ooze and spill from that cocoon... once our fingers closed and wrung it dry...",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 6,
+          "text": "我们知道。哦，我们知道那里面会流出何等美丽的东西……它将多么丰沛地滋养一匹华丽布料的诞生。\n We know. Oh, we know what beauty would bleed from it... How splendidly it would feed the birth of a magnificent fabric.",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 7,
+          "text": "命运之声斩断了我们旧日的职责。我们不再为别人纺线。如今，丝线要温暖我们自己。\n The Voice of Fate cut our old duty loose. No longer shall we spin for other backs. Now the thread will warm our own.",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 8,
+          "text": "<上次他们也很贪婪……但这次简直变本加厉。是因为我们没拿到黑派的鉴定报告吗？>\n <They were greedy last time too... but something has turned the dial all the way up. Is it because we didn't get the Noirs' Authenticity Certificate?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "……阳光强度增加，可能导致了他们行为上的变化，经理。\n ... The increased intensity of the sunlight may be causing their altered behavior, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 10,
+          "text": "现在……亮出你们的欲望。\n Now... lay your own desires bare.",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 11,
+          "text": "遗憾的是，我们的目标相冲突。我们想要……你手里的线团。\n Our objectives collide, regrettably. We want... the skein in your possession.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 12,
+          "text": "啊。我们的欲望之线交错了。要让两种欲望合而为一，只有一个办法。\n Ahh. Our wants have crossed threads. There is only one way to make two wants lie as one.",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 13,
+          "text": "必须吞下其中一种欲望，才能给另一种腾出空间。\n One desire must be swallowed so the other may have room.",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D-2228",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你们把线团带来了。\n You brought the skein.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "你们真的做到了……没有因为人人都说那是“常识”，就乖乖接受它……\n You really did it... You refused to accept \"common sense\" just because everyone calls it common sense...",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 2,
+          "text": "说实话，我还半信半疑。地下楼层的大多数人……都无法忘掉别人教他们认定的“理所当然”。\n Honestly, I half-doubted you. Most people here on the basement floor... can't unlearn what they were taught to call obvious.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 3,
+          "text": "如果我用这些线做衣服……也许姐姐能找回自己的声音，再跟我说话。\n If I make clothing from this thread... maybe my sister will find her voice and speak to me again.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 4,
+          "text": ".......",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 5,
+          "text": "现在，该你履行交易了……\n Now, time to uphold your end of the bargain...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "别急。我说了会做，就一定会做。\n Take it easy. I said I'd do it, and I will.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 7,
+          "text": "下去的路并不远。它一直就在你们眼皮底下。\n The way down isn't far. It was right under your noses all along.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 8,
+          "text": "好了，去吧……下去吧。\n Now, go on... Down you go.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 9,
+          "text": "希望你们能做出那孩子想要的衣服。\n I hope you get to make the clothes the kid wants.",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2219",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里还有事要办。\n More business to take care of here."
+        }
+      ]
+    },
+    {
+      "key": "D-2220",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你们没有东西要给我们吗？\n Don't you have something to give us?",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D-2234",
+      "texts": [
+        {
+          "index": 0,
+          "text": "退后。这层楼目前禁止通行。\n Back off. This floor is currently restricted.",
+          "speaker": "黑派守卫\n Le Noir Guard"
+        }
+      ]
+    },
+    {
+      "key": "D-2235",
+      "texts": [
+        {
+          "index": 0,
+          "text": "退后。这层楼目前禁止通行。\n Back off. This floor is currently restricted.",
+          "speaker": "黑派守卫\n Le Noir Guard"
+        }
+      ]
+    },
+    {
+      "key": "D-2236",
+      "texts": [
+        {
+          "index": 0,
+          "text": "针族要线！针族要线！\n Needlekin need thread! Needlekin need thread!",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        },
+        {
+          "index": 1,
+          "text": "想要线就得等等！要安安静静！\n Need waity-wait if want thread! Have to quiety-quiet!",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2237",
+      "texts": [
+        {
+          "index": 0,
+          "text": "退后。这层楼目前禁止通行。\n Back off. This floor is currently restricted.",
+          "speaker": "黑派守卫\n Le Noir Guard"
+        }
+      ]
+    },
+    {
+      "key": "D-2238",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<呃，这些人是谁……？>\n <Uh, who are these people...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "身份检查。我们接到消息，有异乡人正在窝藏一个亵渎神圣的怪物。报上姓名和所属组织。\n Identity checkpoint. We have information that there are strangers who are sheltering an unholy abomination. State your name and affiliation.",
+          "speaker": "黑派守卫\n Le Noir Guard"
+        },
+        {
+          "index": 2,
+          "text": "我是布布！我的所……所属组织是什么？\n I'm Pwie! And my affili... What's affiliation?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 3,
+          "text": "……！抓住他们！\n ...! Get them!",
+          "speaker": "黑派守卫\n Le Noir Guard"
+        },
+        {
+          "index": 4,
+          "text": "……跟紧我，布布。\n ... Stick close, Pwie.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "好。\n Ok.",
+          "speaker": "布布\n Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D-2240",
+      "texts": [
+        {
+          "index": 0,
+          "text": "忙忙忙！得继续绕线。\n Busy-busy! Need to keep winding the thread.",
+          "speaker": "劳作的针族\n Laboring Needlekin"
+        },
+        {
+          "index": 1,
+          "text": "针族不能休息！排队的时候不能休息……\n Needlekin can't rest! Can't rest while queueing...",
+          "speaker": "劳作的针族\n Laboring Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2231",
+      "texts": [
+        {
+          "index": 0,
+          "text": "针族们正一本正经地叽叽喳喳。\n The Needlekin are chattering seriously."
+        },
+        {
+          "index": 1,
+          "text": "前面的针族想要通行口令！继续等。\n Needlekin to the front wants pass word! Keep waiting.",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        },
+        {
+          "index": 2,
+          "text": "前面的前面的针族想要通行口令！继续等。\n Needlekin to the front's front wants pass word! Keep waiting.",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        },
+        {
+          "index": 3,
+          "text": "你们在等什么？\n What are you waiting for?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "前面的异乡人问了！我们在等什么？\n Stranger to the front asks! What are we waiting for?",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        },
+        {
+          "index": 5,
+          "text": "前面的前面的异乡人问了！我们在等什么？\n Stranger to the front's front asks! What are we waiting for?",
+          "speaker": "排队的针族\n Queueing Needlekin"
+        },
+        {
+          "index": 6,
+          "text": "<…>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2233",
+      "texts": [
+        {
+          "index": 0,
+          "text": "...!",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 1,
+          "text": "他们在那儿！护送虚假之声幼体的无耻混蛋……！\n There they are! The shameless wretches escorting the False Voice spawn...!",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 2,
+          "text": "……那个狡猾的小老鼠……！\n ... That conniving little rat...!",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "原来他们就是犯人。你的功劳我们记下了。\n So these are the offenders. Your service is noted.",
+          "speaker": "黑派职员经理\n Le Noir Staff Manager"
+        },
+        {
+          "index": 4,
+          "text": "我一见他们就知道了。本想立刻揪住衣领把他们拖过来，可那虚假之声果然跟红派一样野蛮，竟然毫不留情地想把我撕碎！\n I knew it the moment I saw them. I'd have grabbed them by the collar and dragged them over at once, but that False Voice, true to its Rouge savagery, tried to tear me apart without mercy!",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 5,
+          "text": "经过一场艰苦而英勇的搏斗，我勇敢地把他们堵在那里，直到……\n And after a grueling and heroic struggle, I courageously kept them pinned there until...",
+          "speaker": "裸体\n Naked"
+        },
+        {
+          "index": 6,
+          "text": "干得好。接下来交给我们。\n Good work. We'll take it from here.",
+          "speaker": "黑派职员经理\n Le Noir Staff Manager"
+        },
+        {
+          "index": 7,
+          "text": "你们这些异乡人无知得很。不过，仁慈也是我们的美德之一，所以我们会给你们最后一次机会。\n You strangers are profoundly ignorant. Nevertheless, mercy is among our virtues, so we shall offer you one last chance.",
+          "speaker": "黑派职员经理\n Le Noir Staff Manager"
+        },
+        {
+          "index": 8,
+          "text": "交出红派的虚假之声，我们就当你们走错了路，准许你们毫发无伤地离开。\n Hand over the Rouge's False Voice, and we will call your conduct a wrong turn and permit you to walk away unscathed.",
+          "speaker": "黑派职员经理\n Le Noir Staff Manager"
+        },
+        {
+          "index": 9,
+          "text": "……还是说，你们被红派的虚假之声挟持了？红派造出的污秽之物……完全有能力干出这种事。\n ... Unless the False Voice of the Rouges has taken you hostage? An impurity wrought by Le Rouge... would be more than capable of doing so.",
+          "speaker": "黑派职员经理\n Le Noir Staff Manager"
+        },
+        {
+          "index": 10,
+          "text": "A.Y.B.D.?",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 11,
+          "text": "为什么珠珠……？\n Why beady...?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 12,
+          "text": "意思是“你瞎啊，蠢货？”\n It means \"are you blind, dumbass?\"",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 13,
+          "text": "<呃，良秀……我觉得你不用教布布这种，呃，艺术。>\n <Um, Ryōshū... I don't think you need to teach Pwie the, uh, art.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "刀鞘轻轻晃了晃，像是在表示赞同。那一刻，我感觉阿赖耶与我交换了一个眼神。\n The scabbard gave a faint, approving sway. For a moment, it felt as though Araya and I were exchanging a look."
+        },
+        {
+          "index": 15,
+          "text": "连保护者和人质都分不清？那些没用的眼睛，不如让我挖出来。没了也不碍事吧。\n Can't even tell guardians from hostages? Lemme pluck out those useless eyes—I think you'll be fine without them.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 16,
+          "text": "那位存在带来的将不只是我们的破灭，还有整座百货的破灭。\n That being will bring ruin not only to us, but to the entire department store.",
+          "speaker": "黑派职员经理\n Le Noir Staff Manager"
+        },
+        {
+          "index": 17,
+          "text": "真不明白，连红派都算不上的人，为何要追随一位假神的声音进军。\n I cannot fathom why those who are not even of the Rouge would march behind the voice of a false god.",
+          "speaker": "黑派职员经理\n Le Noir Staff Manager"
+        },
+        {
+          "index": 18,
+          "text": "若你们当初与我们携手，或许我们本能一同见证西西弗百货的兴盛……一条未曾选择的路。真是遗憾。\n Had you joined hands with us, we might have watched the Grand Magasin prosper together... A road not taken. Truly, a pity.",
+          "speaker": "黑派职员经理\n Le Noir Staff Manager"
+        }
+      ]
+    },
+    {
+      "key": "D-2241",
+      "texts": [
+        {
+          "index": 0,
+          "text": "从调色板身上取得了黄金皮革。\n Collected the Golden Hide from Palette's body."
+        }
+      ]
+    },
+    {
+      "key": "D-2242",
+      "texts": [
+        {
+          "index": 0,
+          "text": "地下2层楼层经理的尸体。\n B2F Floor Manager's corpse."
+        },
+        {
+          "index": 1,
+          "text": "把这位身上的黄金皮革拿走吧。\n Let us take the Golden Hide from this one.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "从地下2层楼层经理身上取得了黄金皮革。\n Collected the Golden Hide from B2F's Floor Manager."
+        }
+      ]
+    },
+    {
+      "key": "D-2291",
+      "texts": [
+        {
+          "index": 0,
+          "text": "染成斑斓杂色的发丝间，渗出一缕泛红的染料。\n Red-tinged dye trickles through hair stained in a multitude of colors."
+        },
+        {
+          "index": 1,
+          "text": "它汹涌地涌出，就像我们先前迸发的泪水一样。\n It gushes out in heavy streams, just like the tears we burst before."
+        }
+      ]
+    },
+    {
+      "key": "D-2292",
+      "texts": [
+        {
+          "index": 0,
+          "text": "曾经熙攘的线团之巢，如今只剩一片沉默。\n Only silence remains in the once-crowded Nest."
+        },
+        {
+          "index": 1,
+          "text": "松散的线头从磨损的线团上脱落，在空中飘荡。\n Loose threads fray free from the worn skein, fluttering through the air."
+        }
+      ]
+    },
+    {
+      "key": "D-2293",
+      "texts": [
+        {
+          "index": 0,
+          "text": "他们的躯干在痛苦的嘎吱声中碎裂崩塌。\n Their body, creaking in agony, crumbled apart and collapsed."
+        }
+      ]
+    },
+    {
+      "key": "D-2245",
+      "texts": [
+        {
+          "index": 0,
+          "text": "大姐……\n Big Sis...",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "对不起……我明明那么想给您做那件您最喜欢的衣服……\n I'm sorry... I wanted so badly to make you those favorite clothes...",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2246",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] (임시) 보디가드가 팔레트 앞으로 한 걸음 나섰다."
+        },
+        {
+          "index": 1,
+          "text": "[미사용] (임시) 그 손, 여기서 멈춰라.",
+          "speaker": "油灰\n Putty"
+        }
+      ]
+    },
+    {
+      "key": "D-2247",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我听见……哭声……\n I hear... weeping...",
+          "speaker": "裁缝之王\n King of Needleworks"
+        },
+        {
+          "index": 1,
+          "text": "从他们那儿拿来……我得……吃掉它……\n Take it from them... I have to... eat it...",
+          "speaker": "裁缝之王\n King of Needleworks"
+        },
+        {
+          "index": 2,
+          "text": "一定会……非常非常美味……\n It will be... so, so tasty...",
+          "speaker": "裁缝之王\n King of Needleworks"
+        },
+        {
+          "index": 3,
+          "text": "安安静静！我们的王醒醒了！\n Quiety-quiet! Our king is wakey-wake!",
+          "speaker": "挑剔的针族\n Fussy Needlekin"
+        },
+        {
+          "index": 4,
+          "text": "我们的王要开始扎扎啦！\n Our king'll start stabby-stabbing!",
+          "speaker": "多话的针族\n Loudmouthed Needlekin"
+        },
+        {
+          "index": 5,
+          "text": "扎扎最美味啦！我们要安安静静地舔干净！\n Stabby-stabby is tasty-tasty! And we lap it up quiety-quiet!",
+          "speaker": "贪婪的针族\n Greedy Needlekin"
+        },
+        {
+          "index": 6,
+          "text": "好好好！那就把王想要的东西献上吧！\n Goody-good! Then let's give the king what he wants!",
+          "speaker": "挑剔的针族\n Fussy Needlekin"
+        }
+      ]
+    },
+    {
+      "key": "D-2181",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……不是辛克莱？那我们大概是在地下2层了。我们在这儿做什么呢，执行经理……？\n ... Not Sinclair? We must be on the B2, then. What are we doing here, Executive Manager...?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "<我们需要更多食材。>\n <We need more ingredients.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2295",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这人身上没有别的东西可拿了。\n There's nothing else to collect from this one."
+        }
+      ]
+    },
+    {
+      "key": "D-2296",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这人身上没有别的东西可拿了。\n There's nothing else to collect from this one."
+        }
+      ]
+    },
+    {
+      "key": "D-PB-PALETTE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 1,
+          "text": "油灰走上前，挡住了我们的去路。\n Putty stepped forward, blocking our way."
+        }
+      ]
+    },
+    {
+      "key": "D-PB-THREADNEST",
+      "texts": [
+        {
+          "index": 0,
+          "text": "会疼的，但没有办法。你们渴望的东西，和我们渴望的东西，永远无法相遇……\n It will hurt, but it cannot be helped. What you desire and what we desire can never meet...",
+          "speaker": "B2F 楼层经理\n B2F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "让我们尽一切所能，把彼此的渴望都埋葬到底。\n Let us do all we can to sink each other's desires to an end."
+        }
+      ]
+    },
+    {
+      "key": "D-PB-PINKING",
+      "texts": [
+        {
+          "index": 0,
+          "text": "从血肉中渗出来的东西……\n Things seeping from flesh...",
+          "speaker": "裁缝之王\n King of Needleworks"
+        },
+        {
+          "index": 1,
+          "text": "全都舔干净……一点都不剩……\n Lick them all... leave none behiiind...",
+          "speaker": "裁缝之王\n King of Needleworks"
+        }
+      ]
+    },
+    {
+      "key": "D-2250",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你们为什么要伤害我们？\n Why are you hurting us?",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "…!",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 2,
+          "text": "油灰走上前，挡住了我们的去路。\n Putty approaches us threateningly."
+        }
+      ]
+    },
+    {
+      "key": "D20220401",
+      "texts": [
+        {
+          "index": 0,
+          "text": "巨大的染缸挡住了去路。默尔索试着把它们推开，却纹丝不动。\n Large dye vats are blocking the way. Meursault tries pushing them aside, but they won't budge."
+        }
+      ]
+    },
+    {
+      "key": "D20221001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里缠绕着一卷卷纯白色的线团。\n Spools of pure white thread are wound here."
+        }
+      ]
+    },
+    {
+      "key": "D20221101",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这似乎是某种纺织机。这台装置正以恒定均匀的速度吐出一缕缕丝线。\n It seems to be a spinning machine of sorts. The contraption is spewing strands of threads at a constant, even pace."
+        }
+      ]
+    },
+    {
+      "key": "D20221201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "丝线不断涌出，缠绕在线团上。依旧看不出它是从哪儿来的。\n Strands of thread spill forth, winding themselves around the spool. Still no clue as to where it's coming from."
+        }
+      ]
+    },
+    {
+      "key": "D20221301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这就是克罗默“走进去”的那面墙。这不是什么幻觉，她真的穿进了一堵实墙。\n This is the wall Kromer \"walked into.\" It's not an illusion or anything—she really just phased into a solid wall."
+        },
+        {
+          "index": 1,
+          "text": "地上这堆没用的废话。是那女人掉的吗？\n Worthless B.S. on the floor. Did that woman drop it?",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "<嗯，从她跟我们互动的方式来看……她大概是故意留在这儿的。>\n <Well, judging on how she's been interacting with us.. she probably left it here on purpose.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "<默尔索，先拿着吧。说不定用得上。>\n <Meursault, take it for now. It might come in handy.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "遵命。\n As you wish.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D20221401",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这台机器看起来操作起来很复杂。\n The machine looks complicated to operate."
+        },
+        {
+          "index": 1,
+          "text": "<默尔索，你知道这东西怎么操作吗？>\n <Meursault, do you know how to operate this?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "我并不熟悉西西弗下层的作业流程。\n I am not familiar with the work procedures of Sisyphe's lower floors.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "与此同时，奥提斯开始摆弄起这台机器复杂的显示屏。\n Meanwhile, Outis began manipulating the machine's complex display."
+        },
+        {
+          "index": 4,
+          "text": "唔……我还不明白它的运作原理，但大致理清了结构。\n Hm... I do not yet understand the operating principle, but I have a general grasp of the structure.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 5,
+          "text": "<哦……>\n <Ooh...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "界面上有三种功能：提取、纺线与染色。您的命令，执行经理？\n The interface presents three functions: extraction, spinning, and dyeing. Your orders, Executive Manager?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "奥提斯所指的显示屏上出现了三个按钮。\n Three buttons appear on the display Outis indicates."
+        }
+      ]
+    },
+    {
+      "key": "D20221402",
+      "texts": [
+        {
+          "index": 0,
+          "text": "屏幕上有三个按钮。\n There are three buttons on the screen."
+        }
+      ]
+    },
+    {
+      "key": "D20221403",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这是从默尔索身上抽取过丝线的机器。似乎没有理由再试一次。\n It's the machine that drew thread out of Meursault. There doesn't seem to be any reason to try it again."
+        }
+      ]
+    },
+    {
+      "key": "D20221411",
+      "texts": [
+        {
+          "index": 0,
+          "text": "伴随着一阵令人不安的嗡鸣，机器把默尔索的一块皮肤吸到了表面上。\n With a disconcerting whir, the machine sucked a patch of Meursault's skin onto its surface."
+        },
+        {
+          "index": 1,
+          "text": "哦。这些线还挺“O.K.”的。\n Huh. These threads are O. of a K.",
+          "speaker": "良秀\n Ryōshū"
+        }
+      ]
+    },
+    {
+      "key": "D20221412",
+      "texts": [
+        {
+          "index": 0,
+          "text": "伴随着一阵令人不安的嗡鸣，机器把默尔索的一块皮肤吸到了表面上。\n With a disconcerting whir, the machine sucked a patch of Meursault's skin onto its surface."
+        }
+      ]
+    },
+    {
+      "key": "D20221413",
+      "texts": [
+        {
+          "index": 0,
+          "text": "伴随着一阵令人不安的嗡鸣，机器把默尔索的一块皮肤吸到了表面上。\n With a disconcerting whir, the machine sucked a patch of Meursault's skin onto its surface."
+        },
+        {
+          "index": 1,
+          "text": "……您……还要再按一次吗，执行经理？\n ... Are... you going to press it again, Executive Manager?",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D20221414",
+      "texts": [
+        {
+          "index": 0,
+          "text": "伴随着一阵令人不安的嗡鸣，机器把默尔索的一块皮肤吸到了表面上。\n With a disconcerting whir, the machine sucked a patch of Meursault's skin onto its surface."
+        },
+        {
+          "index": 1,
+          "text": "你是想要“S.I.T.”吗？\n You want it S.I.T.?",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 2,
+          "text": "她在问，经理，您的目的是不是想把皮肤“拆成丝线（split into threads）”。\n She is asking whether your objective is to have the skin \"split into threads,\" Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<不……不，我不是想干这个……不过辛克莱以前解读过那个词吗？>\n <N-no, that's not what I'm doing... But has Sinclair ever interpreted that one before?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "他在巴士上解读过“S.E.N.I.T.”，意思是“把每一根神经都拆成丝线（split every nerve into threads）”。\n He has interpreted \"S.E.N.I.T.\" before on the bus. It stands for \"split every nerve into threads.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "<我是真的不记得她说那句话时是什么情境了。>\n <I really don't remember what the context was when she said it.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20221415",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一卷线团从装置里掉了出来。\n A spool of thread plopped out of the contraption."
+        },
+        {
+          "index": 1,
+          "text": "看起来这是用……默尔索的皮肤做成的线。\n It appears to be thread made from... Meursault's skin."
+        }
+      ]
+    },
+    {
+      "key": "D20221416",
+      "texts": [
+        {
+          "index": 0,
+          "text": "似乎没有理由再按这个按钮了。\n There shouldn't be any reason to press this button again."
+        }
+      ]
+    },
+    {
+      "key": "D20221417",
+      "texts": [
+        {
+          "index": 0,
+          "text": "机器把线拉紧时，丝线发出轻微的震颤声。\n The threads twang lightly as the machine pulls them tight."
+        },
+        {
+          "index": 1,
+          "text": "它们开始增殖了……\n They're starting to multiply..."
+        },
+        {
+          "index": 2,
+          "text": "……呃，我们没听说要增产啊。\n ... Uh, we weren't told anything about increased production volume.",
+          "speaker": "劳作的针族\n Needlekin Laborer"
+        },
+        {
+          "index": 3,
+          "text": "慢慢-慢！轻轻-轻！会弄坏的！\n Slowly-slow! Gently-gentle! You'll break it!",
+          "speaker": "劳作的针族2\n Needlekin Laborer 2"
+        },
+        {
+          "index": 4,
+          "text": "……附近正在劳作的顾客们都朝我们投来了刀子般的目光。\n ... The customers working nearby are glaring daggers at us."
+        }
+      ]
+    },
+    {
+      "key": "D20221418",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……周围指责的目光太过锋利，不敢再按一次了。\n ... The accusatory glares around me are too sharp to risk pressing it again."
+        }
+      ]
+    },
+    {
+      "key": "D20221419",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一条警告显示没有可用的染料。\n A warning states that no dye is available."
+        },
+        {
+          "index": 1,
+          "text": "什么都没有发生\n Nothing happened."
+        }
+      ]
+    },
+    {
+      "key": "D20221420",
+      "texts": [
+        {
+          "index": 0,
+          "text": "恕我直言，执行经理……我能问问您究竟想达成什么目的吗？\n With all due respect, Executive Manager... may I ask what exactly it is that you intend to accomplish?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "<……我是说……有时候人就是想按按钮玩玩，对吧？>\n <... I mean... Sometimes you just want to mash some buttons, right?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20221421",
+      "texts": [
+        {
+          "index": 0,
+          "text": "正当我又要去砸那个按钮时，有什么东西轻轻碰了碰我的手肘。\n As I try to hammer the button once more, something taps my elbow."
+        },
+        {
+          "index": 1,
+          "text": "我转过头，看见了良秀的刀鞘，阿赖耶。\n I turned to find Ryōshū's scabbard, Araya."
+        },
+        {
+          "index": 2,
+          "text": "有那么一瞬间，我几乎能确定自己听见它说：“你真该停止这种小孩子似的行为了……”\n For a moment, I could swear I heard it say, \"You really should stop acting like a kid...\""
+        }
+      ]
+    },
+    {
+      "key": "D20221422",
+      "texts": [
+        {
+          "index": 0,
+          "text": "嗯，我该停手了。这实在有点荒唐。\n Yeah, I should stop. This is getting ridiculous."
+        }
+      ]
+    },
+    {
+      "key": "D20221501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "染好的布料堆得老高。\n Dyed fabrics are piled high."
+        }
+      ]
+    },
+    {
+      "key": "D20221511",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里挂着染好的布料。\n Dyed fabrics hang here."
+        },
+        {
+          "index": 1,
+          "text": "我正查看布料时，一阵急促的脚步声从某处飞奔而来。\n Hurried footsteps come racing from somewhere as I inspect the fabric."
+        }
+      ]
+    },
+    {
+      "key": "D20221512",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里挂着染好的布料。\n Dyed fabrics hang here."
+        },
+        {
+          "index": 1,
+          "text": "我正查看布料时，一阵急促的脚步声从某处飞奔而来。\n Hurried footsteps come racing from somewhere as I inspect the fabric."
+        }
+      ]
+    },
+    {
+      "key": "D20221513",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里挂着染好的布料。\n Dyed fabrics hang here."
+        }
+      ]
+    },
+    {
+      "key": "D20221521",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<上次我听到这里传来类似列车轰鸣的声音……>\n <I heard something like the rumble of a train last time coming from here...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "门后传来类似列车轰鸣的声响。我靠近查看，可跟上次不同，这次一点光都看不见。\n A sound resembling the rumble of a train comes from beyond the door. I move closer to investigate, but unlike before, I can't see any light."
+        },
+        {
+          "index": 2,
+          "text": "<我能听见那声音，可是……>\n <I can hear the sound, but...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "…?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "出于好奇，布布在我查看门的时候凑了过来……\n Curious, Pwie approached me as I inspected the door..."
+        },
+        {
+          "index": 5,
+          "text": "<咦？等等！>\n <Huh? Wait!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "……随即消失在了缝隙之中。\n ... and disappeared into the crevice."
+        },
+        {
+          "index": 7,
+          "text": "……她很快就会回来的，经理。\n ... They will return soon, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "默尔索说对了。不到一分钟，布布就回来了。\n Meursault was right. Pwie returned in less than a minute."
+        },
+        {
+          "index": 9,
+          "text": "里面有丝线在跑。然后它们停下来，又跑起来了。它们为什么要这样做？\n Threads are running inside. And then they stopped, and then ran again. Why are they doing that?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 10,
+          "text": "<……我也想知道。>\n <... I wanna know, too.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 11,
+          "text": "……看来这孩子和百货里的其他顾客一样，能进入我们进不去的地方。\n ... It seems this child can enter places we cannot, just like the other customers in the department store.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 12,
+          "text": "<我们得特别留意背后，确保她一直跟着我们。>\n <We'll need to pay special attention to our back and make sure she's following us.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20221522",
+      "texts": [
+        {
+          "index": 0,
+          "text": "断断续续的列车鸣笛声与人群低语声透过缝隙传来。\n The intermittent sounds of train horns and people murmuring are coming through the gap."
+        }
+      ]
+    },
+    {
+      "key": "D20221601",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这是一种色调格外纯净的天蓝色染料。\n It's a sky-blue dye with a particularly pure hue."
+        },
+        {
+          "index": 1,
+          "text": "旁边的一张字条写着：“测试中的染料。若要使用，请只取少量……”\n A note beside it reads, \"Dye under testing. If you intend to use it, take only a little...\""
+        },
+        {
+          "index": 2,
+          "text": "……不错。还有点审美价值。\n ... Not bad. It has some aesthetic value.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "看起来不需要支付眼球。取一小份样本应该没问题。\n No eyeball payment appears to be required. It should be okay to requisition a small sample.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 4,
+          "text": "<默尔索，就装满一个容器吧。>\n <Let's fill just one container, Meursault.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "获得了一份天蓝色染料样本。\n Obtained a sample of sky-blue dye."
+        }
+      ]
+    },
+    {
+      "key": "D20221701",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一片漆黑，什么都没有。默尔索伸手去够那一点几乎难以察觉的微弱光亮。\n Nothing but pitch-black darkness. Meursault reaches toward a tiny twinkle of light so faint that it is almost impossible to notice."
+        },
+        {
+          "index": 1,
+          "text": "默尔索获得了木屑。\n Meursault obtained Sawdust."
+        }
+      ]
+    },
+    {
+      "key": "D20221801",
+      "texts": [
+        {
+          "index": 0,
+          "text": "绿色染料。\n Green dye."
+        },
+        {
+          "index": 1,
+          "text": "和上次一样，看着它让人感到平静。\n Like last time, looking at it brings a sense of serenity."
+        }
+      ]
+    },
+    {
+      "key": "D20221802",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一种泛黄的染料。乍一看几乎像是金色的。\n A dye with a yellow hue. At a glance, it almost appears golden."
+        },
+        {
+          "index": 1,
+          "text": "异乡人。那不是黄金染料，别在旁边晃悠了。\n Strangers. That's not the Golden Dye, so stop hovering around it.",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D20221803",
+      "texts": [
+        {
+          "index": 0,
+          "text": "蓝色染料。良秀别开了头，看上去有些不悦。或许这种湛蓝的色调，让她想起了小指父辈走廊那抹蓝光。\n Blue dye. Ryōshū turns her head away, looking displeased. Perhaps the azure hue reminded her of the blue glow of the Pinky Nursefather's Corridor."
+        },
+        {
+          "index": 1,
+          "text": "而阿赖耶则相反，我们靠近蓝色染料时，它开心地嘎嘎作响。或许蓝色是它最喜欢的颜色。\n Araya, on the other hand, is rattling happily as we approach the blue dye. Maybe blue is her favorite color."
+        }
+      ]
+    },
+    {
+      "key": "D20221804",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一个装满红色染料的容器。侧面写着“待运往地下3层”。\n A container filled with red dye. \"TO BE DELIVERED TO B3\" is written along its side."
+        },
+        {
+          "index": 1,
+          "text": "我喜欢这个颜色。\n I like this color.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 2,
+          "text": "哦？\n Oho?",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "T.A.R.T.?",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "<……挞？甜点跟这有什么关系？>\n <... Tart? What's dessert got to do with this?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "“炽烈而奔放的味道（Torrid and rhapsodic taste）”，经理。\n \"Torrid and rhapsodic taste,\" Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": "不知道。看到这个颜色，我就觉得心里很平静。\n I dunno. Seeing this color just makes me feel calm.",
+          "speaker": "布布\n Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D20221901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我腿疼。我想坐下。\n My legs hurt. I wanna sit down.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 1,
+          "text": "布布指向一张溅满各种颜色的沙发。\n Pwie points to a sofa splashed with all sorts of colors."
+        },
+        {
+          "index": 2,
+          "text": "想坐的话，坐就是了。\n If you want to sit, then you need only sit.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "良秀把布布抱起来，放到了沙发上。\n Ryōshū picked Pwie up and set them down on the sofa."
+        },
+        {
+          "index": 4,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 5,
+          "text": "油灰默默地在沙发和良秀之间来回瞪视，随后一言不发地把注意力转回了染料上。\n Putty quietly glared back and forth between the sofa and Ryōshū, then turned her attention to the dyes without a word."
+        },
+        {
+          "index": 6,
+          "text": "<所以这里可以坐……？那我也来歇一会儿吧……>\n <So it was okay to sit here...? Then Iet me take a break too...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "正当我要坐下时，油灰抬起了她锥子般锋利的一条腿。\n As I move to sit down, Putty raises one of her awl-sharp legs."
+        },
+        {
+          "index": 8,
+          "text": "<……嗯，算了。我站着就好。>\n <... Yeah, never mind. I'll just stand.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "这沙发软乎乎的挺好，但不算结实。那孩子没事，可要是你们哪个坐上去，估计当场就塌了。\n This sofa's nice and squishy, but it's not exactly sturdy. The kid's fine, but it'll probably cave right in if one of you sits on it.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 10,
+          "text": "唔。或许我们该去4层家具馆，为您专门购置一张沙发，执行经理。\n Hm. Perhaps we should purchase a sofa for your exclusive use from the Furniture Hall on 4F, Executive Manager.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 11,
+          "text": "一张能跟着您到处走的沙发，让您随时随地想坐就坐，腿就不会累了……\n A sofa that follows you around, allowing you to sit whenever and wherever necessary so your legs do not tire...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 12,
+          "text": "<……没关系。我站着就挺好的。>\n <... It's okay. I think I'm fine on my feet.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20222001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一张看起来像是百货楼层指引图的东西，被粘在一台饮料贩卖机上。大部分文字都因损毁而看不清了。\n What looks like a department-store directory is glued on a drink vending machine. Damage has obscured most of the lettering."
+        }
+      ]
+    },
+    {
+      "key": "D20222002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一张看起来像是百货楼层指引图的东西，被粘在一台饮料贩卖机上。大部分文字都因损毁而看不清了。\n What looks like a department-store directory is glued on a drink vending machine. Damage has obscured most of the lettering."
+        }
+      ]
+    },
+    {
+      "key": "D20221805",
+      "texts": [
+        {
+          "index": 0,
+          "text": "里面装满了色调格外纯净的天蓝色染料。\n It's filled with a sky-blue dye with a particularly pure hue."
+        }
+      ]
+    },
+    {
+      "key": "D20221806",
+      "texts": [
+        {
+          "index": 0,
+          "text": "蓝色染料。良秀别开了头，看上去有些不悦。或许这种湛蓝的色调，让她想起了小指父辈走廊那抹蓝光。\n而阿赖耶则相反，我们靠近蓝色染料时，它开心地嘎嘎作响。或许蓝色是它最喜欢的颜色。\n Blue dye. Ryōshū turns her head away, looking displeased. Perhaps the azure hue reminded her of the blue glow of the Pinky Nursefather's Corridor.\nAraya, on the other hand, is rattling happily as we approach the blue dye. Maybe blue is her favorite color."
+        }
+      ]
+    },
+    {
+      "key": "D20221807",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一桶紫色染料。侧面标签写着“纯粹度——合格”。\n A bucket full of purple dye. The label on the side says \"PURITY - ADEQUATE\"."
+        }
+      ]
+    },
+    {
+      "key": "D20221808",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一桶偏蓝的紫色染料。侧面标签写着“纯粹度——尚未检测”。\n A bucket full of blue-ish purple dye. The label on the side says \"PURITY - NOT YET CHECKED\"."
+        }
+      ]
+    },
+    {
+      "key": "D20221809",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一只正被缓缓注入偏红紫色染料的桶。侧面标签写着“特级品”。\n A bucket, slowly filling with reddish purple dye. The label on the side says \"PREMIUM GRADE\"."
+        }
+      ]
+    },
+    {
+      "key": "D20221810",
+      "texts": [
+        {
+          "index": 0,
+          "text": "写着“待丢弃”。再仔细一看，确实有点浑浊。\n Says \"TO BE DISCARDED\". On second look, it does look a bit cloudy."
+        }
+      ]
+    },
+    {
+      "key": "D20221811",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦，这该不会就是黄金染——啊。桶侧贴着一张写着“不是这个”的标签。看来不是它……\n Ohh, maybe this is the Golden Dy—ah. There's a label that says \"NOT THIS ONE\" taped on the side of the bucket. Guess this isn't it..."
+        }
+      ]
+    },
+    {
+      "key": "D20221812",
+      "texts": [
+        {
+          "index": 0,
+          "text": "肯定经常有人把这些搞混。\n Must get these mixed up all the time."
+        }
+      ]
+    },
+    {
+      "key": "D20221813",
+      "texts": [
+        {
+          "index": 0,
+          "text": "标签上写着：“废弃”。\n The label reads: \"DISPOSAL\"."
+        }
+      ]
+    },
+    {
+      "key": "D20221814",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一桶绿色染料。\n A green dye bucket."
+        }
+      ]
+    },
+    {
+      "key": "D20221815",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这只桶被密封得很紧。\n This bucket is sealed tight."
+        }
+      ]
+    },
+    {
+      "key": "D20221816",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<嘿，这儿有桶透明液体。会不会是无色染料？>\n <Hey, here's a bucket of transparent liquid. Maybe it's L'Incolore?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "……我们无法确定，经理。也可能是别的同样透明的液体。\n ... We cannot say for certain, Manager. It may be a different fluid that is just as transparent.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "透明的染料……？\n Transparent dye...?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 3,
+          "text": "不对，不对。这不是透明的。\n No, no. This isn't transparent.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "哦，不是吗？那在你眼里它是什么样的？\n Oho, it's not? Then what does it look like to you?",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 5,
+          "text": "它是……安静的……悲伤的……哗啦哗啦的。\n It's... quiet... sad... and splish-splashy.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 6,
+          "text": "这些形容词用来描述颜色，恐怕不太恰当吧？\n Not the most appropriate collection of adjectives for describing color, are they?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "外行。艺术可不只是对可见色彩的简单观察与再现。\n Dilettante. Art isn't just a simple observation and recreation of visible colors.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 8,
+          "text": "<不管怎样，布布现在也不是在搞艺术吧？>\n <Regardless, Pwie isn't exactly doing art right now, are they?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "布布盯着桶看了一会儿，随后转开了视线。\n Pwie stared into the bucket for a while, then turned away."
+        }
+      ]
+    },
+    {
+      "key": "D-2244",
+      "texts": [
+        {
+          "index": 0,
+          "text": "又完好无损地回来了。你们是来道别的吗，走之前？\n Back again in one piece. Did you come to say goodbye before leaving?",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 2,
+          "text": "哦，大姐。我说了——他们不是小偷。他们不是来榨干我染料原料的。\n Oh, Big Sis. I told you—they're not thieves. They didn't come to drain my dye material.",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2244B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "所以……你们这次又是来干嘛的？还需要别的颜色？\n So... What brings you back? Need another color?",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "我们需要……你手上的黄金松脂。\n We need... the Golden Resin in your possession.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-2244C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不行。\n No can do.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "我们需要它……不管怎样。\n We need it... regardless.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D-2244D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……你们是想硬抢吧。\n ... You're going to take it by force, aren't you.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "可是……我信任你们的。我还特地为你们打开了楼下的通路。\n But... I trusted you. I even opened the downstairs path for you.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 2,
+          "text": "……我为辜负这份信任感到遗憾。但你手中的黄金松脂，对我们的任务至关重要。\n ... I regret the breach of trust. But your Golden Resin is essential to our mission.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D-2244E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不值得信任的异乡人。我根本不该为你们开路。\n Strangers who can't be trusted. I should never have opened you the path.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "照这个势头，战斗恐怕在所难免，执行经理。不过若这是您的选择，我不会犹豫……\n Battle is inevitable at this rate, Executive Manager. But if that is what you choose, I will not hesitate...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "<……我们真的没有什么能拿来交换的吗？>\n <... Do we actually have anything we can trade for it?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "您打算提出什么样的交易，经理？\n What transaction do you propose, Manager?",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-2251",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我还以为泉那边来的异乡人……会不一样呢。\n I thought strangers from the Fount... would be different.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": ".......",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 2,
+          "text": "你说得对，大姐。要是这些残忍的人想伤害我们，那我们也只能……\n You're right, Big Sis. If these cruel people want to hurt us, then we can only...",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2252",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我还以为你……会不一样呢。\n I thought you... would be different.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 2,
+          "text": "你说得对，大姐。要是这些残忍的人想伤害我们，那我们也只能……\n You're right, Big Sis. If these cruel people want to hurt us, then we can only...",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2253",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不需要。\n Don't need it.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "我还以为你……会不一样呢。\n I thought you... would be different.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 3,
+          "text": "你说得对，大姐。要是这些残忍的人想伤害我们，那我们也只能……\n You're right, Big Sis. If these cruel people want to hurt us, then we can only...",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2254",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<如果调色板想要用黄金面料做的衣服，她早该来要默尔索的护手甲或者蠕蠕了。>\n <If Palette wanted clothing made from Golden Fabric, she would have asked for Meursault's gauntlet or Wriggley earlier.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<可她向我们要的，一直只有那团线……>\n <But all she had asked from us was the skein...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<那把剪刀。把她真正需要的东西给她，好做衣服吧。>\n <The scissors. Let's offer what she actually needs to make the clothes.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "如果你把黄金松脂给我们，我们就把能让你做出想要的衣服的剪刀给你。\n If you give us the Golden Resin, we will give you scissors you can use to make the clothing you want.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 5,
+          "text": "等等，大姐！剪刀？什么样的剪刀？\n Wait, Big Sis! Scissors? What kind of scissors?",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 6,
+          "text": "改衣师安妮特的剪刀……那位为黑派做过许多服饰的裁缝。\n The scissors of Annette the Alterationist... the tailor who made many attire for Le Noir.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "改衣师安妮特……我听黑派顾客提起过她。他们说她的剪刀能把任何丝线都变成最美的布料……\n Annette the Alterationist... I've heard the Noir customers mention her. They say her scissors can turn any thread into the prettiest fabric...",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 8,
+          "text": "唉……我还是得拒绝……没有黄金松脂，我做不出黄金染料。\n Ugh... I'm still gonna have to refuse... I can't make the Golden Dye without the Golden Resin.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 9,
+          "text": "没有那把剪刀，你就做不出给姐姐的衣服。\n You're not making any clothing for your sister without the scissors.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 10,
+          "text": "…….",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 11,
+          "text": "自从满脑子都是日光浴，她就再也没离开过黄金松脂身边，可是……大姐最喜欢的颜色，是……天蓝色。\n Ever since sunbathing occupied her mind, she's never left the Golden Resin's side, but... Big Sis's favorite color, it was... sky blue.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 12,
+          "text": "……你说得对。我已经不再需要黄金松脂了。可那把剪刀……才是缺失的那一笔。\n ... You're right. I've no need of the Golden Resin anymore. But those scissors... They are the missing stroke.",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 13,
+          "text": "我们把磨钝的剪刀放进调色板手中，换来了黄金松脂。\n We placed the dulled scissors into Palette's hands and received the Golden Resin in exchange."
+        }
+      ]
+    },
+    {
+      "key": "D-2256",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        }
+      ]
+    },
+    {
+      "key": "D-2249",
+      "texts": [
+        {
+          "index": 0,
+          "text": "住手。你为什么要伤害她？\n Stop that. Why are you hurting her?",
+          "speaker": "调色板\n Palette"
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 2,
+          "text": "有什么想要的，你跟我说就行。\n If there's something you want, you speak to me.",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2248",
+      "texts": [
+        {
+          "index": 0,
+          "text": "油灰踉跄了一下，随即挺直了膝盖。\n Putty stumbles, then straightens her knees."
+        },
+        {
+          "index": 1,
+          "text": "…….",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 2,
+          "text": "大姐……！\n Big Sis...!",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2260",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……（她用充满威胁的目光盯着我们。）\n ... (She fixes us with a threatening glare.)",
+          "speaker": "油灰\n Putty"
+        },
+        {
+          "index": 1,
+          "text": "你为什么要伤害她？\n Why are you hurting her?",
+          "speaker": "调色板\n Palette"
+        }
+      ]
+    },
+    {
+      "key": "D-2261",
+      "texts": [
+        {
+          "index": 0,
+          "text": "伴随着一阵长长的吱呀声，那些手臂开始垂落。\n With a long creak, the arms begin to sag."
+        },
+        {
+          "index": 1,
+          "text": "每一只手都朝着调色板曾经所在的方向伸去。\n Every one of those hands is reaching toward where Palette had been."
+        }
+      ]
+    },
+    {
+      "key": "D-2262",
+      "texts": [
+        {
+          "index": 0,
+          "text": "破碎的血肉从那一小片布料下若隐若现。\n Mangled flesh peeks from beneath the tiny scrap of cloth."
+        }
+      ]
+    },
+    {
+      "key": "D-2263",
+      "texts": [
+        {
+          "index": 0,
+          "text": "粉碎的血肉从那一小片布料下若隐若现。\n Pulverized flesh peeks from beneath the tiny scrap of cloth."
+        }
+      ]
+    },
+    {
+      "key": "D-2264",
+      "texts": [
+        {
+          "index": 0,
+          "text": "它已经炸成了蓝色染料与血肉混杂的一团狼藉。很难想象它原本是什么样子。\n It's exploded into a mess of blue dye and flesh. It's difficult to imagine what it could've looked like before."
+        }
+      ]
+    },
+    {
+      "key": "D-2265",
+      "texts": [
+        {
+          "index": 0,
+          "text": "因疼痛而流的泪，与因悲伤而流的泪，两者有什么不同？\n What difference is there between tears shed in pain and tears shed in sorrow?"
+        },
+        {
+          "index": 1,
+          "text": "悲伤与疼痛之间，界线又在哪里？\n What separates sorrow from pain?"
+        }
+      ]
+    },
+    {
+      "key": "D-2266",
+      "texts": [
+        {
+          "index": 0,
+          "text": "因疼痛而流的泪，与因悲伤而流的泪，两者有什么不同？\n What difference is there between tears shed in pain and tears shed in sorrow?"
+        },
+        {
+          "index": 1,
+          "text": "悲伤与疼痛之间，界线又在哪里？\n What separates sorrow from pain?"
+        }
+      ]
+    },
+    {
+      "key": "D-2267",
+      "texts": [
+        {
+          "index": 0,
+          "text": "稍稍掀起布料，能看到底下湿漉漉地黏着一团被捣烂的血肉。\n Lifting the cloth slightly reveals flesh mashed to a pulp, clinging wetly to its underside."
+        }
+      ]
+    },
+    {
+      "key": "D20221817",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一个装满红色染料的容器。侧面写着“待运往地下3层”。\n A container filled with red dye. \"TO BE DELIVERED TO B3\" is written along its side."
+        }
+      ]
+    },
+    {
+      "key": "D20221902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一张涂满斑斓色彩的沙发。\n A sofa painted in a riot of colors."
+        }
+      ]
+    },
+    {
+      "key": "DDS701",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<那些丝线瞬间缠住了默尔索……他就死了。>\n <The threads wrapped around Meursault in an instant... and he was dead.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "想跑得比它快很难……尤其是那种黏糊糊的染料还在拖慢我们的行动……\n Outpacing it would be difficult... especially with that sticky dye hindering our movement...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "唔……或许阻碍它的行动会更有效。\n Hm... It may be more effective to impede its movement instead.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "唔。\n Hmm.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<等我们出去以后再想想办法吧。>\n <Let's think about it once we're out of here.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "DDS702",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<光是见啥打啥，根本没用。>\n <Just hitting whatever we saw wasn't getting us anywhere.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<我们得先摧毁那些丝线。>\n <We need to destroy the threads first.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "朝我们飞来的丝线实在太多了……看来闪避是我们唯一的对策了，执行经理。\n There are far too many threads flying at us... It appears evasion is our only recourse, Executive Manager.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "*噗* P.T.——\n *puff* P.T.—",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "<辛克莱。>\n <Sinclair.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "她说……“不如直接打飞它们？”\n She said... \"How about punching them out of the way?\"",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 6,
+          "text": "<我觉得她刚才连“打飞”那部分都还没说完……不过谢了。>\n <I don't think she even got to the \"out of the way\" part yet... but thanks.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "如果那真的可行……或许可以作为一种可行的办法。\n If that is indeed possible... it may serve as one viable method.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "我会记在心上。\n I will bear it in mind.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-2268",
+      "texts": [
+        {
+          "index": 0,
+          "text": "散落着一团团线球。\n Skeins of thread lie scattered about."
+        }
+      ]
+    },
+    {
+      "key": "D-2500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "已经舀取了一些这种染料。\n Already scooped a bit of this dye."
+        }
+      ]
+    },
+    {
+      "key": "D-2501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "已经刮取了一些这种木屑。\n Already scraped a bit of this sawdust."
+        }
+      ]
+    },
+    {
+      "key": "D-2850",
+      "texts": [
+        {
+          "index": 0,
+          "text": "有一张被丢弃的排号票。\n There's an abandoned numbered ticket."
+        },
+        {
+          "index": 1,
+          "text": "这是什么？\n What's this?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 2,
+          "text": "排号票。蠢货们用来占排队位置的东西。\n A numbered ticket. Something idiots take to secure a place in a queue.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "……那他们为什么要排队？不能直接进去吗？\n ... So why do they wait in line? Can't they just go in?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "不能，因为排队的每个人都渴望第一个进去。\n因此，他们共同约定创造出一条叫做“先到先得”的规则，并赋予由此产生的队伍以正当性。\n They can't, because everyone in line desires to be the first to enter.\nTherefore, they collectively agree to create a rule called \"first-come, first-served,\" and imbue resultant queue with legitimacy.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "唔……我不懂。他们非得这样吗？就因为大家都这么说？\n Mm... I dunno. Do they have to? Just 'cuz everyone says so?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 6,
+          "text": "是的。因为队伍中的每个人都共同相信，一切有价值的目标都要求追求者去等待，而且他们相信等待对所有人都是公平的，所以他们遵守这条规则。\n Yes. Because everyone in the queue shares the same faith that all worthy goals requires its pursuers to wait, and because they have faith that waiting is fair to all, they abide by it.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "公平……\n Fair...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 8,
+          "text": "……公平不过是种幻觉。虽然看起来他们都在同一条队伍里、遵守着同样的规则，可这世界运转的方式，从来就不是这样。\n ... Fairness is an illusion. Though it might seem like they're all waiting in the same queue under the same rules, that's just not the way the world spins.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D-2503",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一只旧木桶。另一侧写着些什么……\n An old barrel. There's something written on the other side..."
+        },
+        {
+          "index": 1,
+          "text": "[太阳越高，影子越短。]\n [The higher the sun, the shorter the shadow.]"
+        },
+        {
+          "index": 2,
+          "text": "[当影子缩小到看不见时，阳光便是蓝色的。]\n [When the shadow has shrunk beyond sight, the sunlight is blue.]"
+        },
+        {
+          "index": 3,
+          "text": "[虽然有点过曝，但我要用这个颜色来粉刷这个地方。毕竟这是我大姐最喜欢的颜色……正午蓝。]\n [It's a bit overexposed, but this is the color I'll use to paint this place. It's my big sister's favorite color, after all... Noonday Blue.]"
+        }
+      ]
+    },
+    {
+      "key": "D-2504",
+      "texts": [
+        {
+          "index": 0,
+          "text": "盖子还盖着。是调色板忘了这一批，还是……？\n The lid is still shut. Has Palette forgotten about this batch, or...?"
+        }
+      ]
+    },
+    {
+      "key": "D-2502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一桶装满透明液体的染料。我觉得这应该是无色染料，不过……看起来这一批已经放了挺久了。\n A vat filled with transparent liquid. I think it's L'Incolore, but... looks like it's been a while since this batch was made."
+        }
+      ]
+    }
+  ]
+}

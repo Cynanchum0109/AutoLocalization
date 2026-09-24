@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "DC-2022A",
+      "text": "提取\n Extract"
+    },
+    {
+      "key": "DC-2022B",
+      "text": "纺纱\n Spin"
+    },
+    {
+      "key": "DC-2022C",
+      "text": "染色\n Dye"
+    },
+    {
+      "key": "DC-2022D",
+      "text": "狂按按钮\n Button Mash"
+    },
+    {
+      "key": "DC-2244A",
+      "text": "我们没什么可给你的。\n We don't have anything to give."
+    },
+    {
+      "key": "DC-2244B",
+      "text": "我们给你剪刀。\n We'll give you scissors."
+    },
+    {
+      "key": "DC-2244C",
+      "text": "我们给你很多眼球。\n We'll give you lots of eyeballs."
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_denim_baggar",
+      "displayName": "丹宁钱包\n Denim Wallet"
+    },
+    {
+      "key": "swarm_leather_mutt",
+      "displayName": "皮手套\n Leather Glove"
+    },
+    {
+      "key": "swarm_needle_leather_mutt",
+      "displayName": "针插手套\n Pincushion Glove"
+    },
+    {
+      "key": "swarm_shopper_a",
+      "displayName": "绝望的褐派\n Desperate Kaki"
+    },
+    {
+      "key": "swarm_shopper_b",
+      "displayName": "焦虑的褐派\n Anxious Kaki"
+    }
+  ]
+}

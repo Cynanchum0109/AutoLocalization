@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "key": "140100",
+      "text": "走廊\n Corridor"
+    },
+    {
+      "key": "140200",
+      "text": "鞋履厅\n Footwear Hall"
+    },
+    {
+      "key": "140300",
+      "text": "家具厅\n Furniture Hall"
+    },
+    {
+      "key": "140400",
+      "text": "自动扶梯\n Escalator"
+    }
+  ]
+}

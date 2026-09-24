@@ -1,0 +1,40 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_b_3_leather_ghost",
+      "displayName": "驯服皮革\n Tamed Leather"
+    },
+    {
+      "key": "swarm_horizontal_hide_b3",
+      "displayName": "爬行皮革\n Crawling Leather"
+    },
+    {
+      "key": "swarm_leather_mutt_b3",
+      "displayName": "皮革手套\n Leather Glove"
+    },
+    {
+      "key": "swarm_b3_larouge_1st",
+      "displayName": "红派店员[阳光]\n Le Rouge Sales Associate [Sunshone]"
+    },
+    {
+      "key": "swarm_b3_larouge_2nd",
+      "displayName": "红派店员[阳光]\n Le Rouge Sales Associate [Sunshone]"
+    },
+    {
+      "key": "swarm_b3_larouge_3rd",
+      "displayName": "红派店员[阳光]\n Le Rouge Sales Associate [Sunshone]"
+    },
+    {
+      "key": "swarm_b3_golden_mutt",
+      "displayName": "皮革手套\n Leather Glove"
+    },
+    {
+      "key": "swarm_b3_needle",
+      "displayName": "针插\n Pincushion"
+    },
+    {
+      "key": "swarm_b3_overhide",
+      "displayName": "成团的爬行皮革\n Clumped Crawling Leather"
+    }
+  ]
+}

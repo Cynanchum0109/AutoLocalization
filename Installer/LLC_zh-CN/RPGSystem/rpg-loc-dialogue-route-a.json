@@ -1,0 +1,203 @@
+{
+  "dataList": [
+    {
+      "key": "D999999",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<.......>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<它就那么凭空出现，杀了默尔索。甚至还堵死了出口，让我们逃不出去……>\n <It just appeared out of nowhere and killed Meursault. It even blocked off the way out so we couldn't escape...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<那种东西到底为什么会在百货公司里徘徊……？>\n <Why would something like that even be wandering around a department store...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "……抱歉，我们在说什么来着？\n ... Sorry, what are we talking about?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "<就是啊，我们刚才遇到的那个东西，它是……>\n <You know, that entity we just encountered, it was...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "……既不是扭曲，也不是异想体。\n ... was neither a Distortion nor an Abnormality."
+        },
+        {
+          "index": 6,
+          "text": "可是……我也没有十足把握，该不该真的称它为……\n And yet... I couldn't say with any confidence whether I should really call it..."
+        },
+        {
+          "index": 7,
+          "text": "哦，拜托。你不能把大伙儿的好奇心都勾起来了，然后话说一半就没了，经理老兄。\n Oh, come on. You can't get us all curious and then just trail off like that, Manager Bud.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 8,
+          "text": "<……人类。>\n <... human.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "<我是说那个背上钉满了尖钉的怪物。>\n <I'm talking about that monster with all those nails driven into its back.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "这样的存在……在我们抵达那间洗手间之前，从未进入过我的视野。\n Such a being... had never once entered my sight prior to our arrival at the restroom.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 11,
+          "text": "<啊……？>\n <Huh...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "……但丁，你要是没劲儿了就多歇会儿呗？反正我们已经找到默尔了，所以……\n ...Dante, why don'tcha rest a little longer if you're outta juice? We found Meur already, so...",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 13,
+          "text": "<.......>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "罪人们一直忧心忡忡地瞟着我时钟的指针。等他们终于走开后，我径直去找默尔索，问他到底是怎么回事。\n The Sinners kept casting worried glances at the hands of my clock. Once they finally moved away, I went straight to Meursault and asked him what was going on."
+        },
+        {
+          "index": 15,
+          "text": "<刚才到底发生了什么，默尔索？你——>\n <What the hell happened just now, Meursault? Do you—>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 16,
+          "text": "……我确实记得，经理。\n ... I do remember, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 17,
+          "text": "回答您的问题——其他罪人之所以对发生的事毫无记忆，是因为我们被\"送回\"了。\n To answer your question, the reason the other Sinners have no memory of what occurred is because we were \"returned.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 18,
+          "text": "<\"送回\"……？>\n <\"Returned\"...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 19,
+          "text": "意思是，大百货商场被重置回了某个特定选择尚未做出之前的时间点。\n It means that the Grand Magasin was reset to a point before a particular choice was made.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 20,
+          "text": "这似乎是大多数人都无法察觉的现象。然而您和我，似乎是例外。\n This appears to be a phenomenon that most are incapable of perceiving. You and I, however, appear to be exceptions.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 21,
+          "text": "<好吧，先把那个放一边……那到底是什么导致了这次重置……？>\n <Okay, fine, putting that aside... what caused the reset in the first place...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 22,
+          "text": "它很可能是想让您做出不同的选择。\n It likely wanted you to make a different choice.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 23,
+          "text": "……因为您先前做出的选择，并未被锁链所束缚。\n ... Because the choice you made before was not bound in chains.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 24,
+          "text": "<.......>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 25,
+          "text": "在我们出发之前，我大概该花点时间整理一下思绪。\n I should probably take a moment to collect my thoughts before we head out."
+        },
+        {
+          "index": 26,
+          "text": "那个存在为什么会出现……\n Why did that entity appear..."
+        },
+        {
+          "index": 27,
+          "text": "……我们又为什么会被送回来……？\n ... and why were we sent back...?"
+        }
+      ]
+    },
+    {
+      "key": "D999998",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<我就有这种预感……果不其然，我们又回到这儿了。>\n <Had a feeling this would happen... and sure enough, we're back here.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<等等，这让我很纳闷……明明死的只有默尔索，为什么我们其他人也会被一起拖回洗手间？>\n <Wait, this makes me wonder... Why do the rest of us get dragged back to the restroom when Meursault is the only one who dies?> ",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "因为我是象征所绑定的主体。因此，当我死亡时，您和其他罪人似乎也会一并被送回这间洗手间，经理。\n Because I am the subject to which the symbol is bound. Therefore, when I die, it would appear that both you and the other Sinners are returned to this restroom as well, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "那怎么，这下我们成什么鬼魂了？\n So what, that makes us some kinda ghosts now?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 4,
+          "text": "……那样归类并不准确。不过，如果这有助于您理解，将其视为鬼魂也没有实际上的问题。\n ... That would be an inaccurate classification. However, if it aids your understanding, there is no practical issue with regarding it as such.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "如果这套机制真是这样运作的……那么视情况而定，它或许具有战术价值。\n If that is indeed how this mechanism operates... then it may have tactical value, depending on the circumstances.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "战术价值……？\n Tactical value...?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 7,
+          "text": "确实如此。值得留意的是，无论境况如何，我们的路途似乎终究都会将我们带回这间茅厕。\n Indeed. What bears note is that, regardless of circumstance, our course appears certain to return us unto this privy.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 8,
+          "text": "正是如此。若我们陷入无法脱身的绝境，或路线彻底迷失……这便可以作为一种撤退手段。\n Precisely. If we are cornered beyond reasonable escape, or our route becomes irretrievably lost... this could serve as a means of withdrawal.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 9,
+          "text": "我是真心希望我们……别开始把这当成什么逃生通道。\n I'd really prefer if we... didn't start treating this like an escape route.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 10,
+          "text": "<是啊……可不能养成习惯。不过万一情况真的糟到没救，至少得记得还有这条路可选。>\n <Yeah... let's not make a habit of it. But if things get bad enough, we should at least remember it's an option.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    }
+  ]
+}

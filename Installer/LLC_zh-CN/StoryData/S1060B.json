@@ -1,0 +1,37 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "판사",
+      "content": "被告。陈述你杀害母亲的时间。\n Defendant. State the time when you murdered your mother."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "title": "被告\n Defendant",
+      "content": "我今天杀了母亲。或者也许是昨天。\n I killed Mother today. Or maybe it was yesterday."
+    },
+    {
+      "id": 2,
+      "model": "판사",
+      "content": "被告。陈述你犯下此行为的理由。\n Defendant. State your reasons for committing the act."
+    },
+    {
+      "id": 3,
+      "model": "뫼르소",
+      "title": "被告\n Defendant",
+      "content": "......."
+    },
+    {
+      "id": 4,
+      "model": "판사",
+      "content": "回答！\n Answer!"
+    },
+    {
+      "id": 5,
+      "model": "뫼르소",
+      "title": "被告\n Defendant",
+      "content": "阳光……太刺眼了……\n The sunlight... was overwhelming..."
+    }
+  ]
+}

@@ -8,3 +8,17 @@ __pycache__/
 *.pyc
 .vscode/
 glossary.json
+!glossary/session_terms.json
+
+# 新流水线：派生产物不入库（progress.json / ignore.json / snapshot.json 要入库）
+out/state.json
+out/snapshot_new.json
+out/batch_pending.json*
+out/batch_answers.json*
+out/slots/
+out/locks/
+out/claims.json
+out/tm.json
+out/tm_ambiguous.json
+out/consistency.md
+Installer/*.zip

@@ -1,0 +1,70 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "奢侈品馆，2F\n Luxury Hall, 2F",
+      "content": "希斯克利夫朝那孩子迈出一步，孩子一缩，退了开去。\n The child flinched as Heathcliff took a step toward them, and backed away."
+    },
+    {
+      "id": 1,
+      "content": "等意识到已无处可退，孩子便缩到地上，开始发抖，看上去像是……在害怕。\n And when they realized there was nowhere to go, they shrank to the ground and began to tremble in... what appeared to be fear."
+    },
+    {
+      "id": 2,
+      "model": "파우스트",
+      "content": "......."
+    },
+    {
+      "id": 3,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 4,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 5,
+      "model": "히스클리프",
+      "content": "……你们那么看着我干嘛？\n ... What're you lookin' at me like that for?"
+    },
+    {
+      "id": 6,
+      "model": "히스클리프",
+      "content": "我——干嘛？<i>干嘛啊？</i>不是吧……\n I— What? <i>What?</i> Seriously..."
+    },
+    {
+      "id": 7,
+      "model": "히스클리프",
+      "content": "我打那小孩了吗？没有！我他妈什么都还没干！我就说了句“喂”，就这样！\n Did I hit the kid? No! I ain't even done shite yet! I just said \"Oi,\" that's all I did!"
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "希斯克利夫，对自己在孩子眼里是什么模样稍有些自觉，会有帮助。\n Heathcliff, a degree of self-awareness of how one might appear to a child would be helpful."
+    },
+    {
+      "id": 9,
+      "model": "뫼르소",
+      "content": "你时常表现出的那种粗率，通常会让弱者感到恐惧。\n That bluntness you often exhibit generally instills fear in the weak."
+    },
+    {
+      "id": 10,
+      "model": "히스클리프",
+      "content": "你们不是认真的吧。妈的，那就从洗手间叫别人来啊……！我长这样也没办法，是吧？\n You can't be serious. Bloody hell, get someone else from the restroom, then...! Can't help the way I look, yeah?"
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "我认为这并非外表的问题，而是举止的问题。\n I believe this not to be a matter of appearance but of bearing."
+    },
+    {
+      "id": 12,
+      "model": "뷔페어린이",
+      "teller": "???",
+      "title": "???",
+      "content": "......."
+    }
+  ]
+}

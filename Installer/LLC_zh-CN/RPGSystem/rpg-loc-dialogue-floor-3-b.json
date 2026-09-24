@@ -1,0 +1,3307 @@
+{
+  "dataList": [
+    {
+      "key": "D3003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……等等，你们听见了吗？听着像是剪刀的声音。\n ... Wait, do you hear that? Sounds like a pair of scissors.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "或许值得过去看看。\n It might be worth checking out.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "<……嘿，默尔索。上次在改衣室拿到的那把剪刀，你还留着吗？>\n <... Hey, Meursault. Do you still have that pair of scissors we got from the Alteration Shop last time?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "是的。不过它的刃口在剪断上一件两件套的过程中已经有些崩损了。那项工作将需要一把新剪刀。\n Yes. However, its edges have chipped slightly in the process of cutting through the last Two-piece. We will require a new pair of scissors for that task.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<看来它当时挺耐用的……>\n <They were pretty tough, I guess...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "<我们要继续前进就得剪开两件套，所以……看来又要弄一把新剪刀了。>\n <We need to cut through Two-piece if we want to proceed, so... looks like we'll be getting ourselves a new pair of scissors.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "声音不是从这边来的，经理。\n This isn't where the noise is coming from, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这不是去商贩那边的路，经理。\n This isn't the way to the vendor, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不是这边，经理。\n Not this way, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>欲望。那便将其披上吧。</color>\n <color=#cf0000>Desire. Then it shall be donned.</color>"
+        },
+        {
+          "index": 1,
+          "text": "据让娜小姐所说，似乎每个派系都有一个……引导他们的“声音”，而那声音其实是一位“巨人”。这道声音，恐怕也是属于其中之一的。\n According to Miss Jeanne, it seems like each faction has a... guiding \"Voice,\" who is, in truth, a \"Giant.\" This voice probably belongs to one of them, too.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "一种典型的操纵手段。通过向群体灌输根深蒂固的“我方对外部”心态，来巩固该派系内部的凝聚力。\n A classic manipulation tactic. It bolsters solidarity within a faction by instilling its population with the entrenched in-group-versus-out-group mentality.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "它不再闪烁，也不再舞动了。\n It doesn't twinkle or dance anymore."
+        }
+      ]
+    },
+    {
+      "key": "D3903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具红派的尸体。他们的血管已停止蠕动，变得干枯灰暗。\n The corpse of a Rouge. Their veins have stopped writhing, turning dry and grey."
+        }
+      ]
+    },
+    {
+      "key": "D3904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一滩血肉摊在地上。看起来像个瘪掉的气球。\n A slough of flesh is splayed on the ground. Looks like a popped balloon."
+        }
+      ]
+    },
+    {
+      "key": "D3906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一化作了二。化作二的那一位，已不再动弹。\n One has become two. The one who has become two stirs no longer."
+        }
+      ]
+    },
+    {
+      "key": "D3907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "又一家店铺，又一件用血肉做成的、乏味无趣的连衣裙。\n Another shop, another boring, insipid dress made from flesh."
+        }
+      ]
+    },
+    {
+      "key": "D3908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[坠落之微分 第2号：“西格尔”\n这件装置的灵感来自一具人台坠落穿越西西弗百货的过程。其意象唤起了时间坠落般延续不绝的印象。]\n [Differential of Falling Series 2: \"Siegel\"\nThis installation was inspired by a Mannequin's fall through the Grand Magasin. The imagery evokes the falling continuity of time.]"
+        },
+        {
+          "index": 1,
+          "text": "看着它大概也不会让我对它多一分理解。……不过也没必要理解就是了。\n Looking at it probably won't advance my understanding of it. ... Not that there's any need to."
+        }
+      ]
+    },
+    {
+      "key": "D3909",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[坠落之微分 第3号：“斯道克曼”\n这件装置的灵感来自一具人台坠落穿越西西弗百货的过程。其意象唤起了时间坠落般延续不绝的印象。\n相较第1号装置，雕塑尺寸更小。]\n [Differential of Falling Series 3: \"Stockmann\"\nThis installation was inspired by a Mannequin's fall through the Grand Magasin. The imagery evokes the falling continuity of time.\nSculpted in a smaller size relative to the Series 1 installation.]"
+        }
+      ]
+    },
+    {
+      "key": "D3910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "展示着一条看似金属制成的项链。\n A necklace that appears to be made of metal is on display."
+        }
+      ]
+    },
+    {
+      "key": "D3911",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一台收银机。里面似乎什么都不剩了。\n A cash register. There doesn't seem to be anything left inside."
+        }
+      ]
+    },
+    {
+      "key": "D3912",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具毫无装饰的人台躯干。\n An unadorned mannequin torso."
+        }
+      ]
+    },
+    {
+      "key": "D3913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一件染着独特花纹的T恤。还没见过哪个红派穿这个。\n A T-shirt dyed in a unique pattern. Haven't encountered a single Rouge who's wearing this."
+        }
+      ]
+    },
+    {
+      "key": "D3914",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[总统67'签名系列。\n浓缩了红派独有的选材眼光与悠久传承，这一非凡融合在这变革的时代中，塑造出了独属于自己、却又恰如其分的身份特质。——如需了解价格，请咨询客服代表。]\n [Le Président 67' Signature Collection.\nAn encapsulation of Le Rouge's unique choice of material and bygone heritages, this exceptional blending has established a unique yet fitting identity for itself in the age of change. - Please enquire a customer representative for more information on its price.]"
+        }
+      ]
+    },
+    {
+      "key": "D3916",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一台收银机。伸手进抽屉看看还剩下什么……摸出了几颗还在角落里打转的眼球。\n It's a cash register. Reaching into its drawer to see if there's anything left... yields some eyeballs that were rolling around in its corner."
+        },
+        {
+          "index": 1,
+          "text": "收获不错，执行经理。拿上吧——尽可能多找些、留着这些东西，对我们有好处。\n Not a bad get, Executive Manager. Take it—it should do us good to find and keep as many of these as we can.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "<唔……行吧。>\n <Hm... Sure.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D39161",
+      "texts": [
+        {
+          "index": 0,
+          "text": "等、等一下，这不就是明摆着的偷窃吗？\n W-wait, isn't this just straight-up thievery?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "更准确的说法应该是“战地征用战术”。\n A more accurate designation for this strategy would be \"field requisition tactics.\"",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>我看呐，这种战术在这儿大概就叫“盗窃”。</color>\n <color=#ebcaa2>I don't know, this strategy probably falls under the designation we call \"larceny\" here.</color>"
+        },
+        {
+          "index": 3,
+          "text": "……*咳*\n ... *cough*",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 4,
+          "text": "<等等，从收银机里拿眼球都不行，那我们杀掉——不对，是“送去出口”的那些人台又算什么？>\n <Wait, we're not allowed to take eyeballs from cash registers? What about all those Mannequins we kill—I mean, \"helped to the exit\"?>",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>呼呼，你是想说“故意损毁财物”吧？</color>\n <color=#ebcaa2>Fuhu, you mean \"criminal damage to property\"?</color>"
+        },
+        {
+          "index": 6,
+          "text": "<反正在这家百货商店里，这种事根本不重要，辛克莱。默尔索，把那些眼球拿上。>\n <It doesn't matter inside this department store anyway, Sinclair. Take those eyeballs, Meursault.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "<color=#ebcaa2>哈。你可真没意思。</color>\n <color=#ebcaa2>Hah. You're no fun at all.</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#ebcaa2>就因为听不懂玩笑，现在干脆决定无视我了，是吧？</color>\n <color=#ebcaa2>Just decided to ignore me now 'cuz you can't understand how jokes work, huh?</color>"
+        },
+        {
+          "index": 9,
+          "text": "拿走了那些眼球。\n Took the eyeballs."
+        }
+      ]
+    },
+    {
+      "key": "D39162",
+      "texts": [
+        {
+          "index": 0,
+          "text": "还没到<i>非要</i>这些东西不可的地步。\n Don't need these <i>that</i> badly."
+        }
+      ]
+    },
+    {
+      "key": "D39163",
+      "texts": [
+        {
+          "index": 0,
+          "text": "什么都不剩了。\n There isn't anything left."
+        }
+      ]
+    },
+    {
+      "key": "D3917",
+      "texts": [
+        {
+          "index": 0,
+          "text": "下方有一行说明文字，写着：[使用活体新鲜融化的脂肪组织处理并涂覆而成。触碰即可感受那玻璃般、瓷釉般的质感。]\n There's a caption below that says the following: [Treated and coated with fresh-melted fat tissue from a living subject. Touch it and feel the glassy, enamelistic surface.]"
+        }
+      ]
+    },
+    {
+      "key": "D3918",
+      "texts": [
+        {
+          "index": 0,
+          "text": "从沙发缝隙里掉出来的几颗眼球，被顺手拿走了。\n Obtained some eyeballs that fell through the cracks in the couch."
+        }
+      ]
+    },
+    {
+      "key": "D3919",
+      "texts": [
+        {
+          "index": 0,
+          "text": "价签上写着“肌肉衰减重量”\n The price tag says \"Sarcopenic Weight\""
+        }
+      ]
+    },
+    {
+      "key": "D3920",
+      "texts": [
+        {
+          "index": 0,
+          "text": "标签上写的是[季节性服饰]。虽说“季节”这种东西，在这儿其实毫无意义。\n The label calls it [Seasonal Apparel]. Not that \"seasons\" mean anything."
+        }
+      ]
+    },
+    {
+      "key": "D3933",
+      "texts": [
+        {
+          "index": 0,
+          "text": "看着还是像一团面团。\n Still looks like a lump of dough."
+        }
+      ]
+    },
+    {
+      "key": "D3934",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[68'签名系列。对67'系列所秉持的复古主义哲学的彻底否定，是红派骨子里那份解构气质的集大成之作。]\n [68' Signature Collection. An unequivocal rejection of the revivalist philosophy that underlined the 67' Collection, and a consummation of the deconstructive quality that is quintessentially Rouge.]"
+        }
+      ]
+    },
+    {
+      "key": "D3935",
+      "texts": [
+        {
+          "index": 0,
+          "text": "如今看来，已经没那么蓬松柔软了。\n Doesn't look so plush now."
+        }
+      ]
+    },
+    {
+      "key": "D3940",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[坠落之微分 第1号：“辛西娅”\n这件装置描绘的，是坠落于西西弗百货中的第一具人台——辛西娅——坠落的过程。它是本系列中唯一的大型装置，也是唯一一件以精细笔触描绘出她坠落之初那一刻的作品，因而在系列中独树一帜。]\n [Differential of Falling Series 1: \"Cynthia\"\nThis installation depicts the fall of Cynthia, the first Mannequin to fall in the Grand Magasin. The only large-scale installation in the series, it sets itself apart from the rest of the series by being the only piece to depict the precise moment her fall began in painstaking detail.]"
+        },
+        {
+          "index": 1,
+          "text": "<咦，这么一看……这地方还有些“装置艺术”，未必都是商品呢。>\n <Huh, now that I'm looking at it... this place has \"installations,\" that aren't necessarily products.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<你觉得环指……在这里也有活动吗？>\n <Do you think the Ring... has any presence here?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "并非所有艺术创作，都与环指的活动有关。\n Not all artistic endeavors are associated with the Ring's activities.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "…….",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "不过，这些东西倒是让我想起了在环指父辈的画廊里看到的那些东西。\n Still, these remind me of the things we saw back at the Ring Nursefather's gallery.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 6,
+          "text": "<唔……>\n <Hmm...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "<说不定有张说明卡片，解释这一切都是什么意思。如果那卡片还留着的话……>\n <Maybe there's a note explaining what all this means. Assuming that the note survived...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "这一带看来的确还有其他“坠落之微分”系列……\n There indeed seem to be other \"Differential of Falling\" series in this area...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 9,
+          "text": "<嗯，他们特意标注了“第1号”，那么合理推测应该还有“第2号”。留意一下，说不定能找到什么派得上用场的东西。>\n <Well, they went out of their way to call it \"Series 1,\" so it seems reasonable to assume that there's a \"Series 2.\" Let's keep an eye out for it in case they have anything that might come in handy.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3951",
+      "texts": [
+        {
+          "index": 0,
+          "text": "标签上写着[季末商品]。\n The label says [Off-Season Items]."
+        }
+      ]
+    },
+    {
+      "key": "D3959",
+      "texts": [
+        {
+          "index": 0,
+          "text": "几件用类似骨头的东西装饰的衣物。\n Articles of clothing adorned with what appear to be bones."
+        }
+      ]
+    },
+    {
+      "key": "D3960",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[“群鸟”实验系列。]\n下方的说明写着，灵感来自一只鸟。它从上到下都裹着一层厚厚的羽毛——这些羽毛究竟是从哪儿弄来的？\n [\"Les Oiseaux\" Experimental Collection.]\nThe caption below reads that it was inspired by a bird. It is plastered from top to bottom with a thick coating of feathers—where did they even get the feathers?"
+        }
+      ]
+    },
+    {
+      "key": "D3971",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这扇门上挂着一层厚重的帘幕。似乎进不去。\n There's a heavy curtain draped over this door. Can't seem to enter."
+        }
+      ]
+    },
+    {
+      "key": "D3974",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一条从某人身上——或者某物身上——断下来的巨大手臂。\n A gargantuan arm separated from somebody. Or something."
+        }
+      ]
+    },
+    {
+      "key": "D3975",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一顶勉强能称得上“普通”的宽檐帽。\n A brimmed hat that one might dare call \"average.\""
+        }
+      ]
+    },
+    {
+      "key": "D3976",
+      "texts": [
+        {
+          "index": 0,
+          "text": "五颜六色的各种线团沿墙排列。\n A sundry of colorful threads line this wall."
+        }
+      ]
+    },
+    {
+      "key": "D3977",
+      "texts": [
+        {
+          "index": 0,
+          "text": "刃口非常锋利。与其说是剪刀，倒更像是镰刀的刃。\n The edge is very sharp. Almost like a scythe's edge rather than a scissor blade's."
+        }
+      ]
+    },
+    {
+      "key": "D3980",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一把生锈的剪刀。看样子有段时间没人用过了。\n A rusty pair of scissors. These haven't been used in a while."
+        }
+      ]
+    },
+    {
+      "key": "D3981",
+      "texts": [
+        {
+          "index": 0,
+          "text": "另一侧被一层厚厚的布料遮住了。那后面似乎有什么东西在闪烁。\n The other side is hidden behind a thick layer of fabric. There's something twinkling there."
+        }
+      ]
+    },
+    {
+      "key": "D3982",
+      "texts": [
+        {
+          "index": 0,
+          "text": "另一侧被一层厚厚的布料遮住了。掀开布料，但这次，后面什么都没有。\n The other side is hidden behind a thick layer of fabric. Uncovered the fabric, but this time, there isn't anything behind."
+        }
+      ]
+    },
+    {
+      "key": "D3991",
+      "texts": [
+        {
+          "index": 0,
+          "text": "另一侧被一层厚厚的布料遮住了。\n The other side is hidden behind a thick layer of fabric."
+        }
+      ]
+    },
+    {
+      "key": "D3801",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这里有许多孔洞。或许是用来插东西的。\n There are numerous holes here. Possibly for plugging something in."
+        }
+      ]
+    },
+    {
+      "key": "D3802",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这些已经有一阵子没连接过了。插孔里积满了灰尘。\n These haven't been connected in a while. The sockets are full of dust."
+        }
+      ]
+    },
+    {
+      "key": "D3803",
+      "texts": [
+        {
+          "index": 0,
+          "text": "每个孔洞上都贴着一张标签。上面原本似乎写了些什么，但如今已经褪色，无法辨认了。\n Each hole has a tag taped on top of it. There used to be something written on the tags, but now they're faded and illegible."
+        }
+      ]
+    },
+    {
+      "key": "D3804",
+      "texts": [
+        {
+          "index": 0,
+          "text": "什么都听不见。\n Don't hear anything."
+        }
+      ]
+    },
+    {
+      "key": "D3805",
+      "texts": [
+        {
+          "index": 0,
+          "text": "听起来像是远处人群的嘈杂声。\n Sounds like the hubbub of a distant crowd."
+        }
+      ]
+    },
+    {
+      "key": "D3806",
+      "texts": [
+        {
+          "index": 0,
+          "text": "很安静。想必是听错了别的什么声音。\n It's quiet. Must've mistaken some other sound."
+        }
+      ]
+    },
+    {
+      "key": "D3807",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这台装置看起来像个通风扇。\n里面积满了灰尘……想必已经坏了有一阵子了。\n This device looks like a ventilation fan. \nIt's so dusty inside... Must have been out of order for a while."
+        }
+      ]
+    },
+    {
+      "key": "D3810",
+      "texts": [
+        {
+          "index": 0,
+          "text": "长长的缝隙里，铺着一层……灰尘。\n There's a dusting of... dust inside the long gap."
+        }
+      ]
+    },
+    {
+      "key": "D3812",
+      "texts": [
+        {
+          "index": 0,
+          "text": "坍塌的碎石挡住了去路。既无法翻越，也无法绕行。\n Fallen debris is blocking the way. There's no way over or around it."
+        }
+      ]
+    },
+    {
+      "key": "D3813",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不知道有哪种游戏会用到这些骰子。\n Don't know any games that use these dice."
+        }
+      ]
+    },
+    {
+      "key": "D3814",
+      "texts": [
+        {
+          "index": 0,
+          "text": "各面上杂乱无章地散布着随机的点数和字母。\n Random pips and letters are scattered on its sides without rhyme or reason."
+        }
+      ]
+    },
+    {
+      "key": "D3815",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一颗没什么用的沉重骰子。\n A useless, heavy die."
+        }
+      ]
+    },
+    {
+      "key": "D3816",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一颗怪异的骰子。\n A weird die."
+        }
+      ]
+    },
+    {
+      "key": "D3817",
+      "texts": [
+        {
+          "index": 0,
+          "text": "咦，这是什么呢？某种广播装置吗？\n Huh, wonder what this is? Somd kind of broadcast device?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "<这是通讯总机。>\n <It's a communication switchboard.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "通讯总机是什么？\n What's a communication switchboard?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "……执行经理，您过去接触过这类装置吗？\n ... Have you had access to one of these devices in the past, Executive Manager?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 4,
+          "text": "<呃……没有，我就是以前在一本小册子上读到过。>\n <Uh... No, I just read about it in a pamphlet once.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "……不愧是我们的执行经理！您这与日俱增的求知热忱，实在令人钦佩。\n ... As expected of our Executive Manager! Your rising passion for learning is most admirable indeed.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "奥提斯似乎在思索着什么。\n Outis seems to consider something for a moment."
+        }
+      ]
+    },
+    {
+      "key": "D3818",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这些管子沿墙排列的样子，让我想起了一台巨大的管风琴。\n The way these tubes are lining the wall reminds me of a massive pipe organ."
+        },
+        {
+          "index": 1,
+          "text": "虽然不知道这是用来收听还是用来传声的，不过……\n Though I don't know if it's for listening or relaying but..."
+        },
+        {
+          "index": 2,
+          "text": "……一想到或许有人在偷听我说的每一句话，在我看不见的地方对我下达指令……胃里便涌起一阵莫名的不安。\n ... imagining that someone might be listening in on my every word, giving me commands from where I can't see... a strange trepidation gurgles from the pit of my stomach."
+        },
+        {
+          "index": 3,
+          "text": "看来，视线并不受限于视觉的界限。\n The gaze is not beholden to the limitations of the sight, it seems."
+        }
+      ]
+    },
+    {
+      "key": "D3819",
+      "texts": [
+        {
+          "index": 0,
+          "text": "几只鸟躺在一根长长的、喇叭状管子下方。\n Several birds lie beneath a long, trumpet-shaped tube."
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>不……不能理解……你不可以理解……</color>\n <color=#cf0000>No... don't understand it... you mustn't understand...</color>"
+        },
+        {
+          "index": 2,
+          "text": "捡起其中一只鸟时，那声音便戛然而止。\n When I pick up one of the birds, the voice cuts off."
+        },
+        {
+          "index": 3,
+          "text": "获得了死鸟。\n Obtained Dead Bird."
+        }
+      ]
+    },
+    {
+      "key": "D3820",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一道光斑在几缕日光之间闪动。\n Something glints between the shafts of sunlight."
+        },
+        {
+          "index": 1,
+          "text": "默尔索取出了那件闪光的物品。是一台老式录音机。\n Meursault pulled out the glinting object. It's an old recorder."
+        }
+      ]
+    },
+    {
+      "key": "D3821",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……是我的错觉吗，这件外套是不是在缩水？\n ... Is it just me, or is this coat shrinking?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "那是在四楼顾客中相当受欢迎的一种袜子。只需穿上，便能直接套上身的那种。\n Those are socks that have become quite popular among the customers on the fourth floor. The kind you can put on simply by wearing them.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "袜、袜子？这明明是件外套啊！\n S-Socks? This is a coat!",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "功能性袜子。无需费力弯腰，直接套上即可。\n Functional socks. One merely slips them on without having to go through the trouble of bending over.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "唔，有意思。执行经理，我们不如把它带上吧？反正它已经不属于任何人了。\n Hm, fascinating. Why don't we bring this along, Executive Manager? It doesn't belong to anyone anymore.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 5,
+          "text": "<行吧。>\n <Sure.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3831",
+      "texts": [
+        {
+          "index": 0,
+          "text": "上面写着[千纸鹤系列 92号，5份中的第3份。某人的坠落，升华为叠加态的时间。]\n It says [Origami CollectioN° 92, 3 of 5. Someone's fall sublimated into superpositioned time.]"
+        }
+      ]
+    },
+    {
+      "key": "D3832",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[千纸鹤系列 92号，5份中的第4份。]\n [Origami CollectioN ° 92, 4 of 5.]"
+        }
+      ]
+    },
+    {
+      "key": "D3833",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[千纸鹤系列 92号，5份中的第2份。]\n [Origami CollectioN ° 92, 2 of 5.]"
+        },
+        {
+          "index": 1,
+          "text": "<我记得我们在一楼看过这个系列的“5份中的第1份”。>\n <I think we saw the \"1 of 5\" of the series on the first floor.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "哦，对了……！我记得学过，有些版画和雕塑在创作时就打算制作多份一模一样的复本，只用不同的编号给每份“版次”做区分。\n Oh, right...! I remember learning about how some prints and sculptures are made with creating multiple identical copies in mind, only giving a different number to each \"iteration\" to distinguish them.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "而且，即便每一份几乎难以区分彼此，它们的价值也可能会因编号而有所不同。\n And even though each piece is pretty much indistinguishable from one another, their value might vary depending on the number they're given.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "那么……一楼那份，想必就是第一份复本了。\n Then... the one on the first floor must be the first copy.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "寻常之辈大概会对此视而不见、径直走过……您的观察力竟如此敏锐！不愧是我们的执行经理，果然名不虚传！\n Most unremarkable rabble would've walked past it without a second thought... What impeccable perception you have! I expected no less of our Executive Manager!",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3834",
+      "texts": [
+        {
+          "index": 0,
+          "text": "上面写着[季末商品／成衣]。\n仍在出售。\n It says [Off-Season / Prêt-à-porter].\nStill on sale."
+        }
+      ]
+    },
+    {
+      "key": "D3835",
+      "texts": [
+        {
+          "index": 0,
+          "text": "上面写着[季末商品／成衣]。\n仍在出售。\n It says [Off-Season / Prêt-à-porter].\nStill on sale."
+        }
+      ]
+    },
+    {
+      "key": "D3836",
+      "texts": [
+        {
+          "index": 0,
+          "text": "咦，这些衣服怎么比其他的贵这么多。\n Huh, these clothes are more expensive than the others.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "那是因为您看的这批陈列，是本季的成衣商品。\n That is because the display you are looking at is for this season's Prêt-à-porter items.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "成……成衣？\n Prêt-à-por...ter?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "成衣。指的是预先制作、可直接穿着的现货服饰，尤指品质与档次较高的那一类。\n Prêt-à-porter. It refers to made-to-stock, ready-to-wear items; those of higher quality and prestige, in particular.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<这么一听，倒也没那么贵了……>\n <These don't look so expensive anymore...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3837",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这张沙发亮得有些吓人。没必要试着坐上去瘫一下。\n This couch is disturbingly shiny. No need to try slumping down on it."
+        }
+      ]
+    },
+    {
+      "key": "D3838",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……不想再费力翻找缝隙里的东西了。决定绕过去继续前进。\n ... Don't feel like dredging through the gaps anymore. Decided to move on past it."
+        }
+      ]
+    },
+    {
+      "key": "D3839",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>……还真是勤劳的小蜜蜂呢？</color>\n <color=#ebcaa2>... Still a busy bee, huh?</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>噗……你至于为了几个零钱这么拼吗？你不是有钱到根本不用在意那几颗眼球？</color>\n <color=#ebcaa2>Pff... Do you really have to try so hard for loose change? Aren't you rich enough to ignore a handful of eyeballs?</color>"
+        },
+        {
+          "index": 2,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "<……我总能再有钱一点，不是吗？>\n <... I can always afford to be richer, can't I?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "经理回答说，他总能再有钱一点。\n The manager replies that they can always afford to be richer.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "拿走了深藏其中的一些眼球。\n Took some eyeballs lodged deep inside."
+        }
+      ]
+    },
+    {
+      "key": "D3841",
+      "texts": [
+        {
+          "index": 0,
+          "text": "咦，看看这些标签。这些衣服比其他的便宜。\n Huh, look at the tags. These clothes are cheaper than the others."
+        }
+      ]
+    },
+    {
+      "key": "D3842",
+      "texts": [
+        {
+          "index": 0,
+          "text": "缠绕在人偶上的布带，发出一阵微弱的绷紧声。\n Cloth straps wrapped around the figure make a faint straining noise."
+        }
+      ]
+    },
+    {
+      "key": "D3843",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……它刚才是不是笑了？大概只是看错了……\n ... Did it just smile? Probably just seeing things..."
+        }
+      ]
+    },
+    {
+      "key": "D3844",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这看起来像是件拘束衣，但其实不是。\n是一件正装。\n This might look like a straitjacket, but it's not.\nIt's a formal suit."
+        }
+      ]
+    },
+    {
+      "key": "D3845",
+      "texts": [
+        {
+          "index": 0,
+          "text": "穿着这个真能看得见外面吗？\n Can they even see out of this thing?"
+        }
+      ]
+    },
+    {
+      "key": "D3846",
+      "texts": [
+        {
+          "index": 0,
+          "text": "等等，表情变了……一股说不清道不明的恐惧从脊背爬了上来。\n Wait, the expression changed... A nameless terror crawls up my spine."
+        }
+      ]
+    },
+    {
+      "key": "D3847",
+      "texts": [
+        {
+          "index": 0,
+          "text": "如今看着，只觉得闷得慌。\n Just looks stuffy now."
+        }
+      ]
+    },
+    {
+      "key": "D3848",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这套服装名为[初次叠影]。\n想必在黑派中相当受欢迎。\n This outfit is called [La Première Superposition].\nMust be pretty popular among the Noirs."
+        }
+      ]
+    },
+    {
+      "key": "D3849",
+      "texts": [
+        {
+          "index": 0,
+          "text": "布料后面似乎有什么东西在呼吸。令人不适。\n Something's breathing from behind the fabric. Uncomfortable."
+        }
+      ]
+    },
+    {
+      "key": "D3850",
+      "texts": [
+        {
+          "index": 0,
+          "text": "收银台的黑派身上穿的，跟这套服装有几分相似。\n The Noirs at the checkout counter are wearing something similar to this outfit."
+        },
+        {
+          "index": 1,
+          "text": "[三重叠影。\n将斗篷、双排扣长外套与夹克巧妙融合成一体的迷人之作。本季系列中的至尊之选。\n如需咨询价格与预订，请前往前台。]\n [La Troisieme Superposition. \nA fascinating blend of cape, frock coat, and jacket in a all-in-one integration. Highest prestige in this Season's collection.\nPlease visit the reception desk for pricing and reservations.]"
+        },
+        {
+          "index": 2,
+          "text": "说不定现在我们也买得起了……？\n Maybe we can afford it now...?"
+        }
+      ]
+    },
+    {
+      "key": "D3851",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[三重叠影。\n将斗篷、双排扣长外套与夹克巧妙融合成一体的迷人之作。本季系列中的至尊之选。\n如需咨询价格与预订，请前往前台。]\n [La Troisieme Superposition. \nA fascinating blend of cape, frock coat, and jacket in a all-in-one integration. Highest prestige in this Season's collection.\nPlease visit the reception desk for pricing and reservations.]"
+        }
+      ]
+    },
+    {
+      "key": "D3852",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[成衣。黄金纱线含量为上季的150%！]\n [Prêt-à-porter. Contains 150% of the Golden Yarn compared to the Last Season's!]"
+        },
+        {
+          "index": 1,
+          "text": "仔细一看才发现，所谓的“黄金纱线”含量其实只有0.00015%。这点分量，实在不值得写进广告词里。\n Upon closer inspection, I notice that it contains only 0.00015% of the so-called \"Golden Yarn.\" Doesn't seem anywhere near significant enough to warrant putting that on the advertisement."
+        },
+        {
+          "index": 2,
+          "text": "这么说，上一季的产品岂不是只有0.0001%的黄金纱线……？\n Doesn't this mean that the last season's products had only 0.0001% Golden Yarn...?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "……我敢打赌，U公司鲸鱼薯片里的鲸鱼含量，都比这上面的黄金纱线含量高。\n ... I'm willing to bet that Whale chips from U Corp. have more Whale in them than this has Golden Yarn.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3853",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一个摆满眼镜的展示柜。不过不太清楚该怎么戴上它们。\n A display case full of glasses. Not sure how I'd go about wearing them, however."
+        }
+      ]
+    },
+    {
+      "key": "D3854",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……这<i>确实</i>是眼镜，对吧……？展示牌上写的的确是“眼镜”……\n ... These <i>are</i> glasses, right...? The label above the display does say \"glasses\"..."
+        }
+      ]
+    },
+    {
+      "key": "D3855",
+      "texts": [
+        {
+          "index": 0,
+          "text": "展示着几副眼镜和太阳镜。其中一些戴在格里高尔身上，说不定挺好看。\n On display are pairs of glasses and sunglasses. Some of these'll look good on Gregor."
+        }
+      ]
+    },
+    {
+      "key": "D3856",
+      "texts": [
+        {
+          "index": 0,
+          "text": "几副看起来出奇普通的眼镜和太阳镜，在这里显得格格不入。平凡得近乎诡异。\n Bizarrely normal-looking pairs of glasses and sunglasses that look out of place here. Surprisingly mundane, almost."
+        }
+      ]
+    },
+    {
+      "key": "D3857",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一件凳子与抽屉柜的结合体……凳屉柜。不过看起来两边都没做好。\n A combination of a stool and a drawer... A strawer. Looks like it fails at being either, though."
+        }
+      ]
+    },
+    {
+      "key": "D3858",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一件凳子与抽屉柜的结合体……凳屉柜。在抽屉里找到了几颗被人遗忘的眼球。\n A combination of a stool and a drawer... A strawer. Found a handful of eyeballs in its drawer that somebody forgot."
+        }
+      ]
+    },
+    {
+      "key": "D3859",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一件凳子与抽屉柜的结合体……凳屉柜。在抽屉里找到了几颗被人遗忘的眼球……<i>并没有</i>。钟总归还是可以抱抱希望的。\n A combination of a stool and a drawer... A strawer. Found a handful of eyeballs in its drawer that somebody forgot... <i>not.</i> A clock can hope, though."
+        }
+      ]
+    },
+    {
+      "key": "D41420",
+      "texts": [
+        {
+          "index": 0,
+          "text": "做好了。这块黄金面料，连同它的光辉，都归你了。\n It's done. You may take this Golden Fabric and its brilliance with you.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        }
+      ]
+    },
+    {
+      "key": "D41610",
+      "texts": [
+        {
+          "index": 0,
+          "text": "轻而易举地从那具已经不再动弹的红派身上扯下了脊骨。\n Easily ripped the spine off the Rouge who'd stopped moving."
+        }
+      ]
+    },
+    {
+      "key": "D3200",
+      "texts": [
+        {
+          "index": 0,
+          "text": "啊……我明白了你的意愿，愿全心全意地遵从。今日，我将再度对自己坦诚……放纵我的欲望。\n Ah... I see your will and abide by it wholeheartedly. Today, once again, I will be honest with myself... and indulge in my desires.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 1,
+          "text": "我将与一切阻挡我们的力量抗争到底，愿有朝一日，你的声音也能传到我这里……\n I shall stand against all that seeks to stop us, that one day your Voice might reach me, too...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 2,
+          "text": "……可是听到新顾客的声音了？我总爱对初来这层楼的客人说这样一句话：您会发现，这里陈列的服饰所含的黄金皮革，比楼下那些店铺要慷慨得多——他们不过是掺了那么一星半点，就敢自称在卖黄金皮革混纺的布料。请尽管伸手触摸这些衣物——我相信您那双识货的手，一定能感受出品质上的差别。\n ... Do I hear new customers? First thing I like to tell the first-timers on our floor is this: you'll find the apparel displayed here to have a much more generous proportion of the Golden Hide than the shops below us, who only include trace amounts just so they can technically claim to be selling Golden Hide-infused fabric. Please, don't hesitate to touch the garment—I'm sure your discerning hands will notice the difference in quality.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 3,
+          "text": "你们看，她的眼睛……！\n Look, her eyes...!",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "虽然那位商贩面朝着我们，但我看到的，本该是眼睛的地方，却只有两个空洞的眼窝。\n Though the vendor was facing us, I only saw empty sockets where her eyes should've been."
+        },
+        {
+          "index": 5,
+          "text": "她还……被钉在了地上。\n She's also been... nailed to the ground.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "<color=#cf0000>……煽动你的欲望吧……披上的越多……你的自我便升华得越高……</color>\n <color=#cf0000>... Fan your desires... The more you are donned... the higher shall your self ascend...</color>"
+        },
+        {
+          "index": 7,
+          "text": "我明白了……这些微薄的布块——\n I understand... These meager patches of—",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 8,
+          "text": "…!",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 9,
+          "text": "等等，那道声音……！\n Wait, that Voice...!",
+          "speaker": "不可动摇者\n L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3200B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我……听见你了。你回应了我。\n I... heard you. You answered me.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3200C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你在哪儿？你是从哪里说话的？\n Where are you? Where are you speaking from?",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 1,
+          "text": "那位商贩挣扎着，朝我们伸出手，却因钉住她的尖钉而动弹不得。\n The vendor thrashed around and reached out toward us, unable to move with the nails that fixed her in place."
+        },
+        {
+          "index": 2,
+          "text": "这道声音，不会像拉长的磁带那样拖沓……不会结巴……不会没完没了地重复同样的话……\n This Voice doesn't drag like stretched tape... doesn't stutter... doesn't endlessly speak the same words over and over again...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 3,
+          "text": "不，是它在对我<i>说话</i>……它在对我说话啊……！\n No, they are speaking to me... they <i>speak</i> to me...!",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 4,
+          "text": "可是……我们谁都没说话吧？她这是怎么了？\n But... none of us said anything, did we? What's wrong with her?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "你……你是从哪儿来的？那引领我们的声音……那指引我们的声音……啊啊，它对我说得如此清晰。这正是我穷尽一生寻觅的那道声音……\n Where... where did you come from? The Voice to lead us on... the Voice to guide us... ohh, it speaks to me so clearly. This is the Voice I've been searching for my whole life...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 6,
+          "text": "那些沉默的日日夜夜……如今我才明白。原来都是在等候这美丽的一天。\n All those days of silence... I see now. They were in anticipation of this beautiful day.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 7,
+          "text": "谢谢你……谢谢你将他们带到这卑微的地方来……\n Thank you... Thank you for bringing them to this humble place...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 8,
+          "text": "我们没听见什么“声音”，除非你说的是你店里循环播放的这段录音。\n We don't hear any \"voice,\" unless you're referring to this voice track playing on a loop through your store.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 9,
+          "text": "你们听不见也是当然。这声音只对听过它召唤的人诉说……\n Of course you'd be deaf to it. The Voice speaks only to those who have heard its calling...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 10,
+          "text": "那位商贩缓缓转过身，用那空洞的眼窝扫视着我们每一个人……\n The vendor turned slowly, her empty eye sockets scanning through each of us..."
+        },
+        {
+          "index": 11,
+          "text": "……最终停在了默尔索身上。\n ... until they came to rest on Meursault."
+        },
+        {
+          "index": 12,
+          "text": "他们就在那儿沉睡，安卧在你的怀中。\n There they sleep, nestled in your bosom.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 13,
+          "text": "……在默尔索的怀里？！\n ... In Meursault's bosom?!",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 14,
+          "text": "是的。他们如是说——那曾引领我们的声音已如落日般沉没……但我们不必哀悼，因为一道新的声音将升起，来引领羊群。\n Yes. They have spoken thus—the Voice that once shepherded us has fallen like the setting sun... Mourn we must not, for a new Voice shall rise to lead the flock.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 15,
+          "text": "新的声音，正安然沉睡在那由万千丝线织成的摇篮中，被从所有人身上取走的丝线解开……对他们而言，外面的世界，既是新奇，也是……恐惧……\n The new Voice slumbers soundly in the Cradle of all threads, its strands undone and taken from all... To them, the world outside is at once a curiosity... and horror...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 16,
+          "text": "当他们从睡梦中苏醒之时，我们将——啊，我已能看见了……我们将披上从西西弗百货每一处裂缝中取来的黄金皮革……\n When they awaken from their sleep, we will—oh, I can see it... We shall be wreathed in Golden Hide, taken from every fracture of the Grand Magasin...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 17,
+          "text": "唉，我们必须尽好本分，为他们的苏醒做好准备。\n Alas, we must do our due diligence preparing for their awakening.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 18,
+          "text": "……那所谓的“本分”，具体指什么？\n ... And what might that due diligence entail?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 19,
+          "text": "这层楼有一间改衣室。据说，那位改衣师的剪刀，锋利到能剪穿西西弗百货里的任何织物……她的双手灵巧到能将任何丝线织成布料。\n On this floor is an Alterationist's shop. It is said that her scissors are sharp enough to slice through any textile within the Grand Magasin... and her hands dextrous enough to weave any string into fabric.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 20,
+          "text": "那么……那把犀利而精准的剪刀，终有一日会轻轻剪入摇篮，\n Then... those keen, precise scissors will one day cut gently into the Cradle,",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 21,
+          "text": "而她那双巧手织出的布料，将守护那些即将亵渎摇篮的黑派之手……\n and the fabric woven from her adroit hands will protect the Noirs whose hands shall desecrate the Cradle...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 22,
+          "text": "这位改衣师的宿命，便是成为我们祸患的根源。\n The Alterationist's destiny is to be the root of our bane.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 23,
+          "text": "在战争爆发之前，就从源头切断敌人的补给线？这……是个稳妥的战术。甚至可以说，相当出色。\n Cutting off the enemy's supply line at its source before the war even starts? That is... tactically sound. Fantastic, even.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 24,
+          "text": "呃……可她根本不属于黑派啊。至少据我所知是这样的。\n Um... But she's not even a part of Le Noir. As far as I know, at least.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 25,
+          "text": "你说得没错。她不过是个谦卑、诚实的改衣师，只是剪断丝线，再将其织成布料罢了。\n You are correct. She is but a humble, honest Alterationist who merely cuts threads to weave them into fabric.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 26,
+          "text": "但那已经变了。\n But that has changed.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 27,
+          "text": "既然新的声音已在地平线上升起……那么，一切挡在它前路上的，都必须……被收割。\n Now that a new Voice has risen on the horizon... all that stands in their way must be... reaped.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 28,
+          "text": "……你打算怎么进行这场“收割”？你已经被钉在地上了。\n ... And how do you intend to do that \"reaping\"? You're nailed to the ground.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 29,
+          "text": "我在这里的日子里，收集了不少眼球。\n I have collected many eyeballs during my time here.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 30,
+          "text": "斩断这位改衣师，那一切……便都归你所有。\n Sever the Alterationist, and... all of that will be yours.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 31,
+          "text": "您的决定，执行经理？\n Your decision, Executive Manager?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 32,
+          "text": "<……先不排除这个选项。等听完另一边黑派的说法后，我们还有时间再做决定。>\n <... Let's not rule it out as an option. We'll have time to decide after we hear out the Noirs on the other side.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 33,
+          "text": "<color=#cf0000>煽动你的欲望吧……披上的越多……便越加……</color>\n <color=#cf0000>Fan your desires... The more you are donned... the higher...</color>"
+        },
+        {
+          "index": 34,
+          "text": "默尔索母亲的声音，印刻在一盘磁带平坦的表面上，从这间店铺的墙后一遍又一遍地重复着她的留言。\n The voice of Meursault's mother, imprinted on the flat surface of an audiotape, repeats and repeats her message from behind the wall of this shop."
+        },
+        {
+          "index": 35,
+          "text": "然而，在那位商贩的世界里，它或许早已不复存在——她不再像从前那样转向它，往后也永远不会了。\n But it may as well no longer exist in the vendor's world—she does not turn toward it as she once had, and never will."
+        }
+      ]
+    },
+    {
+      "key": "D3203",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那恼人的咔嚓咔嚓声总算停了……看来，你们已经照我所求做了？\n That irritating snip-snip has finally stopped... I understand that you have done as I asked?",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 1,
+          "text": "是的，我们做到了。希望你也能信守你那部分的约定。\n Yes, we have. And I'm hoping you'll hold up your end of the bargain.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "当然，当然。来吧……拿走我收集的这些眼球。\n Of course, of course. Here... take the eyeballs I have gathered.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3205",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……而且……他们中有几个，一直躲在里面……\n ... And... some of them have been holed up inside the whole time...",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 1,
+          "text": "……是啊，看来西西弗百货的崩溃，也不过是时间问题了。\n ... Right, I suppose it's only a matter of time before the Grand Magasin falls, now.",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 2,
+          "text": "他们本来就没多清醒，可如今是一天比一天更疯癫了。\n They were never sane to begin with, but now they're growing more and more deranged by the day.",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 3,
+          "text": "不过你说，这会是真的吗？万一他们……\n Do you think it's true, though? What if they...",
+          "speaker": "毛毡\n Felt"
+        }
+      ]
+    },
+    {
+      "key": "D32051",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…!",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 1,
+          "text": "正如品牌经理所说的那样。\n It really is as the Brand Manager has said.",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 2,
+          "text": "被那疯狂驱使，那些被声音抛弃的人，已经开始密谋一场最邪恶的计划了……\n Driven by madness, those abandoned by the Voice have begun to scheme a plan most wicked...",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 3,
+          "text": "……而且，他们还将与刚抵达西西弗百货的这些异乡人携手合作。\n ... and they shall join hands with the strangers who have just arrived at the Grand Magasin.",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 4,
+          "text": "并没有什么携手合作。让我把话说清楚：我们既不隶属红派，也不隶属黑派——比起卷入一场与我们毫无干系的战争，我们更愿意置身事外。\n There wasn't any joining of hands. Let me clarify now that we are not affiliated with either Le Rouge or Le Noir—we'd much rather keep to ourselves than get involved in a war we have no stake in.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 5,
+          "text": "那道声音，早已预言了你们的到来，异乡人们。说你们会在接受了铲除改衣师的委托之后，来到这里。\n The Voice has prophesied your coming, strangers. That you would come here, after receiving a request to eliminate the Alterationist.",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 6,
+          "text": "若你们胆敢伤害她，从今往后，我们便会宣布你们为黑派之敌。像如今这般危机时刻，她织出的布料，是我们绝不能舍弃的东西。\n Should you bring her harm, we will henceforth declare you enemies of Le Noir. We cannot dispense with the fabric she weaves in times of crisis like the present.",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 7,
+          "text": "这位改衣师的重要性，无论怎么强调都不为过。就连品牌经理本人，也曾无数次靠她织的布料渡过难关。\n The Alterationist's importance cannot be overstated. Even the Brand Manager has had to use her fabric to overcome countless trials.",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 8,
+          "text": "品牌经理还向我们透露了不少关于你们计划的事。你们手上，握着一件对红派那阴险图谋不可或缺的神器，是不是？\n The Brand Manager has also told us much about your plans. You possess an artifact that is integral to the Rouges' insidious plot, don't you?",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 9,
+          "text": "我们现在就给你们一个机会，就在此地此刻，证明你们真正的立场。\n We'll give you a chance to prove your true allegiance right now, right here.",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 10,
+          "text": "交出那件神器……我们便以顾客之礼相待，而非敌人。\n Hand over that artifact... and we will greet you as customers, not enemies.",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 11,
+          "text": "<他们……比第一次遇到时敌意重多了。>\n <They're... a lot more hostile than they were the first time.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "……很可能是引导黑派的那位巨人，在背后做了什么手脚。\n ... It is likely that the Giant who guides Le Noir has done something behind the scenes.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 13,
+          "text": "<哦，对了。让娜记得循环之前发生的事……那么黑派的巨人，想必也和她一样不受“清仓”影响。>\n <Oh, yeah. Jeanne remembers the events prior to the loop... then the Noir's Giant must be just as immune to the Liquidation as she is.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "那、那我们该怎么办？我不太清楚他们到底想要什么，但是……我觉得，他们是想向你要点什么，默尔索……\n Wh-what do we do? I don't know exactly what they're looking for, but... I think they want something from you, Meursault...",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 15,
+          "text": "把默尔索的神器交出去，肯定能博得黑派的好感。\n Handing over Meursault's artifact will definitely get us into the Noirs' good graces."
+        },
+        {
+          "index": 16,
+          "text": "然后他们会给我们鉴定报告，我们再拿着它去找那位单脚人——等等，不对。这样一来，我们又会被锁死在跟之前一样的路线上。\n Then they'll give us the Authenticity Certificate, and we'll bring that to the One-leg on the—wait, no. That'll just lock us into the same route as before."
+        },
+        {
+          "index": 17,
+          "text": "<告诉他们，我们拒绝。>\n <Tell them that we refuse.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 18,
+          "text": "我们……不会把任何东西交给你们。\n We... will not hand anything over to you.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 19,
+          "text": "那么，你们就是我们的敌人了。\n Then you are our enemy.",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 20,
+          "text": "异乡人，看来你们还不明白红派的真面目，让我来告诉你们，一旦放任他们，会引来怎样的恐怖后果。\n Strangers, you don't seem to understand the Rouges' true nature, so let me fill you in on just what kind of horror you'd be unleashing.",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 21,
+          "text": "能让西西弗百货免于崩塌的，唯有那些生长在裂缝之上的黄金松脂斑块。\n The only thing keeping the Grand Magasin from collapse are the patches of the Golden Resin that have grown over its cracks.",
+          "speaker": "毛毡\n Felt"
+        },
+        {
+          "index": 22,
+          "text": "而那些红色的家伙……一直在从墙上刮取那神圣的松脂，只为把它披在身上，满足自己那虚荣的饥饿。\n And those red ones... they've been scraping that holy resin from the walls just to wear it as clothes and sate their vain hunger.",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 23,
+          "text": "他们早就该被毁灭了！你们知道我们等了多久，就为了看他们的贪婪反噬自己吗？\n Their destruction's been long overdue! Do you have any idea how long we've waited for their own greed to come back and bite them?",
+          "speaker": "法兰绒\n Flannel"
+        },
+        {
+          "index": 24,
+          "text": "如果你们仍然不肯交出来，那……你们跟他们就没什么两样了。这意味着，我们只能用武力从你们手中夺走它。\n If you still won't hand it over, then... you're no different from them. Which means we'll have to take it from you by force.",
+          "speaker": "毛毡\n Felt"
+        }
+      ]
+    },
+    {
+      "key": "D32052",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那、那我们真的要杀了改衣师小姐吗？\n S-so, are we really going to kill Miss Alterationist?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "她对我们一点敌意都没有，不像这两位……再说，我们也没理由非要照着那位红派女士说的做啊。\n She wasn't hostile toward us at all, not like these two... Besides, we don't have any reason to do as the Rouge lady asked.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "我们同样也没理由<i>不</i>照她说的做。别忘了：她承诺过，只要我们除掉改衣师，就给我们一大笔眼球作为回报。\n And we don't have any reason <i>not</i> to do as she asked. Remember: she promised us quite a significant sum of eyeballs in return for slaying the Alterationist.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "是啊，可……我们<i>真</i>需要那么多眼球吗？\n Yeah, but... do we <i>really</i> need that many eyeballs?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "辛克莱看起来对眼球没那么急迫——大概是因为我们上次积攒的评级也延续了下来。\n Sinclair doesn't seem as desperate for eyeballs—probably because our Prestige Tier carried over from our last attempt."
+        },
+        {
+          "index": 5,
+          "text": "他说得也没错。我们之所以没有直奔四楼，唯一的原因，就是还在想办法搞清楚该怎么去五楼。\n He wasn't wrong, either. The only reason we weren't beelining to the fourth floor was that we were still trying to figure out how to get to the fifth floor."
+        },
+        {
+          "index": 6,
+          "text": "军费永远不嫌多，尤其是在这种陌生地界闯荡的时候。不熟悉，就意味着不可预测，而钱正是缓解未知变量的一种办法。\n You can never have too much money in your war chest, especially when venturing through unfamiliar territory like this. Unfamiliarity equals unpredictability, and money is one way of mitigating the unknown variables.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "还有，别忘了，这地方不是真的。在这个只存在于我们意识中的虚拟空间里，就算我们杀了她，她也不会真的死。\n And don't forget, this place isn't real. She won't die just because we killed her in this virtual space where only our minds exist.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 8,
+          "text": "可是……可是奥提斯小姐，我们并不知道，当囚犯的……<i>意识</i>在这里面被杀死时，她的身体会发生什么。\n But... But Miss Outis, we don't know what happens to the prisoner's body when their... <i>mind</i> gets killed in here.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 9,
+          "text": "执行经理心意已决。\n The Executive Manager has already set their mind on what to do.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 10,
+          "text": "两位罪人似乎难以达成一致。不过这一次真正重要的是……\n The two Sinners can't seem to come to an agreement. But what's really important this time around is..."
+        }
+      ]
+    },
+    {
+      "key": "D32052B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<我不能再重复同样的选择，还指望结果会不一样……>\n <I can't make the same choices again and expect things to be different...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<……首先，我们得把“清仓”这件事弄清楚，能了解多少是多少。>\n <... First things first, we need to learn everything we can about the \"Liquidation.\">",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D32052C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<默尔索，你能不能呼叫一下让娜，看看她是不是在看着我们？>\n <Meursault, can you call Jeanne and see if she's watching us?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D32052D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……让娜。我想更详细地了解一下，触发“清仓”事件的条件。\n ... Jeanne. I would like to know more about the conditions to triggering the Liquidation event.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>呼呼，小可爱……这还是你第一次主动在这儿叫我出来呢。</color>\n <color=#ebcaa2>Fuhu, ma puce... This is the first time you've decided to call me in here.</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>其实答案挺简单的。当西西弗百货没法再生产出符合质量标准的罐头体验，当它的产出沦为没人愿意买的无用废渣时……“清仓”就会发生。</color>\n <color=#ebcaa2>The answer is pretty simple, actually. When the Grand Magasin stops producing Canned Experiences that meet its quality standards, when its output is reduced to useless dregs no one would buy... that's when Liquidation occurs.</color>"
+        },
+        {
+          "index": 3,
+          "text": "……“清仓”的过程，是否包含时间倒流？\n ... Does the Liquidation process entail rewinding time?",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>不。时间循环这玩意儿，麻烦远多于价值——得跟T公司打好交道，还得想办法确保一份持续且庞大的能量供给……尤其是现在，罗伯珂尔公司已经倒了，没法再指望它来解决这最后一部分，就更不现实了。</color>\n <color=#ebcaa2>Nope. Time loops are more trouble than they're worth—gotta make arrangements with T Corp., somehow secure a consistent and massive supply of energy... It's especially impractical now that we can't rely on Lobotomy Corporation for that last part, what with its downfall and all.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<color=#ebcaa2>所以西西弗百货选择了更简单的办法……直接抹除每一位被囚禁于此的顾客的记忆。这个过程相对简单，而且便宜得多。硬要说的话，这算是一次系统的整体重启。</color>\n <color=#ebcaa2>Instead, Grand Magasin Sisyphe has chosen to simply... wipe the memories of every customer imprisoned within. It's a relatively simple process, not to mention much, much cheaper. It's a total system reboot, if you will.</color>"
+        },
+        {
+          "index": 6,
+          "text": "<就只是抹除记忆而已……？怪不得我们没有丢掉之前买的东西，评级也保住了。>\n <It's just a memory wipe...? So that's why we didn't lose our purchases or the Prestige Tier.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "<color=#ebcaa2>可惜的是，我们没法做一次彻底的重置，把西西弗百货带回到最初的起点……</color>\n <color=#ebcaa2>Unfortunately, we can't do a complete reset, which would bring the Grand Magasin back to its very beginning...</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#ebcaa2>要做到那一步，四位巨人的席位都得坐满才行。</color>\n <color=#ebcaa2>The seats of all four Giants need to be filled for that process.</color>"
+        },
+        {
+          "index": 9,
+          "text": "<color=#ebcaa2>眼下巨人还空着位置……所以我们只能把时间重置到某个特定的节点为止，这也意味着罐头体验的产出速度，已经有一段时间跟不上我们本该有的产能了。</color>\n <color=#ebcaa2>With the present vacancy among the Giants... we've only been able to reset up to a certain point in time, which means that the Canned Experience production rate hasn't been able to match our potential output for a while.</color>"
+        },
+        {
+          "index": 10,
+          "text": "<color=#ebcaa2>哦对了，你们俩不用担心——我已经确保只有你们，还有你们那位发型格外出众的经理才能听见我的声音，毕竟你们是想把这事儿瞒着别人的嘛。我是不是特别贴心？</color>\n <color=#ebcaa2>Oh, and don't you two worry—I made sure that only you and your... Manager with that extraordinary hairdo can hear my voice, since you two are trying to keep this between us. Aren't I so thoughtful?</color>"
+        },
+        {
+          "index": 11,
+          "text": "<……谢谢你了。>\n <... I appreciate that.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "经理向你表示感谢。\n The Manager expresses their appreciation.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 13,
+          "text": "<color=#ebcaa2>呼呼。对你这样一个彬彬有礼的钟表，我倒是有个建议……</color>\n <color=#ebcaa2>Fuhu. I do have a piece of advice for a polite clock like you...</color>"
+        },
+        {
+          "index": 14,
+          "text": "<color=#ebcaa2>我看得出来，你想做出跟上次不一样的选择，不过让我替你省点时间和力气吧：这根本无所谓。</color>\n <color=#ebcaa2>I see that you're trying to make different choices from your last attempt, but let me save you the time and effort: it won't matter.</color>"
+        },
+        {
+          "index": 15,
+          "text": "<color=#ebcaa2>小可爱，你觉得西西弗百货的结局会是什么样子？</color>\n <color=#ebcaa2>What do you think the end of the Grand Magasin will look like, ma puce?</color>"
+        },
+        {
+          "index": 16,
+          "text": "……我不知道。我只是在听从经理的判断行事。\n ... I do not know. I am only following the Manager's judgment.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 17,
+          "text": "<color=#ebcaa2>可我好奇的，正是<i>你</i>自己的判断。</color>\n <color=#ebcaa2>But it's <i>your</i> judgment that I'm curious about.</color>"
+        },
+        {
+          "index": 18,
+          "text": "<color=#ebcaa2>好吧。那我就替你把那藏在牙缝后面的判断放出来吧，反正你嘴巴闭得这么紧，也够烦人的了。</color>\n <color=#ebcaa2>Fine. Then let me free that judgment trapped behind your teeth, since you're being annoyingly tight-lipped about it.</color>"
+        },
+        {
+          "index": 19,
+          "text": "<color=#ebcaa2>“这座西西弗百货，有一个早已注定的结局。”</color>\n <color=#ebcaa2>\"This Grand Magasin has a predetermined end.\"</color>"
+        },
+        {
+          "index": 20,
+          "text": "<color=#ebcaa2>“我们可以一直找下去，一直试下去，一直挣扎下去——可这改变不了它的结局。这也就意味着，我们正在做的一切……我们绞尽脑汁想解决的一切……根本毫无意义。”</color>\n <color=#ebcaa2>\"We can keep searching, keep trying, keep struggling—but it won't change how it ends. Which makes everything we're doing... everything we're racking our brains to solve... simply pointless.\"</color>"
+        },
+        {
+          "index": 21,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 22,
+          "text": "<color=#ebcaa2>嘿，你要不……干脆来场血拼算了？让自己在这世上脱颖而出。拜托，你可是在一家百货商店里啊！</color>\n <color=#ebcaa2>Hey, why don't you... go on a shopping spree instead? Make yourself stand out to the world. Come on, you're in a department store for heaven's sake!</color>"
+        }
+      ]
+    },
+    {
+      "key": "D32052E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<……谢谢她的建议。不过我们还是会继续探索所有可能的选项。>\n <... Thank her for the advice. But we'll continue to explore all of our options.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D32052F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理的判断没有改变，让娜。\n The Manager's judgment remains the same, Jeanne.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我见过太多顾客带着满腔决心，摆出一副要跟这地方的洪流对抗到底的架势走进来……结果没过多久，就乖乖驯服成了这西西弗系统里温顺的小绵羊。</color>\n <color=#ebcaa2>I've seen so many customers come into this place, determined and ready to fight against its currents... only for them to rapidly settle into the Grand Magasin's system like compliant little lambs.</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>好吧，你们就继续忙活那点没什么意义的事吧，我会安安静静地坐在这个角落里，做你们这场冒险的旁观者。反正我当旁观者，也不是一天两天的事了。</color>\n <color=#ebcaa2>Well, while you keep yourselves busy with that silly business, I'll sit nicely in this corner and be a quiet witness to your adventures. I've been one for a long, long time anyway.</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>……我该去给自己冲一杯热气腾腾的咖啡了。我会慢慢等它晾到刚刚好，等我喝完最后一口的时候……</color>\n <color=#ebcaa2>... I should go brew myself a steaming hot cup of coffee. I'll take my time until it cools down nicely, and by the time I take the final sip...</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>你懂我在说什么，对吧，小可爱？</color>\n <color=#ebcaa2>You know what I'm talking about, don't you, ma puce?</color>"
+        },
+        {
+          "index": 5,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D32052G",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一切都还好吗，执行经理？您已经自言自语了好一会儿了。\n Is everything alright, Executive Manager? You've been muttering to yourself for a while.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D32052H",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<啊。我只是陷入了沉思而已，没什么事。>\n <Ah. I've just been lost in thought, that's all.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<好吧，那我们……就照那位红派说的做吧。下一站，改衣室。>\n <Alright, let's, uh... let's do as that Rouge asked. Next stop's the Alteration Shop.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "呵。明智的选择，执行经理。\n Heh. Excellent choice, Executive Manager.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "我看着奥提斯和辛克莱一边为一些无关紧要的琐事争论，一边准备前往改衣室。\n I watch Outis and Sinclair arguing about random trivialities as they prepare to head to the Alteration Shop."
+        },
+        {
+          "index": 4,
+          "text": "他们俩谁都不知道……\n Neither of them knows..."
+        },
+        {
+          "index": 5,
+          "text": "……我们其实已经抵达过一次“终点”，然后又像什么都没发生一样，在一楼重新醒来。\n ... that we'd already reached the \"end\" once and had woken up on the first floor like nothing had happened."
+        }
+      ]
+    },
+    {
+      "key": "D32052I",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<你觉得这次我们能……走到一个不一样的结局吗？>\n <Do you think we'll be able to... reach a different outcome this time?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D32052J",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "是的，我们能够走到一个不一样的结局。然而，正如让娜所说……\n Yes, we will be able to reach a different outcome. However, as Jeanne has said...",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "……这对阻止“清仓”的进程而言，毫无意义。\n ... it will be irrelevant to preventing the Liquidation process.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "<……老实说，我有点迷茫。我手上没有任何线索……更别提找到线索的希望了。>\n <... I'll be honest, I'm feeling a bit lost. I don't have any clues... let alone any hope of finding one.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "……可是……\n ... But...",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "我发现，这并没有让您放慢脚步，经理。\n I see that you haven't let that slow your pace, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": "默尔索打量着我，仿佛在仔细审视一般。\n Meursault regards me as if he's scrutinizing me."
+        },
+        {
+          "index": 7,
+          "text": "那算是个问题吗？还是他表达疑虑的方式？\n Was that supposed to be a question? Or just his way of expressing doubt?"
+        },
+        {
+          "index": 8,
+          "text": "<好吧，这也不是我们第一次陷入绝望的处境了。>\n <Well, this isn't the first time we've landed ourselves in a hopeless situation.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "<我也确信这不会是最后一次。>\n <I'm sure it won't be our last, either.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "<……又或者，我只是选择不相信让娜的话罢了。她说无论我们做什么，结局都不会改变，可是……我们还没试过，不是吗？>\n <... Or maybe I'm just choosing not to believe Jeanne. She said the end won't change no matter what we do, but... we haven't tried it yet, have we?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 11,
+          "text": "是啊。回顾我们这一路的旅程，充斥着的，往往正是这种不合常理的荒谬之事。\n Yeah. More often than not, our journey so far has been full of unreasonable absurdities like these."
+        },
+        {
+          "index": 12,
+          "text": "所以我认定，指望解决之道会有人恭恭敬敬地捧到我们面前，本身就是一种不合理的期待。\n I decided that, therefore, it was unreasonable of me to expect that the solution would be delivered to us on a silver platter."
+        },
+        {
+          "index": 13,
+          "text": "那么……我们究竟<i>能</i>做些什么？\n Then... What <i>can</i> we do?"
+        },
+        {
+          "index": 14,
+          "text": "大概，就只是继续走下去而已吧。\n Just keep on keeping on, I guess."
+        },
+        {
+          "index": 15,
+          "text": "<这次我们试试用不一样的方式来做吧。>\n <Let's try doing things differently this time.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 16,
+          "text": "<我知道我们最后可能只是证明了让娜说得对，说不定跟上次的结果比起来，什么都不会改变。但那座桥，等我们走到跟前再过也不迟。>\n <I know we might just end up proving Jeanne right, and maybe nothing will change from our last attempt. But we can cross that bridge when we get to it.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 17,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 18,
+          "text": "<……我、我是不是太不负责任了？>\n <... A-am I being too irresponsible?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 19,
+          "text": "……若这是您对此事的判断，经理，那我便依令行事。\n ... If that is how you have judged this situation, Manager, then I will do as ordered.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3206",
+      "texts": [
+        {
+          "index": 0,
+          "text": "欢迎回来，肩缝下垂的异乡人们。\n Welcome back, strangers with drooping shoulder seams.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 1,
+          "text": "……不过，你们这次不是来修补东西的，对吧？\n ... But you're not here to have something mended, are you?",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 2,
+          "text": "这个嘛，呃——\n It's, uh—",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "伸手来抚摸丝线的手，和伸手来割断丝线的手，触碰我门把手时发出的声音，是不一样的。\n The hand that comes to caress the string and the hand that comes to sever it make different sounds on contact with my doorknob.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 4,
+          "text": "这一次，你们的来意是……要看我被割断。\n This time, your visit is to... see me severed.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 5,
+          "text": "……你还真是敏锐……没错，正是如此……我们不会否认。\n ... You're quick to notice... Yes, it is... We won't deny it.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "……原来如此，异乡人们选择了站在红派这一边。看来他们已经找到了不止一条救赎之路。\n ... So, the strangers have chosen to stand with the Rouges. It seems they have found themselves more than one salvation.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 7,
+          "text": "不必担心，异乡人们。你们正在做的事，跟改衣的工作，其实没什么两样。当你选定了用来修补衣装的那一半布料，剩下的另一半，便会归入废料堆。\n Not to worry, strangers. There is little difference between what you are doing and alteration work. When you have chosen the part of the fabric to mend the attire with, the remaining half joins the scrap pile.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 8,
+          "text": "不过话说回来，公平起见。要是你们想把我剪掉……最好也做好自己被剪掉的准备。\n But let's be fair. If you would like to cut me away... you'd better have come prepared to be snipped away yourselves.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 9,
+          "text": "我们准备好了。\n We are prepared.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 10,
+          "text": "我能看出你们眼中那份想要<i>咔嚓咔嚓</i>的渴望。\n I can see the desire to go <i>snip-snip!</i> in your eyes.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 11,
+          "text": "我喜欢这种眼神。\n I like that look.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        }
+      ]
+    },
+    {
+      "key": "D3210",
+      "texts": [
+        {
+          "index": 0,
+          "text": "跟上次不一样……这次我或许能让这场会议休会。\n Unlike our last attempt... I may be able to adjourn the meeting.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<是吗？那……就交给你了。>\n <Yeah? Then... it's all yours.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3211",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……会议仍在进行。\n ... Still full of meeting.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 1,
+          "text": "打扰会议，你就会变成两件。\n Disturb the meeting, and you'll become two.",
+          "speaker": "两件套\n Two-piece"
+        }
+      ]
+    },
+    {
+      "key": "D3212",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……你们相当厉害。\n ... You're pretty good.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 1,
+          "text": "这条路，如今已经……锁定了。无论红派此后选择编织出何等存在，都已无法挽回。你们已不可逆转地，把自己变成了黑派的敌人。\n The path is now... locked. Whatever the Rouges choose to weave into existence now, it cannot be undone. You have irrevocably made yourselves enemies of the Noirs.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "剪刀……并非只有剪断这一个用途……有时候……剪刀也是……解开一团缠成死结的丝线的……唯一办法……\n Cutting... is not the sole purpose of scissors... Sometimes... scissors are the only means... to untangle a knotted mess of strings...",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 4,
+          "text": "带上我的剪刀走吧……异乡人们……肩缝下垂的异乡人们……\n Take my scissors with you... strangers... with drooping shoulder seams...",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 5,
+          "text": "你们已经见过这脉动了……我相信……你们会……好好利用它的……\n You have beheld the pulse... I'm sure... you'll make... good use of it...",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 6,
+          "text": "改衣师不再动弹了。\n The Alterationist stirs no longer."
+        },
+        {
+          "index": 7,
+          "text": "<我们拿上她的剪刀，回去找那位红派商贩吧。>\n <Let's take her pair of scissors and return to the Rouge vendor.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "是，经理。\n Yes, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 9,
+          "text": "我们从改衣师的躯干上，扯下了那把剪刀——如今仔细看去，那甚至可能就是她的骨架。\n We ripped the pair of scissors—which might even have been her skeleton, now that I'm getting a better look—off the Alterationist's torso."
+        },
+        {
+          "index": 10,
+          "text": "一旦取走那把剪刀，改衣师身体的其余部分，便如同从衣架上取下的衣物一般，簌簌垮塌了下去。\n Once we removed the pair of scissors, the rest of the Alterationist's body crumbled like an article of clothing removed from its hanging rack."
+        }
+      ]
+    },
+    {
+      "key": "D3213",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这条路走不通。\n Can't go this way."
+        }
+      ]
+    },
+    {
+      "key": "D3214",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3215",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……会议仍在进行。\n ... Still full of meeting.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 1,
+          "text": "打扰会议，你就会变成两件。\n Disturb the meeting, and you'll become two.",
+          "speaker": "两件套\n Two-piece"
+        }
+      ]
+    },
+    {
+      "key": "D3216",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……会议仍在进行。\n ... Still full of meeting.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 1,
+          "text": "打扰会议，你就会变成两件。\n Disturb the meeting, and you'll become two.",
+          "speaker": "两件套\n Two-piece"
+        }
+      ]
+    },
+    {
+      "key": "D3217",
+      "texts": [
+        {
+          "index": 0,
+          "text": "有什么需要改的吗？\n Do you need anything altered?",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 1,
+          "text": "我能打补丁，也能缝补。你想要哪一种？\n I can patch, and I can mend. Which would you like?",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        }
+      ]
+    },
+    {
+      "key": "D3218",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我们走进一间圆形房间，墙边整齐排列着五颜六色的线轴和一卷卷裁好的布料。房间中央站着一道身影，正以精心把控的节奏，双臂上下摆动着缝纫什么东西。\n We emerged into a round room whose walls were lined with multicolored spools of thread and swaths of cut fabric. At the center stood a figure, her arms moving up and down as she stitched something together in a carefully regulated rhythm."
+        },
+        {
+          "index": 1,
+          "text": "呃……你好？\n Um... Hello?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "肩缝垂得有点低……袖口的边也短了一截。这一位，要改的地方可不少。那么，你想改点什么？\n Shoulder seams hanging a touch too low... hems of the arm a span too short. Much work to be done, this one. So, what would you like to have altered?",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 3,
+          "text": "我们想要购置一把剪刀。\n We would like to procure a pair of scissors.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "……什么？剪刀？\n ... What? Scissors?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "……我的剪刀，不是挂在货架上叫卖的工具。你瞧，我可不会随便把我的刀刃，交给什么人。\n ... My scissors are not tools to be hung and sold from the product racks. I do not part with my blades for just anyone, you see.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 6,
+          "text": "它们只留给眼中闪烁着<i>咔嚓咔嚓</i>渴望的顾客。就像黑派那样，我的老主顾们——他们总是来找我，请我为他们织布。\n They're reserved for customers whose eyes twinkle with the desire to go <i>snip-snip</i>. Like the Noirs, my longtime customers—they always visit me to have me weave fabric for them.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 7,
+          "text": "你……跟黑派很熟吗？\n Are you... well-acquainted with the Noirs?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 8,
+          "text": "我已经定期为他们供应布料好一阵子了，所以也可以说，我们算是合作伙伴。\n I've been regularly supplying them with fabric for a while now, so one could say that we are partners.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 9,
+          "text": "黑派最近一直挺忙的——四处散播、打探消息，怀疑那些红色的家伙在打什么坏主意。\n The Noirs have been quite busy as of late—spreading and fishing tales, suspicious that the red ones are up to no good.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 10,
+          "text": "我在你们身上，可看不出那样热切的渴望。不过，我这儿也有其他商品可供购买。\n I simply do not see that same passionate desire in you. I do have other items available for purchase, however.",
+          "speaker": "改衣师安妮特\n Annette the Alterationist"
+        },
+        {
+          "index": 11,
+          "text": "<看来直截了当这一招，在她这儿行不通啊……跟上次不一样。>\n <Looks like getting straight to the point won't work on her... This isn't what happened last time.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "经理，或许……我们可以等下次机会再来购置这把剪刀。\n Perhaps... we could procure the pair of scissors at our next opportunity, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 13,
+          "text": "<看来也没别的选择了。>\n <Don't think we have any other choice.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "话说……我们为什么需要一把剪刀来着？\n So... why did we need a pair of scissors, again?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 15,
+          "text": "剪刀一旦被磨到极致，便是件出色的武器。你现在还不明白吗，执行经理的每一步行动，背后都有着完全合理的解释？\n Scissors, when honed to perfection, make excellent weapons. Haven't you come to understand by now that every action the Executive Manager takes is backed up by perfectly reasonable explanations?",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3222",
+      "texts": [
+        {
+          "index": 0,
+          "text": "执行经理，看来它们唯一的回应，就是没完没了地重复“我们在开会”。\n Executive Manager, it appears that their only response will be to repeat \"we're in a meeting\" ad nauseam.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "……是啊，没必要跟它们搭话。\n ... Yeah, no need to talk to them."
+        }
+      ]
+    },
+    {
+      "key": "D3181",
+      "texts": [
+        {
+          "index": 0,
+          "text": "“声音”……如今已经设～～～定……\n The Voice... has now seeeeettt...",
+          "speaker": "3楼楼层经理\n 3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "然而莫要悲～～～伤……\n Yet do not griiieeeeve...",
+          "speaker": "3楼楼层经理\n 3F Floor Manager"
+        },
+        {
+          "index": 2,
+          "text": "<唔……我不知道能跟这位谈什么条件。>\n <Hmm... I don't know what deal we can offer this one.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "试图与这个存在沟通，恐怕是徒劳的。\n Attempts to communicate with this being may be futile.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3182",
+      "texts": [
+        {
+          "index": 0,
+          "text": "完～～～成……你被完成得越多……\n Doooonnnn... The more you are Doooonnneed...",
+          "speaker": "3楼楼层经理\n 3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "<跟他们应该没什么好谈的……>\n <Don't think we have any business with them...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3921",
+      "texts": [
+        {
+          "index": 0,
+          "text": "楼层经理不再言语了。\n The Floor Manager speaks no more."
+        }
+      ]
+    },
+    {
+      "key": "D3922",
+      "texts": [
+        {
+          "index": 0,
+          "text": "莫～～～要……悲伤～～～！！\n Doooooo nooooot...! Griiiiieeeeve...!!!",
+          "speaker": "3楼楼层经理\n 3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "一个新～～～生的声音，将会……\n A neonate vooooooooice shaaaaallllll...",
+          "speaker": "3楼楼层经理\n 3F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D3002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "啊……看来这层楼是你和我一组啊，奥提斯。\n Ah... Looks like it's you and me for this floor, Outis.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "感觉有点奇怪，不是吗？每层楼都要跟不同的人搭档。\n Feels a bit strange, doesn't it? Having to go around with a different group on every floor.",
+          "speaker": "辛克莱\n Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D3110",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不过，这层楼能跟你搭档，我还挺开心的。最近我们合作起来，好像顺手多了，所以……\n Still, I'm glad to be partnered up with you for this floor. It's been easier for us to work together lately, so...",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "什么？不，我跟谁都没有什么“顺手”可言，尤其是你们这些罪人。荒唐。\n What? No, I'm not \"easy\" with anyone, least of all you Sinners. Ridiculous.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "好、好吧……\n Riiight...",
+          "speaker": "辛克莱\n Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D3115",
+      "texts": [
+        {
+          "index": 0,
+          "text": "喂。我有事要问你。\n Hey. I need to ask you something.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "奥提斯向默尔索投去疑惑的目光——按理说，眼前的一切对他来说，应该像对新生儿看待这个世界一样陌生，可他却显得毫不动摇。\n Outis fixed a quizzical look toward Meursault, who looked completely unfazed by everything that should be, for all intents and purposes, as unfamiliar as the world is to a newborn."
+        },
+        {
+          "index": 2,
+          "text": "不，我以前没来过这里。是西西弗百货里一位担任管理职务的人，告诉我这个地方的。\n No, I have not been in here before. I was told about this place by someone in a managerial position within the Grand Magasin Sisyphe.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "你以前来过——什么？\n Have you b— What?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 4,
+          "text": "默尔索简洁的回答，几乎与奥提斯开口提问同时脱口而出，却已经回答了她正要问的一切。\n Meursault's succinct reply came almost simultaneously as Outis had begun her query, but it answered everything she was about to ask."
+        },
+        {
+          "index": 5,
+          "text": "被默尔索回答的速度打了个措手不及，她愣了一下，结结巴巴了片刻，才清了清嗓子，继续问出下一个问题。\n Whiplashed by the speed with which Meursault answered, she stumbled over her words for a moment before clearing her throat and continuing with her next question."
+        },
+        {
+          "index": 6,
+          "text": "你和那个人之间，是什么样的关系？\n What was the nature of your relationship with that individual?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "……恋人关系。曾经是。\n ... The romantic kind. Once.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<color=#ebcaa2>那种……相当火热的关系哦。</color>\n <color=#ebcaa2>The kind that gets... pretty steamy.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D3112",
+      "texts": [
+        {
+          "index": 0,
+          "text": "谁在说话？\n Who said that?",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3114",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>噗……记性还是这么好啊？</color>\n <color=#ebcaa2>Pfft... Still got that excellent memory, huh?</color>"
+        },
+        {
+          "index": 1,
+          "text": "那道声音传来得十分清晰，却带着一丝哀伤。\n The voice came through with clarity, but it carried a note of sadness."
+        },
+        {
+          "index": 2,
+          "text": "而……我早已对说话之人的名字，熟悉到不能再熟悉了。\n And... I'd come to be intimately acquainted with the name of the speaker."
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>啊，又来了。该自我介绍一下了。</color>\n <color=#ebcaa2>Ah, here we go again. Time to introduce myself.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#ebcaa2>我的名字是……让娜。这一次，我也大发慈悲，把这个名字分享给了你们，那便是我这个“声音”的名字。</color>\n <color=#ebcaa2>My name is... Jeanne. That's the name of the Voice I've so graciously chosen to share with you this time as well.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D3301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "咦，看起来它们把路给堵住了。\n Huh, looks like they're blocking the way through.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "<……跟那些东西说话大概也没什么用，不过……>\n <... Talking to those things'll probably achieve nothing, but...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "打扰一下，能不能让我们进去你们身后的那家店？\n Excuse me, would you let us into the store behind you?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "…!",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 4,
+          "text": "会议！好多会议！\n Meeting! So much meeting!",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 5,
+          "text": "所以不能进。没有别的空间了。\n So no entry. No room for anything else.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 6,
+          "text": "会议是什么味道？\n What's the taste of meeting?",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 7,
+          "text": "咸，好咸。咸得像眼泪。咸得没人咽得下去。\n Salty, so salty. Salty like tears. Too salty for anyone to swallow.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 8,
+          "text": "会议不会结束。吞下会议才能结束争论。但咽不下去。\n Meeting won't end. Swallow meeting to end debate. But can't swallow.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 9,
+          "text": "……那么，这场会议到底在讨论什么？\n ... So, what's this meeting about?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 10,
+          "text": "议题一：谁是面料，谁是里衬？\n Agenda 1: Who is the outer fabric, and who is the lining?",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 11,
+          "text": "议题二：谁是右手，谁是左手？\n Agenda 2: Who is the right hand, and who is the left hand?",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 12,
+          "text": "嗯，嗯。好议题。都写进会议记录。\n Mmm, mmm. Good agendas. Let's write them both in the minutes.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 13,
+          "text": "靠近它们可能会有危险……我们要不要过会儿再回来？\n Approaching them might be dangerous... Should we come back here later?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 14,
+          "text": "<看来也没别的选择了。>\n <Don't think we have any other choice.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3302",
+      "texts": [
+        {
+          "index": 0,
+          "text": "咦？它们刚才不是在走廊那头吗？\n Huh? Weren't they further down the other side of the corridor earlier?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "<是啊。它们什么时候到这儿来的？>\n <Yeah. When'd they get here?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "爬过来的。悄悄爬。\n Crawled here. Creepy-creep.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 3,
+          "text": "会议结束了。\n Meeting's over.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 4,
+          "text": "议题：温暖的香气。生命的香气。是谁的？\n Agenda: Warm aroma. Aroma of life. Whose is it?",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 5,
+          "text": "所以我们悄悄爬。慢慢逼近。悄悄爬。缩小距离。\n So we creepy-creep. Encroaching. Creepy-creep. Narrowing the gap.",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 6,
+          "text": "<喂，默尔索……我觉得它们可能是……>\n <Hey, Meursault... I think they might be...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "<……盯上你带着的那块肉了。>\n <... after that piece of flesh you're carrying.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "这似乎是最有可能的解释。\n That appears to be the likely explanation.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 9,
+          "text": "啧……执行经理，我们得绕过那个怪物才能到对面去了。\n Tsk... We're going to have to circumnavigate that monster to reach the other side, Executive Manager.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 10,
+          "text": "<红派那家店南边有条路。或许可以走那条路到对面去。>\n <There's a way south of the Rouge shop. Maybe we can take that route to the other side.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3303",
+      "texts": [
+        {
+          "index": 0,
+          "text": "咦？这么快就搞定了。\n Huh? That didn't take very long.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 1,
+          "text": "一如既往地高效啊，执行经理——嗯？\n As expedient as always, Executive Manager—hm?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "……你身后那是什么东西？\n ... What is that thing behind you?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "<……红派们一直在说的那个新“声音”的……真身。大概是吧。>\n <The... true form of the new \"Voice\" the Rouges have been talking about. I think.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "<有个红派拜托我们照顾他，所以……我们就决定让这孩子跟着我们一阵子。>\n <One of the Rouges asked us to look after them, so... we decided to let the kid tag along for a while.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "原来如此……那他为什么离我们站得这么远？\n I see... So why are they standing so far away from us?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 6,
+          "text": "这孩子看起来对我们的存在心存戒备。\n The child appears to be apprehensive of our presence.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "唔……眼下看起来不会对我们构成什么威胁……\n Hmm... Doesn't appear to pose us any threats at the moment...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 8,
+          "text": "……不过您也不会想让意图不明的存在跟在身后吧，执行经理——恳请您保持警惕。跟您那忠心耿耿、值得信赖的奥提斯不同，这种未知因素，永远潜藏着背刺的威胁。\n ... but you don't want to have entities of dubitable intent following from behind, Executive Manager—I implore you to remain vigilant. Unlike your ever-so-faithful and trustworthy Outis, there is always a threat of backstabbing from such unknown factors.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 9,
+          "text": "<是、是啊……>\n <Y-yeah...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "<总之，既然我们是要带这孩子去见那位红派商贩，那就去她的店吧。>\n <Anyway, since we're here to show the kid to the Rouge vendor, let's head to her shop.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3305",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…!",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 1,
+          "text": "…?",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "啊……啊啊……你们把他带来给我了……我真是蒙受了莫大的恩宠……\n Ah... Ahh... You have brought them to me... I am truly blessed...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 3,
+          "text": "哦，亲爱的“声音”啊，愿您的降临受人敬仰……我早已备下一份薄礼，恭候您承诺已久的降临……\n Oh, dearest Voice, revered be your presence... I have prepared a humble gift in anticipation of your promised advent...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 4,
+          "text": "请……请收下这个。\n Please... Please take this.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 5,
+          "text": "呜……？\n Uu...?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D3306",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那位商贩取出了一条红手帕——显然是她自己制作的——小心翼翼地放到了那孩子的手上。\n The vendor produced a red handkerchief—clearly of her make—and carefully placed it on the child's hands."
+        },
+        {
+          "index": 1,
+          "text": "她带着明显的敬畏后退了几步，看到孩子握着自己的作品，开始像一枚即将引爆的炸弹一样颤抖起来。\n She withdrew with visible reverence, and seeing the child hold her creation, began to tremble like she was a bomb about to go off."
+        }
+      ]
+    },
+    {
+      "key": "D3307",
+      "texts": [
+        {
+          "index": 0,
+          "text": "啊啊啊……他接受了！他接受了我的作品……！\n Aaaaah... They accepted it! They accepted my creation...!",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 1,
+          "text": "再没有什么，能比这更让我幸福了……哦，我的天……我已再无所求……收下我吧，我是您的了……！\n Nothing could ever make me happier than this... Oh, my God... I have no more needs... Take me, I am yours...!",
+          "speaker": "不可动摇者\n L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "D3304",
+      "texts": [
+        {
+          "index": 0,
+          "text": "怎么回——……！找掩护，执行经理！\n What's happ— ...! Take cover, Executive Manager!",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "啊啊啊啊！？她、她炸了！\n Aaaahhhh!? S-she exploded!",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "呜……？\n Uu...?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D3308",
+      "texts": [
+        {
+          "index": 0,
+          "text": "您没事吧？那些污秽有没有——\n Are you unhurt? Has any of that filth—",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "<我……我没事。>\n <I'm— I'm fine.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "唔……呜……\n Nnh... Uu...",
+          "speaker": "???"
+        },
+        {
+          "index": 3,
+          "text": "<……没想到会<i>这样</i>。>\n <... Didn't see <i>that</i> coming.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "……看来您之前没遇到过这种事。\n ... So you haven't experienced this before.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 5,
+          "text": "我抬头一看，那孩子已经躲到了他认为对我们来说足够安全的距离之外……不知为何，这让我的心里隐隐作痛。\n When I looked up, the child had already scurried off to a distance it seemed to have determined safe from us... Something about that made my heart ache a little."
+        },
+        {
+          "index": 6,
+          "text": "<不知道红派的脊髓这次会不会又派上用场？>\n <I wonder if the Rouge's spinal cord will be important again?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "这尚不能确定。不过，建议我们把任何可能有用的物品都随身携带。\n That cannot be said for certain. However, it is recommended that we bring with us any object that may potentially be useful.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "<……好，那就带上它，直接上楼吧。>\n <... Yeah, let's take that with us and head right upstairs.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "明白了。\n Understood.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D3923",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具黑派的尸体。即便是他引以为傲的布料，也没能救他一命。\n The corpse of a Noir. Even the fabric they took such pride in couldn't save them from this fate."
+        }
+      ]
+    },
+    {
+      "key": "D3861",
+      "texts": [
+        {
+          "index": 0,
+          "text": "【坠落的微分 第一辑：“辛西娅”\n这件装置作品，描绘了西西弗百货中第一个坠落的人台——辛西娅——坠落的过程。这是该系列中唯一一件大型装置，也是整个系列中，唯一一件以细致入微的手法，描绘出她坠落瞬间精确姿态的作品，因而在系列中独树一帜。】\n [Differential of Falling Series 1: \"Cynthia\"\nThis installation depicts the fall of Cynthia, the first Mannequin to fall in the Grand Magasin. The only large-scale installation in the series, it sets itself apart from the rest of the series by being the only piece to depict the precise moment her fall began in painstaking detail.]"
+        }
+      ]
+    },
+    {
+      "key": "D3220",
+      "texts": [
+        {
+          "index": 0,
+          "text": "莫～～～要悲～～～伤……莫～～～要悲～～～伤……\n Dooooo noooot griiiieeeeve... Dooooo noooot griiiieeeeve...",
+          "speaker": "3楼楼层经理\n 3F Floor Manager"
+        },
+        {
+          "index": 1,
+          "text": "一旦设定的声音……便如坠落的太阳……永不复返……\n A voice once set... like the fallen sun... will never return...",
+          "speaker": "3楼楼层经理\n 3F Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "D3862",
+      "texts": [
+        {
+          "index": 0,
+          "text": "当太多东西纠缠在一起时，唯一的办法便是将其斩断。\n When too much has become tangled together, the only choice is to sever them."
+        }
+      ]
+    },
+    {
+      "key": "D3203B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "就在默尔索把那堆宛如小山的眼球，一股脑舀进我们的袋子时，那位一直朝着虚空静静点头的商贩，转过身来望向了我们。\n As Meursault scooped the veritable hillock of eyeballs into our sack, the vendor, who had been quietly nodding away into the ether, turned toward us."
+        }
+      ]
+    },
+    {
+      "key": "D3203C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "啊……当然。悉听尊便。\n Ah... of course. Anything you say.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 1,
+          "text": "“声音”正在召唤你们……他们正把异乡人们召往奢侈品馆。那个承诺已久的苏醒之刻，已然临近……\n The Voice summons you... They are summoning the strangers there to the Luxury Hall. The promised hour of awakening is nigh...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 2,
+          "text": "我们连你说的那个“声音”都听不见。它有没有说过，找我们想要做什么？\n We can't even hear that \"Voice\" of yours. Did they say anything about what they want with us?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "是啊，这也挺奇怪的。不该是召唤其他红派，而不是我们吗？\n Yeah, that's kinda weird. Shouldn't they be summoning the rest of the Rouges, not us?",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "我们受西西弗百货的规则所束缚。唯有在特殊场合，我们才被允许自由地往来于各层楼之间。唯有真正的异乡人——那受“泉”所欢迎的存在——才能自由地上楼与下楼。\n We are bound by the rules of the Grand Magasin. Only on special occasions are we permitted to freely traverse between its floors. Only true strangers, whose presence the Fount welcomes, are free to rise and descend.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 5,
+          "text": "你们身上，带着我们珍爱之人的碎片。一旦你们凑齐最后一块，他便会苏醒。\n You carry the shard of our cherished one within you. Once you assemble the final piece, they will awaken.",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 6,
+          "text": "啊啊……这正是我牺牲双眼……甘愿被钉在地上的缘由……一切，都是为了这一天……\n Ahh... This is what I sacrificed my eyes for... and let myself be nailed to the ground... All in service of this day...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 7,
+          "text": "能以永世被钉之身，向那承诺已久的异乡人们传达“声音”之意志，是何等的恩宠……啊，多么欢喜的一天啊……多么欢喜的一天啊……\n Blessed with an eternity of nailed existence to convey the Voice's will to the promised strangers... Ah, what a joyous day... What a joyous day...",
+          "speaker": "不可动摇者\n L'Inamovible"
+        },
+        {
+          "index": 8,
+          "text": "假设我们照这个“声音”说的做。这个“奢侈品馆”，我们该去哪儿找？\n Suppose we are to do as this \"Voice\" asks. Where would we find this \"Luxury Hall\"?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 9,
+          "text": "<我知道在哪儿。我们之前在二楼路过它的入口。>\n <I know where it is. We stopped by the entrance on the second floor earlier.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "那“声音”的真身，肯定就在那儿等着我们了。\n Then the true form of the Voice must be waiting for us there.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 11,
+          "text": "<那里有个……红派一直在照料的茧。>\n <There was a... cocoon the Rouges were caring for.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "我们用一根钉子把它撕开，杀死了从里面爬出来的东西。\n We ripped it open with a nail and killed the thing that crawled out of it.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 13,
+          "text": "<是啊。然后……黑派接管了西西弗百货……触发了“清仓”进程。也就是说……>\n <Yeah. Then... the Noirs took over the Grand Magasin... triggering the Liquidation process. Which means...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "我们亲眼目睹的西西弗百货之终局，是彻底的“停滞”。\n The end of the Grand Magasin we witnessed was ultimate \"stagnation.\""
+        },
+        {
+          "index": 15,
+          "text": "这家百货商店内的所有生命，都被统合成了一个单一的目的：成为维系其存续的支柱……\n All lives within the department store were consolidated into a single purpose: to become pillars to perpetuate its existence..."
+        },
+        {
+          "index": 16,
+          "text": "永恒在西西弗百货内流逝而过，其间毫无任何变化——就连购物也不例外。\n Eternity passed within the Grand Magasin, devoid of any change—even shopping."
+        },
+        {
+          "index": 17,
+          "text": "而随着永恒的来去，万物都被整合了起来，与西西弗百货的墙壁浑然一体，再无隔阂。\n And as eternity came and went, everything became integrated, seamlessly assimilated with the walls of the Grand Magasin."
+        },
+        {
+          "index": 18,
+          "text": "到最后，就连最微弱的一丝波动，也不复存在。一切都被熔铸成了同一个整体，融入了彼此之中……我们也不例外。\n In the end, not even the smallest stir survived. All was melded into everything and everyone... including us."
+        },
+        {
+          "index": 19,
+          "text": "要是我当初没有撕开那个茧，把那东西扯出来就好了……\n If only I hadn't ripped open and torn that thing out of the cocoon..."
+        },
+        {
+          "index": 20,
+          "text": "<我们下楼吧，默尔索。>\n <Let's descend, Meursault.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 21,
+          "text": "您打算与红派结盟，作为攀登西西弗百货的手段。\n You intend to ally with the Rouges as a means of climbing the Grand Magasin.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 22,
+          "text": "<是啊。原因有点难以解释，不过……我有种预感，这次我必须这么做。>\n <Yeah. It's kinda hard to explain why, but... I have a feeling that that's what I must do this time.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 23,
+          "text": "那种难以言喻的直觉，正是一名指挥官不可或缺的品质。缺乏这种品质的人……哪怕其他能力再出色，也无法在那场战争中长久存活。\n That inexplicable sort of intuition is an indispensable quality in a commander. Those without it... did not survive the War for long, no matter how excellent their other abilities were.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 24,
+          "text": "看来我们该在这儿分头了。大家辛苦了。\n Looks like this is where we get off. Good work, everyone.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 25,
+          "text": "……据我的经验，执行经理，认清命运之手的存在，并不意味着就能挣脱它的掌控。\n ... In my experience, recognizing the hand of fate doesn't necessarily mean that one can break free from its grip, Executive Manager.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 26,
+          "text": "<奥提斯……>\n <Outis...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 27,
+          "text": "啊。抱歉，我说得过头了。我见过、听过太多类似性质的故事，以至于……眼下的处境，大概让我陷入了沉思的情绪。\n Ah. Apologies, I overstepped. I'd witnessed and heard far too many tales of a similar nature that... the present circumstance must've put me in a contemplative mood.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 28,
+          "text": "啧。我倒更愿意时时刻刻侍奉在您身边，执行经理……可惜这次我做不到了，实在遗憾。\n Tsk. I would much rather serve you by your side at all times, Executive Manager... It is regrettable that I won't be able to.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D3860",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一个【成衣】展示架。\n A [Prêt-à-porter] display rack."
+        }
+      ]
+    },
+    {
+      "key": "D3863",
+      "texts": [
+        {
+          "index": 0,
+          "text": "奥提斯曾告诉过我，这是一台通讯总机。\n Outis once told me that it's a communication switchboard."
+        }
+      ]
+    },
+    {
+      "key": "D3864",
+      "texts": [
+        {
+          "index": 0,
+          "text": "上面写着【折纸系列……92号，共5件中的第2件。某人的坠落，被升华凝结进了叠加的时间之中。】\n It says [Origami CollectioN° 92, 2 of 5. Someone's fall sublimated into superpositioned time.]"
+        }
+      ]
+    },
+    {
+      "key": "D3865",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你他妈看什么看！滚一边去，蠢货！\n The fuck're you lookin' at! Get lost, fuckwit!",
+          "speaker": "人皮沙发\n Skinhide Couch"
+        },
+        {
+          "index": 1,
+          "text": "<……原来如此。这张沙发是从家具馆来的。>\n <... I see. This couch came from the Furniture Hall.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<至少这个房间采光不错。>\n <At least this room is well-lit.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3987",
+      "texts": [
+        {
+          "index": 0,
+          "text": "会议仍在进行中！\n Meeting still underway!",
+          "speaker": "两件套\n Two-piece"
+        },
+        {
+          "index": 1,
+          "text": "他们说了，会议必须继续下去！\n The meeting must go on, they said!",
+          "speaker": "两件套\n Two-piece"
+        }
+      ]
+    },
+    {
+      "key": "D3990",
+      "texts": [
+        {
+          "index": 0,
+          "text": "喔……“声音”啊……！救救我……您终于大发慈悲降临于我，难道我此刻就必须承受死亡的苦痛吗？！\n Ooh... Voice...! Help me... Must I suffer death now, when you have finally come to grace me?!",
+          "speaker": "不可动摇者\n L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "DDS301",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<该死，还以为躲过去了。>\n <Damn, thought we dodged that.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "那个敌人在好几方面都棘手……速度是一方面，可它还有种诡异的能力，能在最后一刻转向，追上默尔索的闪避轨迹。\n That enemy presents difficulties on multiple fronts... Its speed is one thing, but it has the uncanny ability to swerve at the last minute to follow Meursault's attempt to evade.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "我建议利用周围的环境障碍物，或采取更难以预测的闪避方式。\n I recommend using the environmental obstacles or employing more unpredictable evasive maneuvers.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "<……好。我们再试一次。>\n <... Of course. Let's try this again.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "DDS302",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<摸不准它什么时候会爆炸……>\n <Can't get a good grasp on when it'll explode...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "只要它一开始颤抖，我们就得立刻撤离。\n We'll have to move away as soon as it begins to tremble.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "下次尽量保持更高的警觉。\n Try to stay more alert next time.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "遵命。\n It will be done.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DDS303",
+      "texts": [
+        {
+          "index": 0,
+          "text": "以它的体型来说，速度相当快啊。\n It is quite fast for its size.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "默尔索该怎么躲开它的冲撞呢……？也许有办法能精准卡时机格挡，可我觉得那不容易。\n How should Meursault dodge its charge...? Maybe there's a way to perfectly time a block, but I don't think that'll be easy.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "虽然看起来似乎没有空间能好好躲开它的冲撞，不过房间两端有些小凹槽——说不定可以藏到那里？\n While it may seem as though there is no room to properly evade its charge, there were small indents at both ends of the room—perhaps you could hide there?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "<哦，对哦。我觉得它应该够不到那么远。>\n <Oh, right. I don't think it can reach that far.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "至于剩下的战术……更沉稳一点的打法会更有效，执行经理。慢慢应付移动装置的攻势，一点点耗尽主要敌人的耐力。\n As for the rest of the battle strategy... A more deliberate approach will be effective, Executive Manager. Take your time fending off the onslaught of Mobiles and slowly wear down the primary foe.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 5,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": "……啧。我知道这是你的“回合”，但这肯定还是相当吃力的。\n ... Tsk. I know it's your \"turn,\" but this must still be incredibly taxing.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "等我们回去，我一定会把打扫的活儿，分给那些成天在休息室里偷懒的家伙。\n Once we return, I'll be sure to assign the cleaning duties to the ones lounging around in the restroom.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 8,
+          "text": "所以……再撑一会儿。\n So... hold on just a little longer.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 9,
+          "text": "明白。\n I will.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DDS304",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……那玩意儿在接触的一瞬间，就把他撕成了两半。\n ... That thing ripped him in half the moment they came into contact.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "执行经理，我们大概得等到他们的“会议”休会才行。\n We may have to wait until their \"meeting\" is adjourned, Executive Manager.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "老实说，那些议题听起来也没那么重要……\n Honestly, those agendas didn't really seem all that important...",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "<不管怎样，在我们找到绕过去的办法之前，先离那玩意儿远点吧。>\n <Either way, let's steer clear of that thing until we find a way around it.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "SO303908_C1",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<啊，找到了。“第二辑”。>\n <Ah, here it is. \"Series 2.\">",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "经理，我仔细查看了装置下方的地面，没有发现任何东西。\n A close observation the floor beneath the installation has revealed nothing, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "唔……我猜这些“人台”，其实也都曾是人吧。\n Nngh... I assume all these \"Mannequins\" are just people, too.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "辛克莱面带明显的不适，仔细打量着这件“艺术品”……随后，仿佛认出了什么，朝它抬起了一根手指。\n Sinclair scrutinized the \"artwork\" with discomfort clear in his face... then, as if he'd recognized something, raised a finger toward it."
+        },
+        {
+          "index": 4,
+          "text": "咦？你们看见那边那个了吗？看起来像枚戒指。\n Huh? Do you see that over there? It looks like a ring.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "一枚单圈的戒指……那想必曾属于一位环指学徒。\n A single-coiled ring... It must've belonged to a Student of the Ring.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "<啊……不过位置太高了，我们够不着。>\n <Ah... it's too high for us to reach, though.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "<我们继续找找看吧。>\n <Let's keep looking.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "几只鸟静静躺在一根长长的、喇叭状的管子底下。\n Several birds lie beneath a long, trumpet-shaped tube."
+        }
+      ]
+    },
+    {
+      "key": "D3501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<啊，找到了。“第二辑”。>\n <Ah, here it is. \"Series 2.\">",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "经理，我仔细查看了装置下方的地面，没有发现任何东西。\n A close observation the floor beneath the installation has revealed nothing, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "唔……我猜这些“人台”，其实也都曾是人吧。\n Nngh... I assume all these \"Mannequins\" are just people, too.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "辛克莱面带明显的不适，仔细打量着这件“艺术品”……随后，仿佛认出了什么，朝它抬起了一根手指。\n Sinclair scrutinized the \"artwork\" with discomfort clear in his face... then, as if he'd recognized something, raised a finger toward it."
+        },
+        {
+          "index": 4,
+          "text": "咦？你们看见那边那个了吗？看起来像枚戒指。\n Huh? Do you see that over there? It looks like a ring.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "一枚单圈的戒指……那想必曾属于一位环指学徒。\n A single-coiled ring... It must've belonged to a Student of the Ring.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 6,
+          "text": "<啊……不过位置太高了，我们够不着。>\n <Ah... it's too high for us to reach, though.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "<我们继续找找看吧。>\n <Let's keep looking.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D3502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "【坠落的微分 第三辑：“斯托克曼”\n这件装置作品，灵感来源于一具人台坠落穿越西西弗百货的过程。其意象唤起的，正是时间坠落般延续不断的连续性。\n相较于第一辑的装置，此件雕塑的尺寸更为小巧。】\n [Differential of Falling Series 3: \"Stockmann\"\nThis installation was inspired by a Mannequin's fall through the Grand Magasin. The imagery evokes the falling continuity of time.\nSculpted in a smaller size relative to the Series 1 installation.]"
+        },
+        {
+          "index": 1,
+          "text": "<我猜这是这个系列的最后一件了……>\n <This is the last one in the series, I think...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "啊……！这块皮革上，写着些东西。\n Ah...! There's something written on the leather here.",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 3,
+          "text": "【……用人体来制造廉价的震撼效果，这种艺术手法，在如今的时代思潮里早已过时。】\n [... Artworks made from human corpus for cheap shock value are now long outmoded in the current zeitgeist.]"
+        },
+        {
+          "index": 4,
+          "text": "【可是……这家百货商店似乎还没收到这个消息。】\n [But... this department store doesn't seem to have gotten the news.]"
+        },
+        {
+          "index": 5,
+          "text": "【我的素材快用光了。灵感也快枯竭了。这里没有一个人真正懂得欣赏我的艺术——他们满脑子只有衣服，除此之外别无他物。所以……】\n [I'm running out of material. Running out of inspiration. No one here really appreciates my art—they're all obsessed with clothes and nothing more. Then...]"
+        },
+        {
+          "index": 6,
+          "text": "【……可这些东西卖得挺好。红派似乎多少还挺看重这些……说是艺术品都有点勉强的东西，外面的世界大概只会当它们是批量生产的垃圾……】\n [... But these sell well. Le Rouge seems to somewhat value these... sorry excuse for artwork that the world outside regards as nothing more than mass-produced garbage...]"
+        },
+        {
+          "index": 7,
+          "text": "【要是它们在他们眼里值点什么，我就能卖掉这些，赚点钱——眼球。然后我就能买更好的衣服，然后我就能……】\n [If they're worth something to them, I can sell these, make money—eyeballs. Then I'll buy better clothes, then I'll—]"
+        },
+        {
+          "index": 8,
+          "text": "<还有更多这样的装置作品，不过那些都没有附上标题。>\n <There are more installations like this one, but those didn't have any titles attached to them.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "也许是他们太过羞于在这些作品上署名，但更有可能的解释，其实很简单……\n Perhaps they were too ashamed to attach their name to these artworks, but the more likely explanation is simply that...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 10,
+          "text": "……他们已经忘了自己当初想创作的是什么样的艺术品，甚至忘了那本该是艺术品这件事本身。\n ... they've forgotten what artwork they were trying to create, or the fact that it was artwork at all.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 11,
+          "text": "<……他们已经变成了顾客。>\n <... They've become a customer.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    }
+  ]
+}

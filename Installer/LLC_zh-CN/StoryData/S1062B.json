@@ -1,0 +1,45 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "西西弗塔，巨人之室\n Sisyphe Tower, A Giant's Room",
+      "model": "잔느",
+      "content": "他们全都安于懒散了。<i>钉住了。</i>\n They're all settled into indolence. <i>Nailed.</i>"
+    },
+    {
+      "id": 1,
+      "model": "잔느",
+      "content": "简直就像……家具一样。死气沉沉、毫无生气的东西，永远永远地等待着有人来使用它们、装饰它们……就像家具一样。\n Almost like... furnishings. Dead, inanimate things, waiting forever and ever for someone to come along and use them, adorn them... like furnishings."
+    },
+    {
+      "id": 2,
+      "content": "让娜话音刚落，那些瘫倒在地、懒散地放弃了一切的人们，形体便在她眼前开始扭曲变形。\n As the words left Jeanne's lips, the shape and form of the people who were slumped on the ground in lethargic surrender began warping before her eyes."
+    },
+    {
+      "id": 3,
+      "content": "他们还没有像这里的家具那样彻底变成非人的形态，但……我认得出他们正在变成的那些家具。有些正变成台灯……有些正变成床架……\n They hadn't yet morphed into inhuman forms as completely as the Furnishings here, but... I recognized the pieces of furniture they were transforming into. Some were turning into lamps... some into bedframes..."
+    },
+    {
+      "id": 4,
+      "content": "不，变化的并不是他们的\"外形\"。\n No, it wasn't their \"forms\" that were changing."
+    },
+    {
+      "id": 5,
+      "content": "或许，在让娜眼中，从他们放弃挣扎、沉溺懒散的那一刻起，他们看起来便已是那副模样了。\n Perhaps, in Jeanne's eyes, they had looked that way from the very instant they resigned themselves to idleness."
+    },
+    {
+      "id": 6,
+      "content": "如此令人难以忍受地陌生，如此几乎不成人形。\n So unbearably unfamiliar, so scarcely human."
+    },
+    {
+      "id": 7,
+      "model": "잔느",
+      "content": "你今天一通电话都没给我打呀。看来是很忙呢，亲爱的。\n You haven't given me a single call today. Must be having a busy day, ma puce."
+    },
+    {
+      "id": 8,
+      "model": "잔느",
+      "content": "……去看看一楼现在怎么样了吧。时间也过去不少了，季节流行趋势应该也变了……\n ... Let's see how the first floor is doing. Enough time has passed for the season's trends to have shifted..."
+    }
+  ]
+}

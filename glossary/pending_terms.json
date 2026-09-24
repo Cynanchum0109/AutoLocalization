@@ -1,0 +1,8 @@
+{
+ "_note": "2026-09-20 官方汉化更新后大部分已定名并写入 glossary.json #275 起；本文件只剩未定项。",
+ "unresolved": {
+  "Prestige Tier / Prestige Rank": "官方无固定词：评级 / 客人的等级 / 身份符合。我们暂定「评级」",
+  "Ionesco / Dorothea / Cosette": "官方 diff 里未出现（可能在未更新文件里），沿用 尤内斯库/多萝西娅/珂赛特",
+  "Fresh Meat Section": "官方译「新鲜精肉苏打」（疑误译），我们保留「鲜肉区」"
+ }
+}

@@ -1,0 +1,110 @@
+{
+  "dataList": [
+    {
+      "key": "Q1000",
+      "title": "오프닝",
+      "description": "로딩 직후 오프닝 연출(S1001B) 재생용 숨김 퀘스트",
+      "steps": [
+        {
+          "index": 0
+        }
+      ]
+    },
+    {
+      "key": "Q1001",
+      "title": "퀘스트1 - 시작",
+      "description": "返回洗手间\n Return to the Restroom"
+    },
+    {
+      "key": "Q1011",
+      "title": "探索百货商场\n Explore the Department Store",
+      "description": "有些不对劲。我们回到了洗手间，但所有人都像是什么也不记得，默尔索也不见踪影。这一切不可能只是一场梦。去百货商场里看看吧。\n Something's off. We're back in the restroom, but everyone is acting like they don't remember a thing, and Meursault is nowhere to be seen. This couldn't all have been a dream. Let's look around the department store.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "探索百货商场\n Explore the Department Store"
+        }
+      ]
+    },
+    {
+      "key": "Q1013",
+      "title": "前往快销服饰馆\n Head to the Casualwear Hall",
+      "description": "至少看来，那一切并不全是梦。现在先继续前进，专心寻找默尔索。他可能还在上次那家店里。\n At least it doesn't seem like it was all a dream. For now, let's keep moving and focus on finding Meursault. He may be back at the same store as last time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往快销服饰馆\n Head to the Casualwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q1021",
+      "title": "寻找默尔索\n Find Meursault",
+      "description": "默尔索应该就在附近。找到他，和他谈谈。\n Meursault should be somewhere nearby. Find him and talk to him.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与默尔索交谈\n Talk to Meursault"
+        }
+      ]
+    },
+    {
+      "key": "Q1022",
+      "title": "把人台送到出口\n Show the Mannequins to the Exit",
+      "description": "想带默尔索一起走，就得先帮含羞草一个忙。尽快解决这些人台，然后离开这里吧。\n If we want to take Meursault with us, we'll have to do Mimosa a favor first. Let's make quick work of the Mannequins and get out of here.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "去寻找人台\n Go Find the Mannequins"
+        }
+      ]
+    },
+    {
+      "key": "Q1023",
+      "title": "把人台送到出口（2）\n Show the Mannequins to the Exit (2)",
+      "description": "没必要再把这场谈话拖下去了。清理掉人台，继续前进吧。\n There's no need to drag this conversation out any longer. Let's clear out the Mannequins and move on.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "帮助人台“前往出口”\n Help the Mannequins \"to the Exit\""
+        },
+        {
+          "index": 1,
+          "goalDescription1": "返回含羞草处\n Return to Mimosa"
+        }
+      ]
+    },
+    {
+      "key": "Q1031",
+      "title": "离开1层\n Leave 1F",
+      "description": "情况已经比上次顺利了。要想迎来不同的结果，我们就必须继续前进。当务之急是离开1层。先离开快销服饰馆，前往下一家店吧。\n Things are already going better than last time. If we're going to get a different outcome, we need to keep moving. First priority: get off 1F. We should leave the Casualwear Hall and head for the next store.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "离开快销服饰馆\n Leave the Casualwear Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q1064",
+      "title": "搭乘自动扶梯前往2层\n Take the Escalator to 2F",
+      "description": "我们遇到了上次也曾和我们交谈的杜布瓦。不过，现在没时间长谈。直接前往下一层吧。\n We ran into Dubois, who spoke to us last time as well. There's no time for a long conversation, though. Let's head straight to the next floor.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "搭乘自动扶梯前往2层\n Take the Escalator to 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q1012S",
+      "title": "(내부) 1층 손님 자리 교대 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "크로머 조우 (내부 신호)"
+        }
+      ]
+    }
+  ]
+}

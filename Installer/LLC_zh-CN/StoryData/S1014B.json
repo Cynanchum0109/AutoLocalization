@@ -1,0 +1,228 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "染坊，地下2楼\n Dyehouse, B2F",
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "你是想买金染料？\n You want to buy Golden Dye?"
+    },
+    {
+      "id": 1,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "你的等级……刚好卡在门槛线以上。我看这就算过关了。\n Your tier is... just above the cutoff line. Guess that's good enough."
+    },
+    {
+      "id": 2,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "给，拿个号。\n Here. Take a number."
+    },
+    {
+      "id": 3,
+      "model": "료슈",
+      "content": "1217……这是什么意思？\n 1217... What's this supposed to mean?"
+    },
+    {
+      "id": 4,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "意思是你前面还有1216位客人。耐心等着，我马上就会招呼你的。<i>迟早的事。</i>\n It means there are 1,216 customers ahead of you. Be patient, and I'll be right with you. <i>Eventually.</i>"
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<良秀，等等！别折·她·脖！>\n <Ryōshū, wait! Don't S.H.N.C.!>"
+    },
+    {
+      "id": 6,
+      "model": "단테",
+      "content": "<问问她我们到底要等多久。>\n <Ask her how long we're supposed to wait.>"
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "如果我们的号码是四位数，得等多久？\n If our number is in the thousands, how long will the wait be?"
+    },
+    {
+      "id": 8,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "没你想的那么久。等季节轮换个……一百次左右，你的号大概就到了？\n Not as long as you'd think. Your number should come up after the season changes... about a hundred times?"
+    },
+    {
+      "id": 9,
+      "model": "오티스",
+      "content": "唔……我们等不了那么久。有没有什么办法能说服你通融一下？\n Hm... We cannot wait that long. Is there anything we can do to convince you otherwise?"
+    },
+    {
+      "id": 10,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "不行哦。你要是那么想要，就该在染坊门口打地铺蹲点的。\n Nopers. You should've camped out in front of the Dyehouse or something if you wanted it that badly."
+    },
+    {
+      "id": 11,
+      "model": "퍼티",
+      "teller": "普蒂\n Putty",
+      "title": "染坊\n Dyehouse",
+      "content": "......"
+    },
+    {
+      "id": 12,
+      "model": "료슈",
+      "content": "......"
+    },
+    {
+      "id": 13,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "普蒂！大姐！我说过别那样瞪顾客的。\n Putty! Big sis! I told you not to glare at customers like that."
+    },
+    {
+      "id": 14,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "这些人还没那么讨厌，把腿放下。\n These ones aren't even that obnoxious. Put your leg down."
+    },
+    {
+      "id": 15,
+      "model": "단테",
+      "content": "<良秀，你能不能别老琢磨该往哪儿下刀了，帮我们想想别的办法弄到染料……？>\n <Ryōshū, can you please stop mulling over where to cut her and help us think of another way to get the dye...?>"
+    },
+    {
+      "id": 16,
+      "content": "良秀缓缓将手从刀鞘上收回。\"普蒂\"也随之放下了那条尖利的腿。\n Ryōshū slowly removed her hand from the scabbard. \"Putty\" followed suit, lowering her pointed leg."
+    },
+    {
+      "id": 17,
+      "model": "료슈",
+      "content": "*噗* 有什么好想的？\n *puff* What's there to think about?"
+    },
+    {
+      "id": 18,
+      "model": "료슈",
+      "content": "把排在我们前面的人都杀了不就行了。这就是捷径。\n Let's kill everyone ahead of us in line. There's a shortcut for you."
+    },
+    {
+      "id": 19,
+      "content": "刀鞘轻轻震动了一下，像是在摇头。\n The scabbard rattles as though it were shaking its head."
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "……你这明摆着又是想找借口大开杀戒。不然干嘛不直接说杀了排第一个的人，抢走他的号码券，那样更省事？\n ... You're clearly looking for an excuse to start a bloodbath, as always. Why else would you suggest a massacre like that when it would be more efficient to kill whoever's first in line and take their numbered ticket?"
+    },
+    {
+      "id": 21,
+      "model": "료슈",
+      "content": "嘿。不讲道理这件事，本身就自有一番美感。\n Heh. There's aesthetics to be enjoyed in irrationality."
+    },
+    {
+      "id": 22,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "……要不然，直接找排第一个的人买染料……？\n ... Or just buy the dye from whoever's first in line...?"
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<……同意。默尔索，去问问谁的号码最靠前。>\n <... Agreed. Meursault, ask who has the earliest number.>"
+    },
+    {
+      "id": 24,
+      "model": "뫼르소",
+      "content": "我想知道号码最靠前的那位是谁。\n I wish to know the identity of the individual with the earliest number."
+    },
+    {
+      "id": 25,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "漆黑者的裸者。是提前下来蹲点、抢在开门前排队的人之一。\n Naked of Le Noir. One of the people who came down early and camped out before opening."
+    },
+    {
+      "id": 26,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "我们这边金树脂渗出的金脓正好要装满一桶染料了，他应该在走廊里等着取货。\n We're almost done filling up a bucket of dye with the Golden Pus dripping from the Golden Resin. He's probably waiting in the corridor to pick it up."
+    },
+    {
+      "id": 27,
+      "model": "오티스",
+      "content": "以目前的作战条件来看，向这位……\"裸者\"购买金染料，应该是最有效率的做法。\n Under current operational conditions, purchasing the Golden Dye from this... \"Naked\" individual should be the most efficient course of action."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<我们手头的眼球，恐怕差得远……>\n <I don't think the eyeballs we have will come anywhere close...>"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "若资金不足，也可以拿等价的物品来交换。\n Should our funds prove insufficient, an item of commensurate value may be offered in exchange."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<……看看我们现在手头有什么吧。>\n <... Let's check what we have with us at the moment.>"
+    },
+    {
+      "id": 31,
+      "content": "默尔索把我们目前购得或获得的物品一件件摆了出来。\n Meursault laid out, one by one, every item we have purchased or obtained thus far."
+    },
+    {
+      "id": 32,
+      "model": "오티스",
+      "content": "……种类还真不少。\n ... A considerable assortment."
+    },
+    {
+      "id": 33,
+      "model": "오티스",
+      "content": "把这些全卖了，够付金染料的钱吗？\n Would selling all of this cover the cost of the Golden Dye?"
+    },
+    {
+      "id": 34,
+      "model": "B2층염색실주인",
+      "teller": "帕莱特\n Palette",
+      "title": "染坊\n Dyehouse",
+      "content": "差远了。除非你能找个真正的冤大头，把他身上最后一颗眼球都榨干。\n Not even close. Maybe if you found a real sucker and fleeced them for every last eyeball."
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<这下麻烦了……要不要回3楼再要点眼球？>\n <That's a problem... Should we go back to 3F and ask for more eyeballs?>"
+    },
+    {
+      "id": 36,
+      "model": "오티스",
+      "content": "他们已经给了我们不少津贴，不太可能再愿意追加大笔开支。\n It is unlikely they'll be willing to make another significant expenditure when they've already given us quite the stipend."
+    },
+    {
+      "id": 37,
+      "model": "오티스",
+      "content": "不过，执行经理若真有此意，我奥提斯，将施展多年历练磨砺出的无双谈判之术，把他们身上最后一颗眼球都当场征用过来。\n However, if that is your wish, Executive Manager, I, Outis, shall deploy the peerless negotiation techniques I have sharpened through years of service and field-requisition every last eyeball they possess."
+    },
+    {
+      "id": 38,
+      "model": "단테",
+      "content": "<不、不用那么麻烦。裸者是漆黑者的一员……说不定给他看真品证明，他会把价钱降一降。>\n <Th-that won't be necessary. Naked is a member of Le Noir... Maybe he'll lower the price if we show him the Authenticity Certificate.>"
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<我们去找裸者听听他怎么说吧。如果他是漆黑者的人，从穿着应该很容易认出来。>\n <Let's find Naked and hear what he has to say. If he's Le Noir, his clothes should make him easy to spot.>"
+    }
+  ]
+}

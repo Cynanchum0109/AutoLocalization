@@ -1,0 +1,1690 @@
+{
+  "dataList": [
+    {
+      "key": "D50011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "呼……总算到了，可是……呃，我们连入口能不能进去都说不准。\n Phew... we made it here, but... huh. I can't say if we can even get through the entrance.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "入口似乎被某种极不寻常的东西挡住了……我恐怕蛮力不会奏效。\n The entrance appears obstructed by something decidedly unusual... I much doubt brute force shall avail us.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "布布\n Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D50012",
+      "texts": [
+        {
+          "index": 0,
+          "text": "布布默默将一只手按在通往五楼的入口上，\n Pwie silently placed a hand against the entrance to the fifth floor,"
+        }
+      ]
+    },
+    {
+      "key": "D50012A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "随后摇摇头，把手放了下来。\n only to lower it again with a shake of the head."
+        }
+      ]
+    },
+    {
+      "key": "D50013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……我们进不去。你和我都不行。\n ... We can't go in. Both you and me.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 1,
+          "text": "我们的……美德还不够……\n We don't have... enough virtue yet...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 2,
+          "text": "<“美德”……？>\n <\"Virtue\"...?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D50014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "答对了。那个小不点的美德可差得远呢……离这里这种高雅地方要求的精致程度还早得很。\n Bingo. That little runt is just waaay too lacking in virtue... Still nowhere near refined enough for a highbrow place like this.",
+          "speaker": "克罗默\n Kromer"
+        }
+      ]
+    },
+    {
+      "key": "D50015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "克罗默……！\n Kromer...!",
+          "speaker": "李箱\n Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D5901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具黑派的尸体。血渗进黑色西装，染成了深红色。\n The corpse of a Noir. Blood seeps into the black suit, turning it dark crimson."
+        }
+      ]
+    },
+    {
+      "key": "D5902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具红派的尸体。原本鼓胀的衣服吸饱了血，沉甸甸地垂了下来。\n The corpse of a Rouge. Its once-swollen outfit has sagged, weighed down by blood soaking it."
+        }
+      ]
+    },
+    {
+      "key": "D5006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我把手放在帘幕上，它便像被碰到的水面一样泛起涟漪。\n Laid my hands on the curtain, and it began to ripple as though I'd just touched the surface of water."
+        }
+      ]
+    },
+    {
+      "key": "D5002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这时，布布从其他人身旁挤过去，走到帘幕前。\n That's when Pwie pushed past the others and walked up to the curtain."
+        }
+      ]
+    },
+    {
+      "key": "D5002A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "布布伸出小小的手，探向帘幕……\n Their tiny hand reaches out toward the curtain..."
+        }
+      ]
+    },
+    {
+      "key": "D5002B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "帘幕轻轻荡起涟漪。路开了。\n The curtain ripples gently. The way is now open."
+        },
+        {
+          "index": 1,
+          "text": "<我想现在可以进去了。>\n <I think we can get inside now.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我……一直在打哈欠。\n I... keep yawning.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 1,
+          "text": "好困……眼皮好沉……\n I'm sleepy... My eyes feel so heavy...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 2,
+          "text": "……好像……又要睡着了……\n ... like... I'm about to fall asleep again...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 3,
+          "text": "方才一战确实艰苦。稍作休息也无妨。\n The battle was arduous indeed. There is no harm in stealing a brief rest.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 4,
+          "text": "也许……不会只是稍作休息……\n Maybe... it won't be too brief after all...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 5,
+          "text": "即便如此，也无妨。\n Be that as it may, it is well.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 6,
+          "text": "<是啊……我们也该喘口气。>\n <Yeah... We should take a moment to get a breather, too.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "…….",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 8,
+          "text": "希望你们还在这里……\n I hope you'll still be here...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 9,
+          "text": "……等我醒来的时候。\n ... when I wake up.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 10,
+          "text": "就像以前那样……也像现在这样。\n Like you were before... Like you are now.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 11,
+          "text": "……我们会在。\n ... We will do so.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 12,
+          "text": "安心睡吧。\n Rest your worries and sleep.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5008A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……嗯。\n ... Mhm.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 1,
+          "text": "做个甜甜的梦，布布。\n Dream of sweetness, Pwie.",
+          "speaker": "李箱\n Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D5013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不久，轻柔而有节奏的睡眠呼吸声充满四周，深红的褶皱开始在布布身边狂乱地打结。\n Soon, the soft rhythm of sleeping breath filled the air, and crimson folds began knotting themselves wildly around Pwie."
+        }
+      ]
+    },
+    {
+      "key": "D5013A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "然后，就像我们之前见过的那只茧……一层红色薄膜覆住了孩子。\n Then, just like the cocoon we had encountered before... a red membrane closed over the child."
+        }
+      ]
+    },
+    {
+      "key": "D5013B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "布布变成了一只茧……\n They became a cocoon...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "有些生灵……必须经历蜕变，褪去旧形才能成熟。我故乡的蝴蝶便是如此。\n Certain creatures... must shed their former shape through metamorphosis afore they mature. The butterflies of my homeland behaved thus.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "像蛹一样啊……\n Like a chrysalis, huh...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 3,
+          "text": "格里高尔的脸僵了一瞬，仿佛有什么不好的回忆浮上心头……\n Gregor's face stiffened for a moment as though a bad memory had surfaced..."
+        },
+        {
+          "index": 4,
+          "text": "随后他摇摇头，恢复了平时的镇定。\n Then he shook his head and returned to his usual composure."
+        },
+        {
+          "index": 5,
+          "text": "哎呀……这照顾寄养孩子的事，我们可陷得够深了，对吧？\n Boy... We're in deep with this foster-care business now, huh?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 6,
+          "text": "若无人留下保护沉睡的孩子……其必将遭受苦难。\n If none remain to protect the slumbering child... they will surely suffer.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 7,
+          "text": "说到底，是布布带我们一路到了五楼。现在装作没看见，也说不过去。\n Well, Pwie did get us all the way to the fifth floor. Wouldn't sit right to turn a blind eye now.",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5013C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不久，末端长着嘴的触须突然从茧中破出，迅速吞掉了桌上摆放的食物。\n Soon, tendrils with mouths at their ends suddenly burst out of the cocoon, quickly devouring the food set on the table."
+        }
+      ]
+    },
+    {
+      "key": "D5013D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "布布似乎在……填饱肚子。\n They appear to be... sating their hunger.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<……黑派很快就会杀过来。>\n <... The Noirs will descend on us soon.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>泉边的异乡人将血肉迎入歌声。于是，他们成了枯竭的见证者。</color>\n <color=#7d7d7d>The strangers of the Fount have welcomed flesh and blood into the song. Thus have they made themselves witnesses to depletion.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#7d7d7d>我忠诚的孩子，我的勇士。挥动汝的锤，击碎那新生之物，送它赴死；一切诞生终归于死亡，此乃正道。唯有如此，汝才能以西西弗之名，永远屹立。</color>\n <color=#7d7d7d>My faithful child, champion of mine. Smite with thy hammer the nascency and deliver it to death, for it is good that all births end in death. Only then shalt thou stand eternal beneath the name of Sisyphe.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D5003A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "“声音”如此言道：诚然，宿敌就在此处，贪婪与挥霍、饥饿与干渴的温床。它重生的尽头，唯有虚无。\n Thus spake the Voice: verily, here lieth the archenemy, seedbed of avarice and excess, hunger and thirst. Only void shall exist at the uttermost end of its rebirth.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        },
+        {
+          "index": 1,
+          "text": "那道巨大的身影手持大锤，缓缓踏向我们——踏向布布的茧。\n With a great hammer in her hands, the giant figure slowly stomps toward us—toward Pwie's cocoon."
+        }
+      ]
+    },
+    {
+      "key": "D5003B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "真走运啊……偏偏在孩子连跑都跑不了的时候被堵住……\n Just our luck... Cornered at the one time the kid can't even run...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "从此刻响起的“声音”判断……它或许一直等到小布布睡着，才选定此时出手。\n Judging by the Voice now resounding... it may have bided its hour until young Pwie fell aslumber.",
+          "speaker": "李箱\n Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D5007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……结束了吗？\n ... Is it over?",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "呼……打了一整天，真把人累坏了。还是该说，累的是我的脑子？毕竟这是个模拟世界……\n Oof... Fighting all day really takes it out of you. Or am I supposed to say my mind's the part running on fumes? It's a simulated world, after all...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 2,
+          "text": "<……我想不会再有黑派能闯到这里了。>\n <... I don't think any more Le Noirs will make it this far.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "<布布没事吧……？>\n <Is Pwie all right...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "没有受伤。而且……应该快醒了。\n Unharmed. And... likely to awaken soon.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "层层深红褶皱一起一伏，像某个庞大的器官在沉睡中呼吸……\n The layered crimson folds swelled and sank like some enormous organ breathing in its sleep..."
+        }
+      ]
+    },
+    {
+      "key": "D5011",
+      "texts": [
+        {
+          "index": 0,
+          "text": "呼……人靠衣装，孩子也一样啊。现在能进餐厅了吗？\n Whew... Clothes really do make the kid, huh? So, can we get into the restaurant now?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "……嗯。\n ... Mhm.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 2,
+          "text": "嗯……你的声音很低沉，肩也耷拉着……心里还惦记着蠕蠕吗？\n Hm... Your voice is mellow and your shoulders hang low... Does your mind yet linger with Wriggley?",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "…….",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "蠕蠕？哦……就是那个飘在默尔索肩头，每次都“吱”一声的小家伙？\n Wriggley? Oh... that little screecher floating over Meursault's shoulder going \"scree\" every time?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 5,
+          "text": "下面到底发生了什么……？\n What exactly happened down there...?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 6,
+          "text": "<布布……吃掉了蠕蠕。布布明明那么在乎它……>\n <Pwie... ate Wriggley. And they'd cared so much for it, too...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 7,
+          "text": "吃、吃了？呃……按这地方古怪的常识，这算正常吗？那孩子不是爱它爱得不得了吗？\n A-ate it? Huh... Is that supposed to be normal in the weird common sense of this place? Didn't the kid love that thing to bits?",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……身后有一股强烈的震动正在逼近……还有那哀嚎声。\n ... A powerful tremor approaches from behind us... and that wailing, too.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "这震动……\n This tremor...",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "经理。看来那“古老的存在……”很快就会到这里。\n Manager. It seems the \"being of eld...\" will be here shortly.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "什么时候……？\n When...?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "约3秒后。\n In approximately 3 seconds.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 5,
+          "text": "…….",
+          "speaker": "布布\n Pwie"
+        }
+      ]
+    },
+    {
+      "key": "D5018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "呃啊啊啊啊！！！！\n Gwoooooorgh!!!!",
+          "speaker": "黑之丝\n Blackthread"
+        }
+      ]
+    },
+    {
+      "key": "D5019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理，我们必须先解决追来的古老存在。\n We must first deal with the being of eld in pursuit, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5020",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#7d7d7d>那些不着衣衫，却敢无惧凝视者……播下了贪欲孕生的灾厄。\n听我号令，我的孩子们！我以神圣权柄，驱逐阻挡汝等崛起的时间！现在，向敌手施以应得的报偿。</color>\n <color=#7d7d7d>The unclothed ones who dare stand unafraid before the gaze... have sown a calamity born of avarice. \nHearken to me, my children! By my divine authority, I banish the obstruction of time to thy rising! Now visit upon the Adversary their due.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D5021",
+      "texts": [
+        {
+          "index": 0,
+          "text": "等等。刚才那广播……只有我觉得警钟大作吗？\n Hold on. That announcement just now... Am I the only one whose alarm bells are ringing?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "……我们最好立刻做好战斗准备。\n ... We would be wise to prepare for battle at once.",
+          "speaker": "李箱\n Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D5022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "在那里！我看见那些陌生人了！\n There! I see the strangers!",
+          "speaker": "黑派守卫\n Le Noir Guard"
+        },
+        {
+          "index": 1,
+          "text": "<默尔索，别停，继续往前走。>\n <Meursault. Don't stop—keep moving forward.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "……明白，经理。\n ... Understood, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D-PB-BLACKTHREAD",
+      "texts": [
+        {
+          "index": 0,
+          "text": "难以理解的悲伤从黑色丝线之间渗出。\n Sorrow beyond understanding is leaching out from between the black threads."
+        },
+        {
+          "index": 1,
+          "text": "漆黑的波流绕着我们的脚踝交织，想把我们卷走。\n Currents of dark, black waves weave around our ankles, trying to sweep us away."
+        }
+      ]
+    },
+    {
+      "key": "D5004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<我们已经爬到这么高了……希望他们追不到更远的地方。>\n <We've climbed this far... Hopefully they won't be able to chase us further.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "看来……我们来到了餐桌上方。希望我们的到来没有过分打扰他们用餐……\n It seems... we have emerged atop a dining table. I hope our arrival has not unduly intruded upon their meal...",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "呃，我们现在也顾不上餐桌礼仪了。至少终于能喘口气……\n Well, we're not exactly in a position to mind our table manners. At least now we can finally catch our breath...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 3,
+          "text": "<color=#7d7d7d>不知高贵为何物的孩子们，听我说：汝等每一步落下，都将钉入一枚钉子；纵使汝等奋力上升，也注定要在每一层止步。</color>\n <color=#7d7d7d>O children who know not nobility, I say to thee: thine every fall of foot shall bore a nail; rise thou might, yet thine shall be the lot to halt at every floor.</color>"
+        },
+        {
+          "index": 4,
+          "text": "是啊。都怪我这张破嘴……\n Yup. Me and my fat mouth...",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 5,
+          "text": "你的嘴哪里破了？\n Why is your mouth fat?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 6,
+          "text": "*呼* 这么说吧……有时候就是得把嘴闭上。\n *huff* Let's just say... sometimes you need to keep your mouth shut.",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5024",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<……我们得保护好茧。>\n <... We're going to have to protect the cocoon.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……陌生人。来自泉边、不受楼层束缚而行的汝等……步步向上的汝等。\n ... Strangers. Ye of the Fount, whose steps are bound not by the floors... Ye whose footfalls ever point upward.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        },
+        {
+          "index": 1,
+          "text": "汝等的消息，早在脚步抵达前便传入我耳中。\n Word of ye hath reached me long before your feet did.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        },
+        {
+          "index": 2,
+          "text": "听闻汝等斩杀了这一代改衣师，我曾把织造衣料之事托付于她。\n Heard have I that ye have hewn the Alterationist of the present generation, to whom I have trusted the weaving of my fabric.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        },
+        {
+          "index": 3,
+          "text": "上一代改衣师亲手造出这副甲胄，早已踏上她的走秀之旅……因此，我只得将就使用来自下方楼层的织物。\n The Alterationist of the previous generation, whose hands created this armor, embarked on a runway venture long ago... And so I must bear with the weaving of fabrics that springeth from the realms below.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        },
+        {
+          "index": 4,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "汝等庇护的那孽物……终有一日会将这座百货公司啃食得连骨头都不剩。\n The abomination ye shelter... shall one day devour this department store down to its very bones.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        },
+        {
+          "index": 1,
+          "text": "此事早有预言……那是如命运般注定的未来。\n Foretold it hath been... 'tis a future as fixed as fate.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        }
+      ]
+    },
+    {
+      "key": "D5025C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "汝等难道不知，这生物的本质就是虚假？让开路，我便不将罪责归于汝等。\n Know ye not that the very essence of this creature lieth in falsity? Give me the way, and the blame shall not be laid at thy feet.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        }
+      ]
+    },
+    {
+      "key": "D5025D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……在我眼里，布布只是个满怀疑问的孩子，夹在本性和意志之间。\n ... To my eyes, Pwie is merely a child full of questions, caught between nature and volition.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 1,
+          "text": "而且……我们不是许下了约定吗？约好在布布醒来时再见。\n And... did we not make a promise? A promise to meet them again at the time of their waking.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 2,
+          "text": "对，约好了。所以说啊，承诺这种话可不能随便讲……\n Yup, we did. This is why you don't throw promises around lightly...",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5025E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "汝等愚昧，已被那亵渎之物蛊惑。\n In thy folly, thou hast been bewitched by that profane creature.",
+          "speaker": "黑派品牌经理\n Le Noir's Brand Manager"
+        }
+      ]
+    },
+    {
+      "key": "D5025F",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<如果她说的是真的，西西弗百货就会被耗尽……而我们又会走向同一个结局。>\n <If she's telling the truth, then Grand Magasin Sisyphe will be depleted... and we'll wind up at the same ending all over again.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<这就意味着……我们做的一切都白费了。>\n <Which means... everything we've done will have been for nothing.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "<……即便如此，而且……我说不清为什么，可我……我还是想保护布布。>\n <... Even still, and... I can't explain why, but I... I want to protect Pwie.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025G",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<因为现在……我的直觉，我的心，一直在催我这么做。>\n <Because right now... my gut, my heart—keeps telling me to.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025H",
+      "texts": [
+        {
+          "index": 0,
+          "text": "持锤者全速向我们冲来，炽烈的光环灼痛了我们的双眼。\n The bearer of the hammer charged us at full speed, her blazing halo searing our eyes."
+        }
+      ]
+    },
+    {
+      "key": "D5025I",
+      "texts": [
+        {
+          "index": 0,
+          "text": "就在同一瞬间，一个问题涌到了我那并不存在的嘴边。\n And in that same instant, a question rose to my proverbial mouth."
+        }
+      ]
+    },
+    {
+      "key": "D5025J",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<默尔索？>\n <Meursault?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025K",
+      "texts": [
+        {
+          "index": 0,
+          "text": "是，经理。\n Yes, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5025L",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<我……我们会后悔这个选择吗？>\n <Will I... will we come to regret this choice?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5025M",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5025N",
+      "texts": [
+        {
+          "index": 0,
+          "text": "会。我们后悔的概率很高。\n Yes. There is a high probability that we will.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5025O",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不过……重要的是——\n However... the important thing is—",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5025P",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一声雷鸣般的撞击淹没了默尔索后面的话。\n A thunderous impact drowned out the rest of Meursault's answer."
+        }
+      ]
+    },
+    {
+      "key": "D5026",
+      "texts": [
+        {
+          "index": 0,
+          "text": "所以……让我捋捋。我在洗手间听过大概情况，可我们基本上就是一路护送这个布——呃，布布这孩子上来。没错吧？\n So... lemme get this straight. I heard the rough version back in the restroom, but we've basically been playing chaperone for this P—uh, Pwie kid all the way up here. Is that about right?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<差不多。>\n <That's about right.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "为迷路的孩子指引前路……乃是善举。百货公司毕竟最容易使人迷失方向……\n To have guided a lost child upon their way... was a kindly deed. Department stores are places most apt to swallow one's bearings, after all...",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 3,
+          "text": "不过这走廊也太他妈长了……看来前面还有得走。\n This corridor's pretty damn long, though... Looks like we've still got a hike ahead of us.",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D5903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "玻璃窗外的水中，鱼群悠然游过。\n大批人走在玻璃墙之间，观赏水中生灵。\n Schools of fish are swimming gently through the water beyond the glass window.\nA large crowd is walking between the glass walls, exploring the aquatic life."
+        }
+      ]
+    },
+    {
+      "key": "D5904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[钉与锤]\n [Nail and Hammer]"
+        }
+      ]
+    },
+    {
+      "key": "D5905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[钉下一枚钉子]\n [A Nail, Hammered]"
+        }
+      ]
+    },
+    {
+      "key": "D5906",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[祭典]\n [Festival]"
+        }
+      ]
+    },
+    {
+      "key": "D5907",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[遗忘与饥饿]\n [Oblivion and Hunger]"
+        }
+      ]
+    },
+    {
+      "key": "D5908",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[烟与战争]\n [Smoke and War]"
+        }
+      ]
+    },
+    {
+      "key": "D5909",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[悖论的丰饶]\n [Paradoxical Abundance]"
+        }
+      ]
+    },
+    {
+      "key": "D5910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[蛮荒时代]\n [Age of Barbarism]"
+        }
+      ]
+    },
+    {
+      "key": "D5911",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[值得铭记的空白心灵]\n [Emptied Mind to be Mindful of]"
+        }
+      ]
+    },
+    {
+      "key": "D5912",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[树、蛇与果实]\n [The Tree, Serpent, and a Fruit]"
+        }
+      ]
+    },
+    {
+      "key": "D5913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[巨人]\n [Giants]"
+        }
+      ]
+    },
+    {
+      "key": "D5914",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[高塔]\n [The Tower]"
+        }
+      ]
+    },
+    {
+      "key": "D5915",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[绞刑架]\n [Gallows]"
+        }
+      ]
+    },
+    {
+      "key": "D5916",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[黑与红，红与黑]\n [The Black and the Red, the Red and the Black]"
+        }
+      ]
+    },
+    {
+      "key": "D5917",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[启蒙时代]\n [Age of Enlightenment]"
+        }
+      ]
+    },
+    {
+      "key": "D5918",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[巨人的陨落]\n [A Giant's Fall]"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D5919",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[大断裂]\n [The Great Fracturing]"
+        }
+      ]
+    },
+    {
+      "key": "D5920",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[断绝时代]\n [Age of Severance]"
+        }
+      ]
+    },
+    {
+      "key": "D5921",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[金枝]\n [The Golden Bough]"
+        },
+        {
+          "index": 2,
+          "text": "<……这些似乎是这座百货公司的历史。>\n <... These seem to be the history of this department store.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5922",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "什么都看不见。\n Can't see anything."
+        }
+      ]
+    },
+    {
+      "key": "D5925",
+      "texts": [
+        {
+          "index": 0,
+          "text": "什么都看不见。\n Can't see anything."
+        }
+      ]
+    },
+    {
+      "key": "D5926",
+      "texts": [
+        {
+          "index": 0,
+          "text": "什么都看不见。\n Can't see anything."
+        }
+      ]
+    },
+    {
+      "key": "D5927",
+      "texts": [
+        {
+          "index": 0,
+          "text": "能看见一个模糊的形状。\n A blurry shape can be seen."
+        },
+        {
+          "index": 1,
+          "text": "[倾覆者]\n [Those Who Topple]"
+        }
+      ]
+    },
+    {
+      "key": "D5928",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[昔日高高升起之物，注定沉落。]\n [What once rose high are fated to sink.]"
+        }
+      ]
+    },
+    {
+      "key": "D5929",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[奢华百货最深处的洼地。令人作呕、污秽不堪的沉渣。]\n [The deepest basin of the extravagant department store. Nauseating, foul sediments.]"
+        }
+      ]
+    },
+    {
+      "key": "D5930",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[沿着线团的丝线走向出口，终点却只等来一截断线。]\n [Though the clew's thread was followed to the exit, only the severed tip of string waited at the end.]"
+        }
+      ]
+    },
+    {
+      "key": "D5931",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[无法上升，无法放弃，丝线无休无止地纠缠。]\n [Unable to rise, unable to forfeit, endlessly twining threads.]"
+        }
+      ]
+    },
+    {
+      "key": "D5932",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[一只手托着胀大的肚腹，另一只手托着饥渴的心。]\n [One hand cradles the swollen belly; the other, the hungering mind.]"
+        }
+      ]
+    },
+    {
+      "key": "D5933",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[曾经尝过的滋味，再也无法寻回。]\n [The flavor once reached, yet never to be found again.]"
+        }
+      ]
+    },
+    {
+      "key": "D5934",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[转瞬即逝之物，脆弱不堪。]\n [What are fleeting and passing are fragile things.]"
+        }
+      ]
+    },
+    {
+      "key": "D5935",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[在褪色的角落，等待归来的那一刻。]\n [In a faded corner, waiting for the moment to return.]"
+        }
+      ]
+    },
+    {
+      "key": "D5936",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[束缚有多重，权威便有多大。]\n [Authority follows constriction by equal measure.]"
+        }
+      ]
+    },
+    {
+      "key": "D5937",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[目光纠缠得越紧，他们便跟随得越深。]\n [The more the gaze entangles, the more do they follow along.]"
+        }
+      ]
+    },
+    {
+      "key": "D5938",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[人人都需要信仰。]\n [Everyone needs faith.]"
+        }
+      ]
+    },
+    {
+      "key": "D5939",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[敬畏之心，往往留给那些死而犹生者。]\n [The sense of awe is often reserved for those who are dead but living.]"
+        }
+      ]
+    },
+    {
+      "key": "D5940",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[谁也不该蔑视倒下的人。]\n [None shall scorn those who have collapsed.]"
+        }
+      ]
+    },
+    {
+      "key": "D5941",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[至少，倒下是他们自己的选择。]\n [At least, the decision to collapse was theirs.]"
+        }
+      ]
+    },
+    {
+      "key": "D5942",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[纵使一只手托着饥饿的肚腹，心灵依旧丰盈。]\n [Though one hand may cradle the hungering belly, the mind prospers.]"
+        }
+      ]
+    },
+    {
+      "key": "D5943",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[饥饿无法被填满；它驱使人去寻找可以填补之物。]\n [Hunger isn't filled; it is what one seeks out to fill.]"
+        }
+      ]
+    },
+    {
+      "key": "D5944",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[每走一步，便将一枚钉子钉入自己。]\n [Nailing oneself with every step.]"
+        }
+      ]
+    },
+    {
+      "key": "D5945",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[朝圣的尽头，只剩下被众人的钉子钉住的那一个。]\n [At the pilgrimage's end, only the one who has been pinned by the nails of the multitude remains.]"
+        }
+      ]
+    },
+    {
+      "key": "D5946",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[人究竟为何攀登？]\n [For what does one climb?]"
+        }
+      ]
+    },
+    {
+      "key": "D5947",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[明知等待自己的只有注定的坠落。]\n [Knowing that only the fated descent awaits.]"
+        }
+      ]
+    },
+    {
+      "key": "D5923",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        }
+      ]
+    },
+    {
+      "key": "D5924",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "我盯着它看了一会儿，图案便开始舞动、荡漾。\n After fixing it in my gaze for a while, the patterns begin to dance and ripple."
+        },
+        {
+          "index": 2,
+          "text": "<……这是……？>\n <... This is...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "本不该看见的东西渐渐显露出来。\n Things that should not be visible begin to unveil themselves."
+        }
+      ]
+    },
+    {
+      "key": "D5948",
+      "texts": [
+        {
+          "index": 0,
+          "text": "曾经传达神谕的执事，已逃避了自己的职责。\n The deacon who once conveyed God's words has absconded the responsibility."
+        }
+      ]
+    },
+    {
+      "key": "DDS501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……布布独自一人。\n ... Pwie is alone.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "经理，我们必须尽快赶回餐厅。\n We must return to the restaurant as quickly as our feet would take us, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "DDS502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<它追着我们来了。准确地说……它追的是布布。>\n <It came after us. It... came after Pwie, to be precise.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "它想必是黄金之茧——我们给它起名叫蠕蠕——的亲代。\n It must be the Golden Cocoon's—Wriggley, by our designation—parent entity.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<我记得……它循着茧“哼哧哼哧”的声音追来了。>\n <I remember... It came after us, having followed its \"snuffling\".>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "<现在先专心想想怎么打倒它。>\n <For now, let's focus only on how we can defeat it.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "<布布还在等我们。>\n <Pwie's waiting for us.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "嗯……它的形体在黑暗中消失得无影无踪，过去与现在皆寻不到它的存在……\n Mm... Its form disappeared traceless in the dark, its presence in both past and present nowhere to be found...",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 7,
+          "text": "对，接着它又突然冒了出来。更糟的是，能碰到的只有那条像尾巴的东西，想打中它都难。\n Yeah, then it popped right back into existence. And to make matters worse, it was hard to get a hit in with the only reachable part of its body that tail-like thing.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 8,
+          "text": "黑暗不足为惧。保持冷静，我们便能抢占先机。\n Darkness is not so significant a deterrent. Remain calm, and we will outmaneuver it.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 9,
+          "text": "<……好。冷静应战吧。>\n <... Good. Let's take this on with a cool head.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D5949",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[漂流者。他们任由自己随水流而去。]\n [The drifters. They allow themselves to be carried by the currents of the flow.]"
+        }
+      ]
+    },
+    {
+      "key": "D5950",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[停泊者。他们用黑色织物将自己钉在原地。]\n [The anchored. They have pinned themselves down with black fabric.]"
+        }
+      ]
+    },
+    {
+      "key": "D5951",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "[固定者。他们将内在钉到外侧，从而固定住自己的外表。]\n [The affixed. They have pinned what lies inside on the outside, thereby affixing their outward appearances.]"
+        }
+      ]
+    },
+    {
+      "key": "D5027",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#cf0000>西西弗百货中的所有人，听我说。</color>\n <color=#cf0000>Hear me, all who dwell within the Grand Magasin.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#cf0000>布菲终于开席了。从今以后，你们谁也不用再刮着空盘子过活……</color>\n <color=#cf0000>At long last, the Buffet is served. Let none among you ever scrape an empty plate again...</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#cf0000>……而我们——我——会将这座百货公司从地基到顶端，吞个干净。</color>\n <color=#cf0000>... and we—I—shall devour this department store from foundation to apex.</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#cf0000>不必再等。不必再哭。不必再……渴望。</color>\n <color=#cf0000>Wait no longer. Weep no longer. Desire... no longer.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#cf0000>撕开，嚼碎。眼前的一切，一口都别剩。</color>\n <color=#cf0000>Tear and chew. Leave not a morsel before your eyes.</color>"
+        },
+        {
+          "index": 5,
+          "text": "<color=#cf0000>来吧，到五楼加入我。大门会向所有人敞开。那些曾经不给我们吃的美食，我们一同吃个遍。</color>\n <color=#cf0000>Come, join me on the fifth floor. The doors will be open for everyone. Let us feast upon every delicacy they kept beyond our reach.</color>"
+        },
+        {
+          "index": 6,
+          "text": "<color=#cf0000>宴会开始吧！</color>\n <color=#cf0000>Let the banquet begin!</color>"
+        },
+        {
+          "index": 7,
+          "text": "<color=#cf0000>黑派、褐派、红派。美妆馆的虚荣，奢侈品馆的大理石装饰。广播室的喇叭，家具馆的聚光灯。美食广场的屠夫，染色室滴落的脓液。搁浅在海岸的东西、被丢弃的皮革，还有塞满每一道墙缝的黄金皮革……</color>\n <color=#cf0000>Le Noir, Le Kaki, Le Rouge. The vanities of the Beauty Hall, the marble deco of the Luxury Hall. The trumpets of the Public Address Room and the limelights of the Furniture Hall. Boucher of the Food Court and droplets of pus from the Dyehouse. Beached things of the Shore, discarded hides, and the Golden Hide packed into every crack in the wall...</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#cf0000>全都摆上我的餐桌。让我们一起吃，一起喝。</color>\n <color=#cf0000>Let all of it be laid upon my table. Let us eat and drink together.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D5028",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……你已经不想继续前进了吗？\n ... Do you not feel the need to move forward anymore?",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "这里什么都能填满。饿了就吃，渴得喉咙发烫就喝。\n Everything can be filled here. We can eat when we're hungry, and drink when our throats burn with thirst.",
+          "speaker": "布菲\n Buffet"
+        },
+        {
+          "index": 2,
+          "text": "终有一天……我们会把自己填得满满当当，连想往前走的念头都无处容身。\n And in time... we will have filled ourselves to the point where there will be no room left for the wish to move forward.",
+          "speaker": "布菲\n Buffet"
+        }
+      ]
+    },
+    {
+      "key": "D5029",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我们找遍了广阔餐桌的每一处，却没找到通往六楼的路。\n We searched every reach of the vast tabletop, but found no path to the sixth floor."
+        },
+        {
+          "index": 1,
+          "text": "无处可去，我们便坐到一旁，看布菲大快朵颐。\n With nowhere left to go, we sat off to one side and watched as Buffet feasted."
+        }
+      ]
+    },
+    {
+      "key": "D5030",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*咔嚓*\n *crunch*"
+        },
+        {
+          "index": 1,
+          "text": "布菲吞下的第一样东西，是待取餐盘里的一片面包。\n The first thing Buffet swallowed was a single slice of bread from a waiting plate."
+        },
+        {
+          "index": 2,
+          "text": "接着是一块淌着肉汁的牛排……\n Next came a steak slick with running juice..."
+        },
+        {
+          "index": 3,
+          "text": "然后，一只装饰得精致无瑕的巨大蛋糕，也在布菲嘴里消失，连一点碎屑都没留下。\n Then an enormous cake, decorated with immaculate care, vanished into Buffet's mouth without leaving so much as a crumb."
+        },
+        {
+          "index": 4,
+          "text": "再往后……我们已经分不清布菲在嚼什么，更别说布菲究竟把什么当成了食物。\n After that... it became impossible to tell what Buffet was chewing, let alone what Buffet had decided was food."
+        },
+        {
+          "index": 5,
+          "text": "盘子。勺子和刀叉。桌布……不分彼此，全都消失在布菲饥渴的大嘴里。\n Plates. Spoons and knives. The tablecloth... everything, without distinction, disappear into Buffet's ravenous mouth."
+        },
+        {
+          "index": 6,
+          "text": "嘴里上一口还没咽下，布菲的手就抓向了下一样东西……\n Buffet's hands close around the next thing before they've even finished swallowing whatever was in their mouth before..."
+        },
+        {
+          "index": 7,
+          "text": "……仿佛连稍作停顿、品尝滋味，都是饥饿的布菲负担不起的奢侈。\n ... as though even the brief pause required to enjoy the flavor and taste were a luxury their hunger could not afford."
+        }
+      ]
+    },
+    {
+      "key": "D5500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "一座广场辽阔得几乎望不到边。广场中央立着一栋高楼，楼下人来人往，步履匆忙。\n There is a large plaza, so vast that its edges can barely be fathomed. At the center of the plaza stands a tall building, and at its base people come and go in busy strides."
+        }
+      ]
+    },
+    {
+      "key": "D5501",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "一丝微光穿过幽暗而逼仄的隧道。墙边堆满罐头，使原本狭窄的通道更加局促。\n人们在这更像洞穴爬道的通路里爬行。\n Faint ray of light shimmers through the gloom of the stiflingly narrow tunnel. There are mounds of cans sitting along the walls, constricting the already cramped hallway.\nPeople are crawling through the passage that is more like a cavernous crawl space."
+        }
+      ]
+    },
+    {
+      "key": "D5502",
+      "texts": [
+        {
+          "index": 0,
+          "text": "光从高窗倾泻而入。\n Light cascades in through the tall window."
+        },
+        {
+          "index": 1,
+          "text": "人们互相叫喊。听不清他们在喊什么，但……那场面让人想起一场审判。\n People are shouting and hollering at each other. It is hard to make out what it is they are yelling about, but... the sight is reminiscent of a trial."
+        }
+      ]
+    }
+  ]
+}

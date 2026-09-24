@@ -1,0 +1,1260 @@
+[
+ {
+  "en": "3F Floor Manager",
+  "zh_ours": [
+   "三楼楼层经理"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3-a-enemy.json",
+   "RPG/rpg-loc-dialogue-floor-3.json"
+  ]
+ },
+ {
+  "en": "???",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-common-a1c10p1.json",
+   "NPC/rpg-loc-npc-floor-1.json",
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-2.json",
+   "RPG/rpg-loc-dialogue-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Annette",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-3.json"
+  ]
+ },
+ {
+  "en": "Annette the Alterationist",
+  "zh_ours": [
+   "改衣师安妮特"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3.json"
+  ]
+ },
+ {
+  "en": "Anxious Kaki",
+  "zh_ours": [
+   "焦虑的卡基"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Arc Floor Lamp",
+  "zh_ours": [
+   "弧光落地目灯"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "B2F Floor Manager",
+  "zh_ours": [
+   "地下二层楼层经理"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Blackthread",
+  "zh_ours": [
+   "黑线"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2-a-enemy.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Bonehanger",
+  "zh_ours": [
+   "骨骸衣架"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Boucher",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Brand Director",
+  "zh_ours": [
+   "品牌总监"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-2.json",
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "Brand Manager",
+  "zh_ours": [
+   "品牌经理"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2.json",
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "Careful Kaki",
+  "zh_ours": [
+   "谨慎的卡基"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Charging Noir",
+  "zh_ours": [
+   "冲锋的漆黑者"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-2.json"
+  ]
+ },
+ {
+  "en": "Cocoon",
+  "zh_ours": [
+   "蚕茧"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Cosette",
+  "zh_ours": [
+   "珂赛特"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json"
+  ]
+ },
+ {
+  "en": "Creaking Drawer",
+  "zh_ours": [
+   "吱呀作响的抽屉"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Dante",
+  "zh_ours": [],
+  "in_glossary": true,
+  "files": [
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-2.json",
+   "RPG/rpg-loc-dialogue-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json",
+   "RPG/rpg-loc-dialogue-route-a.json"
+  ]
+ },
+ {
+  "en": "Denim Wallet",
+  "zh_ours": [
+   "丹宁钱包",
+   "牛仔布钱包"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-b1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Desperate Customer",
+  "zh_ours": [
+   "绝望的顾客"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Desperate Kaki",
+  "zh_ours": [
+   "绝望的卡基"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Destitute Customer",
+  "zh_ours": [
+   "穷困潦倒的顾客"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Don Quixote",
+  "zh_ours": [
+   "堂吉诃德"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Door into Darkness",
+  "zh_ours": [
+   "通往黑暗的门"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Dorothea",
+  "zh_ours": [
+   "多萝西娅"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Dubois",
+  "zh_ours": [
+   "杜博阿"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Dying Noir",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "Enthralled Noir",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-3.json"
+  ]
+ },
+ {
+  "en": "Exploited Dye",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Eye Taste Tester",
+  "zh_ours": [
+   "眼睛试味员"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Eye-shopping Customer",
+  "zh_ours": [
+   "选购眼球的顾客"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Faust",
+  "zh_ours": [
+   "浮士德"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "NPC/rpg-loc-npc-floor-b1.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-2.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Felt",
+  "zh_ours": [
+   "毡呢"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-3.json"
+  ]
+ },
+ {
+  "en": "Festering Red Tears",
+  "zh_ours": [
+   "溃烂的红色眼泪"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Flannel",
+  "zh_ours": [
+   "法兰绒"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-3.json"
+  ]
+ },
+ {
+  "en": "Flesh Lamp",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Floor Manager",
+  "zh_ours": [
+   "楼层经理"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Four-legs",
+  "zh_ours": [
+   "四腿"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Green Needlekin",
+  "zh_ours": [
+   "绿色针族"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Gregor",
+  "zh_ours": [
+   "格里高尔"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "NPC/rpg-loc-npc-floor-b1.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json",
+   "RPG/rpg-loc-dialogue-route-a.json"
+  ]
+ },
+ {
+  "en": "Gustave",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Happy Closet",
+  "zh_ours": [
+   "快乐衣橱"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Heathcliff",
+  "zh_ours": [
+   "希斯克利夫"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "Hong Lu",
+  "zh_ours": [
+   "鸿璐"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Hungry Kaki",
+  "zh_ours": [
+   "饥饿的卡基"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Impatient Customer",
+  "zh_ours": [
+   "不耐烦的顾客"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Ionesco",
+  "zh_ours": [
+   "尤内斯库"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-3.json"
+  ]
+ },
+ {
+  "en": "Ishmael",
+  "zh_ours": [
+   "以实玛利"
+  ],
+  "in_glossary": true,
+  "files": [
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-route-a.json"
+  ]
+ },
+ {
+  "en": "Jeanne",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "King of Needleworks",
+  "zh_ours": [
+   "针线之王"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Kromer's Sister",
+  "zh_ours": [
+   "克罗默的姐姐"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "NPC/rpg-loc-npc-floor-2.json",
+   "NPC/rpg-loc-npc-floor-b2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "L'Inamovible",
+  "zh_ours": [
+   "不动者"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-3.json"
+  ]
+ },
+ {
+  "en": "Laboring Needlekin",
+  "zh_ours": [
+   "劳作的针族"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Laboring Needlekin 2",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Lamp Twin",
+  "zh_ours": [
+   "双子灯"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Le Noir",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "Le Noir Guard",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "Le Noir Hammer",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "Le Noir Highguard",
+  "zh_ours": [
+   "漆黑者高阶护卫"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2.json"
+  ]
+ },
+ {
+  "en": "Le Noir Porter",
+  "zh_ours": [
+   "漆黑者搬运工"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Le Noir Sales Associate Gustave",
+  "zh_ours": [
+   "漆黑者店员古斯塔夫"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Le Noir Sales Associate [Sunshone]",
+  "zh_ours": [
+   "漆黑者店员[阳光]"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Le Rouge Porter",
+  "zh_ours": [
+   "赤红者搬运工"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Le Rouge Sales Associate Mimosa",
+  "zh_ours": [
+   "赤红者店员米莫萨"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Le Rouge Sales Associate [Sunshone]",
+  "zh_ours": [
+   "赤红者店员[阳光]"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Le Rouge Staff",
+  "zh_ours": [
+   "赤红者店员"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-2.json"
+  ]
+ },
+ {
+  "en": "Le Rouge Store Manager",
+  "zh_ours": [
+   "赤红者店长"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-2.json"
+  ]
+ },
+ {
+  "en": "Leather Bed",
+  "zh_ours": [
+   "皮床"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json"
+  ]
+ },
+ {
+  "en": "Leather Glove",
+  "zh_ours": [
+   "皮革手套"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1-a-enemy.json",
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Leather Wallet",
+  "zh_ours": [
+   "皮革钱包"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Leatherfather",
+  "zh_ours": [
+   "皮革父辈"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Longshank Lamp",
+  "zh_ours": [
+   "长腿灯"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json"
+  ]
+ },
+ {
+  "en": "Macerating Yellow Tears",
+  "zh_ours": [
+   "浸软的黄色眼泪"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Mellow Leather Bed",
+  "zh_ours": [
+   "松软皮床"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Meursault",
+  "zh_ours": [
+   "默尔索"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-2.json",
+   "RPG/rpg-loc-dialogue-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json",
+   "RPG/rpg-loc-dialogue-route-a.json"
+  ]
+ },
+ {
+  "en": "Mimosa",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Mobile-Go-Spin",
+  "zh_ours": [
+   "自走旋转器"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Mouth Taste Tester",
+  "zh_ours": [
+   "嘴巴试味员",
+   "试味员"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Naked",
+  "zh_ours": [
+   "裸者"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Needlekin Laborer",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Needlekin Laborer 2",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Nose Taste Tester",
+  "zh_ours": [
+   "鼻子试味员"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "One-leg",
+  "zh_ours": [
+   "一腿"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Outis",
+  "zh_ours": [
+   "奥提斯"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json",
+   "RPG/rpg-loc-dialogue-route-a.json"
+  ]
+ },
+ {
+  "en": "Overflowing Blue Tears",
+  "zh_ours": [
+   "溢流的蓝色眼泪"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Palette",
+  "zh_ours": [
+   "帕莱特"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Pincushion Glove",
+  "zh_ours": [
+   "针插手套"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Putty",
+  "zh_ours": [
+   "腻子"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Queued Needlekin",
+  "zh_ours": [
+   "排队的针族"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Queued Noir",
+  "zh_ours": [
+   "排队的漆黑者"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Queueing Customer",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Queueing Noir",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Quillian",
+  "zh_ours": [
+   "奎利安"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Rattling Drawer",
+  "zh_ours": [
+   "咔嗒作响的抽屉"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4-a-enemy.json"
+  ]
+ },
+ {
+  "en": "Red Needlekin",
+  "zh_ours": [
+   "红色针族"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-b2.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Red-cushioned Stool",
+  "zh_ours": [
+   "红垫凳"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Resisting Rouge",
+  "zh_ours": [
+   "抵抗的赤红者"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-2.json"
+  ]
+ },
+ {
+  "en": "Rodion",
+  "zh_ours": [
+   "罗佳"
+  ],
+  "in_glossary": true,
+  "files": [
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-route-a.json"
+  ]
+ },
+ {
+  "en": "Ryōshū",
+  "zh_ours": [
+   "良秀"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Sinclair",
+  "zh_ours": [
+   "辛克莱"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-b2.json",
+   "RPG/rpg-loc-dialogue-route-a.json"
+  ]
+ },
+ {
+  "en": "Sinners",
+  "zh_ours": [],
+  "in_glossary": true,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Skinhide Couch",
+  "zh_ours": [
+   "生皮沙发"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "Sous Chef",
+  "zh_ours": [
+   "副主厨"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Starving Kaki",
+  "zh_ours": [
+   "饿到极致的卡基"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Storming Noir",
+  "zh_ours": [
+   "突袭的漆黑者"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-2.json"
+  ]
+ },
+ {
+  "en": "Suspicious Kaki",
+  "zh_ours": [
+   "可疑的卡基"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Tarnished Golden Cocoon",
+  "zh_ours": [
+   "蒙尘的金色蚕茧"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b2.json"
+  ]
+ },
+ {
+  "en": "Taxidermied Leather Curtain",
+  "zh_ours": [
+   "剥制皮帘"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-4.json",
+   "RPG/rpg-loc-dialogue-floor-4.json"
+  ]
+ },
+ {
+  "en": "The Crimson God",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "The Crimson God [Inchoate Life]",
+  "zh_ours": [
+   "赤红之神[初生之躯]"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-2.json"
+  ]
+ },
+ {
+  "en": "The Warden",
+  "zh_ours": [
+   "典狱长"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-route-a-warden.json"
+  ]
+ },
+ {
+  "en": "Thirsty Kaki",
+  "zh_ours": [
+   "干渴的卡基"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1-a-enemy.json",
+   "NPC/rpg-loc-npc-floor-b1.json",
+   "RPG/rpg-loc-dialogue-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Treatment Customer",
+  "zh_ours": [
+   "疗程顾客"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json"
+  ]
+ },
+ {
+  "en": "Two-piece",
+  "zh_ours": [
+   "两件套"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-3.json",
+   "RPG/rpg-loc-dialogue-floor-3.json"
+  ]
+ },
+ {
+  "en": "Umar",
+  "zh_ours": [],
+  "in_glossary": false,
+  "files": [
+   "RPG/rpg-loc-dialogue-floor-2.json"
+  ]
+ },
+ {
+  "en": "Unidentifiable Carcass",
+  "zh_ours": [
+   "难以辨认的尸骸"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Voracious Kaki",
+  "zh_ours": [
+   "饕餮的卡基"
+  ],
+  "in_glossary": false,
+  "files": [
+   "NPC/rpg-loc-npc-floor-b1.json"
+  ]
+ },
+ {
+  "en": "Yi Sang",
+  "zh_ours": [
+   "李箱"
+  ],
+  "in_glossary": true,
+  "files": [
+   "NPC/rpg-loc-npc-floor-1.json",
+   "RPG/rpg-loc-dialogue-common-a1c10p1.json",
+   "RPG/rpg-loc-dialogue-floor-1.json",
+   "RPG/rpg-loc-dialogue-route-a.json"
+  ]
+ }
+]

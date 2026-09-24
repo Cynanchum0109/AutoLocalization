@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10816_1",
+      "desc": "获得人格\n Identity Acquisition",
+      "dlg": "找到中意的衣服了吗？*轻笑* 尽管上手摸摸看吧。据说不亲手触碰过面料，就无法真正体会赤红者时尚的价值。\n Have you found an outfit to your liking? *chuckle* Go ahead and see how it feels to the touch. They say you can't appreciate the true value of Rouge fashion until you've laid your fingertips on the material."
+    },
+    {
+      "id": "lobby_morning_10816_1",
+      "desc": "早间问候\n Morning Greeting",
+      "dlg": "漆黑者那边最近日照挺暖和的。也许正是时候，把那些可怜的囤积者藏着不放的金皮刮下来撕走。\n The Noir side has been enjoying rather warm sunshine as of late. Maybe this is the season to scrape and rip out the Golden Hide those miserable hoarders are keeping to themselves."
+    },
+    {
+      "id": "lobby_noon_10816_1",
+      "desc": "午间问候\n Afternoon Greeting",
+      "dlg": "从顾客身上取得的血肉与皮革，我们大多用来制衣。但偶尔……我也喜欢亲自尝一尝。\n有时候，想更深切地体会这材质……唯一的办法就是亲身感受它在牙齿间被磨碎……落上舌尖的滋味。\n We use most of the flesh and hide taken from our customers for clothing. But every now and then... I like to sample some myself.\nSometimes, the only way to get a better feel for the material... is to personally experience the sensation of having them ground between your teeth... and land on your tongue."
+    },
+    {
+      "id": "lobby_night_10816_1",
+      "desc": "夜间问候\n Evening Greeting",
+      "dlg": "在淡季随意逛逛的时候，我常常能在百货公司各处看到零散的金皮碎片——嵌在墙缝里，卡在人偶体内……\n用金皮制成的服装往往引领潮流，其影响力常常大到足以定义整个季节的风格。\n When I take a quick stroll during the off seasons, I often see pieces of the Golden Hide scattered throughout the department store—in the cracks on the walls, lodged inside mannequins...\nClothes fashioned from the Golden Hide tend to be the trailblazers of each trend, often becoming so influential that they characterize the whole season."
+    },
+    {
+      "id": "smalltalk_10816_1",
+      "desc": "对话 1\n Chatter #1",
+      "dlg": "光靠高销量这种粗浅的指标，能捞到的眼球终归有限。楼下那些人可以在季末前手忙脚乱地清仓了事，但在这上面……我们问的是真正要紧的问题：<i>谁</i>在买我们的产品，他们又是<i>怎么</i>买的？那些愚蠢的漆黑者在楼层另一头似乎从没搞懂这一点，所以我这一点上就压他们一头。\n There's a limit to how many eyeballs you can rake in with simplistic metrics like high sales volume. The lower floors can scramble to clear out their stock before the season ends and call it a day, but up here... we ask the questions that really matter: <i>who</i> buys our product, and <i>how</i> do they buy it? Those stupid Noirs on the other side of the floor don't seem to get that, so I have that over them."
+    },
+    {
+      "id": "smalltalk_10816_2",
+      "desc": "对话 2\n Chatter #2",
+      "dlg": "亲爱的顾客，您该不会觉得这件裙子定价过高吧？以您这般精明的眼光，理应看得出，我设计的服装含有更多的金皮比例。这与楼下那些为了虚假宣传抬价、只掺了点微不足道残渣的衣服，根本不是一个档次。\n Dear customer, surely you don't think this dress is overpriced? As it should be obvious to discerning eyes like yours, apparel of my design contains a more generous proportion of the Golden Hide. They're in an entirely different class from the clothes downstairs, which only include paltry dregs just so they can mark up their items with false advertising."
+    },
+    {
+      "id": "smalltalk_10816_3",
+      "desc": "对话 3\n Chatter #3",
+      "dlg": "并不是说我不同情那些在我店里游荡的疯子和他们的处境。阳光曾低语进我耳中的那道\"声音\"……是那么温暖……那么仁慈……我曾觉得它似乎能包容我全部的痛苦。\n It's not that I don't sympathize with those madmen who wander my shop and their plights. The Voice that the sunshine whispered into my ears was... so warm... and kind... I felt as though it could embrace every last one of my pains."
+    },
+    {
+      "id": "smalltalk_10816_4",
+      "desc": "同步后对话 1\n Post-Uptie Chat 1",
+      "dlg": "尽管那\"声音\"是我的信仰，却从来不是我的神。我一遍遍祈祷，它却只回以同一套被无尽重复磨得稀薄的套话。\n可我们的新神，那位挚爱之人……从不让我们的祈祷无人回应——也从不辜负我们的疑问。\n Though that Voice was my faith, it was never my god. I prayed and prayed, but it only returned the same canned phrases, stretched thin by endless repetition.\nBut our new God, the cherished one... never leaves our prayers unanswered—and never fails to return questions."
+    },
+    {
+      "id": "smalltalk_10816_5",
+      "desc": "同步后对话 2\n Post-Uptie Chat 2",
+      "dlg": "当我第一次听到那\"声音\"在耳边低语……当挚爱之人如此宽厚地接受了我亲手做的手帕……我几乎欣喜若狂。\n我相信挚爱之人会在悲痛中引领我们这群羊群……最终带领我们赤红者，把西西弗百货里最后一寸金皮都撕下来，让我们能在它温暖的覆盖下得到慰藉。\n When I first heard the Voice whispering in my ears... when the cherished one so graciously accepted the handkerchief I made... I felt like I was about to burst with joy.\nI have faith that the cherished one will lead us, the flock, in our grief... And eventually bring us Rouges to tear off every last bit of the Golden Hide in the Grand Magasin, so that we would be comforted under its cozy blanket."
+    },
+    {
+      "id": "gacksung_10816_1",
+      "desc": "进行同步\n Uptying",
+      "dlg": "渴求……！吞噬……！金皮被漆黑者那双贪婪的手白白囤积——把它们从墙上撕下来！一片都不留！\n Yearn...! Consume...! The Golden Hide is wasted in the hoarding hands of the Noirs—tear them out of the walls! Every last scrap!"
+    },
+    {
+      "id": "neglect_10816_1",
+      "desc": "闲置\n Idle",
+      "dlg": "……渴望……\"声音\"或许已经淡去，但我似乎无法忘怀。\n Don... Desire... The Voice may have faded, but I can't seem to forget it."
+    },
+    {
+      "id": "formation_10816_1",
+      "desc": "部署\n Deployment",
+      "dlg": "凡敢挡在挚爱之人道路上的一切，我都将亲手将其斩除。\n By my own hand, I will fell anything that dares stand in the cherished one's path."
+    },
+    {
+      "id": "battleentry_10816_1",
+      "desc": "进入战斗\n Stage Entry",
+      "dlg": "若这就是我的使命……！\n If this be my calling...!"
+    },
+    {
+      "id": "battle_select_10816_1",
+      "desc": "战斗中查看\n Viewed in Battle",
+      "dlg": "嗯……你穿成这样，大多数地方都会把你拒之门外。改天要不要来我店里逛逛？\n Hm... Most places'll turn you away if you show up in that getup. Why don't you stop by my shop sometime?"
+    },
+    {
+      "id": "battle_endcommand_10816_1",
+      "desc": "发起攻击\n Commencing Attack",
+      "dlg": "再次向我低语你的\"声音\"吧！\n Whisper your Voice to me again!"
+    },
+    {
+      "id": "battle_enemy_break_10816_1",
+      "desc": "敌方混乱\n Enemy Stagger",
+      "dlg": "蠢货……\n Stupid..."
+    },
+    {
+      "id": "battle_break_10816_1",
+      "desc": "混乱\n Staggered",
+      "dlg": "又被……钉住了……\n Nailed down... once again..."
+    },
+    {
+      "id": "battle_kill_10816_1",
+      "desc": "击败敌人\n Enemy Killed",
+      "dlg": "而你……该被请出门去了！\n And... to the exit you go!"
+    },
+    {
+      "id": "battle_dead_10816_1",
+      "desc": "死亡\n Death",
+      "dlg": "啊……我又一次倒在地上……\n Ah... I collapse to the ground again..."
+    },
+    {
+      "id": "choice_success_p_10816_2",
+      "desc": "判定成功\n Check Passed",
+      "dlg": "挚爱之人在摇篮中的觉醒，成就了这份胜利。\n The cherished one's awakening at the Cradle has enabled this success."
+    },
+    {
+      "id": "choice_fail_n_10816_1",
+      "desc": "判定失败\n Check Failed",
+      "dlg": "……我的信仰不会因这点挫折就动摇。\n ... My faith isn't so weak as to be shaken by this setback."
+    },
+    {
+      "id": "battle_clear_10816_1",
+      "desc": "战斗胜利\n Victory Cry",
+      "dlg": "赤红者……本季销量已经超过了漆黑者。可这远不足以让挚爱之人满意。这场战役永远不会结束，直到我们把漆黑者最后一片金皮都撕下、据为己有……\n Le Rouge... has surpassed Le Noir in sales for this season. But this is not nearly enough to satisfy the cherished one. This campaign will never end, not until we've torn away every last piece of the Noirs' Golden Hide and claimed it for ourselves..."
+    },
+    {
+      "id": "battle_clear_ex_10816_1",
+      "desc": "满足额外条件\n Extra Conditions Fulfilled",
+      "dlg": "花了好几个季度，但多亏了挚爱之人的加护，这层楼的漆黑者终于要被请出门去了。\n好了，那么。是时候来一次翻新了——把这令人沮丧的漆黑者装潢全部撤掉，换上浓艳华美的赤红者美学。我们会招来更多顾客，争相追捧只有赤红者才能提供的时尚！\n It took many Seasons, but thanks to the cherished one's blessing, the Noirs on this floor will finally be shown to the exit.\nAll right, then. It's high time for a renovation—let's do away with this sad, depressingly Noir interior and replace it all with the flamboyant, Rouge beauty. We'll have even more customers clamoring for the fashion only Le Rouge can offer!"
+    },
+    {
+      "id": "battle_defeat_10816_1",
+      "desc": "战斗失败\n Defeat Wail",
+      "dlg": "啊啊……\"声音\"，我——\"声音\"消失了……！你为什么抛弃我？！不，不，不……！我必须……我必须再念一次真言。记住\"声音\"……记住那些话语……！\n Arrgh... The Voice, I—the Voice is gone...! Why have you abandoned me?! No, no, no...! I have to... I have to recite the mantra once again. Remember the Voice... remember the Words...!"
+    }
+  ]
+}

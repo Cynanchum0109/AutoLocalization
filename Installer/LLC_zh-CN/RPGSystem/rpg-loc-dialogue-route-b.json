@@ -1,0 +1,226 @@
+{
+  "dataList": [
+    {
+      "key": "D999999",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<.......>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<它突然冒出来，杀了默尔索。还堵住出口，让我们逃不了……>\n <It just appeared out of nowhere and killed Meursault. It even blocked off the way out so we couldn't escape...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<百货公司里为什么会有那种东西到处游荡……？>\n <Why would something like that even be wandering around a department store...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "……抱歉，我们在说什么？\n ... Sorry, what are we talking about?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "<就是刚才遇到的那个东西，它……>\n <You know, that entity we just encountered, it was...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "……既不是扭曲，也不是异想体。\n ... was neither a Distortion nor an Abnormality."
+        },
+        {
+          "index": 6,
+          "text": "可是……我也不敢肯定，究竟该不该称它为……\n And yet... I couldn't say with any confidence whether I should really call it..."
+        },
+        {
+          "index": 7,
+          "text": "哎，别这样。经理老兄，你把大家的好奇心都勾起来了，可不能说到一半就没下文。\n Oh, come on. You can't get us all curious and then just trail off like that, Manager Bud.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 8,
+          "text": "<……人类。>\n <... human.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "<我说的是那个背上钉满钉子的怪物。>\n <I'm talking about that monster with all those nails driven into its back.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 10,
+          "text": "在我们来到洗手间之前……我从未见过那样的存在。\n Such a being... had never once entered my sight prior to our arrival at the restroom.",
+          "speaker": "李箱\n Yi Sang"
+        },
+        {
+          "index": 11,
+          "text": "<咦……？>\n <Huh...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "……但丁，要是没力气了，就再歇会儿嘛。我们已经找到默尔了，所以……\n ...Dante, why don'tcha rest a little longer if you're outta juice? We found Meur already, so...",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 13,
+          "text": "<.......>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 14,
+          "text": "罪人们不停忧心地瞥向我钟表上的指针。等他们终于走开，我便直奔默尔索，问他发生了什么。\n The Sinners kept casting worried glances at the hands of my clock. Once they finally moved away, I went straight to Meursault and asked him what was going on."
+        },
+        {
+          "index": 15,
+          "text": "<刚才到底怎么回事，默尔索？你——>\n <What the hell happened just now, Meursault? Do you—>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 16,
+          "text": "……我记得，经理。\n ... I do remember, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 17,
+          "text": "回答您的问题：其他罪人不记得发生过的事，是因为我们被“送回”了。\n To answer your question, the reason the other Sinners have no memory of what occurred is because we were \"returned.\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 18,
+          "text": "<“送回”……？>\n <\"Returned\"...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 19,
+          "text": "意思是，西西弗百货被重置到了某个选择尚未作出之前。\n It means that the Grand Magasin was reset to a point before a particular choice was made.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 20,
+          "text": "大多数人似乎无法察觉这种现象。但您和我，似乎是例外。\n This appears to be a phenomenon that most are incapable of perceiving. You and I, however, appear to be exceptions.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 21,
+          "text": "<好吧，先不说这个……到底是什么引发了重置……？>\n <Okay, fine, putting that aside... what caused the reset in the first place...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 22,
+          "text": "它大概想让您作出不同的选择。\n It likely wanted you to make a different choice.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 23,
+          "text": "……因为您先前作出的选择，并未被锁链束缚。\n ... Because the choice you made before was not bound in chains.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 24,
+          "text": "<.......>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 25,
+          "text": "出发前，我最好先花点时间理清思绪。\n I should probably take a moment to collect my thoughts before we head out."
+        },
+        {
+          "index": 26,
+          "text": "那个存在为什么会出现……\n Why did that entity appear..."
+        },
+        {
+          "index": 27,
+          "text": "……我们又为什么被送回来了……？\n ... and why were we sent back...?"
+        }
+      ]
+    },
+    {
+      "key": "D-9181",
+      "texts": [
+        {
+          "index": 0,
+          "text": "不是……现在……\n Not... now...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "待命运……归于正轨之时……\n When fate... has fallen into alignment...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D-9182",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那双眼睛直盯着鞋子。\n The eyes are fixed upon the shoes."
+        }
+      ]
+    },
+    {
+      "key": "D-9183",
+      "texts": [
+        {
+          "index": 0,
+          "text": "再也听不到悲伤的哭声。\n The sound of sorrowful weeping is heard no more."
+        }
+      ]
+    },
+    {
+      "key": "D-9184",
+      "texts": [
+        {
+          "index": 0,
+          "text": "破损得太严重，已经缝不回去了。\n Torn too badly to be stitched back together."
+        }
+      ]
+    },
+    {
+      "key": "D-9185",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具黑派的尸体。连生前引以为傲的衣料，也没能让这人逃过此劫。\n The corpse of a Noir. Even the fabric they took such pride in couldn't save them from this fate."
+        }
+      ]
+    },
+    {
+      "key": "D-9186",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具黑派的尸体。血渗进黑色西装，染成了深红色。\n The corpse of a Noir. Blood seeps into the black suit, turning it dark crimson."
+        }
+      ]
+    },
+    {
+      "key": "DDS901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<呼，看来布布也能跟我们一起进来。>\n <Phew, looks like Pwie's able to come in here with the rest of us.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<……是我的错觉，还是布布好像没那么……闹腾了？>\n <... Is it just me, or do they seem somewhat less... hyper?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "自从进入泉，布布那份孩子气的好奇心似乎淡了，取而代之的是些许不安。\n Pwie's childlike curiosity seems to have been dampened and replaced with mild anxiety ever since entering the Fount."
+        },
+        {
+          "index": 3,
+          "text": "嗯……大概因为这里人太多了。\n Hmm... Must be because it's too crowded in here."
+        }
+      ]
+    }
+  ]
+}

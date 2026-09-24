@@ -1,0 +1,543 @@
+{
+  "dataList": [
+    {
+      "key": "I104002",
+      "displayName": "快乐衣橱的衣服\n Clothes from the Happy Closet",
+      "description": "快乐衣橱送出的一套服装。把它交给弧光落地目灯吧。\n An outfit given by the Happy Closet. Let's hand it over to the Arc Floor Lamp."
+    },
+    {
+      "key": "I104003",
+      "displayName": "碎纸片\n Scrap of Paper",
+      "description": "从快乐衣橱的残骸中找到的一张碎纸片。上面写着“幸福”二字。它没有任何结构上的作用，却帮助快乐衣橱得以继续存在。\n A scrap of paper recovered from the remains of the Happy Closet. The word \"Happiness\" is written upon it. It served no structural purpose, yet it helped the Happy Closet to continue to exist."
+    },
+    {
+      "key": "I1201",
+      "displayName": "录音带\n Audiotape",
+      "description": "赤红之神古老的“声音”再次响起，重复着它曾经诵念过的内容。这是赤红者们曾经听到过的“声音”。信仰越坚定的人，能听到的故事就越深邃。\n The Crimson God's old Voice plays again, repeating what it once recited. It is the Voice the Rouges once heard. Those of stronger faith could hear a more profound story."
+    },
+    {
+      "key": "I1206",
+      "displayName": "磨得锋利的裁缝剪刀\n Well-sharpened Sewing Scissors",
+      "description": "剪刀通过让对立之物结合来分割存在。\n Scissors divide existence through the joining of opposites."
+    },
+    {
+      "key": "I1207",
+      "displayName": "漆黑者品鉴证书\n Le Noir Authenticity Certificate",
+      "description": "这位顾客已被证实是漆黑者的模范主顾，为维护品牌价值做出了贡献。\n This customer has proven to be an exemplary patron of Le Noir and has contributed to the preservation of the brand's value."
+    },
+    {
+      "key": "I1208",
+      "displayName": "黑红丝线\n Black-and-Red Thread",
+      "statText": "具象<color=#00ff9c>HP</color> +1\n\n具象中<color=#fe4b48>攻击速度</color> +10%\n\n具象中<color=#F8C200>移动速度</color> +5%\n\n在具象中，对漆黑者销售员[阳光]和赤红者销售员[阳光]类敌人：\n- 受到<color=#fe4b48>伤害</color> -1\n- 造成<color=#fe4b48>伤害</color> +1\n Symbolic <color=#00ff9c>HP</color> +1\n\n<color=#fe4b48>Attack Speed</color> +10% in the Symbolic\n\n<color=#F8C200>Movement Speed</color> +5% in the Symbolic\n\nAgainst Le Noir Sales Associate [Sunshone] and Le Rouge Sales Associate [Sunshone]-type enemies in the Symbolic:\n- <color=#fe4b48>Damage</color> Taken -1\n- <color=#fe4b48>Damage</color> Dealt +1",
+      "description": "当光从裂缝中倾泻而出，触碰到每一个人时，百货商店里的人们开始变化。他们变成了自己所追求价值的形状，变成了自己所追随品牌所追求价值的形状。那些在变化中失去理智的人，被称为“人体模特”。但从本质上说，他们与我们其他人并无不同。\n When light spilled through the cracks and touched everyone, the people in the department store began to change. They took the shape of the values they pursued, the shape of the values pursued by the brands they followed. Those who lost their reason in the transformation came to be called Mannequins. In essence, however, they were no different from the rest of us."
+    },
+    {
+      "key": "I990001",
+      "displayName": "尖钉\n Nail",
+      "statText": "在具象中，<color=#F8C200>弱点攻击</color><color=#fe4b48>伤害</color>造成 +1\n弱点攻击：从背后攻击敌人时触发（部分敌人除外）\n In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +1\nWeakpoint Attack: Triggers when attacking an enemy from behind (excluding certain enemies)",
+      "description": "一枚尖钉。尖钉能将目标固定在原地。没有锤子，就无法把它钉进去。可若是有人主动扑向尖钉，无论有没有锤子，都会把自己钉在原地。\n A nail. Nails fix their targets in place. Without a hammer, they cannot be driven in. Yet those who throw themselves upon a nail will pin themselves down, hammer or no hammer."
+    },
+    {
+      "key": "I990006",
+      "displayName": "钝了的裁缝剪刀\n Dull Sewing Scissors",
+      "description": "你问改衣师是否应该保持中立？漆黑者偏爱布料，赤红者偏爱皮革。想想看，究竟哪个品牌更需要改衣师……她又更愿意把剪刀交给谁呢？\n You ask whether the Alterationist ought to remain neutral? The Noirs favor fabric, while the Rouges prefer hide. Think about it: which brand, then, needs the Alterationist more... and to whom will she be more willing to give her scissors?"
+    },
+    {
+      "key": "I990101",
+      "displayName": "漆黑者当代开衫\n Le Noir Contemporary Cardigan",
+      "statText": "具象<color=#00ff9c>HP</color> +2\n Symbolic <color=#00ff9c>HP</color> +2",
+      "description": "你还记得西西弗百货墙上出现的第一道裂缝吗？\n Do you remember the first crack that appeared in the walls of the Grand Magasin?"
+    },
+    {
+      "key": "I990102",
+      "displayName": "漆黑者当代帽子\n Le Noir Contemporary Hat",
+      "statText": "具象<color=#00ff9c>HP</color> +2\n Symbolic <color=#00ff9c>HP</color> +2",
+      "description": "西西弗百货必须被永远保存下去。\n The Grand Magasin must be eternally preserved."
+    },
+    {
+      "key": "I990103",
+      "displayName": "漆黑者当代绅士帽\n Le Noir Contemporary Gentleman Hat",
+      "statText": "若玩家没有任何操作输入，每5秒<color=#00ff9c>恢复</color>1点具象<color=#00ff9c>HP</color>（最多3次）\n- 在喷泉处休息可重新充能\n If no player inputs are made, <color=#00ff9c>heals</color> 1 Symbolic <color=#00ff9c>HP</color> every 5 seconds (3 times)\n- Rest at the Fount to recharge",
+      "description": "裂缝越扩越大，越裂越多。为什么？\n The cracks spread wider, multiplying. Why?"
+    },
+    {
+      "key": "I990104",
+      "displayName": "赤红者休闲拉链卫衣\n Le Rouge Casualwear Zip-up Hoodie",
+      "statText": "具象中<color=#fe4b48>伤害</color>造成 +1\n <color=#fe4b48>Damage</color> Dealt +1 in the Symbolic",
+      "description": "我们的神去哪儿了？\n Where has our God gone?"
+    },
+    {
+      "key": "I990105",
+      "displayName": "赤红者休闲短裙\n Le Rouge Casualwear Skirt",
+      "statText": "具象中<color=#F8C200>移动速度</color> +5%\n\n具象<color=#00ff9c>HP</color> +1\n <color=#F8C200>Movement Speed</color> +5% in the Symbolic\n\nSymbolic <color=#00ff9c>HP</color> +1",
+      "description": "我已经听不见赤红之神的“声音”了……\n I can no longer hear the Crimson God's Voice..."
+    },
+    {
+      "key": "I990106",
+      "displayName": "赤红者当代拉链\n Le Rouge Contemporary Zipper",
+      "statText": "在具象中解锁<color=#F8C200>冲刺</color>\n- 冲刺：<color=#F8C200>移动速度</color> +30%\n Unlocks <color=#F8C200>Sprint</color> in the Symbolic\n- Sprint: <color=#F8C200>Movement Speed</color> +30%",
+      "description": "赤红者在生活的每一次脉动中寻找价值与意义。他们满怀期待地等着去体验。\n The Rouges find value and meaning in life and every pulse of it. They wait in anticipation for experience."
+    },
+    {
+      "key": "I990107",
+      "displayName": "赤红者当代袜子\n Le Rouge Contemporary Socks",
+      "statText": "在暗影中进入战斗时，对所有敌人施加2点<color=#F8C200>流血</color>强度和+2<color=#F8C200>流血</color>层数\n\n具象<color=#00ff9c>HP</color> +1\n Upon entering battle in the Shadowed, inflicts 2 <color=#F8C200>Bleed</color> Potency and +2 <color=#F8C200>Bleed</color> Count on all enemies\n\nSymbolic <color=#00ff9c>HP</color> +1",
+      "description": "红色即血、血肉与皮革。\n Red is blood, flesh, and hide."
+    },
+    {
+      "key": "I990108",
+      "displayName": "巨大的尖针（43厘米）\n Huge Sharp Needle (43cm)",
+      "description": "听见温暖“声音”的人变成了人体模特。而在他们之中，被“声音”拥抱得最深的人，能够再向前迈出一步。\n Those who heard the Voice of warmth turned into Mannequins. Of those, the ones held deepest in the Voice's embrace are able to take one step farther."
+    },
+    {
+      "key": "I990110",
+      "displayName": "能量饮料\n Energy Drink",
+      "statText": "在具象中，若命中敌人后5秒内未再次攻击，下次攻击<color=#fe4b48>伤害</color>造成 +3\n In the Symbolic, if 5 seconds have elapsed without attacking after landing a hit on the enemy, <color=#fe4b48>Damage</color> Dealt +3 on the next attack",
+      "description": "在西西弗百货，食物不是为了获取能量或维持生存才被吃下的。人们进食只为一个目的：填补心的饥饿。\n At Grand Magasin Sisyphe, food is not consumed for energy or survival. It is taken for one purpose alone: to sate the hunger of the heart."
+    },
+    {
+      "key": "I990303",
+      "displayName": "改衣店的布料\n Fabric from the Alteration Shop",
+      "statText": "具象<color=#00ff9c>HP</color> +1\n Symbolic <color=#00ff9c>HP</color> +1",
+      "description": "我既不属于赤红者，也不属于漆黑者。我的价值是中立的。无论哪个品牌来寻布料，我都乐意与他们交易。\n I belong to neither Le Rouge nor Le Noir. Mine is a neutral value. Whichever brand comes seeking fabric, I will gladly trade with them."
+    },
+    {
+      "key": "I990304",
+      "displayName": "红色精品店墨镜\n Boutique du Rouge Sunglasses",
+      "statText": "在具象中，<color=#F8C200>弱点攻击</color><color=#fe4b48>伤害</color>造成 +1\n\n具象<color=#00ff9c>HP</color> +1\n In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +1\n\nSymbolic <color=#00ff9c>HP</color> +1",
+      "description": "你戴上墨镜，是因为光太刺眼。然后你回头望向太阳。戴墨镜不是为了避开阳光，而是为了更清楚地看见它。\n You put on sunglasses because the light is too bright. Then you look back into the sun. Sunglasses are not worn to avoid the sunlight, but to see it more clearly."
+    },
+    {
+      "key": "I990305",
+      "displayName": "红色精品店T恤\n Boutique du Rouge T-Shirt",
+      "statText": "在具象中，命中攻击后<color=#F8C200>移动速度</color> +5%\n\n具象<color=#00ff9c>HP</color> +1\n In the Symbolic, <color=#F8C200>Movement Speed</color> +5% upon landing an attack\n\nSymbolic <color=#00ff9c>HP</color> +1",
+      "description": "当我们的神陷入沉默、裂缝越裂越大之时……我们中的一些人，又听见了那“声音”。\n When our God fell silent and the cracks yawned wider... some of us heard the Voice again."
+    },
+    {
+      "key": "I990306",
+      "displayName": "红色精品店牛仔裤\n Boutique du Rouge Denim",
+      "statText": "具象中<color=#fe4b48>攻击速度</color> +10%\n <color=#fe4b48>Attack Speed</color> +10% in the Symbolic",
+      "description": "赤红者偏爱修身版型。若不能袒露躯干本身的线条，时尚还能有什么更高的价值？\n The Rouges favor a slim fit. What greater worth can fashion hold than laying bare the body's own lines?"
+    },
+    {
+      "key": "I990307",
+      "displayName": "黑色精品店领带\n Maison du Noir Necktie",
+      "statText": "具象<color=#00ff9c>HP</color> +2\n Symbolic <color=#00ff9c>HP</color> +2",
+      "description": "我们所提供的——由漆黑者设计的精致服装——遮掩了顾客的躯干，并修正其下的轮廓。时尚的价值就在于它所遮盖的东西。\n What we offer—exquisite garments designed by the Noirs—conceals the customer's body and corrects the silhouette beneath. Fashion's worth lies in what it covers."
+    },
+    {
+      "key": "I990308",
+      "displayName": "黑色精品店西裤\n Maison du Noir Slacks",
+      "statText": "在具象中，受击时<color=#F8C200>无敌帧</color> +0.05秒\n In the Symbolic, <color=#F8C200>Invul. Frame</color> +0.05 seconds when hit",
+      "description": "无论是漆黑者还是赤红者，这诡异的声音似乎都会让听见它的人发疯。\n This strange voice seems to drive whoever listens to it mad, be it a Noir or a Rouge."
+    },
+    {
+      "key": "I990309",
+      "displayName": "黑色精品店衬衫\n Maison du Noir Shirt",
+      "statText": "在暗影中进入战斗时，对所有敌人施加2点<color=#F8C200>震颤</color>强度和+2<color=#F8C200>震颤</color>层数\n\n暗影中战斗时：友方受到攻击命中时，获得+2<color=#F8C200>充能</color>层数（每回合最多5次）\n Upon entering battle in the Shadowed, inflicts 2 <color=#F8C200>Tremor</color> Potency and +2 <color=#F8C200>Tremor</color> Count on all enemies\n\nDuring battle in the Shadowed: When an ally takes a hit, the ally gains +2 <color=#F8C200>Charge</color> Count (5 times per turn)",
+      "description": "西西弗百货里到处都是人体模特。在阳光开始从裂缝中渗入之前，他们都有两条手臂和两条腿部，衣服也是按照这个形状制作的。\n The Grand Magasin is filled with Mannequins. Before the sunlight began leaking through the cracks, they all had two arms and two legs, and garments were made to fit that shape."
+    },
+    {
+      "key": "I990310",
+      "displayName": "鸟笼\n Birdcage",
+      "statText": "在具象中，受到攻击时有20%概率<color=#fe4b48>伤害</color>承受 -20%（向下取整）\n\n在暗影中进入战斗时，所有罪人获得+4<color=#F8C200>充能</color>层数\n In the Symbolic, 20% chance of <color=#fe4b48>Damage</color> Taken -20% when hit (rounded down)\n\nUpon entering battle in the Shadowed, all Sinners gain +4 <color=#F8C200>Charge</color> Count",
+      "description": "牢笼让自由得以存在在在在在在。没有牢笼，自由便毫无意义义义义义义\n Cages bring freedom into beeeeeeing. Without cages, freedom is meaninglessssss"
+    },
+    {
+      "key": "I990312",
+      "displayName": "金钉\n Golden Nail",
+      "description": "将那原始的脊椎，包裹进文明最崇高的材质之中，便造就了这枚金钉。\n这根针能刺穿一切边界，从最卑微到最崇高。而后它会将其撕裂，落下眼泪。\n By sheathing the vertebrae, the primordial, in civilization's most exalted material, this Golden Nail was created.\nThis needle pierces every boundary, from the lowest to the highest. Then it tears."
+    },
+    {
+      "key": "I990401",
+      "displayName": "漆黑者玛丽珍鞋\n Le Noir Mary Janes",
+      "statText": "具象<color=#00ff9c>HP</color> +3\n Symbolic <color=#00ff9c>HP</color> +3",
+      "description": "在西西弗百货里，名字会逐渐褪去。留下的只有商品与品牌的名字。这就是为什么人必须穿上越来越多层的衣服。\n Names fade inside Grand Magasin Sisyphe. Only the names of products and brands remain. That is why one must dress in ever more layers."
+    },
+    {
+      "key": "I990402",
+      "displayName": "漆黑者马裤靴\n Le Noir Jodhpur Boots",
+      "statText": "具象中攻击的<color=#F8C200>硬直</color> +0.1秒\n\n具象<color=#00ff9c>HP</color> +2\n <color=#F8C200>Hitstun</color> +0.1 seconds for attacks in the Symbolic\n\nSymbolic <color=#00ff9c>HP</color> +2",
+      "description": "把我固定住。把我收紧。为这动摇的躯干指点出形态。我把自由献给你。\n Fix me in place. Draw me tight. Bestow form on this unstable body. I offer up my freedom to you."
+    },
+    {
+      "key": "I990403",
+      "displayName": "漆黑者经典鞋楦\n Le Noir Classic Last",
+      "statText": "在具象中，当受到足以致死的<color=#fe4b48>伤害</color>时，<color=#00ff9c>以1点HP幸存</color>（一次）\n- 在喷泉处休息可重新充能\n- 即死等特定伤害除外\n In the Symbolic, upon taking <color=#fe4b48>Damage</color> that would result in death, <color=#00ff9c>survive with 1 HP</color> (once)\n- Rest at the Fount to recharge\n- Excluding certain damages such as Instant Death",
+      "description": "这个世界绝不能改变。它必须永远保持原样。\n The world must not change. It must remain exactly where it is. Forever."
+    },
+    {
+      "key": "I990404",
+      "displayName": "赤红者芭蕾平底鞋\n Le Rouge Ballet Flats",
+      "statText": "在具象中，击杀敌人后<color=#F8C200>移动速度</color> +30%\n\n具象<color=#00ff9c>HP</color> +3\n In the Symbolic, <color=#F8C200>Movement Speed</color> +30% upon killing an enemy\n\nSymbolic <color=#00ff9c>HP</color> +3",
+      "description": "衣服的种类繁多，但鞋子最为重要。它们是最先接触这个世界的衣物。\n Many kinds of clothing exist, but shoes matter most. They are the first garments that touch the world."
+    },
+    {
+      "key": "I990405",
+      "displayName": "赤红者切尔西靴\n Le Rouge Chelsea Boots",
+      "statText": "在具象中解锁<color=#F8C200>前扫</color>\n- 前扫：在最后一次攻击后再按一次攻击键即可激活<color=#F8C200>前扫</color>\n- 激活前扫时，会进行一次大范围的正面横扫，将命中的敌人<color=#F8C200>击退</color>\n- 若在<color=#F8C200>格挡</color>中激活，<color=#F8C200>攻击范围</color>和<color=#F8C200>击退距离</color>会依格挡等级提升\n Unlocks <color=#F8C200>Avant</color> in the Symbolic\n- Avant: Press the Attack button once more after the last Attack to activate <color=#F8C200>Avant</color>\n- Upon activating Avant, performs a wide front sweep to <color=#F8C200>Knockback</color> enemies hit\n- When activated during <color=#F8C200>Garde</color>, <color=#F8C200>Attack Range</color> and <color=#F8C200>Knockback Distance</color> increase based on Garde level",
+      "description": "鞋子需要呼吸。漆黑者的想法是错的——鞋履不该被密封起来。它们必须保持柔软，让双脚得以呼吸。唯有如此，你才能真正站立在大地之上。否则，你不过是被搁置于地面之上，与其下的土地隔绝而已。\n Shoes need to breathe. The Noirs have it wrong—footwear shouldn't be sealed shut. They need to stay supple and let the feet breathe. Only then can you truly stand upon the earth. Otherwise, you're merely laid upon it, cut off from the ground below."
+    },
+    {
+      "key": "I990406",
+      "displayName": "躺椅\n Recliner",
+      "statText": "自上次受到<color=#fe4b48>伤害</color>起，每15秒<color=#00ff9c>恢复</color>1点具象<color=#00ff9c>HP</color>（最多4次）\n- 在喷泉处休息可重新充能\n <color=#00ff9c>Heals</color> 1 Symbolic <color=#00ff9c>HP</color> every 15 seconds since last taking <color=#fe4b48>Damage</color> (max 4)\n- Rest at the Fount to recharge",
+      "description": "衣食住行。家具属于哪一类？它是人居住其中的东西，还是像衣服一样被穿在身上的东西？\n哦，都不是。家具是衣物与居所之间的桥梁。\n Food, clothing, shelter. Where does furniture belong? Is it something we dwell in, or something we wear like clothing?\nOh, neither. Furniture is the bridge between clothing and shelter."
+    },
+    {
+      "key": "I990407",
+      "displayName": "床垫\n Mattress",
+      "statText": "在具象中，静止站立时受击<color=#fe4b48>伤害</color>承受 -1（最低为1）\n\n具象<color=#00ff9c>HP</color> +2\n In the Symbolic, <color=#fe4b48>Damage</color> Taken -1 when hit while standing still (min 1)\n\nSymbolic <color=#00ff9c>HP</color> +2",
+      "description": "希望停止思考的顾客与员工，变成了西西弗百货里的家具。随后裂缝开始扩大，当那刺目的阳光倾泻而入、对他们低语时，家具便从沉睡中被撕扯出来，被迫开始行动。\n Customers and employees who wished to stop thinking became furnishings in Grand Magasin Sisyphe. Then the cracks began to widen, and when the fierce sunlight spilled through and whispered to them, the furnishings were torn from sleep and forced to move."
+    },
+    {
+      "key": "I990408",
+      "displayName": "实木桌\n Solid Wood Table",
+      "statText": "在具象中，命中攻击时有15%概率触发<color=#F8C200>额外攻击</color>（0.2秒硬直）\n- 对以命中敌人为中心的十字形5格造成3点<color=#fe4b48>伤害</color>\n- 每有1格内有一名侦测到默尔索的敌人，触发概率 +10%\n In the Symbolic, 15% chance to trigger an <color=#F8C200>Extra Attack</color> upon landing an attack (0.2 seconds hitstun)\n- Deals 3 <color=#fe4b48>Damage</color> to the 5 tiles in a cross centered on the enemy hit\n- Trigger Chance +10% for each enemy within 1 tile that has detected Meursault",
+      "description": "一个可怜的赤红者曾问过，为什么我们要坐在桌前吃饭。为什么不干脆在地板上吃，何必这么麻烦？呵，仪式感会让食物变得更美味。经过艰辛与耐心才赢得的东西更甜美，因而也更有价值。照这个逻辑，桌椅越不舒适，用餐者就越文明。你不这么认为吗？\n A Rouge wretch once asked why we sit at a table to eat. Why go to such trouble instead of eating off the floor? Well, the ceremony makes food taste better. What is won through hardship and patience is sweeter, and therefore more valuable. By that logic, the more uncomfortable the table and chair, the more civilized the diner. Wouldn't you agree?"
+    },
+    {
+      "key": "I990409",
+      "displayName": "舌头\n Tongue",
+      "description": "曾让快乐衣橱得以品尝滋味的器官。\n The organ that once allowed the Happy Closet to taste."
+    },
+    {
+      "key": "I990410",
+      "displayName": "一捆骨头\n Bundle of Bones",
+      "description": "曾让快乐衣橱得以支撑自身的骨骼。\n The bones that once allowed the Happy Closet to support itself."
+    },
+    {
+      "key": "I990411",
+      "displayName": "深剜\n Shank",
+      "description": "曾让快乐衣橱得以行走的东西。\n The object that once allowed the Happy Closet to walk."
+    },
+    {
+      "key": "I990412",
+      "displayName": "纠结的肠子\n Tangled Entrails",
+      "description": "曾让快乐衣橱得以消化食物的器官。\n The organ that once allowed the Happy Closet to digest food."
+    },
+    {
+      "key": "I990413",
+      "displayName": "一颗眼球\n An Eyeball",
+      "description": "曾让快乐衣橱得以见证世界之美的器官。\n The organ that once allowed the Happy Closet to behold the beauty of the world."
+    },
+    {
+      "key": "I990414",
+      "displayName": "两颗眼球\n Two Eyeballs",
+      "description": "曾让快乐衣橱得以见证世界之丑的器官。\n The organs that once allowed the Happy Closet to behold the ugliness of the world."
+    },
+    {
+      "key": "I990415",
+      "displayName": "面部皮肤\n Facial Skin",
+      "description": "曾让快乐衣橱得以用表情流露情感的东西。\n That which once allowed the Happy Closet to reveal its feelings through expression."
+    },
+    {
+      "key": "I990416",
+      "displayName": "血管网\n Blood Vessel Mesh",
+      "description": "曾让快乐衣橱的器官、骨骼、部件与肠子聚合并协同运作的机制。\n The mechanism that once allowed the Happy Closet's organs, bones, items, and entrails to come and function together."
+    },
+    {
+      "key": "I990801",
+      "displayName": "美味苏打\n Soda Pop",
+      "statText": "若具象<color=#00ff9c>HP</color>降至5或以下，<color=#00ff9c>恢复</color>5点具象<color=#00ff9c>HP</color>（一次）\n- 在喷泉处休息可重新充能\n If Symbolic <color=#00ff9c>HP</color> drops to 5 or lower, <color=#00ff9c>heals</color> 5 Symbolic <color=#00ff9c>HP</color> (once)\n- Rest at the Fount to recharge",
+      "description": "奢华厅遭到袭击了！赤红者已经攻入了漆黑者掌控的大厅，并开始了一场盛宴！\n The Luxury Hall is under attack! The Rouges have stormed the Hall held by the Noirs and have now begun a feast!"
+    },
+    {
+      "key": "I990802",
+      "displayName": "吸管\n Straw",
+      "statText": "在具象中，命中攻击时有10%概率<color=#00ff9c>恢复</color>1点具象<color=#00ff9c>HP</color>\n\n具象<color=#00ff9c>HP</color> +2\n In the Symbolic, 10% chance to <color=#00ff9c>heal</color> 1 Symbolic <color=#00ff9c>HP</color> upon landing an attack\n\nSymbolic <color=#00ff9c>HP</color> +2",
+      "description": "消耗需要一条从那里通往这里的通路。消耗即是把某物从他者身上抽取出来、纳入自身。因此快感随之而来。\n Consumption requires a passage from there to here. To consume is to draw something out of another and into oneself. That is why pleasure follows."
+    },
+    {
+      "key": "I990803",
+      "displayName": "“你听见了吗？”\n \"You Hear?\"",
+      "statText": "在具象中，命中攻击时有30%概率触发<color=#F8C200>额外攻击</color>\n- 对命中敌人4格范围内随机1名敌人造成3点<color=#fe4b48>伤害</color>\n In the Symbolic, 30% chance to trigger an <color=#F8C200>Extra Attack</color> upon landing an attack\n- Deals 3 <color=#fe4b48>Damage</color> to 1 random enemy within 4 tiles of the enemy hit",
+      "description": "美食广场做出来的或许是一道美味佳肴，但它已经不再是一顿正餐了。问题不在于烹饪，而在于用餐的地方。这是结构本身的悖论。\n What the Food Court produces may be a scrumptious dish, yet it ceases to be a meal. The fault lies not with the cooking, but with where it is eaten. It is a conundrum of the structure."
+    },
+    {
+      "key": "I990804",
+      "displayName": "折叠伞\n Folding Umbrella",
+      "statText": "在具象中，命中可破坏投射物时，<color=#F8C200>摧毁该投射物</color>\n\n具象<color=#00ff9c>HP</color> +2\n In the Symbolic, upon landing an attack on a destructible projectile, <color=#F8C200>destroys the projectile</color>\n\nSymbolic <color=#00ff9c>HP</color> +2",
+      "description": "卡基的旗舰产品。对于一个苦于打造时尚的品牌来说，这把伞不过是它为数不多的真正原创作品之一。\n Le Kaki's flagship product. For a brand struggling to create fashion, the umbrella is no more than one of its few true creations."
+    },
+    {
+      "key": "I990805",
+      "displayName": "一张纸巾\n A Piece of Tissue Paper",
+      "statText": "具象<color=#00ff9c>HP</color> +1\n Symbolic <color=#00ff9c>HP</color> +1",
+      "description": "很难想象仅凭一张纸巾能做成什么事。不过据说在某个地方，有人只用一张就能解决如厕的问题。\n It is hard to imagine what one could accomplish with a single piece of tissue paper. Somewhere, however, someone is said to be able to finish their business in the restroom with just one."
+    },
+    {
+      "key": "I990806",
+      "displayName": "副主厨尸体上的纽扣\n Button from the Sous Chef's Corpse",
+      "statText": "在具象中，触发“你听见了吗？”<color=#F8C200>额外攻击</color>时，投射物数量 +1\n\n暗影中战斗时，击杀敌人的友方<color=#00ff9c>恢复</color>15点具象<color=#00ff9c>HP</color>和10点SP\n In the Symbolic, upon triggering \"You Hear?\" <color=#F8C200>Extra Attack</color>, number of projectile +1\n\nDuring battle in the Shadowed, <color=#00ff9c>heals</color> 15 Symbolic <color=#00ff9c>HP</color> and 10 SP for the ally that killed an enemy",
+      "description": "那些陌生人想杀我，你听见了吗？！本来好好说话就能解决的，可他们非要我死，你听见了吗？！\n The strangers are trying to kill me, you hear?! We could've settled this by talking, but they want me dead, you hear?!"
+    },
+    {
+      "key": "I990901",
+      "displayName": "针插\n Pincushion",
+      "statText": "具象<color=#00ff9c>HP</color> +3\n Symbolic <color=#00ff9c>HP</color> +3",
+      "description": "要缝纫，就需要针。\n而针不就是尖钉的另一个名字吗？缝纫是一种固定的方式，针正是为此而用的……就像尖钉一样。\n To sew, we need a needle.\nAnd what are needles but another name for nails? Sewing is a form of affixation, and that's what needles are used for... Just like nails."
+    },
+    {
+      "key": "I990902",
+      "displayName": "针族之钉\n Needlekin's Nail",
+      "statText": "具象中攻击硬直 +0.2秒\n\n具象<color=#00ff9c>HP</color> +1\n Hitstun +0.2 seconds for Attacks in the Symbolic\n\nSymbolic <color=#00ff9c>HP</color> +1",
+      "description": "针族侍奉着一位国王。这位国王是个美食家，他要求臣民不停地刺入。刺入是一把标尺，用美味在呻吟中的愉悦与痛苦中的尖叫来衡量价值。针族遵照国王的命令刺入，然后静静地舔舐渗出的分泌物。\n Needlekins serve a king. The king is a gourmet, and he demands that his subjects stab endlessly. Stabbing is a barometer that measures worth through the delicacy's moans of delight and screeches of pain. Needlekins stab as their king commands, and quietly lap up the secretions."
+    },
+    {
+      "key": "I990904",
+      "displayName": "刮舌器\n Tongue Scraper",
+      "statText": "在具象中，击杀敌人后下次攻击<color=#fe4b48>伤害</color>造成 +2\n In the Symbolic, upon killing an enemy, <color=#fe4b48>Damage</color> Dealt +2 on the next attack",
+      "description": "穿衣服之前得先把自己洗干净。别怕粗鲁一点——缝隙里得<i>使劲</i>搓。\n Gotta clean myself before getting dressed. Don't be scared to be a little rough—you gotta scrub the crevices <i>hard</i>."
+    },
+    {
+      "key": "I990905",
+      "displayName": "裸者的顶针\n Naked's Thimble",
+      "statText": "在具象中，受击时<color=#fe4b48>伤害</color>承受 -2（10秒冷却）\n In the Symbolic, <color=#fe4b48>Damage</color> Taken -2 when hit (10 seconds cooldown)",
+      "description": "这些蠢针肯定都疯了。刺刺刺——它们只会这个。看到不顺眼的东西？<i>刺！</i>它们就是这么干的。等有东西渗出来了，它们就舔干净。\n还好我带了顶针……要是在这下面没带它就被逮到，我可就麻烦大了。\n These stupid needles must all be insane. Stab stab stab—that's all they know. They see something they don't like? <i>Stab!</i> That's what they do. And when something oozes out, they lick it up.\nGlad I've got a thimble with me... I would've been in quite a pickle had I been caught down here without it."
+    },
+    {
+      "key": "I990906",
+      "displayName": "帕莱特\n Palette",
+      "statText": "在具象中受击时，在默尔索1格范围内生成<color=#F8C200>染红地砖</color>。\n- 站在这些地砖上的敌人，每2秒受到1点<color=#fe4b48>伤害</color>\n When hit in the Symbolic, creates <color=#F8C200>Red-Dyed Tiles</color> within 1 tile of Meursault.\n- Enemies standing on these tiles take 1 <color=#fe4b48>Damage</color> every 2 seconds",
+      "description": "一块摆放着各种染料的调色板。\n\n在上面混合基础颜色，就能调出想要的色调。恰当的比例和速度，是调出所需颜色的关键。\n\n那混合在一起的脓液味道，倒是相当缤纷多彩。\n A board on which dyes of many kinds are placed.\n\nBasic colors are mixed upon it to create the desired shade. The right proportions and speed are essential to make what is wanted.\n\nThe smell of all that mingled pus is quite colorful."
+    },
+    {
+      "key": "I990907",
+      "displayName": "长刷\n Long Brush",
+      "statText": "在具象中，对敌人命中<color=#F8C200>格挡</color>攻击时，攻击会向命中敌人身后延伸1格\n In the Symbolic, landing <color=#F8C200>Garde</color> on an enemy extends the attack 1 tile behind the enemy hit",
+      "description": "调和眼泪需要一支长刷。用太短的刷子，手臂可能会陷进去，被吸入其中。必须小心不要被眼泪淹没，否则会一直哭一直哭，直到把颜色都哭褪了。\n A long brush is needed to mix tears. Use a brush too short, and the arms might sink into them and be sucked under. One must be wary that they are not submerged in tears, for they will cry and cry until the colors leach out."
+    },
+    {
+      "key": "I990908",
+      "displayName": "大刷\n Large Brush",
+      "statText": "在具象中解锁<color=#F8C200>格挡</color>\n- 按住攻击键蓄力一段时间后松开，可发动高伤害<color=#F8C200>格挡</color>\n- 格挡蓄力时间：2秒\n- 格挡伤害：具象中攻击<color=#fe4b48>伤害</color> +1\n- 格挡期间<color=#F8C200>移动速度</color>降至50%\n Unlocks <color=#F8C200>Garde</color> in the Symbolic\n- Hold the Attack button for a set duration, then release to perform a high-damage <color=#F8C200>Garde</color>\n- Garde Charge Time: 2 seconds\n- Garde Damage: Attack <color=#fe4b48>Damage</color> +1 in the Symbolic\n- <color=#F8C200>Movement Speed</color> is reduced to 50% during Garde",
+      "description": "要绘出丰富多彩的色谱，需要一支大刷子。刷子越小，自然笔触就越多，但笔触次数必须尽量控制到最少。刷子每点一下，都会在我身上留下泪珠，连同它的气味。\n\n那气味让我哭泣，但我还是继续画。我为那个已经忘记眼泪与痛苦的人而画。\n One needs a large brush to paint a diverse spectrum of colors. Smaller brushes naturally lend themselves to more brushstrokes, but one must keep the number of strokes to a minimum. Each daub of the brush leaves tear droplets on me, and with them, its scent.\n\nThe scent makes me cry, but I keep painting. I paint for the one who has forgotten tears and pain."
+    },
+    {
+      "key": "I990909",
+      "displayName": "两张纸巾\n Two Tissue Papers",
+      "statText": "具象<color=#00ff9c>HP</color> +3\n Symbolic <color=#00ff9c>HP</color> +3",
+      "description": "纸巾在这层楼有两个用途：作为当贯之物，或用来吸收眼泪。它薄得容易被刺穿，却又布满足够细小的孔洞，能吸收大量脓液。\n Tissue paper serves two purposes on this floor: to be pierced, or to soak up tears. It is thin enough to puncture easily, yet full of enough tiny holes to soak up a great deal of pus."
+    },
+    {
+      "key": "I990910",
+      "displayName": "果汁\n Juice",
+      "statText": "在具象中，将<color=#F8C200>格挡</color>期间的<color=#F8C200>移动速度</color>降幅改为25%\n\n具象<color=#00ff9c>HP</color> +1\n In the Symbolic, changes the <color=#F8C200>Movement Speed</color> reduction during <color=#F8C200>Garde</color> to 25%\n\nSymbolic <color=#00ff9c>HP</color> +1",
+      "description": "被突刺之后流出来的东西，就是果汁。喝掉它。戳破眼泪的气泡，把涌出来的东西喝下去。或者突刺别人，让他们哭出脓液。\n味道，跟着悲伤的滋味走。\n Anything that comes out when pierced is juice. Drink it. Poke and pop the bubble of tears and drink what bursts forth. Or pierce someone else and make them weep pus.\nThe flavor follows the taste of sorrow."
+    },
+    {
+      "key": "I990911",
+      "displayName": "针工之王的牙刷\n Toothbrush of the King of Needleworks",
+      "statText": "在具象中，每1秒对追击默尔索的敌人触发一次<color=#F8C200>额外攻击</color>\n- 对5格范围内随机1名追击中的敌人造成2点<color=#fe4b48>伤害</color>\n- 不会以巡逻或逃跑中的敌人为目标\n- <color=#F8C200>冲刺</color>期间不会触发\n\n In the Symbolic, triggers an <color=#F8C200>Extra Attack</color> every 1 second against enemies pursuing Meursault\n- Deals 2 <color=#fe4b48>Damage</color> to 1 random pursuing enemy within 5 tiles\n- Does not target enemies that are patrolling or fleeing\n- Does not trigger while <color=#F8C200>Sprinting</color>\n",
+      "description": "一把牙刷，刷头是一片细密尖钉组成的森林。\n\n尖钉刮蹭皮肤，撕开并击穿嵌入其中的东西，将皮下的体液排出。\n\n然后，把它呈给国王品尝。\n A toothbrush whose head is a forest of spindly nails.\n\nThe nails grate the skin, ripping and breaking through what is embedded. This drains the subdermal fluid.\n\nThen, it is brought to the king for tasting."
+    },
+    {
+      "key": "I992701",
+      "displayName": "正午之蓝\n Noonday Blue",
+      "description": "正午时分，太阳升至最高点。太阳越高，影子越短。当阳光变为蓝色时，影子会缩短到肉眼不可见。\n At noon, the sun reaches its highest point. The higher the sun, the shorter the shadow. The shadow shrinks beyond sight when the sunlight is blue."
+    },
+    {
+      "key": "I992702",
+      "displayName": "猎物的沉思\n Ruminations of the Prey",
+      "description": "这道菜带来的是被吃掉的完整体验。品尝它就意味着死亡，因为品尝者自己已经成了被吞食的猎物。\n This dish grants the complete experience of being eaten. Tasting it brings death, for the taster has become consumed as prey."
+    },
+    {
+      "key": "I992704",
+      "displayName": "金色蚕茧\n Golden Cocoon",
+      "statText": "在具象中解锁<color=#F8C200>提灯</color>\n- 按下提灯键（键盘上是F键）可开关照亮角色朝向的<color=#F8C200>提灯</color>\n Unlocks <color=#F8C200>Lantern</color> in the Symbolic\n- Press the Lantern button (F on keyboard) to toggle the <color=#F8C200>Lantern</color> that illuminates the direction the character is facing",
+      "description": "那茧像是在呼唤着谁一样哭泣着。这个孩子从一段早已逝去的过去被带来，随波逐流冲上岸，一路漂到了美食广场……如今已经变成了一道菜。\n The cocoon cries as if calling out to someone. Carried from a past now gone, the child washed ashore, drifted as far as the Food Court... and has now become a dish."
+    },
+    {
+      "key": "I990934",
+      "displayName": "脏围裙\n Dirty Apron",
+      "statText": "在具象中，将敌人血条的显示阈值改为100%\n- 持有期间，敌人血条从第一次命中起就会显示\n In the Symbolic, changes the HP threshold for displaying enemy HP bars to 100%\n- While owned, enemy HP bars are displayed from the first hit onward",
+      "description": "看不见的东西，必须被颜色反复覆盖，直到轮廓浮现出来。把足够多的颜色泼洒在那些看不见的东西上，你就会意识到自己的躯干也已经被染上了颜色。\n What is invisible must be coated in color until its outline emerges. Splash enough unseen things with color, and one realizes that one's own body has become stained."
+    },
+    {
+      "key": "I992806",
+      "displayName": "深海染料\n Deep-sea Dye",
+      "description": "每隔很长一段时间，就会有一滴眼泪从最深处被打捞出来，浮肿不堪。经过一段漫长而艰辛的搅拌，去除那股恶臭与黑污之后……这滴眼泪才恢复原本的澄澈。\n\n深海染料，正是用这类古老存在的眼泪制成的。\n There is a tear that, once every long while, is dredged up bloated from the deepest depths. After a long, grueling process of stirring through the rancid stench and the smudging black... the tear regains its original clarity.\n\nThe Deep-sea Dye is made from the tears of such olden beings."
+    },
+    {
+      "key": "I992807",
+      "displayName": "金色染料\n Golden Dye",
+      "description": "将金色树脂分泌的液体与脓液混合。\n\n每一分金色都密密实实地饱含着意义与价值，足以让任何染料同样染上金色。困难的部分在于如何获取那分泌物。\n Mix the secretion from the Golden Resin with the pus.\n\nEach ounce of the golden is densely saturated with meaning and worth, enough to turn any dye just as aureate. The hard part is getting the secretion."
+    },
+    {
+      "key": "I992808",
+      "displayName": "金色线束\n Golden Skein",
+      "description": "为了运输而缠绕起来的织线。转啊，转啊，转啊……在它生命的每一个阶段，这根线都在旋转。\n Woven threads wound for transport. Spin, spin, spin... In every step of its life, the thread spins."
+    },
+    {
+      "key": "I993002",
+      "displayName": "黄色眼泪\n Yellow Tears",
+      "description": "眼泪如黄色的脓液般涌出。\n Tears well like yellow pus."
+    },
+    {
+      "key": "I993003",
+      "displayName": "红色眼泪\n Red Tears",
+      "description": "那红肿的眼泪，像一个满是脓液的脓包一样破裂开来。\n The red, swollen tears burst like a pus-filled abscess."
+    },
+    {
+      "key": "I993004",
+      "displayName": "蓝色眼泪\n Blue Tears",
+      "description": "蓝色染料闻起来有脓液的气味。\n The blue dye smells of pus."
+    },
+    {
+      "key": "I990925",
+      "displayName": "木屑\n Sawdust",
+      "statText": "具象中攻击的<color=#F8C200>硬直</color> +0.2秒\n <color=#F8C200>Hitstun</color> +0.2 seconds for Attacks in the Symbolic",
+      "description": "人为什么会在黑暗中摸索，去寻找意义的碎屑？\n意义究竟是碎屑本身固有的，还是这寻找的过程本身，才赋予了它意义？\n Why does one stumble in the dark for the crumbs of meaning?\nDoes one find meaning inherent in the crumbs, or does the search itself imbue them with one?"
+    },
+    {
+      "key": "I990924",
+      "displayName": "天蓝色染料\n Sky-blue Dye",
+      "statText": "暗影中战斗时：\n赢得一场遭遇后，<color=#00ff9c>恢复</color>10%具象<color=#00ff9c>HP</color>\n During battle in the Shadowed:\nAfter winning an Encounter, <color=#00ff9c>heal</color> 10% Symbolic <color=#00ff9c>HP</color>",
+      "description": "西西弗百货里的人们明明谁都看不见这里的天空，却把这种染料叫做“天蓝色”，你不觉得挺可笑的吗？再说了，根本没有所谓的“天空色”——真正的天空会随时间、天气……或者观者的心境而变化颜色。\n Isn't it funny that the people of the Grand Magasin Sisyphe call this dye \"sky-blue\" when none of them can see the sky in here? Besides, there's no such thing as \"sky-color\"—the real sky changes color with the time of day, the weather, or... the observer's heart."
+    },
+    {
+      "key": "I990923",
+      "displayName": "纺锤\n Thread",
+      "statText": "在具象中，命中攻击后5秒内：\n- 目标<color=#F8C200>移动速度</color> -10%\n- 目标<color=#fe4b48>伤害</color>造成 -2\n\n（15秒冷却）\n In the Symbolic, for 5 seconds upon landing an attack:\n- Target's <color=#F8C200>Movement Speed</color> -10%\n- Target's <color=#fe4b48>Damage</color> Dealt -2 \n\n(15 second cooldown)",
+      "description": "用薄薄切片的默尔索捻成的线。它的颜色相当眼熟。\n A thread twined from thinly sliced Meursault. Its color is quite familiar."
+    },
+    {
+      "key": "I990922",
+      "displayName": "“哇哈哈哈！”\n \"Bwahahaha!\"",
+      "statText": "暗影中战斗时：\n友方对西西弗敌人造成的<color=#fe4b48>伤害</color> +5%\n During battle in the Shadowed:\nAllies deal +5% <color=#fe4b48>damage</color> against Sisyphe enemies",
+      "description": "你觉得西西弗百货的墙壁是用什么做的？\n What do you think the walls of the Grand Magasin Sisyphe are made of?"
+    },
+    {
+      "key": "I990815",
+      "displayName": "食物残渣\n Food Scraps",
+      "statText": "暗影中战斗时：\n回合开始：<color=#00ff9c>HP</color>低于50%的友方获得1层<color=#00ff9c>HP恢复</color>强化（每场遭遇最多4次）\n During battle in the Shadowed:\nTurn Start: Ally that has lower than 50% <color=#00ff9c>HP</color> gains 1 <color=#00ff9c>HP Healing</color> Boost (4 times per Encounter)",
+      "description": "你知道食物到哪里为止算是食物，从哪里开始算是残渣吗？\n\n咬一口就把剩下的扔掉，那就成了废物。可对某些人来说，那废物却成了绝佳的稀有食材，被欣喜地吞下。我的意思是，在美食广场里，什么才算残渣，是一个极其重要的问题……而眼下，任何不是漆黑者的东西都被当成了残渣。\n Do you know where food ends and scraps begin?\n\nTake one bite and throw the rest away, and it becomes refuse. But to some, that waste becomes a wonderfully rare ingredient, devoured with delight. What I mean is, what counts as scraps is an incredibly important issue in the Food Court... and right now, anything that isn't Noir is considered scraps."
+    },
+    {
+      "key": "I990814",
+      "displayName": "地图残片\n Map Fragment",
+      "statText": "在暗影中进入战斗时，获得1点<color=#F8C200>E.G.O资源获取量提升</color>，持续1回合\n Upon entering battle in the Shadowed, gain 1 <color=#F8C200>E.G.O Resource Amp</color> for 1 turn",
+      "description": "一张标出通往奢华厅直接捷径的地图，如今已被用旧、字迹难辨。西西弗系统整体上是层层叠叠的叠加结构，而这正是它得以容纳数量惊人的顾客的原因。\n这张地图由为数不多能分析这种多层结构的头脑绘制，价值不可估量。\n\n而它，落入了赤红者手中。\n A map outlining a direct inroad into the Luxury Hall, but it is now used and illegible. Sisyphe System is, as a whole, a superposition of layers upon layers, which is precisely what permits it to house an implausible number of customers.\nCreated by the few minds able to analyze the many-tiered structure, this map is of astronomical worth.\n\nAnd it fell into the Rouges' hand."
+    },
+    {
+      "key": "I990320",
+      "displayName": "金色布料\n Golden Fabric",
+      "description": "如果一件衣服是用最有价值、最有意义的材质制成的……那这件衣服是否也和这材质一样崇高？\n If a garment is made from the most worthy and meaningful material of all... does that make the garment as exalted as the material?"
+    },
+    {
+      "key": "I990008",
+      "displayName": "李箱\n Yi Sang",
+      "statText": "具象中<color=#F8C200>移动速度</color> +10%\n\n在具象中，命中攻击后，目标<color=#fe4b48>伤害</color>造成 -1，持续5秒（10秒冷却）\n <color=#F8C200>Movement Speed</color> +10% in the Symbolic\n\nIn the Symbolic, upon landing an attack, target's <color=#fe4b48>Damage</color> Dealt -1 for 5 seconds (10 seconds cooldown)",
+      "description": "翅膀的象征。成为自由之人。\n Symbol of Wings. To become free."
+    },
+    {
+      "key": "I990009",
+      "displayName": "浮士德\n Faust",
+      "statText": "具象中<color=#F8C200>弱点攻击</color><color=#fe4b48>伤害</color>造成 +2\n In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +2",
+      "description": "知识的象征。成为聪慧之人。\n Symbol of Knowledge. To become clever."
+    },
+    {
+      "key": "I990010",
+      "displayName": "堂吉诃德\n Don Quixote",
+      "statText": "在具象中，击杀敌人后<color=#00ff9c>恢复</color>5%具象<color=#00ff9c>HP</color>（10秒冷却）\n In the Symbolic, <color=#00ff9c>heals</color> 5% Symbolic <color=#00ff9c>HP</color> upon killing an enemy (10 seconds cooldown)",
+      "description": "行动的象征。成为精力充沛之人。\n Symbol of Action. To become vigorous."
+    },
+    {
+      "key": "I990011",
+      "displayName": "良秀\n Ryōshū",
+      "statText": "在具象中，命中攻击时有20%概率施加1层<color=#F8C200>易损标记</color>\n（<color=#F8C200>易损标记</color>：<color=#fe4b48>伤害</color>承受 +10%）\n In the Symbolic, 20% chance to inflict 1 <color=#F8C200>Fragile Mark</color> upon landing an attack\n(<color=#F8C200>Fragile Mark</color>: <color=#fe4b48>Damage</color> Taken +10%)",
+      "description": "爱憎的象征。<s>斩断</s>缠绕。\n Symbol of Affection and Resentment. To <s>sever</s> twine."
+    },
+    {
+      "key": "I990012",
+      "displayName": "鸿璐\n Hong Lu",
+      "statText": "通过默尔索的攻击在暗影中进入战斗时，场上所有友方<color=#F8C200>恢复5~10点SP</color>\n Upon entering battle in the Shadowed via Meursault's Attack, all allies on the field <color=#F8C200>heal 5~10 SP</color>",
+      "description": "洞察的象征。凝视。\n Symbol of Insight. To watch."
+    },
+    {
+      "key": "I990013",
+      "displayName": "希斯克利夫\n Heathcliff",
+      "statText": "具象中<color=#F8C200>移动速度</color> +10%\n\n在具象中，击杀敌人后攻击<color=#fe4b48>伤害</color>造成 +2，持续20秒（30秒冷却）\n <color=#F8C200>Movement Speed</color> +10% in the Symbolic\n\nIn the Symbolic, Attack <color=#fe4b48>Damage</color> Dealt +2 for 20 seconds upon killing an enemy (30 seconds cooldown)",
+      "description": "风暴的象征。铭记!@#!$。\n Symbol of the Storm. To remember !@#!$."
+    },
+    {
+      "key": "I990014",
+      "displayName": "以实玛利\n Ishmael",
+      "statText": "在具象中，命中攻击后将目标<color=#F8C200>移动速度</color>降低20%，持续10秒（13秒冷却）\n In the Symbolic, upon landing an attack, reduce target's <color=#F8C200>Movement Speed</color> by 20% for 10 seconds (13 seconds cooldown)",
+      "description": "冒险的象征。启航。\n Symbol of Adventure. To set sail."
+    },
+    {
+      "key": "I990015",
+      "displayName": "罗佳\n Rodion",
+      "statText": "若目标具象<color=#00ff9c>HP</color>在50%以上，攻击<color=#fe4b48>伤害</color>造成 +1\n If target has 50%+ Symbolic <color=#00ff9c>HP</color>, Attack <color=#fe4b48>Damage</color> Dealt +1",
+      "description": "英雄的象征。等待。\n Symbol of the Hero. To await."
+    },
+    {
+      "key": "I990016",
+      "displayName": "辛克莱\n Sinclair",
+      "statText": "在具象中：\n- 对正面敌人<color=#fe4b48>伤害</color>造成 +2\n- 对身后敌人<color=#fe4b48>伤害</color>承受 -2\n In the Symbolic:\n- <color=#fe4b48>Damage</color> Dealt +2 against enemies in the front\n- <color=#fe4b48>Damage</color> Taken -2 from enemies behind",
+      "description": "觉醒的象征。觉醒。\n Symbol of Awakening. To awaken."
+    },
+    {
+      "key": "I990017",
+      "displayName": "奥提斯\n Outis",
+      "statText": "若目标具象<color=#00ff9c>HP</color>低于50%，<color=#fe4b48>伤害</color>造成 +1\n If the target has lower than 50% Symbolic <color=#00ff9c>HP</color>, <color=#fe4b48>Damage</color> Dealt +1",
+      "description": "诡计的象征。游荡。\n Symbol of Guile. To wander."
+    },
+    {
+      "key": "I990018",
+      "displayName": "格里高尔\n Gregor",
+      "statText": "具象HP低于25%时，<color=#00ff9c>恢复</color>15点具象<color=#00ff9c>HP</color>，且接下来10秒内<color=#fe4b48>伤害</color>承受 -20%（19秒冷却）\n At lower than 25% Symbolic HP, <color=#00ff9c>heals</color> 15 Symbolic <color=#00ff9c>HP</color> and <color=#fe4b48>Damage</color> Taken -20% for the next 10 seconds (19 seconds cooldown)",
+      "description": "蜕变的象征。吞噬。\n Symbol of Metamorphosis. To consume."
+    },
+    {
+      "key": "I990432",
+      "displayName": "目灯拉绳\n Lamp Pull Cord",
+      "statText": "在具象中，若玩家3秒内未移动，下次攻击<color=#fe4b48>伤害</color>造成 +2（10秒冷却）\n If player did not move for 3 seconds in the Symbolic, <color=#fe4b48>Damage</color> Dealt +2 for the next attack (10 seconds cooldown)",
+      "description": "拉一下绳子，灯就亮了。再拉一下，灯就灭了。目灯与绳子紧紧相系。这就是绳子与尖钉的共通之处……也是它们的不同之处。\n Pull the cord, and the light turns on. Pull it again, and the light goes dark. The lamp is bound to the cord. This is what cords and nails share... and what sets them apart."
+    },
+    {
+      "key": "I990117",
+      "displayName": "过时的赤红者服装\n Out-of-style Rouge Clothing",
+      "statText": "具象<color=#00ff9c>HP</color> +4\n Symbolic <color=#00ff9c>HP</color> +4",
+      "description": "一枚钉在砖墙上、来自过去某个季节的钉子。它或许曾经引领潮流，但如今不过是过时之物。\n A nail from a bygone season, driven into brick. It may once have been on trend, but now it is merely out-of-style."
+    },
+    {
+      "key": "I990321",
+      "displayName": "老式录音机\n Old Recorder",
+      "statText": "在暗影中进入战斗时，场上所有友方<color=#F8C200>恢复4点SP</color>\n Upon entering battle in the Shadowed, all allies on the field <color=#F8C200>heal 4 SP</color>",
+      "description": "一段录制好的“声音”从机器中流淌出来。它流淌着，却依然被囚禁着。即便是“声音”，也能被钉在原地。\n A recorded Voice flows from the machine. It flows, yet remains imprisoned. Even a Voice can be nailed in place."
+    },
+    {
+      "key": "I990322",
+      "displayName": "死鸟\n Dead Bird",
+      "statText": "具象中<color=#F8C200>弱点攻击</color><color=#fe4b48>伤害</color>造成 +1\n In the Symbolic, <color=#F8C200>Weakpoint Attack</color> <color=#fe4b48>Damage</color> Dealt +1",
+      "description": "一只鸟用了一生的时间，对着一支号角歌唱。有一天，它把头探进号角里，唱到死去为止。下一只鸟，则被安排在笼子里歌唱。\n A bird spent its entire life singing into a horn. One day, it thrust its head into the horn and sang until it died. The next bird was made to sing from inside a cage."
+    },
+    {
+      "key": "I990323",
+      "displayName": "袜子\n Socks",
+      "statText": "具象<color=#00ff9c>HP</color> +4\n Symbolic <color=#00ff9c>HP</color> +4",
+      "description": "鞋子还需要袜子，这事挺奇怪的。我们穿鞋是为了保护双脚，可为什么还要在脚和鞋之间再垫一层，来保护这两者？\n又或者……那份多余，正是袜子尊严的来源。鞋子属于本能——我们<i>需要</i>鞋子，是因为没有它脚会疼；而袜子属于文明的范畴，因为我们<i>想要</i>那份舒适。\n It's strange that shoes require socks. We wear shoes to protect our feet, yet we place another layer between the foot and the shoe to protect them both?\nOr... perhaps that excess is what gives socks their dignity. Shoes belong to instinct—we <i>need</i> shoes because our feet hurt without them, while socks fall within the realm of civilization because we <i>want</i> the comfort."
+    },
+    {
+      "key": "I102023",
+      "displayName": "品牌总监的遗物\n Brand Director's Effects",
+      "statText": "在具象中受击时，有10%概率对攻击者反弹3点<color=#fe4b48>伤害</color>\n When hit in the Symbolic, 10% chance to return 3 <color=#fe4b48>Damage</color> against the attacker",
+      "description": "赤红者的品牌总监。\n\n品牌的每一层意义与方向，都是在她的号令下确定的。没有人比她更清楚地听见过赤红之神的“声音”。令人钦佩的是，即使在那“声音”消失之后，这位品牌总监仍然试图塑造一个新的存在，好让那“声音”能够再次被听见。若她愿意，赤红之神的缺席本可以一直被隐瞒下去，但她选择了不这么做。\n Le Rouge's Brand Director.\n\nEvery meaning and direction of the brand was decided under her command. No one heard the Crimson God's Voice more clearly than she did. Admirably, even after that Voice vanished, the Brand Director sought to fashion a new being through which the Voice might be heard again. The Crimson God's absence could have remained hidden had she wished it so, but she chose not to."
+    },
+    {
+      "key": "I990919",
+      "displayName": "重复\n Repetition",
+      "statText": "在具象中解锁<color=#F8C200>自动攻击</color>。\n\n按下自动攻击键（键盘上是T键）可切换开/关。根据角色朝向侦测敌人，并<color=#F8C200>自动使用普通攻击</color>\n- 侦测范围：前方4格，左右各1格\n- 优先执行移动或格挡等其他动作；其他动作结束后恢复自动攻击\n- 无论开关状态如何，都会移除攻击后的移动延迟\n- 以下情况会自动切换为关：\n  - 楼层间移动时\n  - 进入暗影中的战斗时\n Unlocks <color=#F8C200>Auto-attack</color> in the Symbolic.\n\nPress the Auto-attack (T on keyboard) button to toggle ON/OFF. Detects enemies based on character orientation and <color=#F8C200>automatically uses the Basic Attack</color>\n- Detection Range: 4 tiles ahead, 1 tile each left & right\n- Prioritizes other actions such as Move or Block; resumes Auto-attack when other actions are completed\n- Removes post-attack movement delay regardless of toggling\n- Automatically toggled OFF when:\n  - Moving between floors\n  - Entering a battle in the Shadowed",
+      "description": "自动重复。只管执行。但愿这重复，至少能给你带来一点便利。\n Repeat automatically. Simply execute. May this repetition, at least, prove convenient to you."
+    },
+    {
+      "key": "I1209",
+      "displayName": "淬火裁缝剪刀\n Tempered Sewing Scissors",
+      "statText": "在具象中，命中攻击时有30%概率触发<color=#F8C200>剪刀咔嚓额外攻击</color>，造成1点<color=#fe4b48>伤害</color>（0.3秒硬直）\n\n在暗影中进入战斗时，对所有敌人施加与其被该效果命中次数相等的流血层数（最多5层）\n In the Symbolic, 30% chance to trigger <color=#F8C200>Scissors-snip Extra Attack</color> dealing 1 <color=#fe4b48>Damage</color> upon landing an attack (0.3 seconds Hitstun)\n\nUpon entering battle in the Shadowed, inflicts on all enemies Bleed Count equal to the number of times they were struck by this effect (max 5)",
+      "description": "改衣师裁开布料，再依照版型重新缝合。最近剪刀声变得响亮了许多——漆黑者想必下了个大订单。莫非一场大冲突就要爆发了？\n The Alterationist cuts fabric, then joins it again according to the pattern. The snipping has grown much louder of late—the Noirs must have placed an enormous order. Perhaps a major conflict is about to break out?"
+    }
+  ]
+}

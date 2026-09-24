@@ -1,0 +1,199 @@
+{
+  "dataList": [
+    {
+      "key": "Q3001",
+      "title": "前往3层\n Head to 3F",
+      "description": "不出所料，2层再次进入“翻修”状态。前往3层吧。\n As expected, 2F is under \"renovation\" again. Let's make our way to 3F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "搭乘前往3层的自动扶梯\n Get on the escalator to 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3002",
+      "title": "循着咔嚓声前进\n Follow the Snip-snip",
+      "description": "我们抵达了3层，果然又听见了剪刀声。前往改衣室寻找安妮特。\n We've reached the 3F, and sure enough, the sound of scissors is back. Head to the Alteration Shop and find Annette.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往改衣室\n Head to the Alteration Shop"
+        }
+      ]
+    },
+    {
+      "key": "Q3004",
+      "title": "前往红派精品店\n Head to Boutique du Rouge",
+      "description": "不出所料，两件套再次挡住了走廊。右侧的店铺无法抵达，先去左侧的红派精品店吧。\n As expected, the Two-piece is blocking the corridor again. The store on the right is out of reach. Head to Boutique du Rouge on the left instead.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往红派精品店\n Head to Boutique du Rouge"
+        }
+      ]
+    },
+    {
+      "key": "Q3005",
+      "title": "与不可动摇者交谈\n Talk to L'Inamovible",
+      "description": "红派精品店再次充斥着红派巨人——默尔索母亲的声音。上次听不见声音令精品店的商贩万分苦恼，这次恐怕也不会有所不同。先和她谈谈吧。\n Once again, the Boutique is filled with the Voice of Le Rouge's Giant—Meursault's mother. The Boutique's vendor was deeply distressed that she couldn't hear the Voice last time, and this time will likely be no different. Let's talk to her first.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与不可动摇者交谈\n Talk to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3006",
+      "title": "前往走廊\n Head Out to the Corridor",
+      "description": "先前只能饱受折磨的精品店商贩说，她又能听见声音了。这或许与我们携带的血肉碎片有关。这一次，她希望我们杀死改衣室里的安妮特。我们还没决定该怎么做，于是暂且决定前往右侧的黑派品牌世家。也许那场“会议”现在已经结束了……\n The Boutique's vendor, who could do little but suffer before, says she can hear the Voice again. It may have something to do with the piece of flesh we're carrying. This time, she wants us to kill Annette in the Alteration Shop. We're not sure what to do yet, so for now, we decided to head to Maison du Noir on the right. Maybe the \"meeting\" is over by now...",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往走廊\n Head out to the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3020",
+      "title": "绕路前往黑派品牌世家\n Take a detour to Maison du Noir",
+      "description": "两件套再次挡住了走廊，而且似乎注意到了我们携带的血肉碎片。从红派精品店的广播室绕行，寻找另一条通往黑派品牌世家的路。\n Two-piece is blocking the corridor again, and they seem to have noticed the piece of flesh we're carrying. Find another way to Maison du Noir by going around through the Public Address Room in Boutique du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "绕路前往黑派品牌世家\n Take a detour to Maison du Noir"
+        }
+      ]
+    },
+    {
+      "key": "Q3021",
+      "title": "杀死黑派品牌世家中的法兰绒与毛毡\n Kill Flannel and Felt at Maison du Noir",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q3022",
+      "title": "返回改衣室\n Return to the Alteration Shop",
+      "description": "据让娜所说，西西弗百货的结局早已注定，做出其他选择也不会改变任何事。但我们不能就这样袖手旁观。若要做出不同的选择，就必须返回改衣室。\n According to Jeanne, the Grand Magasin's ending is already set, and making other choices won't change a thing. But we can't just twiddle our thumbs and do nothing. If we're going to make a different choice, we need to head back to the Alteration Shop.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回改衣室\n Return to the Alteration Shop"
+        }
+      ]
+    },
+    {
+      "key": "Q3023",
+      "title": "杀死安妮特\n Kill Annette",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q3024",
+      "title": "返回不可动摇者处\n Return to L'Inamovible",
+      "description": "我们击败了安妮特，但她在死前警告我们，我们已经不可挽回地成为了黑派的敌人。也许这项选择会在这一次导向不同的结局。返回红派精品店的商贩处吧。\n We defeated Annette, but not before she warned us that we had irrevocably made ourselves enemies of Le Noir. Maybe this choice will lead to a different ending this time. We should return to the vendor at Boutique du Rouge.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回不可动摇者处\n Return to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3025",
+      "title": "返回2层\n Return to 2F",
+      "description": "精品店的女店主欣喜若狂，要我们前往2层的奢侈品馆。她说声音正在那里呼唤我们。要是上次没有强行把那东西从茧里弄出来，也许结果会有所不同。返回2层吧。\n The Boutique's proprietress was overjoyed and told us to head for the Luxury Hall on 2F. She says the Voice is calling us there. Maybe things would have turned out differently if we hadn't forced that thing out of the cocoon last time. We should return to 2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回2层\n Return to 2F"
+        }
+      ]
+    },
+    {
+      "key": "Q3003",
+      "title": "前往走廊\n Head Out to the Corridor",
+      "description": "与上次不同，安妮特拒绝交出剪刀。没有剪刀，恐怕很难处理挡住走廊的人台。我们得确认这次两件套是否仍守在那里。\n Unlike last time, Annette refused to hand over the scissors. Without them, dealing with the Mannequin blocking the corridor may prove difficult. We need to check whether Two-piece is still guarding the way this time.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往走廊\n Head out to the corridor"
+        }
+      ]
+    },
+    {
+      "key": "Q3026",
+      "title": "前往3层\n Head to 3F",
+      "description": "这一次，我们选择站在红派一边，因此必须采取相应行动。前往3层红派精品店的商贩处，她一直在苦苦等待再次听见声音。\n This time, we've chosen to side with Le Rouge, so we'll have to act accordingly. We should go to Boutique du Rouge's vendor on 3F, who has been waiting desperately to hear the Voice again.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往3层\n Head to 3F"
+        }
+      ]
+    },
+    {
+      "key": "Q3027",
+      "title": "让不可动摇者看看孩子\n Show the child to L'Inamovible",
+      "description": "我们抵达了3层。让红派精品店的商贩看看这个孩子吧。\n We've arrived at 3F. Let's show the child to Boutique du Rouge's vendor.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "让不可动摇者看看孩子\n Show the child to L'Inamovible"
+        }
+      ]
+    },
+    {
+      "key": "Q3028",
+      "title": "检查不可动摇者的遗骸\n Inspect L'Inamovible's remains",
+      "description": "精品店的女店主递给孩子一条手帕，就在孩子接过它的瞬间，她在我们眼前爆裂开来。搜索遗骸，寻找能用作尖钉的东西。\n The proprietress of the Boutique handed the child a handkerchief, and the moment it was accepted, she burst apart before our eyes. Search the remains for something we can use as a Nail.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "检查不可动摇者的遗骸\n Inspect L'Inamovible's remains"
+        }
+      ]
+    },
+    {
+      "key": "Q3016T",
+      "title": "(내부) 플로어 매니저 개전 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 개전 래치"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H1",
+      "title": "(내부) 플로어 매니저 타격 1",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 1"
+        }
+      ]
+    },
+    {
+      "key": "Q3016H2",
+      "title": "(내부) 플로어 매니저 타격 2",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "(내부) 플로어 매니저 타격 2"
+        }
+      ]
+    }
+  ]
+}

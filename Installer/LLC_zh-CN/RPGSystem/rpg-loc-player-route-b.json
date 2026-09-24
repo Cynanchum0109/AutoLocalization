@@ -1,0 +1,68 @@
+{
+  "dataList": [
+    {
+      "key": "1",
+      "displayName": "李箱\n Yi Sang"
+    },
+    {
+      "key": "2",
+      "displayName": "浮士德\n Faust"
+    },
+    {
+      "key": "3",
+      "displayName": "堂吉诃德\n Don Quixote"
+    },
+    {
+      "key": "4",
+      "displayName": "良秀\n Ryōshū"
+    },
+    {
+      "key": "5",
+      "displayName": "默尔索\n Meursault"
+    },
+    {
+      "key": "6",
+      "displayName": "鸿璐\n Hong Lu"
+    },
+    {
+      "key": "7",
+      "displayName": "希斯克利夫\n Heathcliff"
+    },
+    {
+      "key": "8",
+      "displayName": "以实玛利\n Ishmael"
+    },
+    {
+      "key": "9",
+      "displayName": "罗佳\n Rodion"
+    },
+    {
+      "key": "10",
+      "displayName": "辛克莱\n Sinclair"
+    },
+    {
+      "key": "11",
+      "displayName": "奥提斯\n Outis"
+    },
+    {
+      "key": "12",
+      "displayName": "格里高尔\n Gregor"
+    },
+    {
+      "key": "13",
+      "displayName": "但丁\n Dante"
+    },
+    {
+      "key": "400041",
+      "displayName": "布布\n Pwie"
+    },
+    {
+      "key": "400042",
+      "displayName": "布布\n Pwie"
+    },
+    {
+      "key": "400043",
+      "displayName": "布布\n Pwie"
+    }
+  ]
+}

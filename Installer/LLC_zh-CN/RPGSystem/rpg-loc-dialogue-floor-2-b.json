@@ -1,0 +1,1654 @@
+{
+  "dataList": [
+    {
+      "key": "D2002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……这儿是咋回事？\n ... What's goin' on here?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "如你所见，奢侈品馆正在进行室内装潢翻新。\n Interior design renovation is underway at the Luxury Hall, as you can see.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 2,
+          "text": "请小心脚下。\n Please watch your step.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 3,
+          "text": "啊，抱歉扰民了。这次翻新可是个大工程。\n Ah, apologies for the noise. This renovation is a rather large-scale construction project.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 4,
+          "text": "……“翻新”，是吧？\n ... \"Renovation,\" eh?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 5,
+          "text": "我那老大以前常说，“伙计们，抄家伙！咱们要去<i>‘翻新’</i>一大堆脸了！”——每回去找别的帮派麻烦时都这么说。\n My old bossman used to say \"grab yer tools, lads! We're headin' out to <i>renovate</i> a whole lotta mugs!\" whenever we went after other Syndicates.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 6,
+          "text": "你说的就是这个意思吧，小姐？\n That what you mean, lass?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 7,
+          "text": "不完全是；这只是一次非常特别的改造，跟以往任何一次都不一样——不只是换几件过时的陈列品那么简单。这一次的工程，是要建一座摇篮……以迎接一位十分重要之人的降临。\n Not exactly, no; this is just a very special refitting, quite unlike any before it—more than just switching out a few out-of-fashion displays. This time, the project is to build a cradle... in anticipation of the advent of a very important someone.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 8,
+          "text": "我这才明白过来。原来就是在这个时候，红派袭击了黑派，夺下了奢侈品馆的控制权。\n I see now. This is when the Rouges attacked the Noirs, taking control of the Luxury Hall."
+        },
+        {
+          "index": 9,
+          "text": "所以……他们里头在吃什么呢？搞什么食人盛宴不成？\n So... what're they eatin' back there? Some kinda cannibal feast?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 10,
+          "text": "我们正在享用黑派。不过这恐怕还远远填不饱我们的饥饿……\n We are feasting on the Noir. Though this will hardly sate our hunger...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 11,
+          "text": "施工完成后请再来。届时，你们将会看到这地方脱胎换骨，变得更加壮丽！\n Please return once the construction work is complete. You will soon see this place reborn into a far grander state of beauty!",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 12,
+          "text": "（她哼着一段悦耳的小调，看起来颇为自得。）\n (She hums a nice tune, seemingly pleased with herself.)",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 13,
+          "text": "……等他们的“施工<i>项目</i>”完成后，再回奢侈品馆看看，方为上策。\n ... It would be prudent to revisit the Luxury Hall once their \"construction <i>project</i>\" is completed.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 14,
+          "text": "……嗯。你是怎么知道他们不会让咱们进去的，钟？\n ... Huh. How'd you know they won't let us in, Clock?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 15,
+          "text": "<哦，那是……>\n <Oh, that’s…>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2002B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我一直没跟罪人们透露循环的细节，因为在自己都还没弄明白它是怎么回事之前就说出去，恐怕只会让他们陷入更深的不确定之中。\n I'd been holding back on sharing the details of the loop with the Sinners, as doing so before I even understood how it worked might only plunge them into further uncertainty."
+        },
+        {
+          "index": 1,
+          "text": "但既然我们已经走到了这一步，或许把……循环的事告诉他们，能让他们提供些新的见解。\n But now that we're this far in, maybe they could provide further insight if I kept them in the loop about... the loop."
+        },
+        {
+          "index": 2,
+          "text": "就在我准备认真考虑这个念头时，一个遥远的声音，穿透了某种深不可测的距离，直接闯进了我的脑海。\n Just as I was about to entertain that thought, a distant voice, breaking through an unfathomable stretch, cut through into my head."
+        }
+      ]
+    },
+    {
+      "key": "D2002C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#515aee>你不能……</color>\n <color=#515aee>You mustn't...</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#515aee>被……众人的目光所困……</color>\n <color=#515aee>Beset by... the gaze of the multitude...</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#515aee>免得你的命运……就此迷失……</color>\n <color=#515aee>Lest your fate... be lost...</color>"
+        }
+      ]
+    },
+    {
+      "key": "D2002D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<…!?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "……发生什么事了吗？\n ... Has something occurred?",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 2,
+          "text": "看来能听见这个声音的，只有我一个。\n I must be the only one who can hear this voice."
+        },
+        {
+          "index": 3,
+          "text": "<color=#515aee>透露太多……有暴露的……风险……</color>\n <color=#515aee>Disclosing too much... risks... exposure...</color>"
+        },
+        {
+          "index": 4,
+          "text": "<color=#515aee>那样……便无法……从阳光中……挣脱……</color>\n <color=#515aee>Then... cannot be... free from the... sunshine...</color>"
+        },
+        {
+          "index": 5,
+          "text": "<……嗯，我就是有种直觉，觉得他们大概不会让我们进去。>\n <... Well, I just had this gut feeling that they probably won't let us in.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "是吗？也有道理，伙计。就算隔着老远看，他们那副样子也不像是好相与的。\n Yeah? Fair enough, mate. I 'spose they didn't look like the friendliest sort even from a distance.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "先提升你的评级，再回来敲门吧。到那时，我们或许会重新考虑你的资格。\n Raise your Prestige Rank first and come knocking again. Then, perhaps, we will reconsider your qualifications.",
+          "speaker": "品牌总监\n Brand Director"
+        }
+      ]
+    },
+    {
+      "key": "D2004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哈！小意思，姑娘！瞧好了，这对我来说不费吹灰之——\n Hah! That's child's play, lass! Lookee, it ain't no trouble reaching my elbo—",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "——哦啊啊啊！我的老天，我这是在哪儿！？\n —oooaagh! Blimey, where am I!?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "看来你已经找到在楼层间移动的办法了，但丁。\n It appears that you have discovered the means of moving between the floors, Dante.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 2,
+          "text": "*咳*那，咱们现在要干嘛？\n *cough* So, what're we doin'?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "<…….>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "<唔……我也不知道。既然我们进不去二楼正门……>\n <Well... I don't know. Since we can't enter the second floor proper...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "<……回洗手间去，你们俩……我猜？>\n <... back to the restroom, you two... I guess?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "哎，你都没试过，怎么就知道不行？先别急着认输嘛。\n Oi, how do ya know that without givin' it a try? Don't go throwin' in the towel already.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 7,
+          "text": "希斯克利夫，但丁说这话，与其说是绝望，不如说——\n Heathcliff, what Dante said is less out of despair and more—",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 8,
+          "text": "行了行了，随便啦。咱们至少先去看看这儿是咋回事吧。\n Yeah, whatever. Let's at least see what's goin' on here.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一堵由血肉与骨骼构成的墙挡住了去路。墙后的地上，横七竖八躺着几具黑派的尸体。\n A wall made of flesh and bone blocks the way. There are bodies of dead Noirs splayed around the floor past the wall."
+        }
+      ]
+    },
+    {
+      "key": "D2008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这个方向暂时还去不了，经理。\n We cannot go in this direction yet, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D2013",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……我们本该……为这次袭击做更充分的准备的……\n ... We should've... been better prepared for our assault...",
+          "speaker": "垂死的黑派\n Dying Noir"
+        },
+        {
+          "index": 1,
+          "text": "早知道……早知道我们能……把消息传得更快点……没来得及……集结起来……\n If only... if only we could've... spread the news faster... Didn't have time... to assemble...",
+          "speaker": "垂死的黑派\n Dying Noir"
+        },
+        {
+          "index": 2,
+          "text": "该死……该死的……！不能让红派占了这层大厅……他们会……他们会……\n Dammit... Damn it all...! We can't let the Rouges take the hall... They'll—they'll...",
+          "speaker": "垂死的黑派\n Dying Noir"
+        },
+        {
+          "index": 3,
+          "text": "…….",
+          "speaker": "垂死的黑派\n Dying Noir"
+        },
+        {
+          "index": 4,
+          "text": "<……我们进摇篮吧。>\n <... Let's enter the Cradle.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2017",
+      "texts": [
+        {
+          "index": 0,
+          "text": "她安静地躺在那里，脸上却挂着一抹平静的微笑——那种只有在成功完成使命、坚持到最后一刻的人脸上，才能见到的微笑。\n She lies dead still, but is wearing a peaceful smile—the same kind of smile only seen on the faces of those who know they have successfully carried out their duty to the end."
+        }
+      ]
+    },
+    {
+      "key": "D2010",
+      "texts": [
+        {
+          "index": 0,
+          "text": "啊啊……终于……\n Aaah... At long last...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 1,
+          "text": "拜托……剩下的……就交给你们了……\n Please... I leave the rest... in your hands...",
+          "speaker": "品牌总监\n Brand Director"
+        }
+      ]
+    },
+    {
+      "key": "D2019",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<不知道到了那儿会发生什么，不过……我们先试着找路上五楼吧。>\n <I don't know what'll happen when we get there, but... Let's try to find a way up to the fifth floor.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "<不管红派想让我们做什么，我们的目标始终是抵达这栋楼的最高层。>\n <Regardless of what the Rouges want us to do, our goal is to get to the top floor of this building.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "换句话说，你还没到过五楼以上。\n In other words, you haven't yet reached the fifth floor and beyond.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 3,
+          "text": "<……没错，还没去过。>\n <... No, I haven't.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "那么，但丁，你接下来的行动，应该是去四楼，从那里寻找通路。\n Then your subsequent course of action should be to visit the fourth floor and seek a passage from there, Dante.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 5,
+          "text": "<嗯，是啊……不过在那之前，我该先去趟三楼。>\n <Hm, yeah... But I should stop by the third floor before we do.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "三楼？你不是已经去过了吗？\n The third floor? Haven't you been there already?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 7,
+          "text": "……这次我们已经决定帮红派了。索性一不做二不休，好好讨他们欢心吧。\n ... We've already decided to help the Rouges this time around. Might as well go all in and get on their good side."
+        },
+        {
+          "index": 8,
+          "text": "<那层楼有位店员，一直很想见见这……孩子。我想着，让他们见一面，说不定挺好的。>\n <One of the employees on that floor really wanted to meet this... child. I thought it might be nice to have them meet.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "正前往三楼。\n Proceeding to the third floor.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 10,
+          "text": "嗯，去吧去吧。……哦对了。趁现在赶紧教教这孩子规矩，钟！不然以后可就没机会了，懂吧？记住喽！\n Yeah, you do that. ... Oh, yeah. Better teach the kid manners now when you can, Clock! Else you'll never get the chance later, yeah? Remember that!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 11,
+          "text": "<你到底在说什么呢……？>\n <What are you even talking about...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 12,
+          "text": "在希斯克利夫继续大谈早期教育有多重要的唠叨声中，我们前往了三楼。\n We proceeded to the third floor as Heathcliff continued to lecture us about the importance of early education."
+        }
+      ]
+    },
+    {
+      "key": "D2023",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具尸体。\n A corpse."
+        }
+      ]
+    },
+    {
+      "key": "D2015",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<那我们……呃……就这么办？>\n <Let's... uh... do that?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "明白了，经理。\n Understood, Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "呃，希望这不会把里头什么可怕的东西给唤醒……\n Ugh, I hope this doesn't awaken somethin' horrid in there...",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "…….",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 4,
+          "text": "摇篮微微颤动。半透明的血管如同植物的卷须根系般四散延伸，不规则地摇晃震颤着。\n The Cradle quivers. Translucent blood vessels, radiating like the tendril roots of a plant, tremble in an irregular sway. "
+        }
+      ]
+    },
+    {
+      "key": "D2015D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "它看起来几乎像是……在呼吸。\n It almost looked like it was... breathing."
+        },
+        {
+          "index": 1,
+          "text": "默尔索把那块血肉喂进了茧中。它猛地活动起来，晃动的样子，仿佛一直在等待着这份投喂。\n Meursault fed the piece of flesh into the cocoon. It suddenly jerked alive, jostling as though it had been waiting to receive it."
+        },
+        {
+          "index": 2,
+          "text": "看来薄膜……变薄了。\n It appears that the membrane has... grown thinner.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 3,
+          "text": "<里面有什么东西在拼命挣扎……是想孵化出来吗？>\n <Something's flailing wildly in there... Is it trying to hatch?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "唔……虽然已经成功戳破了薄膜的一小部分，但目前看来，破膜而出的可能性并不大。\n Mm... though it has successfully punctured a small part of the membrane, emergence seems highly unlikely at this point.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 5,
+          "text": "等等，别帮它——顺其自然吧。我听说小孩子都得靠自己出来——\n Hang on, don't help it—let nature do its thing. I heard babies got to save themselves—",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2015E",
+      "texts": [
+        {
+          "index": 0,
+          "text": "就在希斯克利夫提议放任它自生自灭时，茧中的动静渐渐平息了下来。\n Just as Heathcliff suggested that we leave it to fend for itself, the movement within the cocoon slowly began to subside."
+        }
+      ]
+    },
+    {
+      "key": "D2015A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哦，见鬼。喂，谁有尖的东西？！得帮帮忙，这孩子快没劲了！\n Oh, bollocks. Oi, got anything sharp?! We gotta help, kid's startin' to go weak!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2015B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<呃……>\n <Uhm...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2015C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "或许可以用在改衣室拿到的那把剪刀。\n Perhaps we could use the pair of scissors obtained at the Alteration Shop.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<哦，有道理。我们试着剪开它吧。>\n <Oh, you're right. Let's try cutting it open.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理，自我们踏上这层楼起，这块血肉便一直发出类似心跳的节律。\n Manager, the piece of flesh has been emitting a rhythm akin to heartbeat ever since we first entered this floor.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "<我们越靠近摇篮，它就越强吗？>\n <Has it been getting stronger the closer we've gotten to the Cradle?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "是的。看来是某种逐渐增强的共鸣现象。\n Yes. It appears to be a gradually intensifying resonance phenomenon of sorts.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D2014A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那块血肉……跟这个茧蛋玩意儿，感觉挺像的，不是吗？\n That piece of flesh... It's got a similar feel to this cocoon-egg-thing, don't it?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2014B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "瞧，那是张嘴，对吧？我看咱们得把这东西喂给那颗蛋。\n Look, that's a mouth, innit? I think we're gonna have to feed this thing to that egg.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "你的猜想有道理。浮士德也赞同这个做法。\n Your hypothesis carries merit. Faust concurs with that course of action.",
+          "speaker": "浮士德\n Faust"
+        }
+      ]
+    },
+    {
+      "key": "D2024",
+      "texts": [
+        {
+          "index": 0,
+          "text": "拜托……你们必须……那个……珍爱之人……\n Please... You must... the... cherished one...",
+          "speaker": "品牌总监\n Brand Director"
+        }
+      ]
+    },
+    {
+      "key": "D2091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 1,
+          "text": "这位……就是曾经给我唱歌的那个人吗？\n Was this the one... who sang to me?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 2,
+          "text": "呃……她是这么跟我们说的。\n Well... That's what she told us.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "这张脸……在笑。为什么……？\n The face... it's smiling. Why...?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 4,
+          "text": "不知道……也许就算快死了，她心里也高兴得不得了吧。\n Dunno... Maybe she were bloody over the moon, even with one foot in the grave.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 5,
+          "text": "……可为什么呢？\n ... But why?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 6,
+          "text": "她……曾期盼着你的出生，满怀期待地等待着。\n She... wished for your birth and waited for it with anticipation.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 7,
+          "text": "所以，见到你，或许正是那抹幸福微笑的来由，布布。\n Therefore, seeing you likely produced that happy smile, Pwie.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 8,
+          "text": "我不明白。我不认识她。她也……并不真的认识我……\n I don't understand. I didn't know her. She didn't... really know me either...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 9,
+          "text": "可她还是很幸福吗？\n And she was still happy?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 10,
+          "text": "……你这学会说话之后，可真是越来越难缠了……\n ... You're a right pain in the arse now you've learned how to talk...",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 11,
+          "text": "有些事就是这样，没道理可讲。是大人的事，小孩子不懂的……嗯，就是大人的事。\n Some things just are. Grown-up stuff kids don't get.... Yeah, grown-up stuff.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 12,
+          "text": "我很快就要长大了。\n I'm going to grow soon.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 13,
+          "text": "说不定我会长得更大。\n Maybe I'll grow even bigger.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 14,
+          "text": "所以……在长大之前，我想多知道一些事。\n So... I want to know more before I grow.",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 15,
+          "text": "学习新东西的时候……寒冷就会退去。我能彻底忘记那种空落落的感觉……\n When I'm learning new stuff... the cold goes away. I get to completely forget the empty something...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 16,
+          "text": "所以……我想知道。我想知道，她为什么能在死后还面带微笑……\n That's why... I want to know. I want to know why she can smile even after dying...",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 17,
+          "text": "……本能，或许是其根源所在。\n ... Instinct may lie at the root.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 18,
+          "text": "红派拥有一种本能：找到一道新的声音并追随它，能填补内心的空缺。\n The Rouges possess an instinct through which finding a new voice and following it fills an internal deficit.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 19,
+          "text": "什么是……“本能”？\n What's... \"instinct\"?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 20,
+          "text": "那是一种无需教导便具备的能力或行为。\n It's a capacity or behavior that does not require instruction.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 21,
+          "text": "从意识产生的那一刻起，就自发引导着主体的一种倾向。某种意义上，就是与生俱来的本性。\n An inclination that directs the subject of its own accord from the moment consciousness begins. One's nature, in some ways.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 22,
+          "text": "那么……我的本能是什么？\n Then what is... my instinct?",
+          "speaker": "布布\n Pwie"
+        },
+        {
+          "index": 23,
+          "text": "那个……我们也不清楚。\n That is... unknown to us as well.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 24,
+          "text": "许多人走到生命尽头……都未能真正理解自己本质的模样……\n Many reach the end of life... without attaining a definitive understanding of their own essential nature...",
+          "speaker": "浮士德\n Faust"
+        }
+      ]
+    },
+    {
+      "key": "D2092",
+      "texts": [
+        {
+          "index": 0,
+          "text": "她嘴角挂着一抹淡淡的、满足的微笑。\n A faint, contented smile hangs from her lips."
+        },
+        {
+          "index": 1,
+          "text": "为他人、为另一个人而死……究竟是怎样的情感、经历与记忆，才能将一个人塑造成如此轻易便能做出这种抉择的人？\n To die in service of others, of another... What kinds of emotions, experiences, and memories are capable of shaping a person into someone who so readily makes such a decision?"
+        }
+      ]
+    },
+    {
+      "key": "D2181",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<更多黑派正朝这边过来……>\n <More Noirs are coming this way...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "我们必须带走品牌总监的黄金皮革。\n We must bring the Brand Director's Golden Hide.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<嗯。我们进去吧。>\n <Yeah. Let's get inside.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2018",
+      "texts": [
+        {
+          "index": 0,
+          "text": "柱子底部藏着一块布料和一张黑派留下的字条。\n There's a piece of cloth and a Noir's note hidden by the base of the pillar."
+        },
+        {
+          "index": 1,
+          "text": "<嘿，这块布上写了点东西。>\n <Hey, there's something written on this piece of cloth.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "上面写着：“贪婪的红派终于疯了。那守护着西西弗百货的珍贵黄金皮革——他们——”\n It says \"The covetous Rouges have finally gone mad. The precious Golden Hide that preserves the Grand Magasin—they've—\"",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 3,
+          "text": "写这个的人，看来没来得及写完。像是匆忙间把它藏了起来……\n Whoever wrote it didn't get to finish their message. Looks like they had to hide it in a hurry...",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 4,
+          "text": "我朝墙那边正在发生的惨剧匆匆瞥了一眼，随即把目光收回到手中的纸片上。\n I stole a quick glance at the carnage being perpetrated on the other side of the wall before looking back at the piece of paper."
+        },
+        {
+          "index": 5,
+          "text": "<……先带上它吧，万一以后用得着。>\n <... Let's take this with us, just in case it becomes relevant.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2026",
+      "texts": [
+        {
+          "index": 0,
+          "text": "嗯？又回这层楼了？喂，弄了不少眼球回来啊？\n Eh? Back on this floor? Oi, bring in many eyeballs?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "我们已经赚够了。\n We have earned enough.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "哦……收获不错嘛，钟表头！\n Ooh... Not a bad pull, CH!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "<……你被他彻底带偏了吧？>\n <... She totally rubbed off on you, didn't she?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2027",
+      "texts": [
+        {
+          "index": 0,
+          "text": "唔。门口的守卫似乎已经离开了。看来那场“室内装潢翻新”已经结束了。\n Mm. The guardian at the gate seems to have left. It is likely that the \"interior design renovation\" has ended.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 1,
+          "text": "<情况好像跟上次有点不一样……>\n <Things seem a little different from last time...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2022",
+      "texts": [
+        {
+          "index": 0,
+          "text": "咦……是那个守门口的大块头姑娘。\n Huh... It's that big lass who was guarding the entrance.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2028",
+      "texts": [
+        {
+          "index": 0,
+          "text": "就是你……那位沉睡者……一直让我等候的……就是你……\n It was you... whom the Slumbering One... has asked me to hold out for...",
+          "speaker": "品牌总监\n Brand Director"
+        }
+      ]
+    },
+    {
+      "key": "D2029",
+      "texts": [
+        {
+          "index": 0,
+          "text": "身为品牌总监……我被赋予了……守护那位尊贵沉睡者的责任。身为品牌总监……我一直坚守着这座大厅……\n As the Brand Director... I was bestowed with the responsibility... to protect the noble Slumbering One. As the Brand Director... I held down this hall...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 1,
+          "text": "你身后的那个存在，想必就是声音的来源。\n The entity behind you must be the source of the Voice.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "是的。这里就是摇篮……我们不懈耕耘的园地。在这里，沉睡者正孕育新生，将要在整座西西弗百货绽放他们的花朵……以此回报我们——那全部的自己——所献上的供奉。\n Yes. This is the Cradle... the garden of our ceaseless tending. In this place, the Slumbering One stirs to nascency, to blossom their flowers throughout the Grand Magasin... in return for the offering that is all that we are.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 3,
+          "text": "是的……那位在我们的声音缺席时，会来照料红派的存在。\n Yes... The one who shall tend to the Rouges in the absence of our Voice.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 4,
+          "text": "<看来他们还没被唤醒。>\n <They haven't been awakened yet, it seems.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "我一直在哼唱着西西弗百货中最美妙的摇篮曲。为那位尊贵之人建造摇篮——我的毕生杰作——一针一线地编织，以我的信念作为武器，对抗这份永不满足的饥饿……\n I've been humming the most wonderful of lullabies in all of the Grand Magasin. Building the Cradle for the noble one—my magnum opus—weaving it thread by thread, my conviction a weapon against this insatiable hunger...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 6,
+          "text": "所以说，你就是……那玩意儿的保姆呗，我猜。而且它反正也快醒了，是吧？它把咱们叫来是要干嘛？\n So, you're like... What, that thing's nanny, I assume. And it's about to wake soon anyway, innit? What'd it call us here for?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 7,
+          "text": "我的职责，是成为那位尊贵沉睡者的一床暖毯。如今我的职责已经结束……我很快就要迎来终结了。\n My role was to be a warm blanket for the Slumbering One. Now that my duty has ended... I will soon meet my end.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 8,
+          "text": "……啊？\n ... Eh?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 9,
+          "text": "他们苏醒之时将会十分虚弱。当那位沉睡者醒来，西西弗百货中最温柔的微风，对他们的肌肤而言也会如刀割般凛冽，而黑派，被无知与恐惧所驱使，将会试图把这位尊贵之人埋葬在裂缝之中。\n They will be weak upon waking. When the Slumbering One awakens, the gentlest breeze of the Grand Magasin will be as harsh as cutting winds to their skin, while the Noirs, driven by their ignorance and fear, will seek to bury the noble one within the fractures.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 10,
+          "text": "我们需要你们的帮助，异乡人。\n We need your help, strangers.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 11,
+          "text": "不久之后，他们的声音便会在西西弗百货的墙壁间回荡……陪伴在他们身边……直到他们能以自己的全身，引领我们所有人，明白我们该如何去渴望……\n Soon, their voice shall resonate between the walls of the Grand Magasin... Stay with them... until they can guide us all, with the whole of their body, on how we are to desire...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 12,
+          "text": "等等，你他妈等一下。你这是要把那个婴儿甩给我们吧？还指望我们给个刚出生的玩意儿当保姆？\n Hang on a bloody second. You're offloadin' that baby on us, ain't ya? And we're just 'sposed to play nannies for a newborn?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2029A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "喂，我可不确定这行不行……咱们得弄更多眼球、找路上到顶楼、护着你那颗钟表脑袋、还得逃出这鬼地方——咱们可养不起这么个孩子，伙计。\n Oi, I don't know about this... We need to get more eyeballs, find our way to the top floor, keep your clock head safe, and escape this hole—we can't take care of a child like that, mate.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D2029B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你为何决定要来这里，但丁？\n Why have you decided to come here, Dante?",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 1,
+          "text": "<……为了做出不一样的选择。>\n <... To make a different choice.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "……是否有什么我尚不知晓的——……你是否知道某种我无从触及的知识？\n ... Is there something I am unaware— ... Are you aware of a piece of knowledge that I am not allowed access?",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 3,
+          "text": "<是啊……大概吧。>\n <Yeah... Probably.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "那答案，是否就藏在这个选择所铺就的道路尽头？\n Does the answer lie... at the terminus of the road this choice will pave?",
+          "speaker": "浮士德\n Faust"
+        }
+      ]
+    },
+    {
+      "key": "D2029C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<我不……知道。>\n <I don't... know.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "……你这行事方式，倒是与浮士德的一贯作风颇为相似。\n ... It is quite like how Faust operates, your behavior.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 2,
+          "text": "明明不知道这是否是正确的道路，你却依然……\n Despite not knowing whether this is the right path, you...",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 3,
+          "text": "…….",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 4,
+          "text": "明白了。浮士德没有更多疑问了。\n Understood. Faust has no further queries.",
+          "speaker": "浮士德\n Faust"
+        }
+      ]
+    },
+    {
+      "key": "D20151",
+      "texts": [
+        {
+          "index": 0,
+          "text": "快点啊，你这么小心翼翼的干嘛？\n Hurry up, what're you bein' so careful for?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "<谁知道呢……>\n <You never know...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "用改衣师的那把剪刀，干净利落地剪了一刀。\n Made a clean cut using the Alterationist's pair of scissors."
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>你还真想看看这事最后会怎样啊？我猜这也算是种打发时间的方式吧。不过无所谓；不管你最后选哪个选项，我们都能稳定地拿到经验糊。</color>\n <color=#ebcaa2>You really want to see where this goes, huh? I guess that's one way to kill time. Doesn't matter; whichever option you end up going with, we'll get a steady supply of Experience Batter.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<……听起来她好像不太乐意我们做出不一样的选择。>\n <... Sounds like she's not so happy we're making a different choice.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "……经理说，“听起来她好像不太乐意我们做出不一样的选择”。\n ... \"Sounds like she's not so happy we're making a different choice,\" said the Manager.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 6,
+          "text": "<color=#ebcaa2>唔……我自己也纳闷这个呢。</color>\n <color=#ebcaa2>Well... I do wonder that myself.</color>"
+        },
+        {
+          "index": 7,
+          "text": "<color=#ebcaa2>不知道你还记不记得——我这问的什么废话，你当然记得——不过我常常反复品味那出罐头戏剧。我曾把同一出罐头戏剧看了足足78遍。</color>\n <color=#ebcaa2>I don't know if you recall—who am I kidding? Of course you do—but I often repeat-taste the Canned Stageplay over and over again. I once watched the same Canned Stageplay over 78 times.</color>"
+        },
+        {
+          "index": 8,
+          "text": "<color=#ebcaa2>同样的动作，一字不差的台词，在我早已烂熟于心的那些瞬间准时出现的、可预料的表情……还有那看过十几遍的相同结局，紧接着是熟悉得如同回家一般的谢幕。这一切都令我心安。安心到，每当某个演员照例第N次忘词时，我都会有种冲上台去替他念台词的冲动。</color>\n <color=#ebcaa2>Same actions, identical line reads, predictable expressions coming in at moments I'd grown intimately acquainted with... and the same ending I'd watched over a dozen times, followed by a curtain call so familiar it felt like home. All of that soothed my heart. So much so that, when an actor inevitably forgets his line for the nth time, I feel like I have to rush up to the stage and read the line for him.</color>"
+        },
+        {
+          "index": 9,
+          "text": "……我知道你说的是哪出戏。它从头到尾都充斥着明显的前后矛盾，其中心主题与作者意图，与那毫无逻辑的情节一样令人费解。\n ... I know what stageplay you are referring to. Riddled with blatant inconsistencies in all of its aspects, its central theme and authorial intent were just as incomprehensible as its nonsensical plot.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 10,
+          "text": "<color=#ebcaa2>就是那出。预算低到连一个职业演员都请不起，找来的那些业余演员，也照例贡献了我见过最尴尬的表演之一。不管怎么说，那都是一出糟糕透顶的罐头戏剧。</color>\n <color=#ebcaa2>That's the one. It was so low-budget that they couldn't afford even a single professional thespian on stage, and the amateurs they hired predictably put out some of the most awkward performances I'd ever seen. It was a terrible Canned Stageplay, by all accounts.</color>"
+        },
+        {
+          "index": 11,
+          "text": "<color=#ebcaa2>但是……说来也怪，每次看那出戏，我都会感到一种莫名的慰藉。</color>\n <color=#ebcaa2>But... strangely enough, I found myself comforted as I experienced that play.</color>"
+        },
+        {
+          "index": 12,
+          "text": "<color=#ebcaa2>没人能理解我为什么会这么做……除了你，小可爱。</color>\n <color=#ebcaa2>No one could understand why I would do such a thing... except you, ma puce.</color>"
+        },
+        {
+          "index": 13,
+          "text": "<color=#ebcaa2>你<i>懂</i>我。</color>\n <color=#ebcaa2>You <i>get</i> me.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D20152",
+      "texts": [
+        {
+          "index": 0,
+          "text": "从那道声音消失的地方，\n From where the Voice had disappeared,"
+        },
+        {
+          "index": 1,
+          "text": "从被剖开的摇篮中……爬出了某个东西……形似一个孩子。\n from the Cradle sectioned open... something crawled out... in the form of a child."
+        }
+      ]
+    },
+    {
+      "key": "D20153",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20154",
+      "texts": [
+        {
+          "index": 0,
+          "text": "喂，孩子——\n Oi, kid—",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D20155",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…!",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20162",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那孩子朝我们瞥了一眼，像是在警惕地扫视。接着，他们小心地站起身，摇摇晃晃地走向品牌总监，把手放在了她的身躯上。\n The child glanced at us in what appeared to be a wary scan. They then carefully lifted themselves, waddled up to the Brand Director, and placed their hand on her body."
+        },
+        {
+          "index": 1,
+          "text": "啊……那位沉睡者，苏醒了。\n Ah... the Slumbering One has awakened.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 2,
+          "text": "…!?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20163",
+      "texts": [
+        {
+          "index": 0,
+          "text": "品牌总监开口说话，她的双眼从那如死亡般的沉睡中睁开。孩子从她身边猛地跳开，就像先前躲开我们那样。\n The Brand Director spoke, her eyes opening from a deathlike slumber. The child jumped away from her, just as they had from us earlier."
+        },
+        {
+          "index": 1,
+          "text": "看来，我们并不是这孩子唯一惧怕的对象；他们对一切人和事都在畏缩退避。\n It seemed we weren't the only ones the child was afraid of; they shrank away from everyone and everything."
+        },
+        {
+          "index": 2,
+          "text": "许多人……都在等待……你的降临……\n Many have awaited... your advent...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 3,
+          "text": "呜……？\n Uuu...?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20163A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我们红派已倾尽全力……只为等候你的到来。而我们献给你的……是如今的一切……与未来的一切……\n We Rouges have given our all... in anticipation of your arrival. And we offer you... what is... and what will be...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 1,
+          "text": "请把他们带去五楼的餐厅，异乡人。\n Bring them to the Restaurant on the fifth floor, strangers.",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 2,
+          "text": "要发出真正的声音……要长大成熟……这位新生儿必须抵达……那层楼……\n To speak the true Voice... to mature... the newborn must reach... that floor...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 3,
+          "text": "拜托了……为了……我们所有人……\n Please... for... all of us...",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 4,
+          "text": "…….",
+          "speaker": "品牌总监\n Brand Director"
+        },
+        {
+          "index": 5,
+          "text": "看来，她已经咽下了最后一口气。\n She has drawn her final breath, it seems.",
+          "speaker": "浮士德\n Faust"
+        }
+      ]
+    },
+    {
+      "key": "D20161",
+      "texts": [
+        {
+          "index": 0,
+          "text": "呜……唔……\n Ueh... Uu...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "孩子……你说的话我一个字都听不懂。\n Kid... I can't understand a word of what you're sayin'.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 2,
+          "text": "呃……唔……\n Euh... Uu...",
+          "speaker": "???"
+        },
+        {
+          "index": 3,
+          "text": "虽然那孩子严格说来算不上在说话，但他们的动作与那份无言的请求，让我隐约明白了他们想要什么。\n Though the child wasn't really speaking per se, their gestures and the unspoken request gave me a vague sense of what they wanted."
+        },
+        {
+          "index": 4,
+          "text": "呜啊。\n Uu-ah.",
+          "speaker": "???"
+        },
+        {
+          "index": 5,
+          "text": "那孩子捡起了我们先前剪下的那块摇篮碎片，举到了眼前……\n The child picked up the piece of the Cradle we had cut off earlier, lifted it to eye level..."
+        },
+        {
+          "index": 6,
+          "text": "什……什么，他们在干嘛？想拿它当武器？\n Wha... wha' are they doin'? Tryin' to make a weapon out of it?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 7,
+          "text": "或许只是出于好奇心的驱使，想仔细看看它。\n Perhaps they are merely drawn to observe it, by a spark of curiosity.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 8,
+          "text": "<i>啊啊啊……</i>\n <i>Aaaah...</i>",
+          "speaker": "???"
+        },
+        {
+          "index": 9,
+          "text": "……张开了嘴。大得令人不太自在。\n ... and opened their mouth. It was uncomfortably wide."
+        },
+        {
+          "index": 10,
+          "text": "<呃，我觉得他们是想……把它吃掉？>\n <Um, I think they're trying to... eat it?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 11,
+          "text": "喂、喂，快停下！扔掉，孩子！那玩意儿脏，懂吗？脏！\n O-oi, stop that! Drop it, kid! It's yucky, you got that? Yucky!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D20161A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "诶？\n Ee?",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "这是你最后一次从地上捡不明血肉了！给我！\n That's the last random piece of flesh you're pickin' up from the ground! Give it!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D20164",
+      "texts": [
+        {
+          "index": 0,
+          "text": "希斯克利夫粗暴地从孩子手中夺走了那块剪下的薄膜。\n Heathcliff roughly snatched the cut piece of membrane out of the child's hand."
+        },
+        {
+          "index": 1,
+          "text": "唔呜呜！！！\n Uunnnhh!!!",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "<我觉得你把这孩子惹生气了。而且不知怎么，同时还把他们吓着了。>\n <I think you made the kid angry. And scared them at the same time, somehow.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "<照这样下去，他们恐怕不会跟我们走……>\n <Doubt they'll follow us like that...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 4,
+          "text": "恐慌的起因，或许可以直接追溯到希斯克利夫抢走那孩子“零食”这件事上。\n Perhaps the cause of alarm can be traced directly back to Heathcliff's theft of the child's \"snack.\"",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 5,
+          "text": "那我该怎么办，眼睁睁看着这孩子把那块生血肉大口咬下去？喂，我说得对不对？\n What was I supposed to do, just watch the kid take a big bite out of that chunk of raw flesh? Oi, am I right or what?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 6,
+          "text": "唔呜呜……！\n Nnnnnuh...!",
+          "speaker": "???"
+        },
+        {
+          "index": 7,
+          "text": "哇噢。不是吧，伙计？我也不是<i>想</i>带你一起走啊。\n Wooow. Really, mate? It ain't like I <i>want</i> to bring you along.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 8,
+          "text": "<……希斯克利夫，你干嘛跟一个连话都不会说的孩子吵架……？>\n <... Heathcliff, why are you arguing with a kid who can't even speak...?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 9,
+          "text": "这种行为，是成年后依旧幼稚的表现。\n Such behavior is a sign of immaturity manifest in adulthood.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 10,
+          "text": "什么——*叹气*\n Wha— *sigh*",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D20164A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "希斯克利夫瞪大了眼睛，一脸难以置信。他气呼呼地哼了一声，在我们和孩子之间来回瞪视。\n Heathcliff's eyes went wide with bewilderment. He huffed angrily, glaring back and forth between us and the child."
+        },
+        {
+          "index": 1,
+          "text": "行吧，行吧，随便了。那咱们该怎么办？找点甜食把这孩子哄过来？\n Alright, fine. Whatever. What're we doin', then? Find some sweets to lure the kid into comin' with us?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 2,
+          "text": "<我们确实答应过要照看这孩子，所以……用甜食哄骗行不行我不知道，但我们总得<i>做点什么</i>来安抚他们，让他们愿意跟我们走。>\n <We did promise to look after the child, so... I don't know about luring them with sweets, but we're going to have to do <i>something</i> to appease them so that they'll follow us willingly.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20164A2",
+      "texts": [
+        {
+          "index": 0,
+          "text": "安抚这孩子？告诉你们一件事，你们这群人好像都不明白：想让这种犟脾气的孩子跟着你，光靠哄是不管用的。\n Appease the kid? Here's somethin' you lot don't seem to understand: if you want stubborn kids like 'em to follow you, appeasement ain't gonna cut it.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "你……这是在讲你少年时期的亲身经历吗？\n Might you be... speaking from your own experiences as a youth?",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 2,
+          "text": "…….",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "<我就大胆猜一下，那个“犟脾气的孩子”说的就是你自己吧。>\n <I'm gonna go out on a limb and assume that the \"stubborn kid\" was yourself.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20164A3",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你俩闭嘴。重点是，你们得让他们明白，不能整天哭哭啼啼指望世界事事顺着他们来。我看咱们不如假装丢下这孩子，他们自然就懂了要跟上来。\n Shut it, you two. Point is, you've got to teach 'em a lesson that you can't just whinge your way through the world and expect everything to go your way forever. I say we pretend to leave the kid behind, and they'll know to come with.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "没有良秀在场，在座的没一个真正带过孩子。所以……\n Without Ryōshū, none of those present were particularly experienced in child-rearing. So..."
+        },
+        {
+          "index": 2,
+          "text": "……我们唯一能做的，就是把心中的疑虑和可能的争论都咬在牙关后头，让希斯克利夫试试能不能说服这孩子跟我们走。\n ... the only option we had was to hold our doubts and potential arguments behind our teeth and let Heathcliff try his hand at convincing this child to come with us."
+        }
+      ]
+    },
+    {
+      "key": "D20164B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "唔呜！！！唔呜！！！\n Nuhhh!!! Nnhhh!!!",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20164C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "好嘞，孩子。我们这就要出发了。留下也行，跟来也行——随你便，我才不管。我们是真的要走了！\n Right-o, kid. We're about to head out. Stay here or come with—you do whatever you want, I don't care. We're really leavin' now!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "啊……诶……？\n Aah.. eh...?",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20165",
+      "texts": [
+        {
+          "index": 0,
+          "text": "希斯克利夫猛地转身，气冲冲地跺脚走出了摇篮，那孩子显然大吃一惊。孩子转向我们——虽然看不见他们的眼睛，但那份困惑与惊愕的神情却是毋庸置疑的。\n Heathcliff wheeled around and stomped out of the Cradle, much to the child's apparent surprise. The child turned to us—though I couldn't see their eyes, it was unmistakably a look of confused astonishment."
+        },
+        {
+          "index": 1,
+          "text": "摇篮外一片昏暗，只有几缕阳光透了进来。从我们站的地方看去，希斯克利夫真像是彻底把我们丢下了。\n It was dark outside the Cradle save for a few rays of sunlight that peeked through. From where we stood, it really looked as though Heathcliff had left us for good."
+        },
+        {
+          "index": 2,
+          "text": "你们几个磨蹭什么呢？快点跟上！\n What're you lot faffin' around for? On the double!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D20166",
+      "texts": [
+        {
+          "index": 0,
+          "text": "在希斯克利夫的催促下，我们也匆匆走出了摇篮……\n We hurried out of the Cradle as well at Heathcliff's insistence..."
+        },
+        {
+          "index": 1,
+          "text": "到了外面，我们偷偷从帘幕缝隙间张望，只见那孩子正惊慌地四下张望。\n Once outside, we peeked surreptitiously between the curtains as the child looked around frantically."
+        }
+      ]
+    },
+    {
+      "key": "D20166A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "唔……\n Uu...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "唔呜呜……！\n Unnnhhh...!",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "喂！我们要走了，孩子！我可没在闹着玩！你想哭想闹随你便，我可不会回去了！\n Oi! We're leavin', kid! I ain't playin' around! Cry and throw a tantrum all ya want, I ain't comin' back!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 3,
+          "text": "那孩子惊恐地呜咽了一阵，仿佛惧怕着渐渐逼近的黑暗……\n The child babbled fearfully for a moment, as though they were afraid of the creeping darkness..."
+        },
+        {
+          "index": 4,
+          "text": "唔……唔呜呜……！\n Uu... Nnuhhh...!",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20167",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……随即急急忙忙地摇摇晃晃朝我们走来，把摇篮抛在了身后。\n ... then hurriedly toddled toward us, leaving the Cradle behind."
+        }
+      ]
+    },
+    {
+      "key": "D20167A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "瞧见没？带孩子就得这么带。\n See? That's how you deal with kids.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D20167B",
+      "texts": [
+        {
+          "index": 0,
+          "text": "…….",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D20167C",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……我们和那孩子之间，仍隔着一段距离。\n ... There is still some distance between us and the child.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 1,
+          "text": "看起来，他们并不觉得跟着我们能有安全感……\n Doesn't seem like they're feeling safe sticking with us..."
+        },
+        {
+          "index": 2,
+          "text": "……可他们又明显不想被独自丢下。\n ... even though it's pretty obvious that they don't want to be left alone."
+        },
+        {
+          "index": 3,
+          "text": "<……那我们就这样走着，我猜？>\n <... So we're just walking around like this, I guess?>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D20167D",
+      "texts": [
+        {
+          "index": 0,
+          "text": "唔嗯…\n Nngh...",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D2902",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具红派的尸体。那双刀刃状的手臂已经完全折断，躯体瘫倒在地上。\n The corpse of a Rouge. The bladed arms have all been snapped apart, leaving the body sprawled across the floor."
+        }
+      ]
+    },
+    {
+      "key": "D2904",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一具红派的尸体。整具躯体都被沉重的锤子砸得稀烂，面目全非。\n The corpse of a Rouge. The entire body has been crushed beneath a heavy hammer, mangled beyond recognition."
+        }
+      ]
+    },
+    {
+      "key": "D2905",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<不过是具尸体。>\n <It's just a corpse.>"
+        }
+      ]
+    },
+    {
+      "key": "D2027A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "大多数尸体似乎都是黑派的，经理。这场战斗恐怕正朝着有利于红派的方向收尾。\n The majority of corpses appear to be of the Noirs, Manager. The battle is most likely winding down in the Rouges' favor.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D2910",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……我怎么没看出这地方哪里“奢侈”了。是挺亮闪闪的，可也没<i>那么</i>高档吧。\n ... I ain't seein' what's so \"luxury\" about this place. Sure, it's a bit shiny, but it ain't <i>that</i> posh.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "这里的物品，比其他楼层的更明显地泛着金光。就连那些不发光的，也都装饰得极其精致，一看便知是用心打造的。\n These items seem to have a more obvious golden glow to them than the items on the other floors. Even the ones that aren't glowing are meticulously decorated, obviously crafted with great care."
+        },
+        {
+          "index": 2,
+          "text": "……这里的商品所需的眼球数量，似乎比其他楼层的要高出不少。\n ... The items here appear to cost significantly more eyeballs than those available on other floors.",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 3,
+          "text": "光带够眼球还不够。购买这些商品前，潜在顾客的评级也会受到严格审查。\n Carrying sufficient eyeballs is not enough. The Prestige Tier of the prospective client is also strictly screened before they are permitted to purchase these items.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 4,
+          "text": "喂，钟。\n Oi, Clock.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 5,
+          "text": "<嗯？>\n <Yeah?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 6,
+          "text": "……算了。我，嗯。我有股不祥的预感。\n ... Nah. I, hm. I've a bad feelin' about it.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 7,
+          "text": "<什么？对什么有不祥的预感？>\n <What? Bad feeling about what?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 8,
+          "text": "唔……反正都来了，我在想——不如咱们直接把这些拿走，拿去其他楼层卖了？反正也没人盯着咱们……\n Well... seein' as we're here anyway, I'm thinkin'—why don't we just take these and sell 'em on other floors? It ain't like there's anyone watchin' us...",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 9,
+          "text": "那可是——\n That is—",
+          "speaker": "浮士德\n Faust"
+        },
+        {
+          "index": 10,
+          "text": "行了行了，我懂！就随口一说而已，没别的意思。可不想再出那种头发抵用券事件那样的破事了。\n I get it, I get it! I was just floatin' the idea, nothin' more. Don't need another shite like that hair coupon incident happenin' again.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 11,
+          "text": "可我正打算跟他说，这主意其实挺不错的……\n But I was just about to tell him that was a really good idea..."
+        },
+        {
+          "index": 12,
+          "text": "啊，算了。反正这些展示柜的材质看着也挺耐用的。\n我们决定继续前进。\n Ah, well. The display cases seem to be made from pretty durable material anyway.\nWe decided to move on."
+        }
+      ]
+    },
+    {
+      "key": "D2911",
+      "texts": [
+        {
+          "index": 0,
+          "text": "布料层之间，可以看到密密缝合的黄金皮革。\n Densely backstitched Golden Hide is visible between layers of fabric."
+        }
+      ]
+    },
+    {
+      "key": "D2912",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一个展示柜。上面覆盖着……看起来像是一层血肉帘幕的东西。\n A display case. Covered in... what appear to be a curtain of flesh."
+        }
+      ]
+    },
+    {
+      "key": "DDS201",
+      "texts": [
+        {
+          "index": 0,
+          "text": "喂、喂……你……你脑子没事吧？！\n Oi, oi... you... is your head alright?!",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "没事。\n It is all right.",
+          "speaker": "默尔索\n Meursault"
+        },
+        {
+          "index": 2,
+          "text": "<我们手上有不少东西说不定能派上用场，不过……现在还太早，暂时不适合跟它硬碰硬，我猜。>\n <We've got plenty of stuff that might come in helpful, but... still too early to even try to fight it, I guess.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D2913",
+      "texts": [
+        {
+          "index": 0,
+          "text": "几缕金色的光芒，从那根黑曜石柱子的裂缝中透出。\n Thin rays of golden light shine from the cracks of the obsidian pillar."
+        }
+      ]
+    },
+    {
+      "key": "D2914",
+      "texts": [
+        {
+          "index": 0,
+          "text": "黑派把红派的服饰塞进了红派挖走黄金皮革后留下的缝隙里。\n The Noirs have stuffed Le Rouge apparel into the gaps where the Rouges have carved out the Golden Hides."
+        }
+      ]
+    },
+    {
+      "key": "D2915",
+      "texts": [
+        {
+          "index": 0,
+          "text": "那根柱子已被深红色的血肉完全吞没，原本的形状已难以辨认。\n The pillar is completely swallowed up beneath crimson flesh. Its original shape is difficult to discern."
+        }
+      ]
+    },
+    {
+      "key": "D2916",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[黑派精选——初木工坊：品牌经理亲自甄选的六件套系列]\n [Sélection du Noir - Atelier du Premier Arbre: A collection of six articles, hand-nominated by the Brand Manager herself]"
+        }
+      ]
+    },
+    {
+      "key": "D2500",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这是一根柱子，底部藏着一块布料和一张黑派留下的字条。\n It's a pillar where a piece of cloth and a Noir's note are hidden by its base."
+        }
+      ]
+    }
+  ]
+}

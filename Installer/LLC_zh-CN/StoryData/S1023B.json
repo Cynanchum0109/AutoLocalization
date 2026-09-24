@@ -1,0 +1,186 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "制鞋馆 4F\n Footwear Hall, 4F",
+      "model": "뷔페어린이",
+      "content": "……她见到我也很开心。\n ... She was happy to see me, too."
+    },
+    {
+      "id": 1,
+      "model": "뷔페어린이",
+      "content": "但我不能带她回家。我甚至不知道她的家在哪……或者说，<i>“家”</i>究竟是什么。\n But I can't bring her home. I don't even know where her home is... or <i>what</i> home is."
+    },
+    {
+      "id": 2,
+      "model": "뷔페어린이",
+      "content": "即便如此……她还是心怀感激，很高兴见到我。\n Even still... she was grateful and happy to see me."
+    },
+    {
+      "id": 3,
+      "model": "뷔페어린이",
+      "content": "......."
+    },
+    {
+      "id": 4,
+      "model": "뷔페어린이",
+      "content": "“家”是什么？\n What is \"home\"?"
+    },
+    {
+      "id": 5,
+      "model": "돈키호테",
+      "content": "那是个总会欢迎主人归来的地方……？唔……吾从未觉得这是个难以解释的概念……\n Some place that always welcomes its master's return...? Hmm... I had not thought this to be a difficult concept to explain..."
+    },
+    {
+      "id": 6,
+      "model": "홍루",
+      "content": "……是迈出人生第一步的地方。因为家，是我们所有人启程的起点。\n ... The place where you take your first steps. Because home is where we all began our journeys."
+    },
+    {
+      "id": 7,
+      "model": "뷔페어린이",
+      "content": "……那么，“外面”是你们的家吗？\n ... Then, is \"outside\" your home?"
+    },
+    {
+      "id": 8,
+      "model": "뫼르소",
+      "content": "不。但我们的家，就在“外面”。\n No. But \"outside\" is where our homes are."
+    },
+    {
+      "id": 9,
+      "model": "뷔페어린이",
+      "content": "那她呢……？她的家是在西西弗百货吗……？\n What about her...? Is her home in the Grand Magasin...?"
+    },
+    {
+      "id": 10,
+      "model": "뫼르소",
+      "content": "不。她也曾是……住在“外面”的人。\n No. She was also... someone who used to live \"outside.\""
+    },
+    {
+      "id": 11,
+      "model": "뷔페어린이",
+      "content": "……那……那位独腿的女士呢？还有那位以前常给我唱歌的女士……？\n ... What about... the one-legged lady? Or the lady who used to sing me a song...?"
+    },
+    {
+      "id": 12,
+      "model": "뫼르소",
+      "content": "她们都是……来自“外面”的。\n They are all... from the \"outside.\""
+    },
+    {
+      "id": 13,
+      "model": "뷔페어린이",
+      "content": "那……我呢？\n What about... me?"
+    },
+    {
+      "id": 14,
+      "model": "뷔페어린이",
+      "content": "我是……唯一一个在这里出生的吗？为什么……？\n Am I the... only one who was born here? Why...?"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소",
+      "content": "……你是失去了本该聆听的“声音”的红派编织出来的。他们造出你，是要你成为他们新的声音。\n ... You were woven into being by the Rouges, who lost the Voice they were supposed to hear. They made you to be their new Voice."
+    },
+    {
+      "id": 16,
+      "model": "뷔페어린이",
+      "content": "我……本该成为“声音”吗……？\n Am I... supposed to be a \"Voice\"...?"
+    },
+    {
+      "id": 17,
+      "model": "돈키호테",
+      "content": "小布布，世间本无所谓“应当成为什么”——汝之路，理当由汝自己去开辟，而非由他人来定义。\n Young Pwie, there is no such thing as what thou art \"supposed to be\"—thy path ought to be something thou pavest, not to be defined by others."
+    },
+    {
+      "id": 18,
+      "model": "뷔페어린이",
+      "content": "……那……我出生的时候，难道没有什么是我本该成为的吗？\n ... So... there wasn't anything you were supposed to be when you were born?"
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "……的确，我们生来便被赋予了某些名分。\n ... There are, indeed, certain designations that were bestowed upon us at our birth."
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "然而，吾宁愿不让那些名分来定义吾此生之目的。吾亦努力不使其如此。\n Yet, I would rather not have them define my purpose in life. I endeavor not to make it so."
+    },
+    {
+      "id": 22,
+      "model": "홍루",
+      "content": "我曾……“本该”是大观园里的那块玉。那便是我出生的唯一目的。而，有那么一阵子……我确实是。\n I was... \"supposed to be\" the jade of Daguanyuan. That was the sole purpose for which I was born. And, for a while... I was."
+    },
+    {
+      "id": 23,
+      "model": "홍루",
+      "content": "但如今不再是了。因为“玉”，是<i>长辈们</i>想要我成为的样子，而不是我自己想成为的人。\n But not anymore. Because a jade was what the <i>elders</i> wanted me to be, not who I wanted to become."
+    },
+    {
+      "id": 24,
+      "model": "뷔페어린이",
+      "content": "……那么……我就不能成为我本该成为的样子吗？哪怕那正是我被生下来的全部理由？\n ... Then... can I not be something that I'm supposed to become? Even if that's the whole reason I was birthed for?"
+    },
+    {
+      "id": 25,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 26,
+      "content": "堂吉诃德抿紧了嘴唇，神情凝重。布布的问题，想必让她陷入了沉思。\n Don Quixote pursed her lips with a grim expression. Pwie's question must've given her much to think about."
+    },
+    {
+      "id": 27,
+      "content": "察觉到房间里古怪的气氛，又想起我们先前的讨论，布布轻轻举起了手……又放了下来，转而选择去问默尔索。\n Sensing the odd current of the room, and reminded of our earlier discussion, Pwie briefly raised their hand... and lowered it, instead choosing to ask Meursault."
+    },
+    {
+      "id": 28,
+      "model": "뷔페어린이",
+      "content": "我能吗？\n Can I?"
+    },
+    {
+      "id": 29,
+      "model": "뫼르소",
+      "content": "那……是只有你自己才能决定的事。不过……\n That is... something only you can decide for yourself. But..."
+    },
+    {
+      "id": 30,
+      "model": "뫼르소",
+      "content": "……这并不是个容易回答的问题。\n ... it is not an easy question to answer."
+    },
+    {
+      "id": 31,
+      "model": "뷔페어린이",
+      "content": "......."
+    },
+    {
+      "id": 32,
+      "content": "房间里彻底安静了下来。布布的目光在房间里游移，不知该落在何处……\n The room had fallen completely silent now. Pwie's eyes darted around the room, not knowing where to rest..."
+    },
+    {
+      "id": 33,
+      "content": "……接着，她喃喃道：\n ... and she muttered:"
+    },
+    {
+      "id": 34,
+      "model": "뷔페어린이",
+      "content": "我想我现在明白了。\n I think I understand now."
+    },
+    {
+      "id": 35,
+      "model": "홍루",
+      "content": "嗯？你明白什么了？\n Hm? What did you understand?"
+    },
+    {
+      "id": 36,
+      "model": "뷔페어린이",
+      "content": "我现在明白了……为什么你不想让气氛变得尴尬。\n I understand now... Why you don't want things to get awkward."
+    }
+  ]
+}

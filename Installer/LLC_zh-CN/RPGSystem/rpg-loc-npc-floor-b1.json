@@ -1,0 +1,108 @@
+{
+  "dataList": [
+    {
+      "key": "N201002",
+      "displayName": "楼层经理\n Floor Manager"
+    },
+    {
+      "key": "N201003",
+      "displayName": "副主厨\n Sous Chef"
+    },
+    {
+      "key": "N101018",
+      "displayName": "단테 SD\n 단테 SD"
+    },
+    {
+      "key": "N101022",
+      "displayName": "浮士德\n Faust"
+    },
+    {
+      "key": "N101024",
+      "displayName": "格里高尔\n Gregor"
+    },
+    {
+      "key": "N201005",
+      "displayName": "试味员\n Mouth Taste Tester"
+    },
+    {
+      "key": "N201007",
+      "displayName": "부표파 어부"
+    },
+    {
+      "key": "N201017",
+      "displayName": "漆黑者搬运工\n Le Noir Porter"
+    },
+    {
+      "key": "N201018",
+      "displayName": "赤红者搬运工\n Le Rouge Porter"
+    },
+    {
+      "key": "N201008",
+      "displayName": "干渴的卡基\n Thirsty Kaki"
+    },
+    {
+      "key": "N201009",
+      "displayName": "饥饿的卡基\n Hungry Kaki"
+    },
+    {
+      "key": "N201010",
+      "displayName": "饥饿的卡基\n Hungry Kaki"
+    },
+    {
+      "key": "N201011",
+      "displayName": "달퐁이 사체"
+    },
+    {
+      "key": "N201019",
+      "displayName": "干渴的卡基\n Thirsty Kaki"
+    },
+    {
+      "key": "N201020",
+      "displayName": "饕餮的卡基\n Voracious Kaki"
+    },
+    {
+      "key": "N201021",
+      "displayName": "干渴的卡基\n Thirsty Kaki"
+    },
+    {
+      "key": "N201022",
+      "displayName": "饿到极致的卡基\n Starving Kaki"
+    },
+    {
+      "key": "N201023",
+      "displayName": "饥饿的卡基\n Hungry Kaki"
+    },
+    {
+      "key": "N201024",
+      "displayName": "饕餮的卡基\n Voracious Kaki"
+    },
+    {
+      "key": "N201025",
+      "displayName": "干渴的卡基\n Thirsty Kaki"
+    },
+    {
+      "key": "N201026",
+      "displayName": "难以辨认的尸骸\n Unidentifiable Carcass"
+    },
+    {
+      "key": "N201027",
+      "displayName": "通往黑暗的门\n Door into Darkness"
+    },
+    {
+      "key": "N201028",
+      "displayName": "干渴的卡基\n Thirsty Kaki"
+    },
+    {
+      "key": "N201029",
+      "displayName": "饿到极致的卡基\n Starving Kaki"
+    },
+    {
+      "key": "N201032",
+      "displayName": "谨慎的卡基\n Careful Kaki"
+    },
+    {
+      "key": "N201033",
+      "displayName": "可疑的卡基\n Suspicious Kaki"
+    }
+  ]
+}

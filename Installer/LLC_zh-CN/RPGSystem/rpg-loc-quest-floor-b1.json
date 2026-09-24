@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "A1 : 지하 1층으로",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下一层——美食厅\n Head to B1F - Food Hall"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "讨论美食厅\n Discuss the Food Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "前往地下二层\n Head to B2F",
+      "description": "布彻为我们做了一道叫“金色蚕茧”的“料理”。现在，得想办法找到通往地下二层的路了。\n\n去看看我们走过的那条走廊，检查一下有没有往下的路。\n Boucher cooked us a \"dish\" called the Golden Cocoon. Now, to find our way down to B2F.\n\nLet's check the path down from the corridor we walked through.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下二层\n Head down to B2F"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "寻找下行扶梯\n Look for a Descending Escalator",
+      "description": "我们发现自己身处一间满是扶梯的房间，每一条都不知通向何方。我们应该好好调查这些扶梯，找出那条能带我们去地下二层的。\n We found ourselves in a room full of escalators that lead who knows where. We should investigate these escalators and find the one that can bring us down to B2F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查扶梯\n Investigate the escalators"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "前往美食广场\n Head to the Food Court",
+      "description": "我们成功来到了地下一层。这里的氛围，跟楼上确实完全不同……\n若想找到金色蚕茧，我们大概得去一个他们称为“美食广场”的地方。去地面上找找蜗牛壳的图案吧。\n Made our way down to B1F. It certainly has a different feel from the upper floors...\nWe should probably head to this place they call the \"Food Court\" if we want to find the Golden Cocoon. Let's look for the drawing of a snail shell on the ground.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往美食广场\n Head to the Food Court"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "追上副主厨！\n Pursue the Sous Chef!",
+      "description": "我们遇到了一位名叫“副主厨”的人。她说自己在一个叫布彻的人的储藏室里，见过金色蚕茧。\n追上副主厨，打听更多关于金色蚕茧的消息吧。\n Met someone called \"Sous Chef.\" We were told that she'd seen the Golden Cocoon in someone called Boucher's storeroom.\nLet's chase after Sous Chef and find out more about the Golden Cocoon.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "追上副主厨！\n Pursue the Sous Chef!"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "拜访布彻\n Visit Boucher",
+      "description": "副主厨向我们介绍了布彻，地下一层的楼层经理。去找布彻，问问有没有办法说服他把金色蚕茧交给我们。\n Sous Chef told us about Boucher, the B1F Floor Manager. Let's find Boucher and ask if there's any way we could convince him to give us the Golden Cocoon.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "拜访布彻\n Visit Boucher"
+        }
+      ]
+    },
+    {
+      "key": "Q-1006",
+      "title": "带回猎物反刍肉\n Bring Back the Ruminations of the Prey",
+      "description": "布彻说他愿意割舍手中的金色蚕茧……不过条件是要一块名为“猎物反刍肉”的肉，据说悬挂在鲜肉科的某处。\n\n我们该去找到那块肉，交给布彻。\n Boucher said he's willing to part with his Golden Cocoon... but only for this cut of meat called \"Ruminations of the Prey,\" which can be found hanging somewhere inside the Fresh Meat Section.\n\nWe should find that cut of meat and hand it over to Boucher.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "带回猎物反刍肉\n Bring back the Ruminations of the Prey"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "返回扶梯大厅\n Return to the Hall of Escalators",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回扶梯大厅\n Return to the room of escalators"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "에스컬레이터실 복귀 대화"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "定义扶梯\n Define the Escalator",
+      "description": "根据让娜含糊其辞的提示，我们不该去寻找通往楼下的扶梯……而是该去定义一条。默尔索给了我三个选项——梯子、小山，或者鞋子。\n\n该让默尔索把这条扶梯定义成哪一个呢？\n According to Jeanne's cryptic hints, we shouldn't look for an escalator that leads downstairs... but define one instead. Meursault gave me three options—a ladder, a hill, or a shoe.\n\nWhich of these should I tell Meursault to define the escalator as?",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "定义这条扶梯：梯子、小山，还是鞋子？\n Define the escalator: a ladder, a hill, or a shoe?"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "启动扶梯\n Activate the Escalator",
+      "description": "미사용",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "搭乘扶梯下行\n Take the Escalator Down",
+      "description": "미사용",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": ""
+        }
+      ]
+    }
+  ]
+}

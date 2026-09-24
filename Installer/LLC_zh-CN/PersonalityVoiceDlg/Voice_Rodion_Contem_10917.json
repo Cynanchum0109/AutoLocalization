@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10917_1",
+      "desc": "获得人格\n Identity Acquisition",
+      "dlg": "肩缝垂得略低了些……袖口又短了一拃。领口那根露出来的散线，剪掉才叫干净。\n呼呼～这位顾客要改的地方可不少呢。那么，你想先改哪一处？\n Shoulder seams hanging a touch too low... hems of the arm a span too short. And that loose thread sticking out of your collar would look much cleaner snipped away.\nFuhu~ Lots of work to be done, this customer. So, which part would you like to have altered first?"
+    },
+    {
+      "id": "lobby_morning_10917_1",
+      "desc": "早间问候\n Morning Greeting",
+      "dlg": "哦，光终于照到店门口了——两件套想必已经清场了吧。那就是说……那些等了我开门等到发慌的黑派顾客，马上就要一齐涌进来了。\n……黑派可不怎么待见异乡人。要买的东西赶紧买了，趁现在还来得及就快走吧。\n Oh, the light's finally reaching the front door—Two-piece must've cleared out. And that means... every Noir customer who's been waiting forever for me to open is about to rush this place at once.\n... The Noirs are not so fond of strangers. Buy what you need and be on your way while you still can."
+    },
+    {
+      "id": "lobby_noon_10917_1",
+      "desc": "午间问候\n Afternoon Greeting",
+      "dlg": "这个时段的阳光格外温柔。晒得我的头发和肩膀暖洋洋的，舒服得我几乎睁不开眼……\n再不小心点，我说不定会打盹打到忘了有人进过店里。\n The sun feels especially gentle at this hour. It warms my hair and shoulders so, so cozily that I can hardly keep my eyes open...\nIf I'm not careful, I may doze off and forget that anyone ever came into the shop."
+    },
+    {
+      "id": "lobby_night_10917_1",
+      "desc": "晚间问候\n Evening Greeting",
+      "dlg": "这季的预约已经排满了。补个破洞、缝点简单的活儿我还能接，但……要是想要上等布料，你就得耐心等一阵了。\n这儿剩下的大多是些二等丝线，再厉害的手艺，也织不出优雅有型的布料。\n This season's bookings are already closed. I can still patch a tear or stitch up something simple, but... if you're after quality fabric, you'll have to settle in for a wait.\nThere isn't much left here besides second-rate thread, and no amount of skill can coax fabrics of elegance and style out of that."
+    },
+    {
+      "id": "smalltalk_10917_1",
+      "desc": "对话 1\n Chatter #1",
+      "dlg": "你也看得出来，你误打误撞闯进来的这个地方，跟别的店可不一样。这不是展览的地方，也不是卖成品的地方。这儿是我坐着默默缝缝补补出来的布料的销售处。想要结实点、不容易磨损的布料？还是说不合你口味的话，我也能给你找块更轻的方格布，等着被裁成形。\n As you can see, this place you've stumbled into is quite unlike the other stores. This isn't a place of exhibition, nor is it a place for finalized pieces. This is where I sell the fabrics I've been sitting here patching up in silence. Want something sturdy with fray-resistant fabric? Or if that doesn't suit your taste, I could find you a lighter checked fabric waiting to be given shape."
+    },
+    {
+      "id": "smalltalk_10917_2",
+      "desc": "对话 2\n Chatter #2",
+      "dlg": "有些丝线已经打结打到解不开了。有些又缠得太密，连剪刀都插不进去。这座百货商场里到处散落着没人愿意去修剪的线头和绒毛。每次我看到一个，就忍不住想拿剪刀去修一修……不管那线头到底是什么。\n Some threads have knotted themselves past the point of untangling. Others are packed so densely that there isn't room to slip the shears through. This department store is littered with loose ends and lint that nobody has bothered to trim. Every time I spot one, I feel the urge to take my scissors to it... Whatever that loose end happens to be."
+    },
+    {
+      "id": "smalltalk_10917_3",
+      "desc": "对话 3\n Chatter #3",
+      "dlg": "黄金松脂渗出的光，最近吸引来了更多信徒。是黑派那副严厉的声音已经满足不了他们了吗……？\n话说回来，冻僵了手指的时候，还有什么比阳光更温暖、更让人安心呢。\n The light leaking from the Golden Resin has been drawing more worshippers these days. Did they need more than what the stern Voice of Le Noir could give them...?\nThen again, nothing feels quite as warm or comforting as sunlight when you're feezing your fingers off."
+    },
+    {
+      "id": "smalltalk_10917_4",
+      "desc": "同步后对话 1\n Post-Uptie Chat 1",
+      "dlg": "哦，那些红色的家伙我可听说不少呢。*轻笑*他们用来缝合内里的那根线，红得那么显眼，意图都从表面透出来了……再明显不过了。\n他们迟早会来找我，看着我被剪掉——他们觊觎我的黄金面料，我要是没看出他们有多害怕我剪刀能做出的那些衣裳，那才叫傻。\n Oh, I've heard all about those red ones. *chuckle* The thread they've stitched their innards with is so conspicuously crimson that their intentions are showing through the exterior... and it can't be more obvious.\nSooner or later, they'll visit to see me snipped away—they covet my Golden Fabric, and I'd be a fool not to notice how they fear all the garments my scissors may create."
+    },
+    {
+      "id": "smalltalk_10917_5",
+      "desc": "同步后对话 2\n Post-Uptie Chat 2",
+      "dlg": "西西弗百货里的每一件衣物用到的布料，不管是被人渴求还是被人厌恶，都是从一根丝线开始的。备好丝线，剩下的就只需要一枚钉子。当然，还有我这把剪刀。\n The fabric that goes into every article of clothing within the Grand Magasin, be it desired or abhorred, begins with a single thread. Procure the thread, and we need only a nail to complete the rest. And my scissorblades, of course."
+    },
+    {
+      "id": "neglect_10917_1",
+      "desc": "闲置\n Idle",
+      "dlg": "……好了，搞定。我仔细缝了道锁边针脚。这道边好一阵子都不会再散开了。\n ... There, done and done. I put in a careful whipstitch. The edge won't unravel again for a good long while."
+    },
+    {
+      "id": "gacksung_10917_1",
+      "desc": "进行同步\n Uptying",
+      "dlg": "撕破的、烧焦的——把不完美的东西带来给我，经我的手，它们都能变得完整。哪怕是未成形的……还有那些渐渐坠入沉睡的。\n Torn or burnt—bring the imperfect to me, and by my fingers they will be made whole. Even the unborn... and those drifting into sleep."
+    },
+    {
+      "id": "formation_10917_1",
+      "desc": "部署\n Deployment",
+      "dlg": "我能看出你眼里那股<i>咔嚓咔嚓</i>的冲动。不如告诉我，你想拿剪刀对付什么？\n I can see the desire to go <i>snip-snip!</i> in your eyes. Why don't you tell me what you'd like to put the scissors to?"
+    },
+    {
+      "id": "battleentry_10917_1",
+      "desc": "进入战斗\n Stage Entry",
+      "dlg": "准备好被剪掉了吗？\n Are you prepared to be snipped away?"
+    },
+    {
+      "id": "battle_select_10917_1",
+      "desc": "战斗中被选取\n Viewed in Battle",
+      "dlg": "……该拿哪块布盖在那上面，才好缝合呢？\n ... Which patch of fabric should I lay over that one to make the stitching easier?"
+    },
+    {
+      "id": "battle_endcommand_10917_1",
+      "desc": "开始攻击\n Commencing Attack",
+      "dlg": "从丝线到针尖。\n From thread to needle."
+    },
+    {
+      "id": "battle_enemy_break_10917_1",
+      "desc": "敌人混乱\n Enemy Stagger",
+      "dlg": "顺着布纹剪下去……\n Cut away along the grain..."
+    },
+    {
+      "id": "battle_break_10917_1",
+      "desc": "混乱\n Staggered",
+      "dlg": "……命悬一线。\n ... Life hanging by a thread."
+    },
+    {
+      "id": "battle_kill_10917_1",
+      "desc": "击杀敌人\n Enemy Killed",
+      "dlg": "……缝完这道针脚。\n ... to finish the seam."
+    },
+    {
+      "id": "battle_dead_10917_1",
+      "desc": "死亡\n Death",
+      "dlg": "看来这下全都散架了……一根丝线都不剩……\n So it's all coming apart now... every last thread..."
+    },
+    {
+      "id": "choice_success_p_10917_2",
+      "desc": "判定成功\n Check Passed",
+      "dlg": "我说过了吧？布料一旦被我好好折叠过，就没那么容易磨损了。\n Told you, didn't I? Once I've properly folded a piece of fabric, it doesn't fray so easily."
+    },
+    {
+      "id": "choice_fail_n_10917_1",
+      "desc": "判定失败\n Check Failed",
+      "dlg": "看来是尺寸不对。我得改一改了。\n Looks like the fit was wrong. I'll have to make a few alterations."
+    },
+    {
+      "id": "battle_clear_10917_1",
+      "desc": "战斗胜利\n Victory Cry",
+      "dlg": "走得挺安静的，没怎么闹腾。看来你真的做好了被剪掉的准备，嗯？\n至于你留下的这些碎片……嗯，行吧。我会把它们好好整整齐齐地缝在一起。\n黑派肯定会喜欢的。\n You went quietly without much fuss. I suppose you really were prepared to be snipped away, hmm?\nAs for the pieces you've left behind... Hmm, sure. I'll stitch them together nice and neat.\nThe Noirs ought to love this."
+    },
+    {
+      "id": "battle_clear_ex_10917_1",
+      "desc": "满足额外条件\n Extra Conditions Fulfilled",
+      "dlg": "布料已经裁成好看的形状了，针也穿好了线……接下来只需要缝上去、锁个边，再用藏针缝把收口藏起来就行。\n以后还有什么要改的，尽管再来找我。不过下次嘛……我可要多收点眼球了，好吗？\n The fabric's been cut to a flattering shape, and the needle's all threaded... Now all that's left is to stitch it in place, overcast the edges, and conceal the finish with a blind stitch.\nCome find me again if you ever need anything else altered. But next time... I'll be charging more eyeballs, okay?"
+    },
+    {
+      "id": "battle_defeat_10917_1",
+      "desc": "战斗失败\n Defeat Wail",
+      "dlg": "……你还真有两下子。既然把我剪掉了，黑派往后可就再也拿不到我的布料了。\n你那双眼睛，已经见识过如此炽烈的脉动……所以我相信……剩下的这些我，你会好好利用的。\n ... You're pretty good. Now that you've snipped me away, you've denied the Noirs any possibility of procuring my fabrics again.\nThose eyes of yours have beheld such a fierce pulse... So I'm sure... you'll make good use of whatever remains of me."
+    }
+  ]
+}

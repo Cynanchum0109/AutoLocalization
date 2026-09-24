@@ -1,0 +1,20 @@
+{
+  "dataList": [
+    {
+      "key": "DC-2022A",
+      "text": "提取\n Extract"
+    },
+    {
+      "key": "DC-2022B",
+      "text": "纺丝\n Spin"
+    },
+    {
+      "key": "DC-2022C",
+      "text": "染色\n Dye"
+    },
+    {
+      "key": "DC-2022D",
+      "text": "乱按按钮\n Button Mash"
+    }
+  ]
+}

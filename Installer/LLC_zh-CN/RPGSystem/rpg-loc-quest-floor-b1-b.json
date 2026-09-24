@@ -1,0 +1,118 @@
+{
+  "dataList": [
+    {
+      "key": "Q-1000",
+      "title": "前往地下1层\n Head to B1F",
+      "description": "看来，我们的“美德”仍不足以进入5层。布布说，祂得披上黄金裹布，而地下楼层的某处有能加工皮革的人。去找那个人吧。\n Apparently, we're still lacking in \"virtue\" to enter 5F. Pwie said they need to wear a Golden Shroud, and that somewhere down on the underground floors, there's someone who can process hides. Let's head there.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下1层\n Head to B1F"
+        }
+      ]
+    },
+    {
+      "key": "Q-1001",
+      "title": "寻找猎物反刍肉\n Find the Ruminations of the Prey",
+      "description": "要得到黄金之茧，我们得把猎物反刍肉带给地下1层的楼层经理屠夫。它应该就在附近。赶紧找到它吧。\n To obtain the Golden Cocoon, we need to bring the Ruminations of the Prey to Boucher, B1F's Floor Manager. It should be somewhere nearby. Let's find it quickly.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "寻找猎物反刍肉\n Find the Ruminations of the Prey"
+        }
+      ]
+    },
+    {
+      "key": "Q-1002",
+      "title": "制服副主厨\n Subdue Sous Chef",
+      "description": "我们带着猎物反刍肉回到了美食广场。副主厨闻了布布几下后，突然向我们发动了攻击……\n\n先制服副主厨。\n We returned to the Food Court with the Ruminations of the Prey. After sniffing Pwie a few times, Sous Chef suddenly began attacking us...\n\nFirst, let's subdue Sous Chef.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "击败副主厨\n Defeat Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "Q-1003",
+      "title": "与地下1层的楼层经理交谈\n Talk to B1F's Floor Manager",
+      "description": "副主厨闻了布布几下后突然向我们发动了攻击，但听说我们带来了猎物反刍肉，她就冷静下来，并答应带我们见地下1层的楼层经理屠夫。\n\n去和屠夫谈谈吧。\n Sous Chef suddenly attacked us after sniffing Pwie a few times, but calmed down once she heard that we'd brought Ruminations of the Prey with us, and agreed to introduce us to Boucher, the Floor Manager at B1F.\n\nLet's talk to Boucher.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "与地下1层的楼层经理交谈\n Talk to B1F's Floor Manager"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "将猎物反刍肉交给地下1层的楼层经理\n Give the Ruminations of the Prey to B1F's Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "Q-1004",
+      "title": "前往岸边\n Head to the Shore",
+      "description": "副主厨慌张地告诉我们，储藏室里的幼虫逃走了。它应该就在鱼市那头的岸边。别无他法，我们决定去那里找一只活幼虫。\n The Sous Chef, panicking, told us that the larva kept in the storage had escaped. It should be on the Shore just beyond the Fish Market. With no other options, we decided to head there and look for a living larva.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往岸边\n Head to the Shore"
+        }
+      ]
+    },
+    {
+      "key": "Q-1005",
+      "title": "调查蠕动的幼虫\n Investigate the Squirming Larva",
+      "description": "我们到了岸边，无数幼虫正漂向大海。其中一只还在动。上前看看吧。\n We've reached the Shore, where countless larvae are drifting toward the sea. One of them is still moving. We should approach it.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "调查蠕动的幼虫\n Investigate the Squirming Larva"
+        }
+      ]
+    },
+    {
+      "key": "Q-1008",
+      "title": "返回副主厨处\n Return to Sous Chef",
+      "description": "我们找到了一只还活着的幼虫。把它带回美食广场，交给副主厨。\n We found one that's still breathing. Take it back to the Food Court and hand it over to the Sous Chef.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回副主厨处\n Return to Sous Chef"
+        }
+      ]
+    },
+    {
+      "key": "Q-1009",
+      "title": "前往自动扶梯大厅\n To the Escalator Hall",
+      "description": "和上次一样，我们得到了黄金之茧……或者说，“蠕蠕”。下一站是布满自动扶梯的大厅。\n Just like last time, we've got ourselves a Golden Cocoon... or rather, \"Wriggley\". Next stop: the Escalator Hall packed with escalators.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往自动扶梯大厅\n To the Escalator Hall"
+        }
+      ]
+    },
+    {
+      "key": "Q-1010",
+      "title": "选择一部自动扶梯\n Choose an Escalator",
+      "description": "我们让布布挑了祂喜欢的自动扶梯。现在，来确认祂选的是哪一部。\n We let Pwie pick whichever escalator they liked. Now to define the escalator they chose.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "选择一部自动扶梯\n Choose an Escalator"
+        }
+      ]
+    },
+    {
+      "key": "Q-1011",
+      "title": "前往地下2层的自动扶梯\n Head to B2F's Escalator",
+      "description": "乘地下2层的自动扶梯下去吧。\n Let's take B2F's escalator down.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下2层的自动扶梯\n Head to B2F's Escalator"
+        }
+      ]
+    }
+  ]
+}

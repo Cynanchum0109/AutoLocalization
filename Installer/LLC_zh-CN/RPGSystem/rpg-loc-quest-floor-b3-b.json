@@ -1,0 +1,319 @@
+{
+  "dataList": [
+    {
+      "key": "Q-3000",
+      "title": "收集皮革\n Fetch the Hide",
+      "description": "监工要求我们交出8块皮革，才肯制作黄金裹布。我们得收集散落在西西弗百货各处的皮革。\n The Overseer requested 8 pieces of hide in return for making the Golden Shroud. We need to gather the hides scattered across the Grand Magasin.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "地下二楼：3块皮革\n B2F: 3 Hide Pieces",
+          "goalDescription2": "地下一楼：1块皮革\n B1F: Hide Piece",
+          "goalDescription3": "一楼：1块皮革\n 1F: Hide Piece",
+          "goalDescription4": "二楼：1块皮革\n 2F: Hide Piece",
+          "goalDescription5": "三楼：1块皮革\n 3F: Hide Piece",
+          "goalDescription6": "四楼：1块皮革\n 4F: Hide Piece"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010",
+      "title": "收集黄金皮革碎片\n Collect the Pieces of Golden Hide",
+      "description": "我们在地下三楼遇到了监工。他说，要用黄金皮革制作衣服，得先去我们至今到过的各处收集皮革碎片。他把确切地点也告诉了我们。现在去把黄金皮革取来交给监工吧。\n We encountered the Overseer on B3F. The Overseer said that in order to make clothing from the Golden Hide, we need to collect the pieces from all the location we've visited so far. The exact locations were given to us. Now we need to go fetch the Golden Hide for the Overseer.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "收集帕莱特的黄金树脂\n Collect Palette's Golden Resin",
+          "goalDescription2": "收集地下二楼楼层经理的黄金皮革\n Collect B2F Floor Manager's Golden Hide",
+          "goalDescription3": "收集针线之王的黄金皮革\n Collect the King of Needlework's Golden Hide",
+          "goalDescription4": "收集副主厨的黄金皮革\n Collect Sous Chef's Golden Hide",
+          "goalDescription5": "从一楼尸堆收集黄金皮革\n Collect the Golden Hide from 1F's corpse pile",
+          "goalDescription6": "从四楼的墙上收集黄金皮革\n Collect the Golden Hide from the wall on 4F",
+          "goalDescription7": "Collect the Golden Hide from the Rouge Brand Director's corpse",
+          "goalDescription8": "Collect the Golden Hide from 3F's Floor Manager"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011",
+      "title": "收集皮革——地下一楼\n Gather the Hide - B1F",
+      "description": "监工索要的八块皮革中，有一块在地下一楼。得从副主厨身上把它剥下来。\n One of the eight pieces of hide demanded by the Overseer can be found on B1F. It has to be flayed off the Sous Chef.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往地下一楼美食广场\n To B1F Food Court",
+          "goalDescription2": "副主厨的黄金皮革（4/8）\n Sous Chef's Golden Hide (4/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3012",
+      "title": "收集皮革——一楼\n Gather the Hide - 1F",
+      "description": "监工索要的八块皮革中，有一块在一楼。它应该就在尸堆里的某处。\n One of the eight pieces of hide demanded by the Overseer can be found on 1F. It should be somewhere in the corpse pile.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "寻找藏在尸堆中的黄金皮革（5/8）\n Find the Golden Hide hidden in the corpse pile (5/8)",
+          "goalDescription2": "尸堆中的黄金皮革（5/8）\n Corpse Pile's Golden Hide (5/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3013",
+      "title": "收集皮革——二楼\n Gather the Hide - 2F",
+      "description": "监工索要的八块皮革中，有一块在二楼。得从品牌总监身上把它剥下来。\n One of the eight pieces of hide demanded by the Overseer can be found on 2F. It has to be flayed off the Brand Director.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "取走品牌总监的黄金皮革（7/8）\n Take the Brand Director's Golden Hide (7/8)",
+          "goalDescription2": "品牌总监的黄金皮革（7/8）\n Brand Director's Golden Hide (7/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3014",
+      "title": "收集皮革——三楼\n Gather the Hide - 3F",
+      "description": "监工索要的八块皮革中，有一块在三楼。得从楼层经理身上把它剥下来。\n One of the eight pieces of hide demanded by the Overseer can be found on 3F. It has to be flayed off the Floor Manager.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往三楼楼层经理的房间\n To the 3F Floor Manager's Room",
+          "goalDescription2": "三楼楼层经理的黄金皮革（8/8）\n 3F Floor Manager's Golden Hide (8/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3015",
+      "title": "收集皮革——四楼\n Gather the Hide - 4F",
+      "description": "监工索要的八块皮革中，有一块在四楼。我们应该去解构者留下的混凝土废墟里找找。\n One of the eight pieces of hide demanded by the Overseer can be found on 4F. We should search through the concrete rubble left behind by the Deconstructionists.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "取出塞在墙缝里的黄金皮革（6/8）\n Pick up the Golden Hide stuffed inside the crack in the wall (6/8)",
+          "goalDescription2": "已从墙缝取得黄金皮革（6/8）\n Obtained Golden Hide from the crack in the wall (6/8)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3006",
+      "title": "返回监工处\n Return to the Overseer",
+      "description": "我们终于收齐了八块黄金皮革。回地下三楼，把收集到的皮革交给监工，让他用黄金皮革为布布制作衣服。\n We've finally procured all eight pieces of the Golden Hide. Let's return to the Overseer on B3F and hand over what we've collected so he can craft Pwie an outfit out of the Golden Hide.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "返回监工处\n Return to the Overseer"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003",
+      "title": "前往制革工坊\n Head to the Tannery",
+      "description": "八块黄金皮革都带来了，但我们的奔波还没有结束。监工说，要量身制作衣服，布布得先去制革工坊量尺寸。\n去制革工坊见见那位……制革工吧。\n We've brought all eight pieces of the Golden Hide, but our journey didn't end there. To make bespoke garment, said the Overseer, Pwie should first head to the Tannery and get their size measured.\nLet's head to the Tannery and meet the... Tanner.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往制革工坊\n Head to the Tannery"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "坚守阵地，抵御敌人猛攻，直到制版工序完成。\n Hold the position against the onslaught of enemies until the patterning process is completed."
+        },
+        {
+          "index": 2,
+          "goalDescription1": "与制革工交谈\n Talk to the Tanner"
+        }
+      ]
+    },
+    {
+      "key": "Q-3004",
+      "title": "前往裁剪室\n Head to the Cutting Room",
+      "description": "布布已经量好尺寸，纸样也做好了。现在该裁剪、缝制了。\n\n前往裁剪室吧。\n Pwie's size has been measured, and patterns have been patterned. Now, it's time for cutting and sewing.\n\nLet's head to the Cutting Room.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往裁剪室\n Head to the Cutting Room"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "坚守阵地，抵御敌人猛攻，直到裁剪工序完成。\n Hold the position against the onslaught of enemies until the cutting process is completed."
+        },
+        {
+          "index": 2,
+          "goalDescription1": "检查裁切机\n Check the cutting machine"
+        }
+      ]
+    },
+    {
+      "key": "Q-3007",
+      "title": "完成缝纫工序\n Finish the Sewing Process",
+      "description": "裁剪已经完成。等培育者缝好，黄金皮革衣服应该就做成了。\n The cutting is complete. Once the Nurturer handles the stitching, the Golden Hide garment should be finished.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "前往培育者处\n Head to the Nurturer"
+        },
+        {
+          "index": 1,
+          "goalDescription1": "抵御来袭敌人，直到培育者缝制完成。\n Hold off the incoming enemies until the Nurturer finishes stitching"
+        }
+      ]
+    },
+    {
+      "key": "Q-3001",
+      "title": "从监工处领取黄金裹布\n Receive the Golden Shroud from the Overseer",
+      "description": "看来所有工序都完成了。我们该去监工那里领取做好的衣服。\n Looks like the whole process is complete. We should collect the finished garment from the Overseer.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "从监工处领取黄金裹布\n Receive the Golden Shroud from the Overseer"
+        }
+      ]
+    },
+    {
+      "key": "Q-3005",
+      "title": "杀死监工\n Kill the Overseer",
+      "description": "监工做好了黄金皮革衣服，却似乎舍不得交出来，反而向我们发起攻击。打倒监工，夺回做好的衣服。\n The Overseer finished the Golden Hide garment, but apparently couldn't bear to hand it over and turned on us instead. We should defeat the Overseer and claim the finished garment.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "杀死监工\n Kill the Overseer"
+        }
+      ]
+    },
+    {
+      "key": "Q-3002",
+      "title": "前往五楼\n Head to 5F",
+      "description": "监工做好了黄金皮革衣服，布布终于能穿上它。然而，吞下蠕蠕后，布布看起来一点也不高兴。\n……该前往五楼了。\n The Overseer completed the Golden Hide, allowing Pwie to don clothing made from it. Pwie, however, doesn't seem glad at all after devouring Wriggley.\n... It's time to head to 5F.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "抵达五楼\n Reach 5F"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010A",
+      "title": "(내부) 팔레트 가죽 확보 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "팔레트의 가죽 확보 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010B",
+      "title": "(내부) 플로어 매니저 가죽 확보 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "플로어 매니저 가죽 확보 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3010S",
+      "title": "(내부) 보디가드 교대 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "보디가드 교대 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011S",
+      "title": "(내부) 황금가죽 수주 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "황금가죽 수주 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011T",
+      "title": "(내부) 삽살이 개전 신호",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 개전 (내부 신호)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H1",
+      "title": "(내부) 삽살이 타격 1",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 1 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H2",
+      "title": "(내부) 삽살이 타격 2",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 2 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011H3",
+      "title": "(내부) 삽살이 타격 3",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "삽살이 타격 3 (내부)"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003A",
+      "title": "制革工坊的工序\n The Process at the Tannery",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "见证制革工序完成\n See the tanning process through to completion"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003B",
+      "title": "裁剪室的工序\n The Process at the Cutting Room",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "见证裁剪工序完成\n See the cutting process through to completion"
+        }
+      ]
+    },
+    {
+      "key": "Q-3003C",
+      "title": "室外广场的工序\n The Process at the Outdoor Plaza",
+      "description": "",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "见证室外广场的工序完成\n See the process at the Outdoor Plaza through to completion"
+        }
+      ]
+    },
+    {
+      "key": "Q-3011R",
+      "title": "再次与副主厨交涉\n Negotiate with Sous Chef again",
+      "description": "交出手臂的代价太惨重了。回地下一楼美食广场，再向副主厨提出另一笔交易。\n The consequence of giving up the arm was too dire. Let's return to Sous Chef on B1F's Food Court and offer her another trade.",
+      "steps": [
+        {
+          "index": 0,
+          "goalDescription1": "再次与副主厨交涉\n Negotiate with Sous Chef again"
+        }
+      ]
+    }
+  ]
+}

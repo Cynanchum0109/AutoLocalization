@@ -1,0 +1,267 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "3层 走廊\n Corridor, 3F",
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 1,
+      "model": "오티스",
+      "content": "显然没人——\n It's evident no one—"
+    },
+    {
+      "id": 2,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>——教过我，开始交谈时露脸是最基本的礼貌？其实<i>有人</i>教过，只不过我并不和你们待在一起，没法当面问候。</color>\n <color=#a5ab8e>—taught me that showing my face is the barest courtesy when initiating conversation? I <i>was</i> taught, actually, but I'm not in there with you to give you an in-person greeting.</color>"
+    },
+    {
+      "id": 3,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>我不是西西弗百货的顾客。我属于所谓的“巨人”——支撑西西弗屹立不倒的支柱。</color>\n <color=#a5ab8e>I'm not a customer here at the Grand Magasin. I'm one of what is called the \"Giants\"—the pillars that keep Sisyphe standing.</color>"
+    },
+    {
+      "id": 4,
+      "model": "오티스",
+      "content": "你说“巨人”……嗯，那是什么？一个——\n A \"Giant,\" you say... Hm, what's that? A—"
+    },
+    {
+      "id": 5,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>——派系？不算是吧。西西弗百货的日常运营完全依赖我们巨人的管理。我们甚至都不能想什么时候休带薪假就什么时候休。</color>\n <color=#a5ab8e>—faction? Not really. The daily operations of the Grand Magasin rely entirely on us Giants' management. We don't even get to take PTO when we want to.</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=#a5ab8e>对了，你们在西西弗百货里前进时，可能会听到有些顾客向没有实体的“声音”呼喊。通常说话的就是我们这些“巨人”。当然，也可能有例外。</color>\n <color=#a5ab8e>Oh yeah, you might hear some of its customers calling out to disembodied \"Voices\" as you make your way through the Grand Magasin. That'd usually be us speaking, the \"Giants.\" Though there might be some exceptions.</color>"
+    },
+    {
+      "id": 7,
+      "model": "오티스",
+      "content": "……你。\n ... You."
+    },
+    {
+      "id": 8,
+      "model": "오티스",
+      "content": "你在读我的心？\n Are you reading my mind?"
+    },
+    {
+      "id": 9,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>*轻笑* 当然没有。只是你的问题太好猜了，我实在忍不住抢答而已。</color>\n <color=#a5ab8e>*chuckle* Of course not. The questions were just so predictable that I couldn't help myself, that's all.</color>"
+    },
+    {
+      "id": 10,
+      "model": "싱클레어",
+      "content": "打、打扰一下……\n E-excuse me..."
+    },
+    {
+      "id": 11,
+      "content": "辛克莱小心翼翼地插进了两人的对话。\n Sinclair gingerly sidled into the conversation."
+    },
+    {
+      "id": 12,
+      "model": "싱클레어",
+      "content": "如果你们<i>曾经</i>是恋爱关系……那是不是说……\n If you two were in a romantic relationship... <i>once</i>, does that mean..."
+    },
+    {
+      "id": 13,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>他说的就是字面意思——我们的关系燃烧着彼此的渴望，只有立刻满足才能将其浇灭……而我们从不浪费哪怕一分一秒，总会让两人之间的气氛变得<i>火热</i>。直到某一天，默尔索连句像样的告别都没有，就这样永远离开了N公司。</color>\n <color=#a5ab8e>He meant it quite literally—our relationship burned with mutual yearning, the kind doused only by immediate gratification... And we never squandered so much as a single moment to get things <i>steamy</i> between the two of us. Until Meursault one day up and left N Corp. forever without so much as a proper goodbye.</color>"
+    },
+    {
+      "id": 14,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>是这样吧？</color>\n <color=#a5ab8e>You did, didn't you?</color>"
+    },
+    {
+      "id": 15,
+      "model": "뫼르소",
+      "content": "是。\n I did."
+    },
+    {
+      "id": 16,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>既然我们已经经历过一轮清仓，我再问一次。你是因为想我才回来的吗？</color>\n <color=#a5ab8e>Lemme ask again, now that we've gone through a round of Liquidation. Did you return because you missed me?</color>"
+    },
+    {
+      "id": 17,
+      "model": "뫼르소",
+      "content": "出于对旧情人应有的基本礼节……\n As it is basic courtesy one extends to an old flame..."
+    },
+    {
+      "id": 18,
+      "model": "뫼르소",
+      "content": "“我很想你。”\n \"I missed you.\""
+    },
+    {
+      "id": 19,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>呵呵，好吧。这样我就满足了。</color>\n <color=#a5ab8e>Hehe, fine. That's good enough for me.</color>"
+    },
+    {
+      "id": 20,
+      "model": "오티스",
+      "content": "我不知道你们两个在玩什么把戏，但是……\n I don't know what game you two are playing, but..."
+    },
+    {
+      "id": 21,
+      "model": "오티스",
+      "content": "如果你是巨人，而巨人又相当于这座“百货商场”的管理者，那么你是否有权限放我们离开这里？\n If you're a Giant, and if the Giants are akin to overseers of this \"department store,\" is it within your authority to release us from here?"
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "……她做不到。即使她有能力，也不会那么做。\n ... She cannot. She will not, even if it were within her ability to do so."
+    },
+    {
+      "id": 23,
+      "model": "오티스",
+      "content": "对……你当然知道。\n Right... Of course you'd know."
+    },
+    {
+      "id": 24,
+      "content": "奥提斯斜眼瞪着默尔索。\n Outis glared askance at Meursault."
+    },
+    {
+      "id": 25,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>你的这位新同事——她一直都是这样吗？疑心真重。</color>\n <color=#a5ab8e>So this new coworker of yours—she's always like this, huh? So untrusting.</color>"
+    },
+    {
+      "id": 26,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 27,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>我是西西弗百货的巨人——保护并维护西西弗百货就是我的工作。我可以讲些这里的故事陪你们解闷，不过……</color>\n <color=#a5ab8e>I am a Giant of the Grand Magasin—protecting and maintaining the Grand Magasin is my job. I can keep you company with stories about this place, but...</color>"
+    },
+    {
+      "id": 28,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>……我可没法像抓娃娃一样，单独把你们13个人夹出去。</color>\n <color=#a5ab8e>... I can't pick out just the 13 of you like it's a crane game.</color>"
+    },
+    {
+      "id": 29,
+      "model": "오티스",
+      "content": "还是得遵守规则与条件，是吗？那么你能提供的不过是全能的假象。平平无奇。\n Still have to follow the rules and conditions, hm? Then you have nothing to offer us but the illusion of omnipotence. Unremarkable."
+    },
+    {
+      "id": 30,
+      "model": "단테",
+      "content": "<……她不可能一直盯着我们。毕竟她还得管理这座百货商场。>\n <... She won't always have her eyes on us. She still has a department store to manage, after all.>"
+    },
+    {
+      "id": 31,
+      "model": "오티스",
+      "content": "我开始看清了，执行经理。每位“巨人”想必还各自负责监管这里的某个方面。\n I'm starting to get a clearer picture, Executive Manager. Each \"Giant\" must also be responsible for overseeing an aspect of this place."
+    },
+    {
+      "id": 32,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>哦？看来她不只是个妄想狂……噗，你的朋友们还真是各有特色啊？</color>\n <color=#a5ab8e>Oh? Looks like she's more than just a paranoiac... Pfft, your friends each have something special about them, huh?</color>"
+    },
+    {
+      "id": 33,
+      "model": "싱클레어",
+      "content": "......."
+    },
+    {
+      "id": 34,
+      "model": "싱클레어",
+      "content": "那个……我能问您一个问题吗，让娜小姐？您为什么让我们听见您的声音？只是因为见到默尔索很高兴吗……？\n Um... May I ask you a question, Miss Jeanne? Why did you let us hear your Voice? Was it just because you were happy to see Meursault...?"
+    },
+    {
+      "id": 35,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>工作时，我通常……都是孤身一人。</color>\n <color=#a5ab8e>At work, I'm usually... all by myself.</color>"
+    },
+    {
+      "id": 36,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>我坐在那间不大不小、尺寸适中的房间一角……凝望着西西弗百货令人难以承受的无边广阔，仿佛这是世上再正常不过的事。</color>\n <color=#a5ab8e>I sit in one corner of this moderately-sized room that isn't too big or too small... staring into the unbearable vastness of the Grand Magasin like it's the most normal thing in the world to do.</color>"
+    },
+    {
+      "id": 37,
+      "model": "싱클레어",
+      "content": "……然后呢？\n ... And?"
+    },
+    {
+      "id": 38,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>你知道吗，有时候……</color>\n <color=#a5ab8e>You know, sometimes...</color>"
+    },
+    {
+      "id": 39,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>……有时候，我只是想找个人谈谈这种感受。</color>\n <color=#a5ab8e>... Sometimes I just want to talk about this feeling with someone.</color>"
+    },
+    {
+      "id": 40,
+      "model": "오티스",
+      "content": "能否详细说明——\n Care to elaborate—"
+    },
+    {
+      "id": 41,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>该互道再见了。我知道你们很想见我，但现在还是稍微克制一下吧。</color>\n <color=#a5ab8e>Time to bid each other adieu. I know you're dying to see me, but try to exercise some restraint for now.</color>"
+    },
+    {
+      "id": 42,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 43,
+      "model": "오티스",
+      "content": "……我知道你还在。\n ... I know you're still here."
+    },
+    {
+      "id": 44,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>……切，真无聊。</color>\n <color=#a5ab8e>... Boo, boring.</color>"
+    },
+    {
+      "id": 45,
+      "model": "오티스",
+      "content": "我已经习惯应付你这种人了。\n I'm used to dealing with the likes of you."
+    },
+    {
+      "id": 46,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>喂，别这么认真嘛。我工作时可没多少机会这样玩闹。</color>\n <color=#a5ab8e>Hey, don't take it too seriously. It's not often that I get to fool around like this at work.</color>"
+    },
+    {
+      "id": 47,
+      "model": "잔느",
+      "content": "<color=#a5ab8e>这次真的走了——再会。</color>\n <color=#a5ab8e>Leaving for real now—tchao.</color>"
+    },
+    {
+      "id": 48,
+      "model": "싱클레어",
+      "content": "……感觉一点都不真实。\n ... It doesn't feel all that real."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<什么不真实？>\n <What doesn't?>"
+    },
+    {
+      "id": 50,
+      "model": "싱클레어",
+      "content": "偏偏是默尔索，竟然曾经和某个人谈过恋爱。\n That Meursault of all people used to be romantically involved with someone."
+    },
+    {
+      "id": 51,
+      "model": "뫼르소",
+      "content": "我们的关系包含了与通常意义上的“恋人”并无不同的要素。\n Our relationship entailed elements that are no different from what is conventionally expected from \"romantic partners.\""
+    },
+    {
+      "id": 52,
+      "model": "뫼르소",
+      "content": "我们约过会，也一起共度过时光。\n We went on dates and spent time together."
+    }
+  ]
+}

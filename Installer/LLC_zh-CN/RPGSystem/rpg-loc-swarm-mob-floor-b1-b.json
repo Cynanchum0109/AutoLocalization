@@ -1,0 +1,44 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_baggar",
+      "displayName": "真皮钱包\n Leather Wallet"
+    },
+    {
+      "key": "swarm_collecter_type_e",
+      "displayName": "眼睛试吃员\n Eye Taste Tester"
+    },
+    {
+      "key": "swarm_collecter_type_m",
+      "displayName": "嘴巴试吃员\n Mouth Taste Tester"
+    },
+    {
+      "key": "swarm_collector_type_n",
+      "displayName": "鼻子试吃员\n Nose Taste Tester"
+    },
+    {
+      "key": "swarm_denim_baggar",
+      "displayName": "牛仔布钱包\n Denim Wallet"
+    },
+    {
+      "key": "swarm_horizontal_hide",
+      "displayName": "爬行皮革\n Crawling Leather"
+    },
+    {
+      "key": "swarm_resident",
+      "displayName": "干渴的褐派\n Thirsty Kaki"
+    },
+    {
+      "key": "swarm_resident_b",
+      "displayName": "饥饿的褐派\n Hungry Kaki"
+    },
+    {
+      "key": "swarm_resident_b_fisher",
+      "displayName": "饥饿的褐派\n Hungry Kaki"
+    },
+    {
+      "key": "swarm_resident_fisher",
+      "displayName": "干渴的褐派\n Thirsty Kaki"
+    }
+  ]
+}

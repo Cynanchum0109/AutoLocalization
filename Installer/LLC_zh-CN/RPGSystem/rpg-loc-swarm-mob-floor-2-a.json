@@ -1,0 +1,28 @@
+{
+  "dataList": [
+    {
+      "key": "swarm_lanoir_guard",
+      "displayName": "冲锋的黑派\n Charging Noir"
+    },
+    {
+      "key": "swarm_larouge_elite",
+      "displayName": "红派店长\n Le Rouge Store Manager"
+    },
+    {
+      "key": "swarm_larouge_sickle_sp",
+      "displayName": "红派员工\n Le Rouge Staff"
+    },
+    {
+      "key": "swarm_larouge_spa_staff",
+      "displayName": "抵抗的红派\n Resisting Rouge"
+    },
+    {
+      "key": "swarm_renoir_contemporary",
+      "displayName": "猛攻的黑派\n Storming Noir"
+    },
+    {
+      "key": "swarm_renoir_high_domestic_2",
+      "displayName": "猛攻的黑派\n Storming Noir"
+    }
+  ]
+}

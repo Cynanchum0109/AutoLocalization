@@ -1,0 +1,1908 @@
+{
+  "dataList": [
+    {
+      "id": 150301,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "还给我……\n Give It Back...",
+          "desc": "若目标装备了防御技能，造成的伤害-90%\n自身每有1层[HeavyBlackYarn]，拼点威力+1\n[WhenUse]目标每有5层[TangleBlackYarn]，基础威力+1（最多+2）\n If target has equipped Defense Skills, deal -90% damage\nClash Power +1 for every [HeavyBlackYarn] on self\n[WhenUse] Base Power +1 for every 5 [TangleBlackYarn] on target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150302,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "交出来……\n Hand It Over...",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>无视速度，仍可与此技能拼点</u></b></mark></color>\n获得等同于自身[HeavyBlackYarn]层数的拼点威力\n[WhenUse]主要目标每有3层[TangleBlackYarn]，拼点威力+1（最多+8）\n <color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\nGain Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Clash Power +1 for every 3 [TangleBlackYarn] on the main target (max 8)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 3 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]若目标<color=#ff6000><mark=#ff000040><b><u>拥有至少15层[TangleBlackYarn]，使其陷入混乱</u></b></mark></color>\n [UnBrokenCoinOnSucceedAttack] If target <color=#ff6000><mark=#ff000040><b><u>has 15+ [TangleBlackYarn], Stagger target</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150303,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "别从我这里拿走……\n Don't Take It Away From Me...",
+          "desc": "获得等同于自身[HeavyBlackYarn]层数的拼点威力\n[WhenUse]主要目标每有5层[TangleBlackYarn]，基础威力+1（最多+2）\n Gain Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Base Power +1 for every 5 [TangleBlackYarn] on the main target (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Burst]\n [OnSucceedAttack] Inflict +3 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 3 [TangleBlackYarn]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150304,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "盘绕纠缠\n Coiled and Tangled",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>无视速度，仍可与此技能拼点</u></b></mark></color>\n获得等同于自身[HeavyBlackYarn]层数的拼点威力\n[WhenUse]目标每有3层[TangleBlackYarn]，拼点威力+1（最多+8）\n <color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\nGain Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Clash Power +1 for every 3 [TangleBlackYarn] on target (max 8)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加4层[Burst]\n [OnSucceedAttack] Inflict +4 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加1层[TangleBlackYarn]\n [UnBrokenCoinOnSucceedAttack] Inflict 1 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加1层[TangleBlackYarn]\n [UnBrokenCoinOnSucceedAttack] Inflict 1 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]若目标<color=#ff6000><mark=#ff000040><b><u>拥有至少15层[TangleBlackYarn]，使其陷入混乱</u></b></mark></color>\n [UnBrokenCoinOnSucceedAttack] If target <color=#ff6000><mark=#ff000040><b><u>has 15+ [TangleBlackYarn], Stagger target</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150305,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "古老存在的挣扎\n Thrashing of an Elden Being",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>无视速度，仍可与此技能拼点</u></b></mark></color>\n失去等同于自身[HeavyBlackYarn]层数的拼点威力\n[WhenUse]主要目标每有3层[TangleBlackYarn]，基础威力+1（最多+3）\n[WhenUse]若主要目标拥有至少15层[TangleBlackYarn]，基础威力+3\n <color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\nLose Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Base Power +1 for every 3 [TangleBlackYarn] on the main target (max 3)\n[WhenUse] If the main target has 15+ [TangleBlackYarn], Base Power +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 2 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 3 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]若目标<color=#ff6000><mark=#ff000040><b><u>拥有至少15层[TangleBlackYarn]，使其陷入混乱</u></b></mark></color>\n [UnBrokenCoinOnSucceedAttack] If target <color=#ff6000><mark=#ff000040><b><u>has 15+ [TangleBlackYarn], Stagger target</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150306,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "纠缠\n Tangling",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>无视速度，仍可与此技能拼点</u></b></mark></color>\n失去等同于自身[HeavyBlackYarn]层数的拼点威力\n[WhenUse]主要目标每有3层[TangleBlackYarn]，基础威力+1（最多+3）\n[WhenUse]若主要目标拥有至少15层[TangleBlackYarn]，基础威力+3\n <color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\nLose Clash Power equal to [HeavyBlackYarn] on self\n[WhenUse] Base Power +1 for every 3 [TangleBlackYarn] on the main target (max 3)\n[WhenUse] If the main target has 15+ [TangleBlackYarn], Base Power +3",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Burst]\n [OnSucceedAttack] Inflict +2 [Burst] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 5 [TangleBlackYarn]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Burst]强度\n [OnSucceedAttack] Inflict 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5层[TangleBlackYarn]\n [OnSucceedAttack] Inflict 5 [TangleBlackYarn]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150307,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "深渊巨口\n Abyssal Maw",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>无视速度，仍可与此技能拼点</u></b></mark></color>\n[StartBattle]目标每有2层[TangleBlackYarn]，基础威力+1，造成的伤害+10%\n <color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[StartBattle] Base Power +1 and deal +10% damage for every 2 [TangleBlackYarn] on target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加5层[TangleBlackYarn]\n [UnBrokenCoinOnSucceedAttack] Inflict 5 [TangleBlackYarn]"
+                },
+                {
+                  "desc": "[DefeatDuelAttack]从目标身上<color=#ff6000><mark=#ff000040><b><u>移除10层[TangleBlackYarn]</u></b></mark></color>\n [DefeatDuelAttack] <color=#ff6000><mark=#ff000040><b><u>Remove 10 [TangleBlackYarn]</u></b></mark></color> on target"
+                },
+                {
+                  "desc": "[OnSucceedAttack]若目标已<color=#ff6000><mark=#ff000040><b><u>陷入混乱</u></b></mark></color>，或目标<color=#ff6000><mark=#ff000040><b><u>拥有至少20层[TangleBlackYarn]</u></b></mark></color>，重复使用此硬币（每个技能限1次）\n [OnSucceedAttack] If target is <color=#ff6000><mark=#ff000040><b><u>Staggered</u></b></mark></color> or if target <color=#ff6000><mark=#ff000040><b><u>has 20+ [TangleBlackYarn]</u></b></mark></color>, Reuse this Coin (once per Skill)"
+                },
+                {
+                  "desc": "[ReUseOnSucceedAttack]<color=#ff6000><mark=#ff000040><b><u>造成相当于目标最大体力150%的固定伤害</u></b></mark></color>\n [ReUseOnSucceedAttack] <color=#ff6000><mark=#ff000040><b><u>Deal fixed damage equal to 150% of target's max HP</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150308,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "净化\n Cleansing",
+          "desc": "[DuelCounter]\n[WhenUse]目标每有2层[TangleBlackYarn]，基础威力+1\n[WinDuel]<color=#ff6000><mark=#ff000040><b><u>移除目标身上全部[TangleBlackYarn]</u></b></mark></color>，随后移除此技能使用部位身上全部[SickBlackYarn]\n[DefeatDuel]<color=#ff6000><mark=#ff000040><b><u>移除目标身上全部[TangleBlackYarn]</u></b></mark></color>，随后将此技能使用部位身上的[SickBlackYarn]减半（向上取整）\n [DuelCounter]\n[WhenUse] Base Power +1 for every 2 [TangleBlackYarn] on target\n[WinDuel] <color=#ff6000><mark=#ff000040><b><u>Remove all [TangleBlackYarn] on target</u></b></mark></color>, then remove all [SickBlackYarn] from the Part that used this Skill\n[DefeatDuel] <color=#ff6000><mark=#ff000040><b><u>Remove all [TangleBlackYarn] on target</u></b></mark></color>, then halve the [SickBlackYarn] from the Part that used this Skill (rounded up)",
+          "flavor": "唉，远古时代的残余，在百货时代也无法清除。\n Alas, the remnants of the elden age cannot be cleansed away in the Age of the Department Store.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Burst]强度\n [OnSucceedAttack] Inflict 3 [Burst]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]下回合对目标施加3层[Binding]\n [OnSucceedAttack] Inflict 3 [Binding] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "春之诞\n Spring's Genesis",
+          "desc": "[EndSkill]<color=#ff6000><mark color=#ff000040><b><u>目标失去5点精神力</color></mark></b></u>\n- 拥有[FlowerLaurelWreath]的目标除外\n [EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Target loses 5 SP</color></mark></b></u>\n- Except targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Sinking]\n [OnSucceedAttack] Inflict +3 [Sinking] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Vibration]\n [OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "秋之逝\n Autumn's Passing",
+          "desc": "[EndSkill]<color=#ff6000><mark color=#ff000040><b><u>目标失去5点精神力</color></mark></b></u>\n- 拥有[FlowerLaurelWreath]的目标除外\n [EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Target loses 5 SP</color></mark></b></u>\n- Except targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Sinking]强度\n [OnSucceedAttack] Inflict 2 [Sinking]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Vibration]强度\n [OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "渴望成为人类的人偶\n A Doll Who Yearned to be Human",
+          "desc": "[WhenUse]目标的[Vibration]强度与[Sinking]强度之和每达到3，最终威力+1（最多+2）\n[EndSkill]<color=#ff6000><mark color=#ff000040><b><u>目标失去10点精神力</color></mark></b></u>\n- 对拥有[FlowerLaurelWreath]的目标不生效\n [WhenUse] Final Power +1 for every 3 ([Vibration] Potency + [Sinking] Potency) on target (max 2)\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Target loses 10 SP</color></mark></b></u>\n- Does not activate for targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]造成等同于目标[Sinking]强度的精神力伤害\n [OnSucceedAttack] Deal SP damage equal to [Sinking] Potency on target"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150104,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "渴望成为人偶的人类\n A Human Who Yearned to be a Doll",
+          "desc": "[WideAreaRampage]\n[WhenUse]主要目标的[Vibration]强度与[Sinking]强度之和每达到3，最终威力+1（最多+2）\n[EndSkill]<color=#ff6000><mark color=#ff000040><b><u>所有目标失去10点精神力</color></mark></b></u>\n- 对拥有[FlowerLaurelWreath]的目标不生效\n [WideAreaRampage]\n[WhenUse] Final Power +1 for every 3 ([Vibration] Potency + [Sinking] Potency) on the main target (max 2)\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>All targets lose 10 SP</color></mark></b></u>\n- Does not activate for targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5层[AlriuneSillage]\n [OnSucceedAttack] Inflict 5 [AlriuneSillage]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5层[AlriuneSillage]\n [OnSucceedAttack] Inflict 5 [AlriuneSillage]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "此硬币命中本次攻击的所有目标\n This Coin hits all targets of the attack"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1级[Vibration]强度\n [OnSucceedAttack] Inflict 1 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150105,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "芬芳月桂花环\n Fragrant Laurel Wreath",
+          "desc": "<color=#ff6000><mark color=#ff000040><b><u>无视速度，仍可与此技能拼点</color></mark></b></u>\n此技能不造成伤害，也不会触发目标的[Sinking]\n[EndSkill]<color=#ff6000><mark color=#ff000040><b><u>对目标施加[FlowerLaurelWreath]（每回合限1次）</color></mark></b></u>\n <color=#ff6000><mark color=#ff000040><b><u>Can Clash with this Skill regardless of Speed</color></mark></b></u>\nThis Skill does not deal damage and does not activate [Sinking] on target\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Apply [FlowerLaurelWreath] on target (once per turn)</color></mark></b></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]目标回复20点精神力\n [OnSucceedAttack] Target heals 20 SP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150106,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "怀着重归尘土的希望……\n Bearing the hope to return to dust...",
+          "desc": "[WhenUse]主要目标的[Vibration]强度与[Sinking]强度之和每达到3，最终威力+1（最多+8）\n[WhenUse]<color=#ff6000><mark color=#ff000040><b><u>若主要目标没有[FlowerLaurelWreath]，最终威力+5</color></mark></b></u>\n[DefeatDuel]\n- 造成的伤害-80%\n- 此技能造成的伤害不会使目标陷入混乱\n- 不会触发目标的[Sinking]\n\n[EndSkill]<color=#ff6000><mark color=#ff000040><b><u>所有目标失去10点精神力</color></mark></b></u>\n- 对拥有[FlowerLaurelWreath]的目标不生效\n[EndSkillAll]将自身[AlriunePetal]层数重置为0\n [WhenUse] Final Power +1 for every 3 ([Vibration] Potency + [Sinking] Potency) on the main target (max 8)\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>If the main target does not have [FlowerLaurelWreath], Final Power +5</color></mark></b></u>\n[DefeatDuel]\n- Deal -80% damage\n- Damage dealt by this Skill cannot Stagger the target\n- Does not activate [Sinking] on target\n\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>All targets lose 10 SP</color></mark></b></u>\n- Does not activate for targets that have [FlowerLaurelWreath]\n[EndSkillAll] Reset [AlriunePetal] on self to 0 Stack",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加等同于其[AlriuneSillage]层数的[Vibration]强度（逐个目标计算）\n [UnBrokenCoinOnSucceedAttack] Inflict [Vibration] Potency equal to [AlriuneSillage] on target (calculated per-target)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加等同于其[AlriuneSillage]层数的[Sinking]强度（逐个目标计算）\n [UnBrokenCoinOnSucceedAttack] Inflict [Sinking] Potency equal to [AlriuneSillage] on target (calculated per-target)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150107,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "……它将与一切求生之物一同归于坟墓\n ... It shall go back to the grave with all that desires to live",
+          "desc": "[CantDuel] [CantChangeTarget]\n此技能不会触发目标的防御技能\n若目标未陷入恐慌或侵蚀，则取消此次攻击\n [CantDuel] [CantChangeTarget]\nThis Skill does not trigger the target's Defense Skill\nIf target is not Panicked or Corroded, cancel this attack",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]造成相当于目标最大体力120%的固定伤害\n [OnSucceedAttack] Deal fixed damage equal to 120% of target's max HP"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150108,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "当花朵取代众人心中所有的渴望……\n When flowers substitute all the desire in everyone's hearts...",
+          "desc": "无视速度，仍可与此技能拼点\n此技能不造成伤害\n[EndSkill]<color=#ff6000><mark color=#ff000040><b><u>目标失去25点精神力</color></mark></b></u>\n- 拥有[FlowerLaurelWreath]的目标除外\n Can Clash with this Skill regardless of Speed\nThis Skill does not deal damage\n[EndSkill] <color=#ff6000><mark color=#ff000040><b><u>Target loses 25 SP</color></mark></b></u>\n- Except targets that have [FlowerLaurelWreath]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加10级[Sinking]强度\n [UnBrokenCoinOnSucceedAttack] Inflict 10 [Sinking]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150201,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "花冢\n Flower Mound",
+          "desc": "此技能的伤害固定为0\n This Skill's damage is fixed to 0",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[AlriuneSillage]\n [OnSucceedAttack] Inflict 1 [AlriuneSillage]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[AlriuneSillage]\n [OnSucceedAttack] Inflict 1 [AlriuneSillage]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150202,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "心之裂痕\n A Crack in the Heart",
+          "desc": "此技能的伤害固定为0\n[WhenUse]目标身上负面效果的强度之和每达到3，最终威力+1（最多+2）\n This Skill's damage is fixed to 0\n[WhenUse] Final Power +1 for every 3 (sum of Potency of negative effects on target) (max 2)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加4级[Sinking]强度\n [OnSucceedAttack] Inflict 4 [Sinking]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加4级[Vibration]强度\n [OnSucceedAttack] Inflict 4 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]下回合对目标施加1层[Vulnerable]\n [OnSucceedAttack] Inflict 1 [Vulnerable] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150203,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "纠缠的绝望\n Entangling Despair",
+          "desc": "此技能的伤害固定为0\n[WhenUse]目标身上的负面效果每有3种，最终威力+1（最多+3）\n[DefeatDuel]\n- 不会触发目标的[Sinking]\n This Skill's damage is fixed to 0\n[WhenUse] Final Power +1 for every 3 types of negative effects on target (max 3)\n[DefeatDuel]\n- Does not activate [Sinking] on target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]<color=#ff6000><mark color=#ff000040><b><u>造成等同于目标[Sinking]强度的精神力伤害</color></mark></b></u>\n [UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark color=#ff000040><b><u>Deal SP damage equal to [Sinking] Potency on target</color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151901,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "全速运转\n Revving Up",
+          "desc": "[StartBattle]\n<color=#ff6000><mark color=#ff000040><b><u>- 获得等同于自身最大体力30%的护盾</color></mark></b></u>\n- 回复[ChargeKhaki]层数，直至达到上限\n- 下回合获得1层[SpreadingDye]\n [StartBattle]\n<color=#ff6000><mark color=#ff000040><b><u>- Gain Shield equal to 30% of this unit's max HP</color></mark></b></u>\n- Regain [ChargeKhaki] Count up to the maximum cap\n- Gain 1 [SpreadingDye] next turn",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151902,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "穿线\n Threading",
+          "desc": "自身每有2级[ChargeKhaki]强度，拼点威力+1（最多+3）\n[WhenUse]下回合获得1层[Agility]\n Clash Power +1 for every 2 [ChargeKhaki] Potency on self (max 3)\n[WhenUse] Gain 1 [Agility] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]<color=#ff6000><mark color=#ff000040><b><u>下回合对目标施加1层[Binding]</color></mark></b></u>\n [UnBrokenCoinOnSucceedAttack] <color=#ff6000><mark color=#ff000040><b><u>Inflict 1 [Binding] next turn</color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151903,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "平缝\n Lockstitch",
+          "desc": "若自身速度高于目标，造成的伤害+20%\n自身每有2级[ChargeKhaki]强度，硬币威力+1（最多+2）\n[WhenUse]消耗4层[ChargeKhaki]，使硬币威力+2\n[WhenUse]<color=#ff6000><mark color=#ff000040><b><u>若自身速度高于目标，或自身剩余体力低于50%</color></mark></b></u>：\n- 将所有硬币转化为[SuperCoin]\n- 造成的伤害增加（速度差×15）%（最多+40%）\n<color=#ff6000><mark color=#ff000040><b><u>[DefeatDuel]下回合获得1层[Binding]</color></mark></b></u>\n If this unit's Speed is faster than the target's, deal +20% damage\nCoin Power +1 for every 2 [ChargeKhaki] Potency on self (max 2)\n[WhenUse] Consume 4 [ChargeKhaki] Count to gain Coin Power +2\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>If this unit's Speed is faster than the target's, or if this unit has lower than 50% HP</color></mark></b></u>:\n- Convert all Coins to [SuperCoin]s\n- Deal +(Speed difference x 15)% damage (max 40%)\n<color=#ff6000><mark color=#ff000040><b><u>[DefeatDuel] Gain 1 [Binding] next turn</color></mark></b></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加4级[Laceration]强度\n [OnSucceedAttack] Inflict 4 [Laceration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[ThreadDye]\n [OnSucceedAttack] Inflict 1 [ThreadDye]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加1层[ThreadDye]\n [UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreadDye]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]若此硬币为[SuperCoin]，<color=#ff6000><mark color=#ff000040><b><u>获得4层[ChargeKhaki]</color></mark></b></u>\n [OnSucceedAttack] If this is an [SuperCoin], <color=#ff6000><mark color=#ff000040><b><u>Gain +4 [ChargeKhaki] Count</color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151904,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "锁链缝\n Chainstitch",
+          "desc": "若自身速度高于目标，造成的伤害+20%\n自身每有2级[ChargeKhaki]强度，硬币威力+1（最多+2）\n[WhenUse]消耗4层[ChargeKhaki]，使硬币威力+2\n[WhenUse]<color=#ff6000><mark color=#ff000040><b><u>若自身速度高于目标，或自身剩余体力低于50%</color></mark></b></u>：\n- 将所有硬币转化为[SuperCoin]\n- 造成的伤害增加（速度差×15）%（最多+40%）\n[WinDuel]下回合获得1层[Agility]\n If this unit's Speed is faster than the target's, deal +20% damage\nCoin Power +1 for every 2 [ChargeKhaki] Potency on self (max 2)\n[WhenUse] Consume 4 [ChargeKhaki] Count to gain Coin Power +2\n[WhenUse] <color=#ff6000><mark color=#ff000040><b><u>If this unit's Speed is faster than the target's, or if this unit has lower than 50% HP</color></mark></b></u>:\n- Convert all Coins to [SuperCoin]s\n- Deal +(Speed difference x 15)% damage (max 40%)\n[WinDuel] Gain 1 [Agility] next turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Laceration]\n [OnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[ThreadDye]\n [OnSucceedAttack] Inflict 1 [ThreadDye]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加1层[ThreadDye]\n [UnBrokenCoinOnSucceedAttack] Inflict 1 [ThreadDye]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]若此硬币为[SuperCoin]，<color=#ff6000><mark color=#ff000040><b><u>获得4层[ChargeKhaki]</color></mark></b></u>\n [OnSucceedAttack] If this is an [SuperCoin], <color=#ff6000><mark color=#ff000040><b><u>Gain +4 [ChargeKhaki] Count</color></mark></b></u>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 151905,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "双针底部绷缝彩虹包缝\n 2-needle Bottom Coverstitch Rainbow Overlock",
+          "desc": "[WideAreaRampage]\n无视速度，仍可与此技能拼点\n自身每有2级[ChargeKhaki]强度，最终威力+1（最多+3）\n[WhenUse]消耗自身全部[ChargeKhaki]层数，每消耗1层，造成的伤害+5%\n[WhenUse]主要目标的[Laceration]强度与层数之和每达到3，硬币威力+1（最多+3）\n[DefeatDuel]\n- 获得10层[AttackDmgDown]与4层[Paralysis]\n- 此技能不会使目标陷入混乱\n[EndSkillAll]<color=#ff6000><mark color=#ff000040><b><u>结束本回合</color></mark></b></u>\n [WideAreaRampage]\nCan Clash with this Skill regardless of Speed\nFinal Power +1 for every 2 [ChargeKhaki] Potency on self (max 3)\n[WhenUse] Consume all [ChargeKhaki] Count on self and deal +5% damage for every [ChargeKhaki] Count consumed\n[WhenUse] Coin Power +1 for every 3 ([Laceration] Potency + [Laceration] Count) on the main target (max 3)\n[DefeatDuel]\n- Gain 10 [AttackDmgDown] and 4 [Paralysis]\n- This Skill cannot Stagger the target\n[EndSkillAll] <color=#ff6000><mark color=#ff000040><b><u>End this turn</color></mark></b></u>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加3层[Laceration]\n [UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加3层[Laceration]\n [UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加3层[Laceration]\n [UnBrokenCoinOnSucceedAttack] Inflict +3 [Laceration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "此硬币命中所有目标\n This Coin hits all targets"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]触发目标身上的[Laceration]一次（目标失去1层[Laceration]）\n [UnBrokenCoinOnSucceedAttack] Activate [Laceration] on target once (target loses 1 [Laceration] Count)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]下回合对目标施加3层[ThreadDye]\n [UnBrokenCoinOnSucceedAttack] Inflict 3 [ThreadDye] next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对拥有[Inactible]的目标施加以下效果\n [OnSucceedAttack] Apply the following on targets that have [Inactible]"
+                },
+                {
+                  "desc": "- 下回合陷入混乱\n - Become Staggered next turn"
+                },
+                {
+                  "desc": "- 受到相当于此硬币最终伤害20%的色欲伤害\n - Take (20% of this Coin's final damage) Lust damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "修剪\n Trimming",
+          "desc": "[WhenUse]\n- 若[ChargeKhaki]层数达到10，硬币威力+1\n- 若自身拥有[LargeTailoringShears]，造成的伤害增加（[LargeTailoringShears]层数×10）%（最多+30%）\n[WhenUse]若[ChargeKhaki]层数少于15，获得2层[ChargeKhaki]\n [WhenUse]\n- At 10+ [ChargeKhaki] Count, Coin Power +1\n- If this unit has [LargeTailoringShears], deal +([LargeTailoringShears] Stack x 10)% damage (max 30%)\n[WhenUse] At fewer than 15 [ChargeKhaki] Count, gain +2 [ChargeKhaki] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Vibration]强度与2层[Vibration]\n [OnSucceedAttack] Inflict 2 [Vibration] and +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得2层[ChargeKhaki]\n [OnSucceedAttack] Gain +2 [ChargeKhaki] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[ScissorsMark]\n [OnSucceedAttack] Inflict 2 [ScissorsMark]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "裁剪\n Cutting",
+          "desc": "[WhenUse]\n- 若[LargeTailoringShears]达到2层，攻击加权值+1\n- 若[ChargeKhaki]层数达到10，硬币威力+1\n[WhenUse]获得4层[ChargeKhaki]\n [WhenUse]\n- At 2+ [LargeTailoringShears], gain +1 Atk Weight\n- At 10+ [ChargeKhaki] Count, Coin Power +1\n[WhenUse] Gain +4 [ChargeKhaki] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度与2层[Vibration]\n [OnSucceedAttack] Inflict 3 [Vibration] and +2 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得3层[ChargeKhaki]\n [OnSucceedAttack] Gain +3 [ChargeKhaki] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[ScissorsMark]\n [OnSucceedAttack] Inflict 2 [ScissorsMark]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[ScissorsMark]\n [OnSucceedAttack] Inflict 3 [ScissorsMark]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]下回合获得1层[FinishedFabric]</u></b></mark></color>\n <color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Gain 1 [FinishedFabric] next turn</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]若[ChargeKhaki]层数达到12，消耗4层[ChargeKhaki]以触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [UnBrokenCoinOnSucceedAttack] At 12+ [ChargeKhaki] Count, consume 4 [ChargeKhaki] Count to trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "沿纸样钉缝并裁剪\n Pin and Trim Along the Patterns",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>无视速度，仍可与此技能拼点</u></b></mark></color>\n[WhenUse]\n- 若[ChargeKhaki]层数达到10，消耗10层[ChargeKhaki]，使硬币威力+2\n- 最多消耗剩余的20层[ChargeKhaki]，每消耗1层，造成的伤害+1%（最多+20%）\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel]\n- 失去3层[FinishedFabric]\n- 造成的伤害-75%\n- 获得4层[Paralysis]</u></b></mark></color>\n- 此技能造成的伤害不会使目标陷入混乱\n <color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[WhenUse]\n- At 10+ [ChargeKhaki] Count, consume 10 [ChargeKhaki] Count to gain Coin Power +2\n- Consume up to 20 remaining [ChargeKhaki] Count to deal +1% damage for every Count consumed (max 20%)\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel]\n- Lose 3 [FinishedFabric]\n- Deal -75% damage\n- Gain 4 [Paralysis]</u></b></mark></color>\n- Damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]获得3层[ChargeKhaki]\n [OnSucceedAttack] Gain +3 [ChargeKhaki] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加4级[Vibration]强度\n [UnBrokenCoinOnSucceedAttack] Inflict 4 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加3层[Vibration]\n [UnBrokenCoinOnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5层[ScissorsMark]\n [OnSucceedAttack] Inflict 5 [ScissorsMark]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]下回合获得3层[FinishedFabric]</u></b></mark></color>\n <color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Gain 3 [FinishedFabric] next turn</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "斜纹裁剪\n Coupez dans le Biais",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>无视速度，仍可与此技能拼点</u></b></mark></color>\n[WhenUse]\n- 攻击加权值增加[LargeTailoringShears]层数（最多+3）\n- 若[ChargeKhaki]层数达到10，消耗10层[ChargeKhaki]，使硬币威力+2\n- 最多消耗剩余的20层[ChargeKhaki]，每消耗1层，造成的伤害+1%（最多+20%）\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel]\n- 失去3层[FinishedFabric]\n- 造成的伤害-90%\n- 获得4层[Paralysis]</u></b></mark></color>\n- 此技能造成的伤害不会使目标陷入混乱\n <color=#ff6000><mark=#ff000040><b><u>Can Clash with this Skill regardless of Speed</u></b></mark></color>\n[WhenUse]\n- Gain +([LargeTailoringShears] Stack) Atk Weight (max 3)\n- At 10+ [ChargeKhaki] Count, consume 10 [ChargeKhaki] Count to gain Coin Power +2\n- Consume up to 20 remaining [ChargeKhaki] Count to deal +1% damage for every Count consumed (max 20%)\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel]\n- Lose 3 [FinishedFabric]\n- Deal -90% damage\n- Gain 4 [Paralysis]</u></b></mark></color>\n- Damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Vibration]强度\n [OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Vibration]强度\n [OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Vibration]\n [OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]若其为主要目标，对其施加5层[ScissorsMark]\n [OnSucceedAttack] If it is the main target, inflict 5 [ScissorsMark]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack]下回合获得1层[FinishedFabric]</u></b></mark></color>\n <color=#ff6000><mark=#ff000040><b><u>[UnBrokenCoinOnSucceedAttack] Gain 1 [FinishedFabric] next turn</u></b></mark></color>"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]若其为主要目标，触发[VibrationExplosion]2次；随后使其[Vibration]层数减少2\n [UnBrokenCoinOnSucceedAttack] If it is the main target, trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149505,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "制版\n Patterning",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]\n以[TailoringTarget]为目标</u></b></mark></color>\n <color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]\nTargets [TailoringTarget]</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[OnSucceedAttack]对目标施加9层[ScissorsMark]</u></b></mark></color>\n <color=#ff6000><mark=#ff000040><b><u>[OnSucceedAttack] Inflict 9 [ScissorsMark]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149506,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "链式锁边\n Surfile à la Chaîne",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]\n以[TailoringTarget]为目标</u></b></mark></color>\n自身每有1层[LargeTailoringShears]，最终威力+1，造成的伤害+20%（分别最多+3、+60%）\n每有1级[ChargeKhaki]强度，造成的伤害+4%（最多+20%）\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse]若目标罪人……\n- ……装备了防御技能，获得4层[Paralysis]；此技能造成的伤害不会使目标陷入混乱\n- ……未装备防御技能，下回合获得10层[FinishedFabric]</u></b></mark></color>\n[EndSkill]\n- <color=#ff6000><mark=#ff000040><b><u>拼点后，</u></b></mark></color>对目标施加（参与拼点的罪人的最终拼点威力÷2）层[DamagedFabric]（最多20层）\n<color=#ff6000><mark=#ff000040><b><u>- 消耗目标身上全部[ScissorsMark]</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>[EndBattle]下回合获得1层[LargeTailoringShears]</u></b></mark></color>\n <color=#ff6000><mark=#ff000040><b><u>[CantChangeTarget]\nTargets [TailoringTarget]</u></b></mark></color>\nFinal Power +1 and deal +20% damage for every [LargeTailoringShears] on self (max 3, 60 respectively)\nDeal +4% damage for every [ChargeKhaki] Potency (max 20%)\n<color=#ff6000><mark=#ff000040><b><u>[WhenUse] If the targeted Sinner...\n- ... has equipped Defense Skills, gain 4 [Paralysis]; damage dealt by this Skill cannot Stagger the target\n- ... has not equipped Defense Skills, gain 10 [FinishedFabric] next turn</u></b></mark></color>\n[EndSkill]\n- <color=#ff6000><mark=#ff000040><b><u>After a Clash,</u></b></mark></color> inflict (Clashing Sinner's final Clash Power / 2) [DamagedFabric] on target (max 20)\n<color=#ff6000><mark=#ff000040><b><u>- Consume all [ScissorsMark] on target</u></b></mark></color>\n<color=#ff6000><mark=#ff000040><b><u>[EndBattle] Gain 1 [LargeTailoringShears] next turn</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Vibration]\n [OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]触发[VibrationExplosion]2次；随后使目标的[Vibration]层数减少2\n [UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 2 times; then, reduce target's [Vibration] Count by 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150601,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "钉子降临\n Cometh the Nail",
+          "desc": "[WhenUse]自身每有3级[ChargeNoir]强度，硬币威力+1（最多+3）\n [WhenUse] Coin Power +1 for every 3 [ChargeNoir] Potency on self (max 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得5层[ChargeNoir]\n [OnSucceedAttack] Gain +5 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Vibration]\n [OnSucceedAttack] Inflict +3 [Vibration] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得5层[ChargeNoir]\n [OnSucceedAttack] Gain +5 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[NoirNail]\n [OnSucceedAttack] Inflict 1 [NoirNail]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150602,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "召来钉子\n Summoneth the Nail",
+          "desc": "[WhenUse]自身每有3级[ChargeNoir]强度，硬币威力+1（最多+3）\n[DefeatDuel]造成的伤害-80%，且此技能造成的伤害不会使目标陷入混乱\n [WhenUse] Coin Power +1 for every 3 [ChargeNoir] Potency on self (max 3)\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[NoirNail]\n [OnSucceedAttack] Inflict 1 [NoirNail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150603,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "敲击\n Rapping",
+          "desc": "[WhenUse]自身每有3级[ChargeNoir]强度，硬币威力+1（最多+3）\n [WhenUse] Coin Power +1 for every 3 [ChargeNoir] Potency on self (max 3)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[NoirNail]\n [OnSucceedAttack] Inflict 1 [NoirNail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[NoirNail]\n [OnSucceedAttack] Inflict 1 [NoirNail]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150604,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "静默见证吧\n Witness Ye in Silence",
+          "desc": "[WinDuel]对目标施加3层[Vibration]\n[WinDuel]触发[VibrationExplosion]\n [WinDuel] Inflict +3 [Vibration] Count\n[WinDuel] [VibrationExplosion]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Vulnerable]\n [OnSucceedAttack] Inflict 2 [Vulnerable]"
+                },
+                {
+                  "desc": "<color=#ff6000><mark=#ff000040><b><u>[DefeatDuelAttack]对目标施加1层[NoirShieldPiece]</u></b></mark></color>\n <color=#ff6000><mark=#ff000040><b><u>[DefeatDuelAttack] Inflict 1 [NoirShieldPiece]</u></b></mark></color>"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150605,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "宣告：保存圣所\n Proclamation: Sanctum of Conservation",
+          "desc": "无视速度，仍可与此技能拼点；使用此技能前不会陷入混乱\n\n[StartBattle]敌方每装备1个防御技能，拼点威力-2（最多-10）\n\n[WhenUse]若主要目标<color=#ff6000><mark=#ff000040><b><u>没有[NoirShieldPiece]，此技能最终威力+5</u></b></mark></color>\n[WhenUse]消耗自身全部[ChargeNoir]层数\n- 每消耗3层[ChargeNoir]，最终威力+1\n- 造成的伤害增加（消耗的[ChargeNoir]层数×5）%\n<color=#ff6000><mark=#ff000040><b><u>- 获得1层[NoirField]</u></b></mark></color>\n[DefeatDuel]造成的伤害-80%，且此技能造成的伤害不会使目标陷入混乱\n Can Clash with this Skill regardless of Speed; cannot be Staggered before using this Skill\n\n[StartBattle] Clash Power -2 for every Defense Skill equipped by enemies (-10 max)\n\n[WhenUse] If the main target <color=#ff6000><mark=#ff000040><b><u>does not have [NoirShieldPiece], Final Power +5 for this Skill</u></b></mark></color>\n[WhenUse] Consume all [ChargeNoir] Count on self\n- Final Power +1 for every 3 [ChargeNoir] Count consumed\n- Deal +([ChargeNoir] Count consumed x 5)% damage\n<color=#ff6000><mark=#ff000040><b><u>- Gain 1 [NoirField]</u></b></mark></color>\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]若目标拥有[NoirShieldPiece]：\n [OnSucceedAttack] If target has [NoirShieldPiece]:"
+                },
+                {
+                  "desc": "- 目标受到此硬币的最终伤害-95%\n - Target takes -95% final damage from this Coin"
+                },
+                {
+                  "desc": "- 此硬币造成的伤害不会使目标陷入混乱\n - This Coin's damage cannot Stagger the target"
+                },
+                {
+                  "desc": "- 移除目标身上的[NoirShieldPiece]，并施加2层[VibrationResonance]\n - Remove [NoirShieldPiece] on target and apply 2 [VibrationResonance]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5级[Vibration]强度\n [OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]3次；随后使目标的[Vibration]层数减少3\n [OnSucceedAttack] Trigger [VibrationExplosion] 3 times; then, reduce target's [Vibration] Count by 3"
+                },
+                {
+                  "desc": "[OnSucceedAttack]使目标的混乱阈值提高相当于此硬币最终伤害的数值\n [OnSucceedAttack] Raise Stagger Threshold equal to this Coin's final damage"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150606,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "启示\n Revelations",
+          "desc": "使用此技能前不会陷入混乱\n<color=#ff6000><mark=#ff000040><b><u>[StartBattle]获得999层[NoirShieldUp]</u></b></mark></color>\n Cannot be Staggered before using this Skill\n<color=#ff6000><mark=#ff000040><b><u>[StartBattle] Gain 999 [NoirShieldUp]</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150607,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "盟约\n Covenant",
+          "desc": "[SupportEnemy]\n\n[EndSkill]若目标为友方，对其施加6层[AttackUp]\n[EndSkill]目标友方使用一个随机攻击技能\n\n[DefeatDuel]获得1层[Vulnerable]\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel]失去150层[NoirShieldUp]</u></b></mark></color>\n [SupportEnemy]\n\n[EndSkill] If target is an ally, apply 6 [AttackUp]\n[EndSkill] Targeted ally uses a random Attack Skill\n\n[DefeatDuel] Gain 1 [Vulnerable]\n<color=#ff6000><mark=#ff000040><b><u>[DefeatDuel] Lose 150 [NoirShieldUp]</u></b></mark></color>",
+          "coinlist": [
+            {
+              "coindescs": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150608,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "吾斩断汝之降临。\n I sever thine advent.",
+          "desc": "无视速度，仍可与此技能拼点；使用此技能前不会陷入混乱\n[WhenUse]自身每有100层[NoirShieldUp]，最终威力+1\n[WhenUse]若目标拥有[NoirShieldPiece]，拼点威力-5\n[DefeatDuel]此技能造成的伤害-80%，且不会使目标陷入混乱\n[EndSkill]结束本回合\n Can Clash with this Skill regardless of Speed; Cannot be Staggered before using this Skill\n[WhenUse] Final Power +1 for every 100 [NoirShieldUp] on self\n[WhenUse] If target has [NoirShieldPiece], Clash Power -5\n[DefeatDuel] This Skill deals -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] End this turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5级[Vibration]强度\n [OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[NoirNail]\n [OnSucceedAttack] Inflict 1 [NoirNail]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加2层[NoirNail]\n [UnBrokenCoinOnSucceedAttack] Inflict 2 [NoirNail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5级[Vibration]强度\n [OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]自身每有200层[NoirShieldUp]，额外触发1次[VibrationExplosion]（最多4次）\n [OnSucceedAttack] Trigger [VibrationExplosion] 1 additional time for every 200 [NoirShieldUp] on self (4 times max)"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]触发[VibrationExplosion]3次\n [UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion] 3 times"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150609,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "每击一次，吾便斩断汝之降临！\n With each smite, I sever thine advent!",
+          "desc": "无视速度，仍可与此技能拼点；使用此技能前不会陷入混乱\n\n[WhenUse]消耗自身全部[ChargeNoir]层数\n- 每消耗3层[ChargeNoir]，最终威力-1\n- 造成的伤害增加（消耗的[ChargeNoir]层数×5）%\n\n[WhenUse]若主要目标拥有[NoirShieldPiece]，拼点威力-5\n[WhenUse]若主要目标没有[NoirShieldPiece]，此技能最终威力+5\n[DefeatDuel]此技能造成的伤害-80%，且不会使目标陷入混乱\n[EndSkill]结束本回合\n Can Clash with this Skill regardless of Speed; Cannot be Staggered before using this Skill\n\n[WhenUse] Consume all [ChargeNoir] Count on self\n- Final Power -1 for every 3 [ChargeNoir] Count consumed\n- Deal +([ChargeNoir] Count consumed x 5)% damage\n\n[WhenUse] If the main target has [NoirShieldPiece], Clash Power -5\n[WhenUse] If the main target does not have [NoirShieldPiece], Final Power +5 for this Skill\n[DefeatDuel] This Skill deals -80% damage and damage dealt by this Skill cannot Stagger the target\n[EndSkill] End this turn",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5级[Vibration]强度\n [OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1层[NoirNail]\n [OnSucceedAttack] Inflict 1 [NoirNail]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加2层[NoirNail]\n [UnBrokenCoinOnSucceedAttack] Inflict 2 [NoirNail]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]若目标拥有[NoirShieldPiece]：\n [OnSucceedAttack] If target has [NoirShieldPiece]:"
+                },
+                {
+                  "desc": "- 目标受到此硬币的最终伤害-95%\n - Target takes -95% final damage from this Coin"
+                },
+                {
+                  "desc": "- 此硬币造成的伤害不会使目标陷入混乱\n - This Coin's damage cannot Stagger the target"
+                },
+                {
+                  "desc": "- 移除目标身上的[NoirShieldPiece]，并施加2层[VibrationResonance]\n - Remove [NoirShieldPiece] on target and apply 2 [VibrationResonance]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加5级[Vibration]强度\n [OnSucceedAttack] Inflict 5 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150610,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "忠信者啊，听从召唤\n Heed the calling, O faithful",
+          "desc": "[StartBattle]下回合召唤5名黑派友方（场上其他友方不可超过5名）\n[DefeatDuel]造成的伤害-80%，且此技能造成的伤害不会使目标陷入混乱\n [StartBattle] Summon 5 Le Noir allies next turn (the number of other allies on the field cannot exceed 5)\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150401,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "请出示您的购买记录？\n Your purchase history, please?",
+          "desc": "造成的伤害增加（自身护盾数值）%（最多+20%）\n[WhenUse]获得2层[ChargeNoir]\n Deal +(Shield on self)% damage (max 20%)\n[WhenUse] Gain +2 [ChargeNoir] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得2层[ChargeNoir]\n [OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150402,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "请出示您的购买资格？\n Your purchasing rights, please?",
+          "desc": "[WhenUse]自身[ChargeNoir]层数与目标[Vibration]强度之和每达到6，硬币威力+1（最多+2）\n[WhenUse]获得3层[ChargeNoir]\n[WinDuel]获得2层[ChargeNoir]\n[WhenUse]若[ChargeNoir]强度达到3，将最后一枚硬币转化为[SuperCoin]\n [WhenUse] Coin Power +1 for every 6 ([ChargeNoir] Count on self + [Vibration] Potency on target) (max 2)\n[WhenUse] Gain +3 [ChargeNoir] Count\n[WinDuel] Gain +2 [ChargeNoir] Count\n[WhenUse] At 3+ [ChargeNoir] Potency, convert the final coin to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得2层[ChargeNoir]\n [OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Vibration]强度\n [OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得2层[ChargeNoir]\n [OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Vibration]强度\n [OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150403,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "盖印[法兰绒]\n Stamping [Flannel]",
+          "desc": "造成的伤害增加（自身护盾数值）%（最多+50%）\n[WhenUse]目标每有6级[Vibration]强度，最终威力+1（最多+2）\n[WhenUse]最多消耗自身15层[ChargeNoir]，获得等同于（消耗的[ChargeNoir]层数×2）%自身最大体力的护盾；此效果提供的护盾持续至下回合\n[WhenUse]若自身消耗了至少10层[ChargeNoir]，硬币威力+2，并将所有硬币转化为[SuperCoin]\n Deal +(Shield on self)% damage (max 50%)\n[WhenUse] Final Power +1 for every 6 [Vibration] on target (max 2)\n[WhenUse] Consume up to 15 [ChargeNoir] Count on self, and gain Shield equal to ([ChargeNoir] Count consumed x 2)% of this unit's max HP; Shield gained due to this effect lasts until next turn\n[WhenUse] If this unit has consumed 10+ [ChargeNoir] Count, Coin Power +2 and convert all Coins to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]获得3层[ChargeNoir]\n [UnBrokenCoinOnSucceedAttack] Gain +3 [ChargeNoir] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Vibration]\n [OnSucceedAttack] Inflict +2 [Vibration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]获得2层[ChargeNoir]\n [UnBrokenCoinOnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]触发[Switch_Vibration]，将其转化为[VibrationCollapse]\n [OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCollapse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n- 自身每有2级[ChargeNoir]强度，额外触发1次（最多2次）\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1\n- Trigger an additional time for every 2 [ChargeNoir] Potency on self (max 2)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150404,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "加固面料\n Reinforce Fabric",
+          "desc": "此技能对友方使用；对友方造成的伤害固定为0\n[WhenUse]目标每有4级[Vibration]强度，最终威力+2（最多+6）\n This Skill is used on allies; damage dealt to allies is fixed to 0\n[WhenUse] Final Power +2 for every 4 [Vibration] on target (max 6)",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]本回合和下回合获得3层[DefenseUp]\n [OnSucceedAttack] Gain 3 [DefenseUp] this turn and next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack]目标获得等同于自身[ChargeNoir]层数的[Charge]层数\n- 若目标的[Charge]层数已达上限，下回合对其施加3层[DefenseUp]与5层[NoirBindArmor]\n [OnSucceedAttack] Target gains [Charge] Count equal to [ChargeNoir] Count on self\n- If target's [Charge] Count is at max, apply 3 [DefenseUp] and 5 [NoirBindArmor] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150405,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "为了保存\n For Conservation",
+          "desc": "此技能对友方使用；对友方造成的伤害固定为0\n[WhenUse]目标每有4级[Vibration]强度，最终威力+2（最多+6）\n[WhenUse]若[ChargeNoir]强度达到3，将所有硬币转化为[SuperCoin]\n[WhenUse]若[ChargeNoir]层数少于10，则获得[ChargeNoir]，直至达到10层；每因此获得2层，就获得1层[Vulnerable]\n[DefeatDuel]消耗自身一半[ChargeNoir]层数\n[EndSkill]消耗自身全部[ChargeNoir]层数\n This Skill is used on allies; damage dealt to allies is fixed to 0\n[WhenUse] Final Power +2 for every 4 [Vibration] on target (max 6)\n[WhenUse] At 3+ [ChargeNoir] Potency, convert all Coins to [SuperCoin]s\n[WhenUse] At fewer than 10 [ChargeNoir] Count, gain up to 10 [ChargeNoir] Count; then, gain 1 [Vulnerable] for every 2 Count gained\n[DefeatDuel] Consume half of [ChargeNoir] Count on self\n[EndSkill] Consume all [ChargeNoir] Count on self",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]本回合和下回合获得2层[DefenseUp]\n [OnSucceedAttack] Gain 2 [DefenseUp] this turn and next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack]目标获得等同于自身[ChargeNoir]层数的[Charge]层数\n- 若目标的[ChargeNoir]层数已达上限，下回合对其施加3层[DefenseUp]与5层[NoirBindArmor]\n [OnSucceedAttack] Target gains [Charge] Count equal to [ChargeNoir] Count on self\n- If target's [ChargeNoir] Count is at max, apply 3 [DefenseUp] and 5 [NoirBindArmor] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150501,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "请问您的预算范围？\n Your price range, please?",
+          "desc": "[WhenUse]获得2层[ChargeNoir]\n [WhenUse] Gain +2 [ChargeNoir] Count",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得2层[ChargeNoir]\n [OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Vibration]强度\n [OnSucceedAttack] Inflict 3 [Vibration]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150502,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "处处都是不合格的瑕疵\n Disqualifying defects, all over",
+          "desc": "[WhenUse]自身[ChargeNoir]层数与目标[Vibration]强度之和每达到6，硬币威力+1（最多+2）\n[WhenUse]获得3层[ChargeNoir]\n[WinDuel]获得2层[ChargeNoir]\n[WhenUse]若[ChargeNoir]强度达到3，将最后一枚硬币转化为[SuperCoin]\n [WhenUse] Coin Power +1 for every 6 ([ChargeNoir] Count on self + [Vibration] Potency on target) (max 2)\n[WhenUse] Gain +3 [ChargeNoir] Count\n[WinDuel] Gain +2 [ChargeNoir] Count\n[WhenUse] At 3+ [ChargeNoir] Potency, convert the final coin to [SuperCoin]",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]获得2层[ChargeNoir]\n [OnSucceedAttack] Gain +2 [ChargeNoir] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Vibration]强度\n [OnSucceedAttack] Inflict 2 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Vibration]\n [OnSucceedAttack] Inflict +2 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150503,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "盖印[毛毡]\n Stamping [Felt]",
+          "desc": "造成的伤害增加（自身护盾数值）%（最多+50%）\n[WhenUse]目标每有6级[Vibration]强度，最终威力+1（最多+2）\n[WhenUse]最多消耗自身15层[ChargeNoir]，获得等同于（消耗的[ChargeNoir]层数×2）%自身最大体力的护盾；此效果提供的护盾持续至下回合\n[WhenUse]若自身消耗了至少10层[ChargeNoir]，硬币威力+2，并将所有硬币转化为[SuperCoin]\n Deal +(Shield on self)% damage (max 50%)\n[WhenUse] Final Power +1 for every 6 [Vibration] on target (max 2)\n[WhenUse] Consume up to 15 [ChargeNoir] Count on self, and gain Shield equal to ([ChargeNoir] Count consumed x 2)% of this unit's max HP; Shield gained due to this effect lasts until next turn\n[WhenUse] If this unit has consumed 10+ [ChargeNoir] Count, Coin Power +2 and convert all Coins to [SuperCoin]s",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Vibration]\n [OnSucceedAttack] Inflict +3 [Vibration] Count"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加1级[Vibration]强度\n [UnBrokenCoinOnSucceedAttack] Inflict 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加1级[Vibration]强度\n [OnSucceedAttack] Inflict 1 [Vibration]"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]对目标施加1级[Vibration]强度\n [UnBrokenCoinOnSucceedAttack] Inflict 1 [Vibration]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]触发[Switch_Vibration]，将其转化为[VibrationCollapse]\n [OnSucceedAttack] Trigger [Switch_Vibration] into [VibrationCollapse]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]若自身消耗了至少10层[ChargeNoir]，触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] If this unit has consumed 10+ [ChargeNoir] Count, trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[UnBrokenCoinOnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [UnBrokenCoinOnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 150504,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "盖印[回响]\n Stamping [Reverb]",
+          "desc": "自身拥有护盾时受到攻击，向攻击者造成（自身[ChargeNoir]强度×[NoirBindArmor]层数）点伤害\n[WhenUse]获得3层[ChargeNoir]\n When hit while this unit has Shield, deal ([ChargeNoir] Potency on self x [NoirBindArmor] Stack) damage on the attacker\n[WhenUse] Gain +3 [ChargeNoir] Count",
+          "coinlist": []
+        }
+      ]
+    },
+    {
+      "id": 148801,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "剥皮\n Flaying",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Laceration]\n [OnSucceedAttack] Inflict +3 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Burst]\n [OnSucceedAttack] Inflict +3 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Laceration]强度\n [OnSucceedAttack] Inflict 2 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148802,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "去肉\n Fleshing",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>场上每有1名存活的鞣制囚徒，造成的伤害+10%</u></b></mark></color>\n[DefeatDuel]造成的伤害-80%，且此技能造成的伤害不会使目标陷入混乱\n <color=#ff6000><mark=#ff000040><b><u>Deal +10% damage for every surviving Tanned Prisoner</u></b></mark></color> on the field\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Laceration]\n [OnSucceedAttack] Inflict +2 [Laceration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Burst]\n [OnSucceedAttack] Inflict +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Laceration]强度\n [OnSucceedAttack] Inflict 3 [Laceration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Burst]强度\n [OnSucceedAttack] Inflict 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]下回合对目标施加2层[Vulnerable]\n [OnSucceedAttack] Inflict 2 [Vulnerable] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148803,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脑鞣法\n Brain Tanning",
+          "desc": "目标固定\n此技能优先选择体力最低的友方\n\n若自身未能攻击指定目标，则取消此技能\n Target Fixed\nThis Skill prioritizes allies that have the lowest HP\n\nIf this unit failed to attack the targeted unit, cancel this Skill",
+          "flavor": "用屠宰后的原皮的脑脂进行鞣制处理。这是地下三楼的秘方。\n Tanning treatment technique using the brain fat of the butchered original hides. This is B3F's secret recipe.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]若目标为友方，施加以下效果：\n- 将目标重新塞回其背部\n- 回复1%体力\n- 回复20点精神力\n- 本回合及下回合获得2层[AttackDmgUp]\n [OnSucceedAttack] If the target is an ally, apply the following effects:\n- Re-insert the target into its back\n- Heal 1% HP\n- Heal 20 SP\n- Gain 2 [AttackDmgUp] this turn and next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148804,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "分割\n Splitting",
+          "desc": "[EndBattle]下回合最多召唤2名鞣制囚徒，并对其施加[B3FreshMob]\n\n- 召唤出的鞣制囚徒不可超过6名\n- 每召唤1名鞣制囚徒，消耗0.5%体力\n- <color=#ff6000><mark=#ff000040><b><u>符合以下任一条件时禁用此效果：</u></b></mark></color>\n· 使用此技能的技能栏成为至少2个攻击技能的主要目标\n· 场上存活的鞣制囚徒达到6名\n [EndBattle] Summon up to 2 Tanned Prisoner next turn and apply [B3FreshMob]\n\n- Summoned Tanned Prisoners cannot exceed 6 units\n- Consume 0.5% HP for every summoned Tanned Prisoner\n- <color=#ff6000><mark=#ff000040><b><u>Disable this effect if either of the following conditions is met:</u></b></mark></color>\n· If the Skill Slot using this Skill is a main target of 2+ Attack Skills\n· If there are 6 or more surviving Tanned Prisoners on the field",
+          "flavor": "将原罪与原皮分离的处理工序\n A treatment process separating the Original Sin from the Original Hide",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148805,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "大规模分割\n Massive Splitting",
+          "desc": "[EndBattle]下回合最多召唤4名鞣制囚徒，并对其施加[B3FreshMob]\n\n- 召唤出的鞣制囚徒不可超过6名\n- 每召唤1名鞣制囚徒，消耗0.5%体力\n\n[StartBattle]下回合对所有友方施加1层[AttackDmgUp]\n [EndBattle] Summon up to 4 Tanned Prisoner next turn and apply [B3FreshMob]\n\n- Summoned Tanned Prisoners cannot exceed 6 units\n- Consume 0.5% HP for every summoned Tanned Prisoner\n\n[StartBattle] Apply 1 [AttackDmgUp] next turn on all allies",
+          "flavor": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148806,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脑脂滚揉鞣革：原罪式\n Leather Tumbling in Brain Fat: Original Sin Style",
+          "desc": "<color=#ff6000><mark=#ff000040><b><u>场上每有1名存活的鞣制囚徒，造成的伤害+10%</u></b></mark></color>\n[StartBattle]对所有其他友方施加2层[Enhancement]\n[WhenUse]若自身体力低于50%，场上每有1名鞣制囚徒，最终威力+1\n[DefeatDuel]造成的伤害-80%，且此技能造成的伤害不会使目标陷入混乱\n <color=#ff6000><mark=#ff000040><b><u>Deal +10% damage for every surviving Tanned Prisoner</u></b></mark></color> on the field\n[StartBattle] Apply 2 [Enhancement] on all other allies\n[WhenUse] If this unit has lower than 50% HP, gain Final Power +1 for every Tanned Prisoner on the field\n[DefeatDuel] Deal -80% damage and damage dealt by this Skill cannot Stagger the target",
+          "flavor": "它的脑中装着罪人们的脑。那些脑在它的脑液里翻滚、混合，接受鞣制。\n Within its brain are the brains of sinners, tumbling and mixing as they are tanned by its cerebral fluid.",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Burst]强度\n [OnSucceedAttack] Inflict 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Burst]强度\n [OnSucceedAttack] Inflict 3 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3级[Burst]强度\n [OnSucceedAttack] Inflict 3 [Burst]"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 148807,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "惩戒抛光收尾\n Punishing Burnishing Finishing",
+          "desc": "[CantDuel]\n此技能不会触发防御技能（包括可拼点的防御技能）\n\n[EndSkill]命令3名随机鞣制囚徒对目标使用随机技能（优先选择未陷入混乱的友方）\n [CantDuel]\nThis Skill does not trigger Defense Skills (including Clashable Defense Skills)\n\n[EndSkill] Order 3 random Tanned Prisoners to use random Skills against the target (prioritizes allies that are not Staggered)",
+          "flavor": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "造成的伤害+100%\n Deal +100% damage"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加10级[Vibration]强度\n [OnSucceedAttack] Inflict 10 [Vibration]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]对目标施加3层[Vibration]\n [OnSucceedAttack] Inflict +3 [Vibration] Count"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                },
+                {
+                  "desc": "[OnSucceedAttack]触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1\n [OnSucceedAttack] Trigger [VibrationExplosion]; then, reduce target's [Vibration] Count by 1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149101,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脑脂喷涂\n Brain Fat Spray",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2级[Burst]强度\n [OnSucceedAttack] Inflict 2 [Burst]"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]下回合对目标施加2层[Reduction]\n [OnSucceedAttack] Inflict 2 [Reduction] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149102,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "脑脂抛光\n Brain Fat Buffing",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]对目标施加2层[Burst]\n [OnSucceedAttack] Inflict +2 [Burst] Count"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]下回合对目标施加5层[DefenseDown]\n [OnSucceedAttack] Inflict 5 [DefenseDown] next turn"
+                },
+                {
+                  "desc": "[OnSucceedAttack]下回合对目标施加2层[Paralysis]\n [OnSucceedAttack] Inflict 2 [Paralysis] next turn"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149103,
+      "levelList": [
+        {
+          "level": 1,
+          "name": "赎罪压纹\n Expiatory Embossing",
+          "desc": "",
+          "coinlist": [
+            {
+              "coindescs": [
+                {
+                  "desc": "[OnSucceedAttack]使监工的部位与核心回复1%体力\n [OnSucceedAttack] Heal 1% HP to Overseer's Parts and Core"
+                }
+              ]
+            },
+            {
+              "coindescs": [
+                {
+                  "desc": "[SuperCoin]"
+                },
+                {
+                  "desc": "[OnSucceedAttack]使监工的部位与核心回复1%体力\n [OnSucceedAttack] Heal 1% HP to Overseer's Parts and Core"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

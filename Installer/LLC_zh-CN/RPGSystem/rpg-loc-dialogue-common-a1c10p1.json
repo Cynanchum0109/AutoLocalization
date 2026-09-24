@@ -1,0 +1,1163 @@
+{
+  "dataList": [
+    {
+      "key": "D90001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<不过是具尸体罢了。>\n <It's just a corpse.>"
+        }
+      ]
+    },
+    {
+      "key": "D90002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<……没有呼吸了。>\n <... No longer breathing.>"
+        }
+      ]
+    },
+    {
+      "key": "D90003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<没有回应。>\n <There is no response.>"
+        }
+      ]
+    },
+    {
+      "key": "D90004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 아직 이 안에서 마무리할 일이 있습니다, 관리자님.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1014",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……（她一言不发地凝视着我。她脸上那抹恬静的微笑，似乎意味着她对我们抱有好感。）\n ... (She gazes at me without a word. The serene smile on her face suggests that she regards us favorably.)",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10141",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……是洗手间。\n ... It's the restroom.",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "<好吧……>\n <Right...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "<等等……她能听懂我的滴答声？！>\n <Hang on... She can interpret my ticking?!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "……（她没有再多说什么，可那抹微笑依旧挂在脸上。）\n ... (She says nothing more, but her smile lingers still.>",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D10142",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……只要一直追随那颗星，总有一天……\n ... Keep following the star, then someday...",
+          "speaker": "???"
+        },
+        {
+          "index": 1,
+          "text": "……星……\n ... Star...",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 2,
+          "text": "辛克莱似乎陷入了自己的内心深处，沉浸在沉思之中。\n Sinclair seems to sink inward, lost in deep thought."
+        }
+      ]
+    },
+    {
+      "key": "D10143",
+      "texts": [
+        {
+          "index": 0,
+          "text": "（她没有回应。看来想弄清她的身份，终究是徒劳。）\n (She does not reply. It seems any attempt to uncover her identity will prove futile.)",
+          "speaker": "???"
+        }
+      ]
+    },
+    {
+      "key": "D1008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "看来照以实玛利小姐说的到外面去看看，才是最明智的做法。\n It seems wisest to venture outside as Miss Ishmael suggests.",
+          "speaker": "李箱\n Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D10081",
+      "texts": [
+        {
+          "index": 0,
+          "text": "浮士德正凝视着虚空，眉头微微皱起。她大概在分析我们目前的处境。我还是别打扰她了。\n Faust is staring into empty space, her brow faintly furrowed. She may be analyzing our present circumstances. I shouldn't interrupt."
+        }
+      ]
+    },
+    {
+      "key": "D10082",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我们出去吧。待在这儿也解决不了什么问题。\n Let's head outside. Hanging around here won't solve anything.",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10083",
+      "texts": [
+        {
+          "index": 0,
+          "text": "哈。还好我手里还剩点烟。\n Huh. Good thing I've still got some smokes left.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "<这里能抽烟吗？>\n <Is smoking allowed in here?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "啧……不清楚。那还是等出去了再点吧。\n Tch... Not sure. I'll light one up once we get outside, then.",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D10084",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这间洗手间对一家\"豪华\"百货公司来说，是不是太局促了点？也许只是个临时设施，等以后再建个正式的。\n Isn't this restroom rather cramped for a \"luxury\" department store? Maybe it's only a temporary facility until they can build a proper one.",
+          "speaker": "鸿璐\n Hong Lu"
+        }
+      ]
+    },
+    {
+      "key": "D10085",
+      "texts": [
+        {
+          "index": 0,
+          "text": "辛克莱死死盯着那位与德米安相似的神秘女子。\n Sinclair is staring fixedly at the mysterious woman who resembles Demian."
+        }
+      ]
+    },
+    {
+      "key": "D10086",
+      "texts": [
+        {
+          "index": 0,
+          "text": "诚然，吾未曾见过如此华美之茅厕！若区区茅厕便有此等富丽，那外界又将有何等奇观在候……经理阁下！让吾等即刻启程！\n Verily, never before have I beheld a privy of such splendor! If the privy alone boasteth such grandeur, what wonders must await beyond... Manager Esquire! Let us sally forth at once!",
+          "speaker": "堂吉诃德\n Don Quixote"
+        }
+      ]
+    },
+    {
+      "key": "D10087",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你们这帮人快点动身，不然我先走了。\n Get movin', you lot, or I'm heading out first.",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D10088",
+      "texts": [
+        {
+          "index": 0,
+          "text": "执行经理，我们应该先把此地设为前进基地，侦察一下周边地形。\n We should establish this location as a forward base and reconnoiter the surrounding area first, Executive Manager.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D10089",
+      "texts": [
+        {
+          "index": 0,
+          "text": "嗨，但丁。我们啥时候出发？这地方是挺干净的，可……总觉得有点渗人。\n Hiya, Dante. So when're we leavin'? It's nice and clean in here, sure, but... there's something creepy about this place.",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "... G.G., C.H.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "……就算没有她的T.L., S.C.翻译，我大概也能猜到她的意思。\n ... I think I can guess what she means even without her T.L., S.C. interpreting."
+        },
+        {
+          "index": 2,
+          "text": "大概是\"该走了，杂务时间。\"或者更可能是……\"快走吧，钟头。\"\n It's probably \"Gotta Go, Chore Hour.\" or more probably... \"Get Going, Clockhead.\""
+        }
+      ]
+    },
+    {
+      "key": "D10001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "但丁。我很清楚眼下的处境有多沉重……可我们是不是该赶紧去找默尔索？\n Dante. I am well aware that circumstances weigh heavily upon us... But ought we not hasten to find Meursault?",
+          "speaker": "李箱\n Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D10002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我这边没有什么需要多解释的了。\n No further explanation from my side is necessary.",
+          "speaker": "浮士德\n Faust"
+        }
+      ]
+    },
+    {
+      "key": "D10003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你还有什么要确认的吗？动作快点，我们得赶紧上路。得尽快找到默尔索。\n Was there something else you needed to check? Let's make it quick and get moving. We need to find Meursault ASAP.",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D10004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*吐了口烟* 明知道我们当中可能有人正在外面遭遇最糟的事，实在没法好好歇着。你们几个要是都缓过来了，那就走吧。\n *puff* Can't exactly take a proper break when I know one of us could be experiencing the worst thing out there. Let's go if you fellas are all rested up.",
+          "speaker": "格里高尔\n Gregor"
+        }
+      ]
+    },
+    {
+      "key": "D10005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你觉得默尔索没事吧？一个人被丢到这种陌生的地方……换谁都会又迷茫又害怕的。\n Do you suppose Meursault is all right? Being cast out into a strange place like this, all on your own... It'd leave anyone terribly lost and afraid.",
+          "speaker": "鸿璐\n Hong Lu"
+        },
+        {
+          "index": 1,
+          "text": "<我……觉得他不会迷茫害怕啦……不过没错，最好还是赶紧去找他。>\n <I... don't think he'd feel lost and afraid... But yeah, best we hurry up and find him.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "呼呼……那我们就出发吧！\n Fuhu... Then let's be on our way!",
+          "speaker": "鸿璐\n Hong Lu"
+        }
+      ]
+    },
+    {
+      "key": "D10006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "呃……经理……我们是不是该赶紧开始找默尔索了？\n Um... Manager... Shouldn't we hurry and start looking for Meursault?",
+          "speaker": "辛克莱\n Sinclair"
+        }
+      ]
+    },
+    {
+      "key": "D100061",
+      "texts": [
+        {
+          "index": 0,
+          "text": "辛克莱依旧喘着粗气，看来余怒未消。\n Sinclair is still huffing, apparently not yet over his anger."
+        }
+      ]
+    },
+    {
+      "key": "D10007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "莫非，重启冒险之时已然降临？诚然，吾时刻枕戈待旦！\n Hath the time arrived for us to resume our adventure? Verily, I remain ever at the ready!",
+          "speaker": "堂吉诃德\n Don Quixote"
+        }
+      ]
+    },
+    {
+      "key": "D10008",
+      "texts": [
+        {
+          "index": 0,
+          "text": "该死……\n Bloody hell...",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "希斯克利夫烦躁地来回踱步。\n Heathcliff is pacing back and forth restlessly."
+        },
+        {
+          "index": 2,
+          "text": "哦。那我们又要动身了？\n Oh. Are we movin' again, then?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        }
+      ]
+    },
+    {
+      "key": "D10009",
+      "texts": [
+        {
+          "index": 0,
+          "text": "执行经理，若您仍感疲惫，请再多休息。只需下令，我奥提斯便会派出一支搜索队去……\n Please rest more if you remain fatigued, Executive Manager. Give the order, and I, Outis, shall detach a search party and...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": "<没事的。我该跟你们一起去。>\n <It's okay. I should go with you guys.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "不愧是我们的执行经理。您是麾下每一支部队的表率……\n As expected of our Executive Manager. You are an example to every unit under your command...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "奥提斯对我大加赞美。没想到公共洗手间还自带\"淋浴\"。\n Outis showers me with praise. Didn't know public restrooms came with showers."
+        }
+      ]
+    },
+    {
+      "key": "D10091",
+      "texts": [
+        {
+          "index": 0,
+          "text": "准备好出发了吗？老天，真希望别再有一堆尸体砸下来了。我可<i>不想</i>被一堆腐肉活活压死……那能做三个晚上的噩梦。\n We ready to go? Man, I sure hope we won't see another pile of corpses fallin' down on us. I <i>don't</i> wanna get crushed to death under a pile of rotting meat... That'd be the stuff of 3 nights-long-nightmare.",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D10092",
+      "texts": [
+        {
+          "index": 0,
+          "text": "G.G., C.H.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "\"该走了，杂务时间\"？还是……\"快走吧，钟头\"……？\n Gotta Go, Chore Hour? Or... Get Going, Clockhead...?"
+        },
+        {
+          "index": 2,
+          "text": "我等会儿去问问辛克莱。\n I'll go and ask Sinclair later."
+        }
+      ]
+    },
+    {
+      "key": "D1930",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这个地方安静得有些诡异。一间\"休息室\"……确实是可以自由休息的房间。\n This place is quiet to an uncanny degree. A \"room of rest\"... Truly, a chamber wherein one may rest freely.",
+          "speaker": "李箱\n Yi Sang"
+        }
+      ]
+    },
+    {
+      "key": "D1931",
+      "texts": [
+        {
+          "index": 0,
+          "text": "浮士德正凝视着虚空。\n Faust is staring into the empty space."
+        }
+      ]
+    },
+    {
+      "key": "D1932",
+      "texts": [
+        {
+          "index": 0,
+          "text": "你准备好了我就走。\n Ready when you are.",
+          "speaker": "以实玛利\n Ishmael"
+        }
+      ]
+    },
+    {
+      "key": "D1933",
+      "texts": [
+        {
+          "index": 0,
+          "text": "要是接下来都这样……那我得来根烟了。\n If this is how it's gonna be... Well, I'll need a smoke.",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 1,
+          "text": "我转过头，看见良秀已经叼着一支烟，烟头飘起一缕青烟。\n I turn my head and see Ryōshū with a cigarette already pinched between her teeth, a wisp of smoke rising from the tip."
+        }
+      ]
+    },
+    {
+      "key": "D1934",
+      "texts": [
+        {
+          "index": 0,
+          "text": "鸿璐似乎正兴致盎然地听着堂吉诃德讲的什么故事。\n Hong Lu seems to be listening to whatever story Don Quixote's telling with genuine delight."
+        }
+      ]
+    },
+    {
+      "key": "D1935",
+      "texts": [
+        {
+          "index": 0,
+          "text": "辛克莱正连珠炮似的向那位蓝衣女士抛出各种问题。\n Sinclair is bombarding the blue lady with all kind of questions."
+        },
+        {
+          "index": 1,
+          "text": ".......",
+          "speaker": "???"
+        },
+        {
+          "index": 2,
+          "text": "我觉得这场对话进行得并不怎么顺利。\n I don't think the conversation is going particularly well."
+        }
+      ]
+    },
+    {
+      "key": "D1936",
+      "texts": [
+        {
+          "index": 0,
+          "text": "堂吉诃德正眉飞色舞地讲述着修理者们的事迹与奇迹，想借此让大家保持振奋的心情。\n Don Quixote is recounting the acts and miracles of Fixers animatedly, in an effort to keep everyone's mood alight."
+        },
+        {
+          "index": 1,
+          "text": "……看来只有鸿璐一个人在认真听。\n ... Hong Lu seems to be the only one paying attention."
+        }
+      ]
+    },
+    {
+      "key": "D1937",
+      "texts": [
+        {
+          "index": 0,
+          "text": "希斯克利夫烦躁地在原地来回打转。\n Heathcliff keeps circling the same spot restlessly."
+        }
+      ]
+    },
+    {
+      "key": "D1938",
+      "texts": [
+        {
+          "index": 0,
+          "text": "被困在此处，无法提供协助，实在令人懊恼。执行经理，若您需要我，我奥提斯随时听候差遣。\n It is rather frustrating that I am unable to be of assistance, trapped in this location. Should you need me, Executive Manager, I, Outis, am ready to be of service at your command.",
+          "speaker": "奥提斯\n Outis"
+        }
+      ]
+    },
+    {
+      "key": "D1939",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我在这儿歇会儿。要走的时候叫我一声～\n I'll be restin' here for a bit. Gimme a shout when it's time to leave~",
+          "speaker": "罗佳\n Rodion"
+        }
+      ]
+    },
+    {
+      "key": "D1940",
+      "texts": [
+        {
+          "index": 0,
+          "text": ".......",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 1,
+          "text": "良秀闭着眼睛。可烟头发出的滋滋声告诉我，她并没有睡着。\n Ryōshū has her eyes closed. The sizzle and hiss from the tip of the cigarette, however, tells me that she's not asleep."
+        }
+      ]
+    },
+    {
+      "key": "D1941",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理，我准备好了。\n I am ready, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1105",
+      "texts": [
+        {
+          "index": 0,
+          "text": "经理，这里还有没完成的事情。\n There are remaining tasks here, Manager.",
+          "speaker": "默尔索\n Meursault"
+        }
+      ]
+    },
+    {
+      "key": "D1108",
+      "texts": [
+        {
+          "index": 0,
+          "text": "前方的路完全被堵死了。目前似乎无法通过。\n The way ahead is completely blocked. It does not seem possible to pass through for now."
+        }
+      ]
+    },
+    {
+      "key": "D1001",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一颗燃烧着的钟头映入眼帘。无论是衣着还是钟表指针，都和平常没什么两样。\n A burning clock head comes into view. Neither the clothing nor the hands of the clock differ from their usual state."
+        }
+      ]
+    },
+    {
+      "key": "D1002",
+      "texts": [
+        {
+          "index": 0,
+          "text": "*咚咚*\n *knock* *knock*"
+        },
+        {
+          "index": 1,
+          "text": "喂？有人在吗～？\n Hello? Is anybody in~?",
+          "speaker": "鸿璐\n Hong Lu"
+        },
+        {
+          "index": 2,
+          "text": "<门锁着……里面没人吗？>\n <The door's locked... Is there nobody inside?>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "钟头。M.Y.H.\n Clock. M.Y.H.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 4,
+          "text": "她说的是\"钟头，快挪脑袋\"……哎呀！\n Clock, move your head, she says... Eep!",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 5,
+          "text": "良秀的刀鞘威胁性地震动了一下，转向辛克莱的方向。\n Ryōshū's scabbard rattles menacingly, swinging in Sinclair's direction."
+        },
+        {
+          "index": 6,
+          "text": "看来阿赖耶也和我们一起掉进了这个奇怪的空间。\n It seems Araya has fallen into this peculiar space alongside us."
+        },
+        {
+          "index": 7,
+          "text": "<我们大概该先去别处看看。>\n <We should probably check somewhere else first.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1003",
+      "texts": [
+        {
+          "index": 0,
+          "text": "唔……这门纹丝不动。\n Hm... It's not even budging.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 1,
+          "text": ".......",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 2,
+          "text": "你没听见我说的吗？门纹丝不动。\n Did you not hear what I said? The door's not budging.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 3,
+          "text": "*哈欠*\n *yawn*",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 4,
+          "text": "<希斯克利夫……我觉得她是在跟你说话。>\n <Heathcliff... I think she's talking to you.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "……门纹丝不动，是啊。你想让我怎么办？\n ... The door won't budge, yeah. What do you want me to do about it?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 6,
+          "text": "多么荒谬的问题。出现障碍——你和你那根球棒就该毫不顾及风险或战术地将其消灭。这不该是你日常的行动准则吗？\n What an absurd question. An obstacle emerges—you and that bat of yours terminate it without any thought given to the risk involved or the tactics available. Isn't that supposed to be your day-to-day doctrine of action?",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 7,
+          "text": "执行经理，门后的位置尚未经过侦察筛查。请后撤至可防守的距离。希斯克利夫将破门并向前侦察。\n The location beyond is yet to be screened, Executive Manager. Please fall back to a defensible distance. Heathcliff shall breach the door and scout ahead.",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 8,
+          "text": "该死，你还真敢叫我去破门啊！随便看一眼就知道这地方花了大价钱……要是我把它砸个稀巴烂，到时候让我们出钱赔怎么办？\n Bloody hell, you've got some nerve telling me to put that door in! One look round and you can tell they spent a fortune on this place... What if they make us foot the bill after I've smashed it to bits?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 9,
+          "text": "唔。你说得有道理。正如他所言，执行经理。此门之后的侦察应当延后……\n Hm. You make a valid point. As the man says, Executive Manager. Reconnaissance beyond this door should be postponed...",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 10,
+          "text": "希斯克利夫目瞪口呆地看着奥提斯——对方拿他当炮灰似乎连一丝犹豫都没有。他后退一步，摇了摇头，仿佛这番交流已经让他心力交瘁。\n Heathcliff stood agape at Outis, who didn't seem to feel even an ounce of hesitation about using him as cannon fodder. He stepped back, shaking his head as though the interaction had tired him out."
+        }
+      ]
+    },
+    {
+      "key": "D1004",
+      "texts": [
+        {
+          "index": 0,
+          "text": "……但丁，你是打算敲一整天隔间门吗？\n ... Are you planning to knock on the stalls all day, Dante?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 1,
+          "text": "<谁知道呢……>\n <You never know...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 2,
+          "text": "在洗手间这么做才是正确礼仪。如厕礼仪可是重要的美德！\n It's only proper to do so in a restroom. Toilet etiquette is an important virtue!",
+          "speaker": "鸿璐\n Hong Lu"
+        },
+        {
+          "index": 3,
+          "text": "这样也好，我想……不过我们是不是该动身，去外面看看了？\n All well and good, I suppose... But shouldn't we be on our way and take a look around outside?",
+          "speaker": "以实玛利\n Ishmael"
+        },
+        {
+          "index": 4,
+          "text": "<正是打算这么做。>\n <That's the plan.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<...!>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 1,
+          "text": "经理老兄，什么把你搞得这么慌？\n What's got you rattled, Manager Bud?",
+          "speaker": "格里高尔\n Gregor"
+        },
+        {
+          "index": 2,
+          "text": "<我刚才好像听到里面传来马桶冲水的声音……>\n <I just heard what sounded like a toilet flushing in there...>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 3,
+          "text": "……都经历过这么多事了，你还想吓唬我？我可不会再上当了……才不会……\n ... You're still trying to spook me, even after everything we've been through? Not falling for it anymore... Nope...",
+          "speaker": "辛克莱\n Sinclair"
+        },
+        {
+          "index": 4,
+          "text": "<可我是真的听到了……>\n <But I really heard it...>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D1006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "够了，钟头！你以为死盯着那些厕所隔间能看出什么名堂？\n Enough, Clockhead! What d'you reckon gawping inside those toilet stalls is going to do?",
+          "speaker": "希斯克利夫\n Heathcliff"
+        },
+        {
+          "index": 1,
+          "text": "执行经理正在执行系统化的搜索方案！就连这些设施里，都可能藏着足以左右行动的关键情报！\n The Executive Manager is executing a methodical search pattern! Even these fixtures may conceal hints of intelligence decisive to the operation!",
+          "speaker": "奥提斯\n Outis"
+        },
+        {
+          "index": 2,
+          "text": "*吐了口烟* 本大侦探一进来就已经把整间洗手间检查过了。没什么好看的了，C.H.\n *puff* This master detective inspected this entire restroom the moment we entered. There is nothing left to see, C.H.",
+          "speaker": "良秀\n Ryōshū"
+        },
+        {
+          "index": 3,
+          "text": "这让我想起我们在T公司玩侦探游戏的时候～那时候真开心，是吧，罗佳？\n This reminds me of when we played detective back in T Corp.~ We had so much fun back then, didn't we, Rodya?",
+          "speaker": "鸿璐\n Hong Lu"
+        },
+        {
+          "index": 4,
+          "text": "是啊……是挺开心的。话说，我们要不要先赶紧离开这儿？\n Yeah... we did. Anyway, how about we hurry up and get out of here first?",
+          "speaker": "罗佳\n Rodion"
+        },
+        {
+          "index": 5,
+          "text": "是啊。我们不能再在这儿浪费时间了。\n Yeah. We can't waste any more time here."
+        }
+      ]
+    },
+    {
+      "key": "D1007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一间门关着的隔间。\n A stall with a closed door."
+        }
+      ]
+    },
+    {
+      "key": "D9006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一道熟悉的金色光芒，从瓷砖间狭窄的缝隙里透了出来。\n Familiar golden light leaks through a narrow gap between the tiles."
+        },
+        {
+          "index": 1,
+          "text": "我几乎能听见人们低声交谈的模糊声响。\n I can almost hear the faint murmuring of conversation between people."
+        }
+      ]
+    },
+    {
+      "key": "D9007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "我透过缝隙望去，可那光太刺眼，什么都看不清。\n I peer through the gap, but the glare of the light is too bright for me to see anything."
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_TOPAZ",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_AMETHYST",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        },
+        {
+          "index": 2,
+          "text": "<color=#ebcaa2>在西西弗百货，消费越多的顾客，越能获得与其惠顾相称的身份地位。我们鼓励您继续购物，一路晋升至我们的最高等级。</color>\n <color=#ebcaa2>At Grand Magasin Sisyphe, customers who spend more are awarded a status worthy of their patronage. We encourage you to continue shopping and work your way toward our highest tiers.</color>"
+        },
+        {
+          "index": 3,
+          "text": "<color=#ebcaa2>诚邀您尽情消费，证明自己的价值所在。感谢您选择西西弗百货，祝您购物愉快。</color>\n <color=#ebcaa2>We invite you to prove what you are worth by consuming to your hearts' content. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping.</color>"
+        },
+        {
+          "index": 4,
+          "text": "<咦。看来我们的等级提升了。>\n <Huh. Looks like our rank went up.>",
+          "speaker": "但丁\n Dante"
+        },
+        {
+          "index": 5,
+          "text": "<不过我完全不知道有什么变化……也不知道带来了什么新福利。>\n <I've got no idea what's changed, though... or what new perks come with it.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_AMBER",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_EMERALD",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_GOLD",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_RUBY",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_SAPPHIRE",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_ONYX",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D_VIPUP_DIAMOND",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<color=#ebcaa2>请注意。</color>\n <color=#ebcaa2>Your attention, please.</color>"
+        },
+        {
+          "index": 1,
+          "text": "<color=#ebcaa2>我们很荣幸地通知您，您的荣誉等级已提升至下一级。</color>\n <color=#ebcaa2>We are pleased to inform you that your Prestige Tier has advanced to the next level.</color>"
+        }
+      ]
+    },
+    {
+      "key": "D9999",
+      "texts": [
+        {
+          "index": 0,
+          "text": "[미사용] 상호작용 할당용 임시 공용 더미 대사"
+        }
+      ]
+    },
+    {
+      "key": "D_WRONGDEF",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<好像有什么变了……我们试试搭扶梯看看。>\n <Something seems to have changed... Let's try taking the escalator.>",
+          "speaker": "但丁\n Dante"
+        }
+      ]
+    },
+    {
+      "key": "D91001_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "也许我上辈子真的是一棵树。\n Maybe I really was a tree in a past life."
+        },
+        {
+          "index": 1,
+          "text": "当我遇见那以树状呈现的心灵图谱与结构时……\n When I encountered the diagram and structure of the mind in arboreal form..."
+        },
+        {
+          "index": 2,
+          "text": "……我不由自主地被它吸引，断定那便是灵魂的具象呈现。\n ... I felt drawn toward it and concluded it to be the rendering of the soul."
+        },
+        {
+          "index": 3,
+          "text": "可我不禁想问……灵魂真的呈树的形状吗？\n But I wonder... does the soul really take the shape of a tree?"
+        },
+        {
+          "index": 4,
+          "text": "或许树只是表现它的一种方式。心灵也许太过动摇不定，根本不具备■■■■■ ■■■■■■■■■。\n Perhaps a tree is merely one way of representing it. The mind may be too unstable to possess a ■■■■■ ■■■■■■■■■ at all."
+        },
+        {
+          "index": 5,
+          "text": "然而，我在都市中各处见到的人形■■■■■，却一次又一次收敛于树状结构。\n Yet, the human forms I saw the ■■■■■ shape throughout the City converge again and again upon the structure of a tree."
+        },
+        {
+          "index": 6,
+          "text": "光是■ ■■■■的■■■■■■■体系蓝图，不就足以说明这一点吗？\n The blueprint for ■ ■■■■.'■ ■■■■■■■ System alone suggests as much, does it not?"
+        }
+      ]
+    },
+    {
+      "key": "D91002_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "曾几何时，一个孩子从■■■■降下，化作雨水落下。\n Once, a child descended from a ■■■■ and rained down as water."
+        },
+        {
+          "index": 1,
+          "text": "赋予心灵以物质形态的水。■■■■■■。\n Water that gives the mind material form. ■■■■■■."
+        },
+        {
+          "index": 2,
+          "text": "■■■■■ ■■■■■■进行的实验，让我确信了这一点：\n The experiments conducted ■■■■■ ■■■■■■ gave me the certainty:"
+        },
+        {
+          "index": 3,
+          "text": "这棵树结出十枚果实。\n The tree bears ten fruits."
+        },
+        {
+          "index": 4,
+          "text": "这棵树分为三个领域。\n The tree is divided into three domains."
+        },
+        {
+          "index": 5,
+          "text": "而这棵树■■ ■■■的顺序，也自有其意义。\n And the order in which the tree ■■ ■■■ended carries significance."
+        }
+      ]
+    },
+    {
+      "key": "D91003_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "即使心灵并不呈树的形状，\n Even if the mind does not take the form of a tree,"
+        },
+        {
+          "index": 1,
+          "text": "如果心灵能被■■■■■成树状模型并借此得到解读，这种方法便值得一试。\n this method is worth attempting if the mind can be ■■■■■ into an arboreal model and interpreted through it."
+        },
+        {
+          "index": 2,
+          "text": "语言不也是一样吗？\n Is language not the same?"
+        },
+        {
+          "index": 3,
+          "text": "■■将毫无意义的■■■■■ ■■■■■■■■■■禁锢进语言的形式之中——并借此■■进行交流。\n ■■ take mere ■■■■■ ■■■■■■■■■■, devoid of meaning, and confine them within the form of language—and through it, ■■ communicate."
+        },
+        {
+          "index": 4,
+          "text": "我将这个无形而动摇的心灵定义为一棵树。\n I define this invisible, unstable mind as a tree."
+        }
+      ]
+    },
+    {
+      "key": "D91004_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "■■■■■■同类相生，取最不令人反感的形态。\n ■■■■■■ draws like from like, taking the form that provokes the least aversion."
+        },
+        {
+          "index": 1,
+          "text": "但我们需要的不是被描绘出来的东西，而是绽放出来的东西。\n But what we need is not something which is drawn up, but that which blooms."
+        },
+        {
+          "index": 2,
+          "text": "水桶必须变成种子。它必须变成一种喷薄而出的意志。\n The bucket must become a seed. It must become a will that bursts forth."
+        },
+        {
+          "index": 3,
+          "text": "■■■■■■■■的人体及其结构，都是依照铭刻在我们基因中的设计构建而成的。\n The ■■■■■■■■ human body and its structure are built according to a design inscribed in our very genes."
+        },
+        {
+          "index": 4,
+          "text": "同样地，必须将承载着这棵树图样的蓝图植入人们体内。\n In the same manner, a blueprint bearing the diagram of the tree must be implanted within people."
+        },
+        {
+          "index": 5,
+          "text": "……但要怎么做呢？\n ... But how?"
+        },
+        {
+          "index": 6,
+          "text": "或许■■■■■■本该采取光的形态，而不是水。\n Perhaps ■■■■■■ should have taken the form of light, not water."
+        },
+        {
+          "index": 7,
+          "text": "因为凝视某物，就意味着光已经进入了我。\n Because to gaze upon something means that the light has entered me."
+        },
+        {
+          "index": 8,
+          "text": "因为凝视某物，就是在无从抗拒之下承载了它的种子。\n Because to gaze upon something is to bear its seed beyond any power to resist."
+        }
+      ]
+    },
+    {
+      "key": "D91020_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "疗法或对话都无法治愈灵魂。\n Therapy or conversation cannot heal the soul."
+        },
+        {
+          "index": 1,
+          "text": "用这个图式来衡量，心理治疗不过是一种■■■■■■■■■的■■■■■■■。\n Measured against this schema, psychotherapy is no more than a ■■■■■■■■■ ■■■■■■■."
+        },
+        {
+          "index": 2,
+          "text": "但既然我已经知道了人类心灵的形状，难道就不能诊断并治愈它吗？\n But now that I know the shape of the human mind, could I not diagnose and heal it?"
+        },
+        {
+          "index": 3,
+          "text": "如果这样，或许不仅能治愈我出生的那个■ ■■■■.，还能治愈笼罩着这座都市本身的可怕苦难。\n If so, it may be possible to heal not only ■ ■■■■., where I was born, but also the terrible suffering that has enveloped the City itself."
+        },
+        {
+          "index": 4,
+          "text": "或许能治愈这座都市里患病的人们——这病症让他们无法认清自己是谁，■■ ■■■■■ ■■■■■■■走向死亡。\n It may be possible to heal the people of the City who are afflicted by an illness that makes them unable to know who they are ■■ ■■■■■ ■■■■■■■ toward death."
+        }
+      ]
+    },
+    {
+      "key": "D91021_A",
+      "texts": [
+        {
+          "index": 0,
+          "text": "这棵树的形状不过是汇总我■■■■■■■■发现之后的结果；这个形态并非我事先规定的。\n The shape of this tree is but an outcome of compiling my ■■■■■■■■ discoveries; I did not prescribe this form."
+        },
+        {
+          "index": 1,
+          "text": "正如人体有一张■■■■■■■■■■的图谱，这棵树就是人类心灵的图谱。\n Just as the human body has an ■■■■■■■■■■ diagram, this tree is a diagram of the human mind."
+        },
+        {
+          "index": 2,
+          "text": "要治疗患病之人，必须先理解躯干。\n To treat the afflicted, one must first understand the body."
+        },
+        {
+          "index": 3,
+          "text": "然而至今没有人完成过对人类灵魂——或者说意识——的可视化，更别提设计出将其结构系统化的方法了。\n Yet no one has thus far completed a visualization of the human soul—or consciousness—let alone devised the means of systematizing its structure."
+        }
+      ]
+    },
+    {
+      "key": "D90005",
+      "texts": [
+        {
+          "index": 0,
+          "text": "漆黑者的尸体。证明他们曾经存在过的唯一遗物，是这顶被丢弃的、标志着其等级的帽子。\n The corpse of a Noir. The only remaining proof of their existence is this abandoned hat, signifying their rank."
+        }
+      ]
+    },
+    {
+      "key": "D90006",
+      "texts": [
+        {
+          "index": 0,
+          "text": "<只是一具尸体罢了。>\n <It's just a corpse.>"
+        }
+      ]
+    },
+    {
+      "key": "D90007",
+      "texts": [
+        {
+          "index": 0,
+          "text": "漆黑者的尸体。织成他们衣服的布料十分厚实，连鲜血都渗不进去。\n The corpse of a Noir. The fabric used to weave their clothing is so thick that not even blood seeps into it."
+        }
+      ]
+    },
+    {
+      "key": "D3901",
+      "texts": [
+        {
+          "index": 0,
+          "text": "漆黑者的尸体。鲜血渗入黑色西装，将其染成了暗红色。\n The corpse of a Noir. Blood seeps into the black suit, turning it dark crimson."
+        }
+      ]
+    },
+    {
+      "key": "D3903",
+      "texts": [
+        {
+          "index": 0,
+          "text": "赤红者的尸体。他们的血管已经停止蠕动，变得干枯灰白。\n The corpse of a Rouge. Their veins have stopped writhing, turning dry and grey."
+        }
+      ]
+    },
+    {
+      "key": "D1912",
+      "texts": [
+        {
+          "index": 0,
+          "text": "一张用什么东西缝合起来的皮肤像没洗过的抹布一样粘在地上。嘴唇、眼睛和牙齿都已失去了各自的特征，融成了一团光滑的东西。\n A hide of skin stitched with something lies stuck to the floor like an unwashed rag. Its lips, eyes, and teeth have all lost their distinguishing features and emulsified into one slick mass."
+        }
+      ]
+    }
+  ]
+}

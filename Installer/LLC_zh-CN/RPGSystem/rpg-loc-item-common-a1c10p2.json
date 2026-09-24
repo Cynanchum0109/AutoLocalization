@@ -1,0 +1,411 @@
+{
+  "dataList": [
+    {
+      "key": "I104004",
+      "displayName": "红宝石之心\n Red Ruby Heart",
+      "description": "曾经承载着快乐衣橱继续存在之愿的容器。\n The vessel that once held the Happy Closet's wish to go on existing."
+    },
+    {
+      "key": "I104005",
+      "displayName": "飘散粉红花瓣的异想体之卵\n The Egg of an Abnormality that Scattered Pink Petals",
+      "statText": "在象征界中，使用<color=#F8C200>普通攻击</color>命中敌人时，施加<color=#F8C200>花瓣标记</color>\n- 仅在敌人没有此<color=#F8C200>标记</color>时施加该效果\n- <color=#F8C200>花瓣标记</color>持续10秒\n- 花瓣标记冷却时间：10秒（从施加标记时开始计算）\n- 默尔索的<color=#F8C200>普通攻击</color>对带有花瓣标记的目标造成+1<color=#fe4b48>伤害</color>\n- 带有此标记的目标被击败时，以目标为中心，对3×3格范围造成5点<color=#fe4b48>伤害</color>\n In the Symbolic, when landing a hit using <color=#F8C200>Basic Attack</color> on the enemy, inflict <color=#F8C200>Petal Mark</color>\n- This effect is inflicted only when the enemy does not have this <color=#F8C200>Mark</color>\n- <color=#F8C200>Petal Mark</color> lasts for 10 seconds\n- Petal Mark cooldown: 10 seconds (counts from the moment the mark is inflicted)\n- Meursault's <color=#F8C200>Basic Attack</color> deals +1 <color=#fe4b48>Damage</color> against targets inflicted with Petal Mark\n- When a target that has this mark is defeated, deal 5 <color=#fe4b48>damage</color> on 3 x 3 tiles centered on the target",
+      "description": "百货商场里的每一位顾客与员工，都已经在经历各自的扭曲。既然扭曲的终点是异想体，那么这里没有出现任何异想体，反倒才是真正的异常。\n Every customer and employee in the department store is already undergoing their own Distortion. Since the terminus of Distortion is an Abnormality, the true abnormality would be if no Abnormalities had appeared here."
+    },
+    {
+      "key": "I104006",
+      "displayName": "黄金纽扣\n Golden Button",
+      "description": "用黄金松脂制成的纽扣。\n A button fashioned from Golden Resin."
+    },
+    {
+      "key": "I104007",
+      "displayName": "黄金牙齿\n Golden Tooth",
+      "description": "用黄金皮革缝合起来的牙齿。\n A tooth stitched together with Golden Hide."
+    },
+    {
+      "key": "I104008",
+      "displayName": "黄金发丝\n Golden Hair",
+      "description": "被抽成缕缕金丝的头发。\n Hair drawn out into strands of gold."
+    },
+    {
+      "key": "I990311",
+      "displayName": "赤红尖钉\n Red Nail",
+      "description": "一名苦苦等待声音的员工的脊椎骨。钉子用于固定事物。骨头将血肉固定在原位。骨头就是钉子。钉子如针一般刺穿事物。这截脊椎不仅是一枚上好的钉子，也是一根针。\n The vertebra of an employee who waited desperately for the Voice. A nail exists to hold things fast. Bone holds flesh in place. Bone is a nail. A nail pierces like a needle. This vertebra is not only a quality nail but also a needle."
+    },
+    {
+      "key": "I990313",
+      "displayName": "信念\n Faith",
+      "statText": "在象征界中，受到足以致死的<color=#fe4b48>伤害</color>时，有10%概率以1点<color=#00ff9c>体力</color>存活\n- 即死等特定伤害除外\n\n象征界<color=#00ff9c>体力</color>+2\n In the Symbolic, upon taking <color=#fe4b48>Damage</color> that would result in death, 10% chance to survive with 1 <color=#00ff9c>HP</color>\n- Excluding certain damages such as Instant Death\n\nSymbolic <color=#00ff9c>HP</color> +2",
+      "description": "“信就是所望之事的实底，是未见之事的确据。”\n \"Now faith is the substance of things hoped for, the evidence of things not seen.\""
+    },
+    {
+      "key": "I990417",
+      "displayName": "粉红玛丽珍鞋\n Pink Mary Janes",
+      "statText": "在阴影界战斗期间，布布的脉动威力+1\n- 速度下限与上限+3\n- “赤红尖钉”硬币+1（使用追加硬币命中时，发射<color=#F8C200>花瓣弹体</color>）\n- 使用“打起精神”技能时，每拥有2点脉动威力，攻击加权值+1（最多+2）\n- 解放“牵住我的手”技能（有友方陷入混乱时自动使用，使其<color=#F8C200>解除混乱</color>并<color=#00ff9c>回复</color><color=#00ff9c>体力</color>；每回合2次）\n Pwie's Pulsation Potency +1 during battle in the Shadowed\n- Min & Max Speed +3\n- \"Crimson Nail\" Coin +1 (On Hit using additional Coins, fire <color=#F8C200>Petal Projectiles</color>)\n- Upon using the \"Perk Up\" Skill, gain +1 Atk Weight for every 2 Pulsation Potency (max 2)\n- Unlock the \"Grab My Hand\" Skill (used automatically when an ally is Staggered to <color=#F8C200>recover them from Stagger</color> and <color=#00ff9c>heal</color> their <color=#00ff9c>HP</color>; 2 times per turn)",
+      "description": "能将任何人带回家的鞋。每一步散发的余香都浸透着思慕，因为穿上它的人会开始向往离家最遥远的地方。毕竟，对家的思念越深，便必然越接近归途。\n Shoes that bring anyone home. The faint aroma scattered by each footfall is steeped in longing, for whoever wears them begins to yearn for the farthest place from home. After all, the more one longs for home, the closer to home one inevitably draws."
+    },
+    {
+      "key": "I991012",
+      "displayName": "黄金裹布\n Golden Shroud",
+      "statText": "在象征界中，布布会在经过之处留下<color=#F8C200>呕吐物</color>\n- 布布1格内的敌人与站在<color=#F8C200>呕吐物</color>上的敌人每2秒受到4点<color=#fe4b48>伤害</color>\n- 对所有因此效果受到<color=#fe4b48>伤害</color>的敌人施加<color=#F8C200>黄金启示</color>\n- 带有<color=#F8C200>黄金启示</color>的敌人死亡时，对其周围1格内造成4点<color=#fe4b48>伤害</color>（0.1秒受击硬直）\n\n在阴影界战斗期间：\n- 布布获得1点脉动威力\n- 防御等级+10\n- 回合结束：若布布陷入混乱，则解除混乱并<color=#00ff9c>回复</color>50%<color=#00ff9c>体力</color>（每场遭遇战1次）\n- 使用“赤红尖钉（第2枚硬币）”、“走开”或“赤红尖钉之洗礼”命中时，施加1层<color=#F8C200>黄金启示</color>\n- 使用“赤红尖钉之洗礼”时，若脉动威力达到5点以上，则攻击加权值+2，硬币威力提升（脉动威力-3）\n- 使用“不要受伤”时，额外<color=#00ff9c>回复</color>（脉动威力×2）%<color=#00ff9c>体力</color>与（脉动威力×3）精神力\n- 使用“牵住我的手”命中时，下回合为目标施加等同于其<color=#00ff9c>体力</color>上限50%的护盾\n In the Symbolic, Pwie leaves <color=#F8C200>Le Vomissement</color> in their tracks\n- Enemies 1 tile within Pwie and enemies on top of <color=#F8C200>Le Vomissement</color> take 4 <color=#fe4b48>Damage</color> every 2 seconds\n- Inflicts <color=#F8C200>Golden Revelation</color> on all enemies who took <color=#fe4b48>Damage</color> from this effect\n- When enemies that have <color=#F8C200>Golden Revelation</color> dies, they deal 4 <color=#fe4b48>Damage</color> within 1 tile around them (0.1 seconds Hitstun)\n\nDuring battle in the Shadowed:\n- Pwie gains 1 Pulsation Potency\n- Defense Level +10\n- Turn End: If Pwie is Staggered, recover from Stagger and <color=#00ff9c>heal</color> 50% <color=#00ff9c>HP</color> (once per Encounter)\n- On Hit using \"Crimson Nail (2nd Coin)\", \"Go Away\", or \"Baptism of Crimson Nails\", inflict 1 <color=#F8C200>Golden Revelation</color>\n- On \"Baptism of Crimson Nails\" use, at 5+ Pulsation Potency, gain +2 Atk Weight and Coin Power +(Pulsation Potency - 3)\n- Upon using \"Don't Get Hurty\", additionally <color=#00ff9c>heal</color> (Pulsation Potency x 2)% <color=#00ff9c>HP</color> and (Pulsation Potency x 3) SP\n- On Hit using \"Grab My Hand\", apply Shield equal to 50% of target's max <color=#00ff9c>HP</color> next turn",
+      "description": "保留着黄金皮革毛皮的羊剪绒斗篷。这件衣物将外来之物拒之门外，同时催促内在之物绽放。孩子披上它的那一刻，童年便宣告结束。孩子学会他人有何期待、什么必须复原，并被迫依此行事。其不再被允许对世界怀有好奇。\n A shearling cape that preserves the fur of the Golden Hide. This garment keeps what comes from outside at bay, while hastening what blooms within. Once the child dons it, childhood reaches its end. The child learns what others expect and what must be restored, and is compelled to act accordingly. It is no longer permitted to be curious about the world."
+    },
+    {
+      "key": "I991013",
+      "displayName": "生皮捆\n Bundle of Rawhide",
+      "description": "血肉从骨骼上剥离，皮则从血肉上揭下。随后，必须将附着其上的毛发溶解殆尽，直到只剩生皮。\n As flesh is stripped from bone, hide is peeled from flesh. Then the hair clinging to it must be dissolved away until only the raw skin remains."
+    },
+    {
+      "key": "I991014",
+      "displayName": "鞣制皮革\n Tanned Hide",
+      "description": "皮革在制革厂中经单宁转化，呈现出棕褐色。\n Hide takes on the color of tan as tannins transform it inside the Tannery."
+    },
+    {
+      "key": "I991015",
+      "displayName": "柔韧皮革\n Supple Hide",
+      "description": "皮革是肉转化为植物的过程。血肉溶解，木质枝条填满其留下的空洞。\n Hide is the process by which meat becomes plant. The flesh dissolves, and branches of wood fill the hollows left behind."
+    },
+    {
+      "key": "I991016",
+      "displayName": "改造工具\n Alteration Tools",
+      "statText": "在象征界中，解放<color=#F8C200>监督者弹体</color>\n- 向5格内随机一名敌人发射（冷却时间2.5秒）\n- 命中目标时，对其周围1格内造成3点<color=#fe4b48>伤害</color>（0.1秒受击硬直）\n\n在阴影界战斗中，为布布解放“我来替你结束……”\n- 敌人未被攻击技能击杀时，对该敌人使用（每回合1次）\n- 目标每损失1%<color=#00ff9c>体力</color>，造成的<color=#fe4b48>伤害</color>+0.5%（最多30%）\n In the Symbolic, unlock <color=#F8C200>Overseer Projectiles</color>\n- Fired to a random enemy within 5 tiles (2.5 seconds cooldown)\n- On hitting the target, deals 3 <color=#fe4b48>Damage</color> within 1 tile (0.1 seconds Hitstun)\n\nIn Shadowed Battles, unlock \"I'll End It for You...\" for Pwie\n- If an enemy is not killed by an Attack Skill, use it on that enemy (once per turn)\n- Deal +0.5% <color=#fe4b48>damage</color> for every 1% missing <color=#00ff9c>HP</color> on target (max 30%)",
+      "description": "红派渴求皮革的理由很简单。皮革意味着耗竭；织物意味着过剩。他们吃掉肉，再穿上剩余之物，从不思考食物被吃尽后会发生什么。现在就吃。现在就穿。红派崇拜耗竭。他们并非因为热爱皮革才走向耗竭。他们之所以穿上皮革，是因为耗竭从一开始就是它的归宿。\n The reason the Rouges desire hide is simple. Hide is depletion; fabric is excess. They eat the meat, then wear what remains, never wondering what happens when nothing is left to eat. Consume now. Wear now. The Rouges worship depletion. They do not walk toward depletion because they love hide. They came to wear hide because depletion was always its destination."
+    },
+    {
+      "key": "I991022",
+      "displayName": "黄金皮革织物\n Golden Hide Fabric",
+      "description": "如此说来，黄金皮革可以被描述为一种结构中密集塞满微小黄金束的皮革。曾经填补裂隙的皮，的确是某个人的皮肤与血肉。而在经过鞣制后，它获得了与金枝相称的树木性质。\n\n但金枝真的曾被确定为植物吗？\n The Golden Hide, then, could be described as a hide whose very structure is densely packed with minute bundles of gold. The Hide that once filled the cracks truly had been someone's skin and flesh. And once it was tanned, it came to take on arboreal properties befitting the Golden Bough.\n\nBut was the Golden Bough ever truly established to be a plant?"
+    },
+    {
+      "key": "I992705",
+      "displayName": "幼虫\n Larva",
+      "description": "百货商场建成之前，一个古老的存在奇迹般幸存下来，并留下了后代。那名幸存的子嗣搁浅在岸边，将在那里成为新时代的材料。\n Before the department store was built, a being of eld survived as if by miracle and left behind an offspring. That surviving descendant was beached on the Shore, there to become material for a new age."
+    },
+    {
+      "key": "I990423",
+      "displayName": "灯火\n The Lights",
+      "statText": "在象征界中，静止不动时受到攻击，承受的<color=#fe4b48>伤害</color>-2（最低承受1点<color=#fe4b48>伤害</color>）\n In the Symbolic, <color=#fe4b48>Damage</color> Taken -2 when hit while standing still (min 1 <color=#fe4b48>Damage</color> taken)",
+      "description": "它嫉妒太阳的光辉，于是成为了一盏灯。然而灯必须比太阳更贴近人们，因为太阳过于耀眼、炽热，无法留在身边。\n Envious of the sun's radiance, it became a lamp. Yet a lamp must stay closer to people than the sun, because the sun is too dazzling and hot to keep at one's side."
+    },
+    {
+      "key": "I990808",
+      "displayName": "是焦香，听清楚了吗？\n It's Toasty, You Hear?",
+      "statText": "在象征界中，击杀敌人时<color=#00ff9c>回复</color>3点象征界<color=#00ff9c>体力</color>（冷却时间4秒）\n In the Symbolic, <color=#00ff9c>heals</color> 3 Symbolic <color=#00ff9c>HP</color> upon killing an enemy (4 seconds cooldown)",
+      "description": "焦香是一种香气，不是味道，听清楚了吗？香气和味道并不相同，可它们总是黏在一起，听清楚了吗？总有一天，我要做一道只由香气构成的菜，听清楚了吗？那样一来，这里的所有人都能吃饱，再也不用担心食物耗尽，听清楚了吗？\n Toasty is an aroma, not a flavor, you hear? Aroma and taste are different, but they cling together, you hear? Someday, I'll cook a dish made only of aroma, you hear?  Then everyone here can have their fill without worrying about food running out, you hear?"
+    },
+    {
+      "key": "I990807",
+      "displayName": "是鲜味，听清楚了吗？\n It's Savory, You Hear?",
+      "statText": "象征界中的<color=#fe4b48>攻击速度</color>+15%\n <color=#fe4b48>Attack Speed</color> +15% in the Symbolic",
+      "description": "鲜味很能勾起食欲，听清楚了吗？一旦有了食欲，就会开始渴望下一道菜，听清楚了吗？渴望下一道菜，就意味着期待下一种味道，听清楚了吗？所以，鲜味就意味着期待，听清楚了吗？\n Savory flavor really brings up the appetite, you hear? Once you feel that appetite, you start craving the next dish, you hear? Craving the next dish means looking forward to the next flavor, you hear? So, savory means anticipation, you hear?"
+    },
+    {
+      "key": "I990113",
+      "displayName": "红派快销服饰单肩包\n Le Rouge Casualwear Shoulder Bag",
+      "statText": "象征界<color=#00ff9c>体力</color>+3\n Symbolic <color=#00ff9c>HP</color> +3",
+      "description": "你尝过塞在裂隙里的黄金皮革吗？哦，用那种皮革调味的衣服……那可是永远无法忘怀的味道。\n Have you ever tasted the Golden Hide packed into the cracks? Oh, clothes seasoned with that hide... now that is a flavor one can never forget."
+    },
+    {
+      "key": "I990114",
+      "displayName": "红派快销服饰连帽衫\n Le Rouge Casualwear Hoodie",
+      "statText": "象征界中造成的<color=#fe4b48>伤害</color>+1\n <color=#fe4b48>Damage</color> Dealt +1 in the Symbolic",
+      "description": "有时候，啃食黄金皮革会让裂隙变得更宽。这种时候，就抓住那些企图控制皮革的讨厌黑派，把他们塞进缺口，堵严实……瞧，问题解决了。\n Sometimes, gnawing away at the Golden Hide makes the crack wider. When that happens, you catch these nasty Noirs who tried to control the Hide. Stuff them into the gap, plug it up... And voilà, problem solved."
+    },
+    {
+      "key": "I990115",
+      "displayName": "红派现代服饰帽\n Le Rouge Contemporary Cap",
+      "statText": "在象征界中，解放<color=#F8C200>闪避</color>\n- 按下<color=#F8C200>闪避键（键盘Z键）</color>，向移动方向<color=#F8C200>闪避</color>1格；静止时则向当前朝向闪避（冷却时间0.5秒）\n- <color=#F8C200>闪避</color>会触发0.2秒<color=#F8C200>无敌帧</color>，攻击期间也可发动\n In the Symbolic, unlocks <color=#F8C200>Evade</color>\n- Press the <color=#F8C200>Evade button (Z on keyboard)</color> to <color=#F8C200>Evade</color> 1 tile in the direction of movement, or the direction currently faced while stationary (0.5 seconds cooldown)\n- <color=#F8C200>Evade</color> triggers <color=#F8C200>Invul. Frame</color> for 0.2 seconds and can also be activated during attacks",
+      "description": "曾有人疑惑：“西西弗百货建成之前，这里矗立着什么？”这个念头很快被放进一顶帽子，从此沉没不见。\n Someone once wondered, \"What stood here before the Grand Magasin was built?\" The thought was soon placed inside a cap, where it sank out of sight."
+    },
+    {
+      "key": "I990116",
+      "displayName": "红派现代服饰手套\n Le Rouge Contemporary Gloves",
+      "statText": "象征界<color=#00ff9c>体力</color>+3\n Symbolic <color=#00ff9c>HP</color> +3",
+      "description": "黄金皮革既可食用，也可穿戴。皮革就是血肉本身；它确确实实活着、呼吸着。它与我们身体上的皮肤并无不同。\n The Golden Hide may be consumed or worn. Hide is flesh itself; it quite literally lives and breathes. It is no different from the skin of our own bodies."
+    },
+    {
+      "key": "I990111",
+      "displayName": "黑派现代服饰长袜\n Le Noir Contemporary Long Socks",
+      "statText": "在象征界中解放2级<color=#F8C200>防御</color>\n- <color=#F8C200>防御</color>时间：2.5秒\n- <color=#F8C200>防御</color><color=#fe4b48>伤害</color>：象征界攻击<color=#fe4b48>伤害</color>+2\n Unlocks Level 2 <color=#F8C200>Garde</color> in the Symbolic\n- <color=#F8C200>Garde</color> Time: 2.5 seconds\n- <color=#F8C200>Garde</color> <color=#fe4b48>Damage</color>: Attack <color=#fe4b48>Damage</color> +2 in the Symbolic",
+      "description": "哦，裂隙正在闭合。封住缺口的是黄金——黄金松脂。\n Oh, the crack is closing. Sealing the breach is the gold—the Resin of Gold."
+    },
+    {
+      "key": "I990112",
+      "displayName": "黑派现代服饰领带夹\n Le Noir Contemporary Tiepin",
+      "statText": "在象征界中解放<color=#F8C200>完美格挡</color>\n- 触发条件：按下<color=#F8C200>格挡</color>键后的0.3秒内，朝<color=#F8C200>格挡</color>方向进行<color=#F8C200>格挡</color>，使承受的<color=#fe4b48>伤害</color>降至0\n\n Unlocks <color=#F8C200>Perfect Block</color> in the Symbolic\n- Trigger Condition: Within 0.3 seconds of pressing the <color=#F8C200>Block</color> button, <color=#F8C200>Blocking</color> in the <color=#F8C200>Block</color> direction reduces incoming <color=#fe4b48>Damage</color> to 0\n",
+      "description": "保护黄金松脂。反过来，黄金松脂也保护西西弗百货免于崩塌。一条简单的因果链。\n Protect the Golden Resin. The Golden Resin, in turn, keeps the Grand Magasin from collapsing. A simple chain of cause and effect."
+    },
+    {
+      "key": "I990418",
+      "displayName": "黑派鞋履馆布洛克鞋\n Le Noir Footwear Hall Wingtip Shoes",
+      "statText": "在象征界中，使用2级以上<color=#F8C200>防御</color>时触发向前3格的<color=#F8C200>突进</color>\n- 路径被障碍物阻挡时提前停止\n In the Symbolic, using Level 2 or higher <color=#F8C200>Garde</color> triggers <color=#F8C200>Dash</color> 3 tiles forward\n- Stops early if an obstacle blocks the path",
+      "description": "鞋必须毫无差错地保护穿戴者。它必须让人稳稳直立于大地，不偏不倚、毫不动摇。世界危机四伏；立于不稳的地面时，鞋便是稳定的最后堡垒。\n A shoe must protect its wearer without fault. It must hold them upright upon the earth, steady and unshaken. The world is dangerous; on unstable ground, the shoe is the final bastion of stability."
+    },
+    {
+      "key": "I990419",
+      "displayName": "黑派鞋履馆鞋油\n Le Noir Footwear Hall Shoe Polish",
+      "statText": "象征界<color=#F8C200>防御</color>速度+25%\n Symbolic <color=#F8C200>Garde</color> Speed +25%",
+      "description": "护理说明：黑派鞋履由石头制成。石鞋坚硬且不会破裂，但很容易出现划痕，因此必须用鞋油掩盖痕迹。划痕严重的鞋显得陈旧；显旧的鞋看起来结构脆弱，而看起来结构脆弱的鞋便可能破裂。\n Care Instructions: Noir shoes are made of stone. Stone shoes are hard and do not break. However, they scratch easily, so you must conceal marks with polish. Heavily scratched shoes look old; old-looking shoes appear structurally fragile, and structurally fragile-looking shoes may break."
+    },
+    {
+      "key": "I990811",
+      "displayName": "糊状诱饵\n Paste Bait",
+      "statText": "象征界<color=#00ff9c>体力</color>+4\n\n在象征界中，将2级<color=#F8C200>防御</color>作为<color=#F8C200>攻击连段2</color>发动\n- 所有动作与效果均以<color=#F8C200>攻击连段2</color>生效\n Symbolic <color=#00ff9c>HP</color> +4\n\nIn the Symbolic, activates Level 2 <color=#F8C200>Garde</color> as <color=#F8C200>Attack Chain 2</color>\n- All motions and effects are applied as <color=#F8C200>Attack Chain 2</color>",
+      "description": "存活到被冲上岸的幼虫闻到了诱饵的气味。它们试图爬上岸边，却被露天的热量烹熟。这里是水域之外的世界。水族箱时代已经结束，如今必须忍受百货商场时代。\n The larvae that survived long enough to wash ashore caught the scent of chum. They tried to crawl onto the Shore, only to be cooked in the heat of the open air. This is a world outside the waters. The Age of the Aquarium is over, and the Age of the Department Store must now be endured."
+    },
+    {
+      "key": "I990812",
+      "displayName": "岸边黑水\n Black Water of the Shore",
+      "statText": "在象征界中，解放布布的<color=#F8C200>黑水弹体</color>\n- 向5格内最近的敌人发射（冷却时间2.5秒）\n- 命中时，在3秒内共造成2点<color=#fe4b48>伤害</color>\n\n在阴影界战斗中，布布的脉动威力+1\n- 使用“打起精神”后，若处于无法控制的暴走状态且脉动次数达到10以上，消耗10点脉动次数，对目标施加1层<color=#F8C200>基础威力强化</color>\n- 使用“不要受伤”时，若脉动威力达到3以上，则攻击加权值+2；命中时，回复等同于技能威力的精神力\n- 解放“赤红尖钉之洗礼”（攻击3名敌人）\n In the Symbolic, unlocks Pwie's <color=#F8C200>Blackwater Projectile</color>\n- Fires at the nearest enemy within 5 tiles (2.5 seconds cooldown)\n- On hit, deals a total of 2 <color=#fe4b48>Damage</color> over 3 seconds\n\nIn Shadowed Battle, Pwie's Pulsation Potency +1\n- After using \"Perk Up\", if in Uncontrollable Rampage and at 10+ Pulsation Count, consume 10 Pulsation Count to apply 1 <color=#F8C200>Base Power Up</color> on the target\n- When using \"Don't Get Hurty\" and at 3+ Pulsation Potency, gain Atk Weight +2; On Hit, heal SP equal to Skill Power\n- Unlocks \"Baptism of Crimson Nails\" (attacks 3 enemies)",
+      "description": "它令太多事物降生，因此罪孽深重。诞下如此之多，与杀死同等数量并无区别。于是，曾游弋于黑丝之中的古老存在，在最深处静静孵育着卵，繁衍自己的罪孽。\n It brought far too many things into being, and thus, grave is its sin. To give birth to so much is no different from killing just as much. And so the thing of eld that once swam through the Blackthread quietly brooded over its eggs at the lowest depths, propagating its sins."
+    },
+    {
+      "key": "I991019",
+      "displayName": "单宁\n Tannin",
+      "statText": "在象征界中，<color=#F8C200>防御</color>造成的<color=#fe4b48>伤害</color>+3\n In the Symbolic, <color=#F8C200>Garde</color> <color=#fe4b48>Damage</color> Dealt +3",
+      "description": "在百货商场的最底层，恶臭而残酷的制革作业正在进行。\n\n皮革是剥除生命痕迹后留下的东西。然而若放任不管，它只会腐烂。唯有经过鞣制，它才不再是仍携带生命温度之物，而会变成致密的纤维团块……彻底成为别的东西。\n At the very bottom of the department store, foul-smelling, brutal leatherwork takes place.\n\nHide is what remains after the traces of life have been stripped away. Left as it is, however, it does nothing but rot. Only through tanning does it cease to be something that still carries the warmth of the living, becoming instead a dense mass of fibers... something else entirely."
+    },
+    {
+      "key": "I991020",
+      "displayName": "铬盐\n Chromium Salt",
+      "statText": "在象征界中，<color=#F8C200>防御</color><color=#F8C200>突进</color>速度+30%\n In the Symbolic, <color=#F8C200>Garde</color> <color=#F8C200>Dash</color> Speed +30%",
+      "description": "加工皮革有快有慢。铬鞣会将皮浸入铬中以加快过程，使其在硬化时吸收自然状态下绝不可能接触的金属。\n\n它速度很快，但为获得这种速度而强行将时间向前拖拽，因此无法长久维持。\n There are fast ways and slow ways to process hides. In chrome tanning, the hide is steeped in chromium to hasten the process, drawing into itself a metal it would never have encountered in nature as it hardens.\n\nIt is fast, but having dragged time forward to gain that speed, it does not endure for long."
+    },
+    {
+      "key": "I991021",
+      "displayName": "油脂\n Oil",
+      "statText": "在象征界中，于<color=#F8C200>防御</color>期间应用<color=#F8C200>格挡</color>效果\n\n象征界<color=#00ff9c>体力</color>+4\n In the Symbolic, applies the <color=#F8C200>Block</color> effect during <color=#F8C200>Garde</color>\n\nSymbolic <color=#00ff9c>HP</color> +4",
+      "description": "将皮浸泡在植物鞣剂中，缓慢熟化。这需要耐心与时间，但经受如此漫长工序的皮革，反过来也能维持更久。皮首先源于食肉之物。然而，以这种方式制成的皮革却被称为植鞣革。将植物置入食肉之物，制革便就此完成。\n\n The hide is steeped in plant-based tanning agents and cured slowly. It demands patience and time, but leather that endures such a lengthy process can, in turn, endure for far longer. Hide is, above all else, carnivorous in origin. And yet leather made this way is called veg-tan leather. It is finished by putting the vegetable into the carnivorous.\n"
+    },
+    {
+      "key": "I990316",
+      "displayName": "红派精品店耳环\n Boutique du Rouge Earrings",
+      "statText": "象征界中的<color=#fe4b48>攻击速度</color>+10%\n <color=#fe4b48>Attack Speed</color> +10% in the Symbolic",
+      "description": "尖锐的滋滋声。温热的鲜血。汁水横流的肉。对尚未到来的味道与体验满怀期待。\n A sharp sizzle. Warm blood. Meat running with juice. Anticipation of flavors and experiences yet to come."
+    },
+    {
+      "key": "I990420",
+      "displayName": "红派制鞋馆凉鞋\n Le Rouge Footwear Hall Sandals",
+      "statText": "在象征界中，<color=#F8C200>前进</color>造成的<color=#fe4b48>伤害</color>+2\n In the Symbolic, <color=#F8C200>Avant</color> <color=#fe4b48>Damage</color> Dealt +2",
+      "description": "脚越多，能穿的鞋就越多。这不是好事吗？制鞋馆从什么时候开始把腿少当成荣耀了？过去可是腿越多越好。真是的，这世界到底怎么了？\n More feet mean more shoes to wear. Isn't that a good thing? Since when has having fewer legs become a mark of honor in the Footwear Hall? In the old days, the more legs one had, the better it was. Seriously, what's the world coming to?"
+    },
+    {
+      "key": "I990421",
+      "displayName": "红派制鞋馆孔眼鞋带\n Le Rouge Footwear Hole Shoelaces",
+      "statText": "在象征界中，连续使用<color=#F8C200>闪避</color>的次数+1\n In the Symbolic, successive <color=#F8C200>Evade</color> Use +1",
+      "description": "鞋带闭合鞋的嘴，藏起它的舌头。它将嘴缝死并收紧，使其无法松开。被如此牢固地束缚，鞋或许再也无法说话……但也正因如此，脚的形状得以完全显露。\n Laces close the shoe's mouth and hide its tongue. They stitch the mouth shut and pull it tight so that it cannot come undone. Bound so firmly, the shoe may be unable to speak... But this allows for the shape of one's foot to be laid bare."
+    },
+    {
+      "key": "I990426",
+      "displayName": "红派箱包馆搭扣\n Le Rouge Handbags Hall Buckle",
+      "statText": "在象征界中，以<color=#F8C200>攻击连段2</color>命中时<color=#00ff9c>回复</color>1点<color=#00ff9c>体力</color>\n In the Symbolic, landing <color=#F8C200>Attack Chain 2</color> <color=#00ff9c>heals</color> 1 <color=#00ff9c>HP</color>",
+      "description": "夹在皮革之间的一块异质金属。搭扣的存在，是为了完成皮革独自无法做到的事。皮革是血肉。搭扣是骨骼。\n An alien shard of metal wedged between pieces of hide. The buckle exists to perform what hide alone cannot. Hide is flesh. The buckle is bone."
+    },
+    {
+      "key": "I990424",
+      "displayName": "红派箱包馆托特包\n Le Rouge Handbags Hall Tote Bag",
+      "statText": "在象征界中，成功<color=#F8C200>弹反</color>时，向3格内最近的敌人发射1枚<color=#F8C200>追踪弹体</color>，造成2点<color=#fe4b48>伤害</color>\n In the Symbolic, upon a successful <color=#F8C200>Parry</color>, fires 1 <color=#F8C200>Homing Projectile</color> at the nearest enemy within 3 tiles, dealing 2 <color=#fe4b48>Damage</color>",
+      "description": "这只托特包空间充足，什么都能轻松装下。皮革制成的包看起来会被内容物撑大，但皮革其实并未真正伸展。它只是变得更加柔顺。\n This tote has plenty of room and can hold anything without issue. Bags made of hide may seem stretched to match the size of whatever is inside, but the hide does not truly stretch. It merely grows more pliant."
+    },
+    {
+      "key": "I990425",
+      "displayName": "红派箱包馆单肩包\n Le Rouge Handbags Hall Shoulder Bag",
+      "statText": "在象征界中，成功<color=#F8C200>弹反</color>时，对攻击被<color=#F8C200>弹反</color>的目标造成的<color=#fe4b48>伤害</color>+2\n In the Symbolic, upon a successful <color=#F8C200>Parry</color>, <color=#fe4b48>Damage</color> Dealt +2 against the target whose attack is <color=#F8C200>Parried</color>",
+      "description": "红派决意塑造赤红之神时，征用了无数箱包。从拆解的箱包躯体上剥下的皮革，有幸成为摇篮的一部分。\n When the Rouges resolved to fashion the Crimson God, countless bags were requisitioned. The hide stripped from their dismantled bodies had the honor of becoming part of the Cradle."
+    },
+    {
+      "key": "I990427",
+      "displayName": "黑派箱包馆手拿包\n Le Noir Handbags Hall Clutch Bag",
+      "statText": "在象征界中，<color=#F8C200>格挡</color>近战攻击时，对攻击者造成3点<color=#fe4b48>伤害</color>\n In the Symbolic, <color=#F8C200>Blocking</color> a melee attack deals 3 <color=#fe4b48>Damage</color> to the attacker",
+      "description": "无数材料都可以奉献给神明的创造，但最终诞生的巨人永远无法逃离西西弗百货的法则。若想拥有与其他神明相等的权柄，它从一开始就不该诞生在这里。不该只作为百货商场的又一种材料。\n Countless materials may be dedicated to the creation of a god, but the resulting Giant will never be able to escape the Grand Magasin's laws. To wield authority equal to that of other gods, it should never have been born here. Not as just another material for the department store."
+    },
+    {
+      "key": "I990428",
+      "displayName": "黑派箱包馆双肩包\n Le Noir Handbags Hall Backpack",
+      "statText": "在象征界中，成功<color=#F8C200>完美格挡</color>时，触发一次<color=#F8C200>追加攻击</color>，对默尔索周围1格内造成2点<color=#fe4b48>伤害</color>（0.1秒受击硬直）\n\n In the Symbolic, upon a successful <color=#F8C200>Perfect Block</color>, triggers an <color=#F8C200>Extra Attack</color> that deals 2 <color=#fe4b48>Damage</color> within 1 tile of Meursault (0.1 seconds Hitstun)\n",
+      "description": "即便如此，也<i>必须</i>阻止它。初生的神依然是神。若允许那东西存在，只会驱使红派啃食、吞噬更多黄金松脂。\n Even so, it <i>must</i> be stopped. A fledgling god is still a god. Allow that thing to exist, and it will only drive the Rouges to gnaw away and devour still more Golden Resin."
+    },
+    {
+      "key": "I990429",
+      "displayName": "黑派箱包馆包带\n Le Noir Handbags Hall Bag Strap",
+      "statText": "在象征界中，成功<color=#F8C200>完美格挡</color>时，将默尔索周围1格内的敌人击退1格\n In the Symbolic, upon a successful <color=#F8C200>Perfect Block</color>, knocks back enemies within 1 tile of Meursault by 1 tile",
+      "description": "据说黑派的品牌经理目前无法亲自往返楼层，因此只有距离最近的可用员工被派往奢侈品馆。不知道我们是否成功控制住了那里的局势。\n They say the Noirs' Brand Manager could not presently move between floors in person, so only the nearest available employees were sent to the Luxury Hall. I wonder whether we managed to bring the situation there under control."
+    },
+    {
+      "key": "I990912",
+      "displayName": "媒染剂\n Mordant",
+      "statText": "在象征界中，<color=#F8C200>疾跑</color>时留下持续3秒的<color=#F8C200>黄色脓液格</color>\n- 站在这些格子上的敌人移动速度-30%\n\n象征界<color=#00ff9c>体力</color>+4\n In the Symbolic, <color=#F8C200>Sprinting</color> leaves behind <color=#F8C200>Yellow Pus Tiles</color> that last for 3 seconds\n- Enemies standing on these tiles have Movement Speed -30%\n\nSymbolic <color=#00ff9c>HP</color> +4",
+      "description": "一个盛满了足以迸裂的泪水；另一个，一滴也没有。\n One carries enough tears to burst; the other, not a drop."
+    },
+    {
+      "key": "I990913",
+      "displayName": "染料\n Dyestuff",
+      "statText": "在象征界中，以<color=#F8C200>攻击连段2</color>命中时触发一次<color=#F8C200>追加攻击</color>（1秒受击硬直）\n- 对被命中敌人3格内随机1名敌人造成4点<color=#fe4b48>伤害</color>\n- 触发<color=#F8C200>追加攻击</color>后，有（80-触发次数×20）%概率对被命中目标1格内随机1名敌人再次触发\n- 可以连锁（最多5次；最低触发概率10%）\n\n在象征界中，<color=#F8C200>攻击连段2</color>范围+1格\n In the Symbolic, landing <color=#F8C200>Attack Chain 2</color> triggers an <color=#F8C200>Extra Attack</color> (1 second Hitstun)\n- Deals 4 <color=#fe4b48>Damage</color> to 1 random enemy within 3 tiles of the enemy hit\n- After triggering the <color=#F8C200>Extra Attack</color>, (80 - trigger count x 20)% chance to trigger again on 1 random enemy within 1 tile of the target hit\n- Can be chained (max 5 times; 10% minimum trigger chance)\n\nIn the Symbolic, <color=#F8C200>Attack Chain 2</color> range +1 tile",
+      "description": "墙壁出现裂缝、声音渗入的那一天，兄弟姐妹各自许下了不同的愿望。一个希望再也不会受伤，另一个希望再也不会悲伤。摆脱伤痛的那个如今可以浸没在泪水中，因为令人落泪的并不只有疼痛。\n On the day cracks formed on the walls, on the day the Voice leached in, the siblings each made a different wish. One wished to never hurt again. The other wished to never be sad again. The one freed from hurt can now be soaked in tears, for it is not pain that draws tears."
+    },
+    {
+      "key": "I990915",
+      "displayName": "钉针\n Naildle",
+      "statText": "在象征界中，为<color=#F8C200>前进</color>解放<color=#F8C200>攻击连段3</color>\n\n- 触发<color=#F8C200>攻击连段3</color>时，象征界造成的<color=#fe4b48>伤害</color>+2、受击硬直+0.1秒，并<color=#00ff9c>回复</color>1点<color=#00ff9c>体力</color>\n- 被此攻击击败的敌人不会当场化为尸体，而是被击退5格\n- 敌人在击退期间发生碰撞时，立即爆炸，对1格内造成2点<color=#fe4b48>伤害</color>，随后化为尸体\n- 若未发生碰撞，则在击退结束时爆炸，对1格内造成2点<color=#fe4b48>伤害</color>，随后化为尸体\n In the Symbolic, unlocks <color=#F8C200>Attack Chain 3</color> for <color=#F8C200>Avant</color>\n\n- Upon triggering <color=#F8C200>Attack Chain 3</color>, Symbolic <color=#fe4b48>Damage</color> Dealt +2, Hitstun +0.1s, and <color=#00ff9c>heals</color> 1 <color=#00ff9c>HP</color>\n- Enemies defeated by this attack are knocked back 5 tiles instead of becoming corpses on the spot\n- If the enemy collides during knockback, it immediately explodes, dealing 2 <color=#fe4b48>Damage</color> within 1 tile, then becomes a corpse\n- If no collision occurs, it explodes at the end of the knockback, dealing 2 <color=#fe4b48>Damage</color> within 1 tile, then becomes a corpse",
+      "description": "随着时间流逝，楼层经理的形态扭曲成适合纺车无尽转动的模样。同一股意志保护她免于成为失去心智的人台，并将她分成三个部分。三者其实为一。我们自己也不过是各个部分组成的整体。\n Over time, the Floor Manager's form warped into a shape suited to the endless turning of the spinning wheel. That same will protected her from becoming a mindless Mannequin, splitting her into three parts. The three are, in fact, one. We, too, are all but wholes of parts ourselves."
+    },
+    {
+      "key": "I990916",
+      "displayName": "纺车\n Spinning Wheel",
+      "statText": "在象征界中解放<color=#F8C200>针刺弹体</color>\n- 向10格内最远的敌人发射造成3点<color=#fe4b48>伤害</color>的弹体（冷却时间3秒，0.5秒受击硬直）\n- 弹体命中时，有（100/效果触发次数）%概率向附近敌人再次发射弹体\n\n在阴影界战斗期间，布布获得1点脉动威力\n- 使用“走开”技能时，每2点脉动威力使攻击加权值+1（最多+2）\n Unlocks <color=#F8C200>Needle Projectile</color> in the Symbolic\n- Fires a projectile dealing 3 <color=#fe4b48>Damage</color> against the farthest enemy within 10 tiles (cooldown 3 seconds, 0.5 seconds Hitstun)\n- When the projectile hits, fires another Projectile against a nearby enemy with a (100 / number of times the effect triggers)% chance\n\nDuring battle in the Shadowed, Pwie gains 1 Pulsation Potency\n- On \"Go Away\" Skill Use, Atk Weight +1 for every 2 Pulsation Potency (max 2)",
+      "description": "他们转动纺车，纺出丝线。\n\n他们如此劳作了太久，以至于因果本身也扭曲并卷入自身。是为了转动纺车而纺线，还是为了纺线而转动纺车？这个问题已经无法回答，但并不重要。在这一层，“为什么”无足轻重。楼层经理的职责始于且终于一个单一功能：纺出丝线，并将其交给收取者。因此，即使纺线者死去，纺车也不会停止。丝线在此等待尖钉到来，将此处与彼处系在一起。\n They turn the wheel to spin the thread.\n\nThey have done so for so long that causality itself has warped into itself. Does one spin thread to turn the wheel, or turn the wheel to spin thread? The question has become unanswerable, but it does not matter. On this floor, the \"why\" is of little significance. The Floor Manager's role begins and ends with a singular function: to spin thread and give it to its recipient. Thus, the spinning wheel does not stop even when the spinners die. The thread waits here for the arrival of the nail, to tether the here to the there."
+    },
+    {
+      "key": "I990422",
+      "displayName": "玻璃椅\n Glass Chair",
+      "statText": "在象征界中，「实木桌」<color=#F8C200>追加攻击</color>范围纵横各+1格\n In the Symbolic, 「Solid Wood Table」<color=#F8C200>Extra Attack</color> range +1 tile (both vertical and horizontal)",
+      "description": "一坐上去便会碎裂的椅子。正因如此，它才价格昂贵。购买者明知它会碎裂，仍会买下它。\n A chair that shatters the moment one sits. That is why it is expensive. One purchases it knowing it will break."
+    },
+    {
+      "key": "I990809",
+      "displayName": "钓竿\n Fishing Rod",
+      "statText": "在象征界中，攻击命中时有30%概率触发<color=#F8C200>黑水追加攻击</color>，造成3点<color=#fe4b48>伤害</color>（1秒受击硬直）\n- 对被命中敌人3格内随机1名敌人触发<color=#F8C200>黑水追加攻击</color>（最多3次）\n In the Symbolic, 30% chance to trigger <color=#F8C200>Blackwater Extra Attack</color>, dealing 3 <color=#fe4b48>Damage</color> upon landing an attack (1 second Hitstun)\n- Triggers <color=#F8C200>Blackwater Extra Attack</color> on 1 random enemy within 3 tiles of the enemy hit (3 times max)",
+      "description": "古老之物被冲上岸边。它们不属于西西弗百货，而是上个时代破碎且注定进一步破碎的遗留物。\n因为这里如今是一座依照他人设计建造的百货商场。\n Things of eld are beached upon the Shore. They are not of the Grand Magasin, but remnants of the previous age, broken and fated to break further.\nFor this place is now a department store built from another's design."
+    },
+    {
+      "key": "I990317",
+      "displayName": "红派精品店项链\n Boutique du Rouge Necklace",
+      "statText": "在象征界中，进行<color=#F8C200>闪避</color>时，有20%概率触发一次<color=#F8C200>雷击追加攻击</color>（0.5秒受击硬直）\n- 雷击对3格内随机1名敌人造成2点<color=#fe4b48>伤害</color>\n\n象征界<color=#00ff9c>体力</color>+2\n In the Symbolic, upon <color=#F8C200>Evading</color>, 20% chance to trigger a <color=#F8C200>Lightning Strike Extra Attack</color> (0.5 seconds Hitstun)\n- Lightning Strike deals 2 <color=#fe4b48>Damage</color> to 1 random enemy within 3 tiles\n\nSymbolic <color=#00ff9c>HP</color> +2",
+      "description": "若再也无法听见赤红之神那赤红的声音，那便让它<i>重新响起</i>。这是红派珍视的愿望……也是他们被指派的劳作。\n If the Crimson God's crimson Voice can no longer be heard, then <i>make</i> it heard. This is the cherished wish of the Rouges... and their appointed labor."
+    },
+    {
+      "key": "I990318",
+      "displayName": "黑派之家高顶礼帽\n Maison du Noir Top Hat",
+      "statText": "在象征界中，<color=#F8C200>攻击连段2</color>范围+1格\n In the Symbolic, <color=#F8C200>Attack Chain 2</color> range +1 tile",
+      "description": "堆砌。覆盖。隐藏。保护。保存。此即黑派坚定不移的美德。\n To build up. To cover. To conceal. To protect. To preserve. Such are the steadfast virtues of Le Noir."
+    },
+    {
+      "key": "I990810",
+      "displayName": "抄网\n Scoop Net",
+      "statText": "在象征界中，击杀敌人时有20%概率生成<color=#F8C200>黑色幼虫</color>\n- <color=#F8C200>黑色幼虫</color>会爬向10格内最近的敌人\n- 接触敌人时，或未能在3秒内接触敌人时，当场爆炸\n- 爆炸时，对1格内造成5点<color=#fe4b48>伤害</color>\n In the Symbolic, upon killing an enemy, 20% chance to generate <color=#F8C200>Black Larva</color>\n- <color=#F8C200>Black Larva</color> crawls to the nearest enemy within 10 tiles\n- When it touches an enemy, or if it fails to touch an enemy within 3 seconds, detonates on the spot\n- Upon detonation, deal 5 <color=#fe4b48>Damage</color> within 1 tile",
+      "description": "水族箱曾容纳无数鱼类与各式水槽。鳞片、水流与玻璃围栏贯穿形形色色的环境。最底层流淌着由黑之丝编织而成的水，其中有一条鱼静静沉睡。\n The Aquarium once held countless fish and tanks of every kind. Scales, waters, and glass enclosures threaded through environments of every variety. Lowest of all flowed water woven from Blackthread, and within it slept a fish in silence."
+    },
+    {
+      "key": "I991018",
+      "displayName": "承载虚无之眼\n Voidbearing Eye",
+      "statText": "在象征界中，强化布布的<color=#F8C200>监督者弹体</color>\n- 弹体命中时，对2格内造成3点<color=#fe4b48>伤害</color>（0.1秒受击硬直）\n In the Symbolic, enhance Pwie's <color=#F8C200>Overseer Projectile</color>\n- Upon landing the projectile, deals 3 <color=#fe4b48>Damage</color> within 2 tiles (0.1 seconds Hitstun)",
+      "description": "水族箱转变为西西弗百货时，水族箱的一切残余本应随之消失。然而，仍有某物留了下来——某个依旧记得自己曾在那里度过的时光之物。对长期被认为毫无缺陷的西西弗系统而言，这是必须修正的缺陷。\n\n不知为何，那条未曾成为顾客便被遗留下来的鱼，无论西西弗百货重置多少次，都仍将是一条鱼。\n\n要修正西西弗系统中的这一缺陷，负责那条鱼的罪人便必须死去。\n\n但西西弗系统既是惩罚装置、资源收集设备，也是N公司道德观的具现。依照设计，它无法强行杀死自己的囚犯。\n When the Aquarium transformed into the Grand Magasin, every remnant of the Aquarium should have disappeared with it. Yet something remained—something that still remembers its time there. For the Sisyphe System, which had long been believed to be flawless, this is a defect that must be resolved.\n\nFor whatever reason, the fish that was left behind without ever becoming a customer will remain a fish, no matter how many times the Grand Magasin resets.\n\nTo correct this flaw within the Sisyphe System, the Sinner responsible for that fish would have to die.\n\nBut the Sisyphe System is at once a punishment device, a resource-harvesting apparatus, and an embodiment of N Corp.'s morality. By design, it cannot forcibly kill one of its own prisoners."
+    },
+    {
+      "key": "I990918",
+      "displayName": "针线之王的线团\n Clew of the King of Needleworks",
+      "statText": "在象征界中，强化布布的<color=#F8C200>针刺弹体</color>\n- 贯穿轨迹上的敌人，造成2点<color=#fe4b48>伤害</color>\n\n在阴影界战斗期间，强化布布的“打起精神”技能\n- 命中时，不施加<color=#F8C200>拼点威力强化</color>，改为施加1层<color=#F8C200>基础威力强化</color>\n- 命中时施加的<color=#F8C200>攻击等级强化</color>会在下回合再次施加\n In the Symbolic, enhance Pwie's <color=#F8C200>Needle Projectile</color>\n- Punches through enemies in its trajectory, dealing 2 <color=#fe4b48>Damage</color>\n\nDuring battle in the Shadowed, enhance Pwie's \"Perk Up\" Skill\n- On Hit, instead of applying <color=#F8C200>Clash Power Up</color>, apply 1 <color=#F8C200>Base Power Up</color>\n- Applies <color=#F8C200>Offense Level Up</color> applied On Hit next turn as well",
+      "description": "味道……有那么重要吗？你又不知道蠕蠕好不好吃。如果你无论如何都想吃蠕蠕……你以前吃过蠕蠕吗？可是……味道一直都在变化。你为什么觉得蠕蠕还会和以前一样好吃？而且……蠕蠕就在这里。根本没人吃过蠕蠕。真奇怪……\n Is taste... that important? You don't know if Wriggley's gonna be tasty or not. If you wanna eat Wriggley anyway... have you eaten Wriggley before? But... taste is changing all the time. Why do you think Wriggley'll taste the same again? And... Wriggley's right here. No one's eaten Wriggley. Weird..."
+    },
+    {
+      "key": "I990813",
+      "displayName": "洁净围裙\n Clean Apron",
+      "statText": "在象征界中，强化布布的<color=#F8C200>黑水弹体</color>\n- 在落点1格内生成<color=#F8C200>黑水格</color>（持续5秒）\n- 处于受影响格子上的敌人：\n  - 每2秒受到2点<color=#fe4b48>伤害</color>\n  - 移动速度-20%\n\n在阴影界战斗期间，强化布布的“赤红尖钉之洗礼”技能\n- 使用时，目标每有4层<color=#F8C200>流血</color>，基础威力+1（最多+2）\n In the Symbolic, enhance Pwie's <color=#F8C200>Blackwater Projectile</color>\n- Generate <color=#F8C200>Blackwater Tile</color> within 1 tile of the landing point (duration: 5 seconds)\n- Enemies on top of affected tiles:\n  - Take 2 <color=#fe4b48>Damage</color> every 2 seconds \n  - Movement Speed -20%\n\nDuring battle in the Shadowed, enhance Pwie's \"Baptism of Crimson Nails\" Skill\n- On Use, Base Power +1 for every 4 <color=#F8C200>Bleed</color> on target (max 2)",
+      "description": "……我不明白。我们初次见面时，你想杀死默尔索、但丁和我。我需要你身上的东西……但你不肯给，所以真的没有其他办法了，对吧？你会死是因为……因为你很邪恶……而且也很弱。那为什么我会这么难受？你明明也做了同样的事——为什么……为什么只有我留下来承受这份罪恶感？\n ... I don't understand. You tried to kill Meursault, Dante, and me when we first met. I need something from you... but you won't give it, so there's really no other way, right? You die because... because you're evil... And weak, too. So why do I feel so awful? You did the same thing—Why... why am I the only one left to feel this guilt?"
+    },
+    {
+      "key": "I990315",
+      "displayName": "毛毯\n Blanket",
+      "statText": "在象征界中，进行<color=#F8C200>格挡</color>时受到攻击，承受的<color=#fe4b48>伤害</color>-20%\n In the Symbolic, <color=#fe4b48>Damage</color> Taken -20% when hit while <color=#F8C200>Blocking</color>",
+      "description": "有人在鸟笼中寻求安稳的睡眠。\n Some seek a peaceful sleep inside the birdcage."
+    },
+    {
+      "key": "I990914",
+      "displayName": "软骨\n Cartilage",
+      "statText": "在象征界中解放3级<color=#F8C200>防御</color>\n- <color=#F8C200>防御</color>时间：3秒\n- <color=#F8C200>防御</color><color=#fe4b48>伤害</color>：象征界攻击<color=#fe4b48>伤害</color>+3\n\n在象征界中，<color=#F8C200>防御</color><color=#F8C200>突进</color>距离+2格\n Unlocks Level 3 <color=#F8C200>Garde</color> in the Symbolic\n- <color=#F8C200>Garde</color> Time: 3 seconds\n- <color=#F8C200>Garde</color> <color=#fe4b48>Damage</color>: Attack <color=#fe4b48>Damage</color> +3 in the Symbolic\n\nIn the Symbolic, <color=#F8C200>Garde</color> <color=#F8C200>Dash</color> distance +2 tiles",
+      "description": "摆脱悲伤之人会忘记眼泪。\n他们变得干燥、僵硬而锐利。\n Those who are freed from sadness forget tears.\nThey become dry, rigid, and cutting."
+    },
+    {
+      "key": "I991017",
+      "displayName": "烟灰\n Soot",
+      "statText": "在象征界中，将3级<color=#F8C200>防御</color>作为<color=#F8C200>攻击连段3</color>发动\n- 所有动作与效果均以<color=#F8C200>攻击连段3</color>生效\n- 玩家持有「糊状诱饵」时，动作以<color=#F8C200>攻击连段3</color>生效\n- 此效果发动时，同时触发<color=#F8C200>攻击连段2</color>效果与<color=#F8C200>攻击连段3</color>效果\n In the Symbolic, activates Level 3 <color=#F8C200>Garde</color> as <color=#F8C200>Attack Chain 3</color>\n- All motions and effects are applied as <color=#F8C200>Attack Chain 3</color>\n- When player has 「Paste Bait」, motion is applied as <color=#F8C200>Attack Chain 3</color>\n- When this effect activates, triggers both <color=#F8C200>Attack Chain 2</color> effect and <color=#F8C200>Attack Chain 3</color> effect",
+      "description": "不属于百货商场的某物留下的烟灰。\n\n西西弗系统随着时代变迁一次又一次改变形态。西西弗百货不过是其一名巨人——也就是同时身为改造师的建筑师——认为最便于在象征界中实现、也最适合实现的形态。\n\n依据被指派到这一职位的人选，西西弗系统可以化作百货商场、水族箱、加油站、洞窟、山脉，或完全不同的其他事物。\n\n它是百货商场还是洞窟并不重要。无论采取何种形态，西西弗系统总会在内部构建某种制造“落差”或波动的手段。巨人所需要的，只是一个能够想象这种结构的视角。\n Soot left behind by something that does not belong to the department store.\n\nThe Sisyphe System has changed its form time and again with each passing age. Grand Magasin Sisyphe is simply the form one of its Giants—namely the Architect, who was also an Alterationist—deemed the most convenient and suitable for realization within the Symbolic.\n\nDepending on who is assigned to this position, the Sisyphe System may take the form of a department store, an aquarium, a gas station, a cave, a mountain range, or something else entirely.\n\nWhether it is a department store or a cave is beside the point. Whatever shape it takes, the Sisyphe System will always construct some means of creating a \"drop\", or fluctuations, within itself. All the Giant needs is a perspective capable of imagining such a structure."
+    },
+    {
+      "key": "I990917",
+      "displayName": "针线之王的直针\n Straight Pin of the King of Needleworks",
+      "statText": "在象征界中，以<color=#F8C200>攻击连段2</color>命中时，施加<color=#F8C200>针线之王的标记</color>\n- 仅在不存在带有此<color=#F8C200>标记</color>的目标时施加该效果\n- 针线之王的标记持续5秒\n- 受影响目标移动速度-30%\n- 受影响目标被击杀时，对3格内造成3点<color=#fe4b48>伤害</color>（0.1秒受击硬直）\n- 效果持续时间结束后，移除标记并造成5点<color=#fe4b48>伤害</color>\n- 若该伤害击杀受影响目标，则对1格内造成3点<color=#fe4b48>伤害</color>（0.1秒受击硬直）\n In the Symbolic, upon landing <color=#F8C200>Attack Chain 2</color>, inflict <color=#F8C200>Mark of the King of Needleworks</color>\n- Inflicts this effect only when there are no targets that have this <color=#F8C200>Mark</color>\n- Mark of the King of Needleworks duration: 5 seconds\n- Affected target Movement Speed -30%\n- When the affected target is killed, deals 3 <color=#fe4b48>Damage</color> within 3 tiles (0.1 seconds Hitstun)\n- After the effect duration expires, removes the Mark and deals 5 <color=#fe4b48>Damage</color>\n- If that Damage kills the affected target, deals 3 <color=#fe4b48>Damage</color> within 1 tile (0.1 seconds Hitstun)",
+      "description": "线与针。地下2层因这两个概念的需要而建成。\n\n线试图穿入针中，而针渴望被穿入。要触及本质，自身也必须贴近本质；因此，越深入地下，存在的清晰度就越会模糊并分裂，直至被还原为零碎片段的集合。\n线与针的概念确实十分接近衣物的本质，却并不等同于本质。操纵丝线的改造师走向溶解，是不可避免的命运。\n Thread and needle. B2F was built from the need for these two concepts.\n\nThread seeks to penetrate the needle, while the needle longs to be penetrated. To handle the essence, one must draw close to the essence oneself; therefore, the deeper one descends to the basement, the clarity of existence blurs and segments until it is reduced to a collection of bits.\nThough the concept of thread and needle does, indeed, approach the essence of clothing closely, it is not the same as the essence. The dissolving of the Alterationist, who handles thread, is an inevitable fate."
+    },
+    {
+      "key": "I102024",
+      "displayName": "某黑派的笔记\n A Noir's Note",
+      "statText": "在象征界中进行<color=#F8C200>格挡</color>后，下一次攻击造成的<color=#fe4b48>伤害</color>+2（冷却时间5秒）\n After <color=#F8C200>Blocking</color> in the Symbolic, <color=#fe4b48>Damage</color> Dealt +2 on the next attack (5 seconds cooldown)",
+      "description": "“我在袭击者中看见了红派的品牌总监。她将一枚卵抱在胸前。我能感觉到——从中散发出的微弱神圣暖意。啊……我想我或许明白，她屠杀我们所有人究竟是为了达成什么……”\n \"I saw the Rouges' Brand Director among the raiders. She held an egg against her chest. I could feel it—the faint, godly warmth that spread from within it.  Ah... I think I may understand what she slaughtered us all to accomplish...\""
+    },
+    {
+      "key": "I990319",
+      "displayName": "花剪\n Blossom Scissors",
+      "statText": "在象征界中，攻击命中时有30%概率触发造成5点<color=#fe4b48>伤害</color>的<color=#F8C200>花剪咔嚓追加攻击</color>（0.3秒受击硬直）\n In the Symbolic, 30% chance to trigger <color=#F8C200>Blossom Scissors-snip Extra Attack</color> dealing 5 <color=#fe4b48>Damage</color> upon landing an attack (0.3 seconds Hitstun)",
+      "description": "无论你去往何处，我都会用这把花剪<i>咔嚓、咔嚓</i>地一路剪下去，直到你脚下的道路开满飘落的花朵。\n Wherever you go, I will <i>snip-snip</i> with these blossom shears until the path beneath you blooms with fallen blossoms."
+    },
+    {
+      "key": "I991004",
+      "displayName": "调色板的黄金松脂\n Palette's Golden Resin",
+      "description": "黄金皮革是力量之物。心灵或许会摇摇欲坠地走向人台，但黄金皮革会赋予其意识，引导其成为完整的扭曲。\n The Golden Hide is an object of power. Minds may teeter on the brink of descent into a Mannequin, yet the Golden Hide gives them consciousness, guiding them to become a complete Distortion."
+    },
+    {
+      "key": "I991005",
+      "displayName": "地下2层楼层经理的黄金皮革\n B2F Floor Manager's Golden Hide",
+      "description": "抵达终点的扭曲会获得一种只有自己能够理解的语言。它无法以这种语言与他者交流。\n A Distortion that has reached the terminus acquires a language only it can understand. It cannot communicate with others with such a language."
+    },
+    {
+      "key": "I991006",
+      "displayName": "针线之王的黄金皮革\n Golden Hide of the King of Needleworks",
+      "description": "尽管漫长岁月流逝，它却没有退化成人台；相反，在黄金皮革的帮助下，它仍保持着具有智慧的扭曲形态。\n Though ages passed, it did not devolve into a Mannequin; instead, aided by the Golden Hide, it remained a sapient Distortion."
+    },
+    {
+      "key": "I991007",
+      "displayName": "副主厨的黄金皮革\n Sous Chef's Golden Hide",
+      "description": "为什么从黄金皮革中渗出的光，会成为维系人台智慧的锚点？它难道不该加速其堕落为失去心智的扭曲吗？\n Why does the light, bleeding out of the Golden Hide, act as an anchor to the Mannequins' sapience? Should it not instead hasten their descent into mindless Distortions?"
+    },
+    {
+      "key": "I991008",
+      "displayName": "尸堆中的黄金皮革\n Golden Hide from the Corpse Pile",
+      "description": "矛盾的是，金色光芒希望所有扭曲都抵达终点，却又同时不希望如此。\n栖居于光中的并非单一实体，而其中某个实体内的心也同样不止一个。\n Paradoxically, the golden light wishes for all Distortions to reach their terminus, and at the same time, it does not.\nWhat dwells within the light is more than a single entity, and neither is the heart inside one of them."
+    },
+    {
+      "key": "I991009",
+      "displayName": "红派品牌总监的黄金皮革\n Le Rouge Brand Director's Golden Hide",
+      "description": "扭曲可以保持智慧，并通过各种交流途径向他者传达自己的意志。\n光并未抹除其智慧，这实在讽刺，或许也泄露了仍栖居于光中的一丝人性。\n Distortions can remain sapient and convey their wills to others through various avenues of communication.\nThat the light does not obliterate their wisdom is an irony, and may betray a glimpse of the humanity still dwelling within it."
+    },
+    {
+      "key": "I991010",
+      "displayName": "3层楼层经理的黄金皮革\n 3F Floor Manager's Golden Hide",
+      "description": "通过与光对话，持有一片黄金皮革的顾客获得了超越他人的力量，使他们得以将影响力扩展到西西弗百货各处。\n Through dialogue with the light, customers who carried a piece of the Golden Hide gained powers beyond those of others, which allowed them to expand their influence throughout the Grand Magasin."
+    },
+    {
+      "key": "I991011",
+      "displayName": "墙壁裂缝中的黄金皮革\n Golden Hide from the Crack in the Wall",
+      "description": "虚无派的目的不止是解构这座百货商场。\n他们渴望毫无阻碍地完全拥抱光。\n Le Néant's purpose goes beyond the deconstruction of this department store.\nThey desire the full, unhindered embrace of the light."
+    },
+    {
+      "key": "I990501",
+      "displayName": "服从\n Obedience",
+      "statText": "在阴影界战斗期间，<color=#00ff9c>体力</color>低于或等于50%的人格即将被敌方技能命中前，该人格获得等同于已损失<color=#00ff9c>体力</color>20%的护盾\n- 每个人格每场遭遇战1次\n- 此护盾不会在回合结束后消失\n During battle in the Shadowed, immediately before an Identity that has 50% or lower <color=#00ff9c>HP</color> is hit by an enemy Skill, the said Identity gains Shield equal to 20% of its missing <color=#00ff9c>HP</color>\n- Once per Identity per Encounter\n- This Shield does not expire after the turn ends",
+      "description": "西西弗系统是一套为了高效且非暴力地从囚犯身上提取经验而建造的装置。囚犯在其中经历众多体验，其多样性会成为经验面团的基础原料。经验是对变化的感知：静止与运动之间不间断的交替。黑派掌管静止。\n The Sisyphe System is an apparatus built to extract experience from prisoners efficiently and without violence. Within it, prisoners undergo a multitude of experiences, and the variety becomes the base ingredient of Experience Dough. Experience is the perception of change: an unbroken alternation between stillness and motion. Le Noir governs stillness."
+    },
+    {
+      "key": "I990004",
+      "displayName": "脉动\n Pulsation",
+      "statText": "在象征界中解放<color=#F8C200>弹反</color>\n- 弹反：操控默尔索时，在敌人攻击前0.2秒命中敌人以取消该攻击（特定攻击除外）\n\n在象征界中解放<color=#F8C200>格挡</color>\n- 格挡：按住<color=#F8C200>格挡</color>键（键盘C键），维持默尔索的<color=#F8C200>格挡</color>架势\n- 进行<color=#F8C200>格挡</color>时，来自<color=#fe4b48>格挡</color>方向的承受<color=#fe4b48>伤害</color>-30%\n\n在象征界中，为<color=#F8C200>前进</color>攻击解放<color=#F8C200>攻击连段2</color>\n- 发动前进后，<color=#F8C200>再次进行攻击</color>以发动攻击连段2\n- <color=#F8C200>攻击连段2</color>：对敌人造成的<color=#fe4b48>伤害</color>+2，<color=#F8C200>受击硬直</color>+0.1秒\n Unlocks <color=#F8C200>Parry</color> in the Symbolic\n- Parry: While controlling Meursault, hit the enemy 0.2 seconds before its attack to cancel the attack (excluding certain attacks)\n\nUnlocks <color=#F8C200>Block</color> in the Symbolic\n- Block: Press and hold <color=#F8C200>Block</color> (C on keyboard) to maintain Meursault's <color=#F8C200>Block</color> stance\n- While <color=#F8C200>Blocking</color>, <color=#fe4b48>Damage</color> Taken -30% from the <color=#fe4b48>Blocked</color> direction\n\nUnlocks <color=#F8C200>Attack Chain 2</color> for <color=#F8C200>Avant</color> Attack in the Symbolic\n- After activating Avant, <color=#F8C200>repeat the attack</color> to activate Attack Chain 2\n- <color=#F8C200>Attack Chain 2</color>: <color=#fe4b48>Damage</color> Dealt +2 and <color=#F8C200>Hitstun</color> +0.1 seconds against the enemy",
+      "description": "人们常说要体验当下。然而，若经验是预见即将发生之事并目睹其实现的行为，那么经验便必然永远存在于未来。\n People speak of experiencing the present. Yet if experience is the act of anticipating what is to come and seeing it realized, then it must always lie in the future."
+    },
+    {
+      "key": "I990002",
+      "displayName": "锤子\n Hammer",
+      "statText": "象征界中造成的<color=#fe4b48>伤害</color>+1\n在阴影界战斗期间，对带有<color=#F8C200>束缚</color>的敌人造成的<color=#fe4b48>伤害</color>+10%\n <color=#fe4b48>Damage</color> Dealt +1 in the Symbolic\nDuring battle in the Shadowed, deal +10% <color=#fe4b48>damage</color> against enemies that have <color=#F8C200>Bind</color>",
+      "description": "一把锤子。它使尖钉得以履行自身用途。然而即使单独使用，锤子也同样是称手的破坏工具。\n A hammer. It allows a nail to fulfill its purpose. Yet even alone, a hammer serves just as well as an instrument of destruction."
+    },
+    {
+      "key": "I990431",
+      "displayName": "发光鞋\n Luminous Shoes",
+      "statText": "在象征界中进行<color=#F8C200>闪避</color>后，下一次攻击造成的<color=#fe4b48>伤害</color>+3（冷却时间10秒）\n After <color=#F8C200>Evading</color> in the Symbolic, <color=#fe4b48>Damage</color> Dealt +3 on the next attack (10 seconds cooldown)",
+      "description": "这太难了……数量好多……太多就不好玩了……发亮的表面太多……光芒就不再特别了……\n This is too hard... There are so many... Too many will make it less fun... Too many shiny surfaces... won't make the shine special anymore..."
+    },
+    {
+      "key": "I990926",
+      "displayName": "彩色线束\n Colorful Skein",
+      "description": "鲜艳的红、肃穆的黑、游移的褐……无论针引向何方，所有颜色都必将随之而行。\n Vibrant red, austere black, drifting khaki... all colors are bound to follow wherever the needle leads."
+    }
+  ]
+}

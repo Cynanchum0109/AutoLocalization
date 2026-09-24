@@ -1,0 +1,32 @@
+{
+  "dataList": [
+    {
+      "key": "N101004",
+      "displayName": "赤红者店员米莫萨\n Le Rouge Sales Associate Mimosa"
+    },
+    {
+      "key": "N101006",
+      "displayName": "漆黑者店员古斯塔夫\n Le Noir Sales Associate Gustave"
+    },
+    {
+      "key": "N101009",
+      "displayName": "绝望的卡基\n Desperate Kaki"
+    },
+    {
+      "key": "N101010",
+      "displayName": "焦虑的卡基\n Anxious Kaki"
+    },
+    {
+      "key": "N101011",
+      "displayName": "皮革手套\n Leather Glove"
+    },
+    {
+      "key": "N101030",
+      "displayName": "牛仔布钱包\n Denim Wallet"
+    },
+    {
+      "key": "N101034",
+      "displayName": "针插手套\n Pincushion Glove"
+    }
+  ]
+}

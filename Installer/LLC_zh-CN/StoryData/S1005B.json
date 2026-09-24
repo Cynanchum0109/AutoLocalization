@@ -1,0 +1,877 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "N公司法院 走廊\n N Corp. Courthouse Corridor",
+      "model": "넬리2",
+      "content": "哎呀，好久不见了，各位。时间过得可真快啊——自庄园一别，我们还没这样面对面过吧？\n My, it has been a long while, everyone. How time flies—we haven't stood face-to-face since the manor, have we?"
+    },
+    {
+      "id": 1,
+      "model": "히스클리프",
+      "content": "……耐莉？\n ... Nelly?"
+    },
+    {
+      "id": 2,
+      "model": "이상",
+      "content": "她一身装束，风格令人联想起仇甫……看来她已受雇于N公司。\n She is garbed in the vestments of style reminiscent of Gubo's... It appears that she has entered N Corp.'s employment."
+    },
+    {
+      "id": 3,
+      "model": "히스클리프",
+      "content": "……我叫你做自己的事……可没让你跟赫尔曼那帮混蛋签约，然后逮着机会就来搞我们。\n ... When I told you to write your own tale... I didn't say you could sign on with Hermann's pack of tossers and come screwin' us over every chance you got."
+    },
+    {
+      "id": 4,
+      "model": "히스클리프",
+      "content": "你这回又是来搅什么局的……？\n What're you here to fuck up this time, anyway...?"
+    },
+    {
+      "id": 5,
+      "model": "넬리2",
+      "content": "希斯克利夫……\n Heathcliff..."
+    },
+    {
+      "id": 6,
+      "model": "히스클리프",
+      "content": "你曾经——你曾经是家人！所以我才放你走的，该死！因为我不是瞎子，看得出那些在庄园的日子对你做了什么。可你……！光偷金枝还不够，是吧？你<i>非得</i>加入这——！\n You were— You were family! That's why I let you go, dammit! Because I wasn't blind to what living in that manor did to you. But you...! Nickin' the Golden Bough weren't enough, was it? You <i>had</i> to join these—!"
+    },
+    {
+      "id": 7,
+      "content": "话音未落，希斯克利夫的球棒已经挥了出去。他毫不犹豫地朝耐莉冲了过去……\n Heathcliff's bat was already in motion before the last word had left his mouth. He surged toward Nelly without the slightest hesitation..."
+    },
+    {
+      "id": 8,
+      "content": "……耐莉袖中寒光一闪。她的匕首干净利落地一击，将球棒格开，随即后退一步——她神色间流露的与其说是恐惧，不如说是一种带着厌倦的困扰。\n ... and steel flashed from Nelly's sleeve. Her knife struck the bat aside with a clean crack, and she gave ground, her composure disturbed less by fear than by tiresome consternation."
+    },
+    {
+      "id": 9,
+      "model": "넬리2",
+      "content": "等等。我是来帮你们的，希斯克利夫。别冲动。\n Wait. I'm here to help you, Heathcliff. Don't be rash."
+    },
+    {
+      "id": 10,
+      "model": "히스클리프",
+      "content": "<i>帮我们？</i>\n <i>Help me?</i>"
+    },
+    {
+      "id": 11,
+      "content": "浮士德不动声色地轻轻点了点头。希斯克利夫看在眼里，猛地转向她，眼中杀意未消。\n Faust offered a small, silent nod. Heathcliff caught it and wheeled on her with murder still smoldering in his eyes."
+    },
+    {
+      "id": 12,
+      "model": "히스클리프",
+      "content": "解释。现在就说。\n Explain. Now."
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "……耐莉小姐确实是本次行动的协助者——通过与赫尔曼理事的新九人会达成的协议。\n ... Miss Nelly is indeed a collaborator in the present operation—by way of an agreement concluded with Director Hermann's New League of Nine Littérateurs."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "content": "……哈。难怪你一直瞒着我们大家。\n ... Huh. No wonder you've been keeping it all hush-hush from the rest of us."
+    },
+    {
+      "id": 15,
+      "model": "파우스트",
+      "content": "没错。保密是为了减轻罪人们预料之中的抵触情绪。\n Correct. The secrecy was only intended to alleviate the much-expected reluctance from the Sinners."
+    },
+    {
+      "id": 16,
+      "model": "히스클리프",
+      "content": "耐莉……她已经背叛过我两次了。两次！\n Nelly... She's betrayed me twice already. Twice!"
+    },
+    {
+      "id": 17,
+      "model": "히스클리프",
+      "content": "我都放她自由了——她转身又捅了我一刀！那我现在还得，什么，再信她一次？还得配合——\n Even after I'd freed her—she turned round and twisted the knife! And I'm supposed to, what, trust her again? And go along with—"
+    },
+    {
+      "id": 18,
+      "model": "넬리2",
+      "content": "咱们俩就把那儿发生过的一切都遗忘了吧，亲爱的希斯克利夫。我早就把那些都埋葬了。\n Let us both forget all that has transpired there, dear Heathcliff. I've buried it all already."
+    },
+    {
+      "id": 19,
+      "model": "넬리2",
+      "content": "那座风雨交加、暗无天日的旧庄园的记忆，只会在心头缠绕得越来越紧。\n Memories of that stormy, lightless old manor do nothing but knot themselves tighter around the mind."
+    },
+    {
+      "id": 20,
+      "model": "히스클리프",
+      "content": "\"遗忘\"……？耐莉，<i>你</i>懂什么叫遗忘？\n \"Forget\"...? What do <i>you</i> know about forgetting, Nelly?"
+    },
+    {
+      "id": 21,
+      "model": "히스클리프",
+      "content": "……不，我不会遗忘。就算这世界把她遗忘了，我也不会——我不能。就算那是凯茜的心愿也一样。\n ... No, I won't forget them. Even if she's become forgotten to the world, I won't—I can't. Even if that were Cathy's wish."
+    },
+    {
+      "id": 22,
+      "model": "히스클리프",
+      "content": "所以不行，任何人都没法逼我把过去埋葬，耐莉。你不行，谁都不行。\n So no, I won't let anyone force me to leave the past buried, Nelly. Not you, not anyone."
+    },
+    {
+      "id": 23,
+      "model": "넬리2",
+      "content": "凯茜……？我又听不懂你在说什么了，希斯克利夫。就跟我们上次见面时一样。\n Cathy...? You've lost me again, Heathcliff. Just as you did the last time we met."
+    },
+    {
+      "id": 24,
+      "model": "넬리2",
+      "content": "这……这些年我在那座废弃的庄园里，感觉就像是在伺候一个幽灵，希斯克利夫。你可能不知道……恩肖先生去世后，愿他安息，那座庄园就……彻底空了下来，没人住。\n It's... it's as though I'd been serving a ghost all those years at that abandoned manor, Heathcliff. You wouldn't know this, but... after Mister Earnshaw's death, rest his soul, the manor was left... completely unoccupied."
+    },
+    {
+      "id": 25,
+      "model": "히스클리프",
+      "content": "你伺候的才不是什么幽灵。那座庄园有正牌的女主人，该死！\n You weren't servin' a ghost. That manor had a rightful mistress, dammit!"
+    },
+    {
+      "id": 26,
+      "model": "넬리2",
+      "content": "……我看这个话题该到此为止了。\n ... I think it's high time we moved on from this subject."
+    },
+    {
+      "id": 27,
+      "model": "넬리2",
+      "content": "要是让这场不愉快的对话没完没了地继续下去，哪一方损失更大，应该已经再明显不过了。浮士德小姐，是不是？\n It should be painfully apparent which party has more to lose if we let this distasteful conversation go on and on. Would you not agree, Miss Faust?"
+    },
+    {
+      "id": 28,
+      "model": "파우스트",
+      "content": "希斯克利夫，抱歉，可是——\n Heathcliff, I'm sorry, but—"
+    },
+    {
+      "id": 29,
+      "model": "히스클리프",
+      "content": "......."
+    },
+    {
+      "id": 30,
+      "model": "히스클리프",
+      "content": "……行啊，说来听听。你到底打算怎么帮我们？\n ... Go on, let's hear it. Just how do you intend on helping us?"
+    },
+    {
+      "id": 31,
+      "content": "浮士德刚要挪步插到两人中间，希斯克利夫终于让开了一步。他的球棒极不情愿地一寸一寸放低……\n Faust had scarcely begun to move between them when Heathcliff finally yielded a step. His bat lowered one reluctant inch at a time..."
+    },
+    {
+      "id": 32,
+      "content": "……可他的视线依旧死死盯着耐莉，仿佛正想起旧日背叛留下的伤痕。\n ... though his glare remained fixed upon Nelly, as though he were recalling the old wound of betrayal."
+    },
+    {
+      "id": 33,
+      "model": "넬리2",
+      "content": "我的天……我在庄园那会儿就注意到了，你可真是变软了呢？过去的希斯克利夫已经——\n My word... I made a note of this back at the manor too, but you've certainly grown soft, haven't you? The old Heathcliff would've—"
+    },
+    {
+      "id": 34,
+      "model": "히스클리프",
+      "content": "再说一个字。再多说一个惹火的字，你就能亲眼见识见识你嘴里念叨的那个\"过去的希斯克利夫\"把你脑袋敲飞。\n Say another word. Another infuriatin' word, and your eyes just might see the \"old Heathcliff\" you like blatherin' on about, 'fore I knock your head clean off your shoulders."
+    },
+    {
+      "id": 35,
+      "model": "료슈9장이후반담배",
+      "content": "*吐了口烟* 还有话要说？那接着说吧。正好给我点时间，考虑是折·脖，还是拿下你的小.脑.。\n *puff* Got more to say? Then blather away. It'll give me time to decide between S.Y.N.C. and having your L.B."
+    },
+    {
+      "id": 36,
+      "model": "넬리2",
+      "content": "……我在附近租了间会议室，我们不如移步过去继续谈？想必大家都不希望让其他合作者久等。\n ... I've rented a conference room nearby, so why don't we continue our discussion there? I'm sure we don't want to keep the other collaborators waiting."
+    },
+    {
+      "id": 37,
+      "model": "넬리2",
+      "content": "再说，这里也不是讨论这类……敏感话题的好地方，对吧？\n Besides, this isn't exactly the best place to discuss these rather... sensitive subjects, is it?"
+    },
+    {
+      "id": 38,
+      "model": "이스마엘",
+      "content": "其他合作者是指……？\n The other collaborators being...?"
+    },
+    {
+      "id": 39,
+      "model": "넬리2",
+      "content": "不过是几位老相识罢了，和我一样，不需要费心介绍。\n Only a handful of dear old acquaintances who, much like me, require no laborious introduction."
+    },
+    {
+      "id": 40,
+      "model": "료슈9장이후반담배",
+      "content": "*吐了口烟* 同意，球棒男。记忆这东西可挑不了要记住什么、忘掉什么。\n *puff* Agreed, Bats. Can't pick and choose what to remember and what to forget."
+    },
+    {
+      "id": 41,
+      "model": "히스클리프",
+      "content": "......."
+    },
+    {
+      "id": 42,
+      "place": "N公司内的一间会议厅\n A Conference Hall in N Corp.",
+      "content": "我们跟着耐莉走进了一栋建筑里的某会议室。\n We followed Nelly into some kind of conference room in a building."
+    },
+    {
+      "id": 43,
+      "content": "在那里，我们发现自己置身于\"几位老相识\"之中——说是\"一堆无礼的惊吓\"还差不多——他们的脸全都转向了我们。\n And there, we found ourselves in the company of the \"handful of dear old acquaintances\"—handful of rude surprise, really—whose faces were all turned toward us."
+    },
+    {
+      "id": 44,
+      "model": "이상",
+      "content": "...!"
+    },
+    {
+      "id": 45,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "虽说我确实建议过，招募范围该扩大到我过去认识的人……不过他这张脸，倒真是意料之外。\n While I do recall urging them to expand the hiring pool to those from my past... He is indeed a most unexpected face."
+    },
+    {
+      "id": 46,
+      "model": "넬리2",
+      "content": "真奇怪……我不记得对你，或是我们团队里的任何人，隐瞒过这项情报。\n How odd... I don't recall keeping any of this information classified from you, or anyone in our team."
+    },
+    {
+      "id": 47,
+      "model": "구보",
+      "teller": "仇甫\n Gubo",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "……那家伙不是被排除在外。他只是自己选择缺席了那次通报会议，理由是要专心搞研究。\n ... That fellow wasn't left out. He simply decided to be absent during the dissemination session, on account of focusing more on his research."
+    },
+    {
+      "id": 48,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "这份理解我心领了；毕竟我身兼数职嘛。\n The understanding of which I do appreciate; I wear many hats, after all."
+    },
+    {
+      "id": 49,
+      "model": "넬리2",
+      "content": "赫尔曼理事解救默尔索先生的计划，准备工作都完成了吧？\n Director Hermann's plan to rescue Mister Meursault—I trust the preparations are complete?"
+    },
+    {
+      "id": 50,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "啊，是的——经由自杀贩卖机的迂回渗透路线。各项系统当然都已就位，随时可以启动——这准备工作不算复杂。\n Ah, yes—the circuitous infiltration route by way of the Suicide Vending Machine. All systems in place and ready to commence, of course—it's a simple enough preparation to make."
+    },
+    {
+      "id": 51,
+      "model": "넬리2",
+      "content": "很好。大家都听到了吧？都满意了吗？那么请入座。\n Good. We all heard that, yes? All chuffed? Then please be seated."
+    },
+    {
+      "id": 52,
+      "content": "按照耐莉的示意就座之后……\n After we were seated as per Nelly's directions..."
+    },
+    {
+      "id": 53,
+      "content": "我朝旁边椅子上的奥提斯凑了过去。把自打我们再次遇见耐莉后，一直萦绕在我心头的疑问，一字一句地问了出来。\n I leaned toward Outis in the adjoining chair. I ticked out the question that had been needling me ever since we ran into Nelly again."
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<有件事我必须弄清楚……你觉得他们从这件事里能捞到什么好处？>\n <There's something I've got to know... What do you think they have to gain from this?>"
+    },
+    {
+      "id": 55,
+      "model": "오티스",
+      "content": "执行经理，这次合作很可能是某种交易的结果，而非双方互惠计算的产物。\n This collaboration is most likely an outcome of a transaction rather than that of a mutually beneficial calculation, Executive Manager."
+    },
+    {
+      "id": 56,
+      "model": "오티스",
+      "content": "要凭猜测来说的话，这笔交易多半跟镜子脱不了关系。\n A transaction that must've had something to do with the Mirror, if I am to speak based on guesswork."
+    },
+    {
+      "id": 57,
+      "model": "이상",
+      "content": "若他们是靠打着\"九人会\"之名，将吾昔日同伴纳入麾下……奥提斯小姐的推测，恐怕确实不虚。\n If they brought my past fellows into their fold by means of selling the name \"League of Nine\"... Miss Outis's conjecture may indeed be true."
+    },
+    {
+      "id": 58,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "呵。看来我们不必费心多加解释了——诸位客人对自己的处境倒是心知肚明。\n Well. It seems we need not engage in overlong elucidation—our guests are entirely self-informed as to their circumstances."
+    },
+    {
+      "id": 59,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "*嗤笑* 这又不是我们头一回打交道了。要是连这么明摆着的事都看不出来……啊，那可说明不了你什么好话。\n *scoff* This is hardly our first encounter. If you're still incapable of noticing something so painfully obvious... well, you wouldn't like what that says about your competence."
+    },
+    {
+      "id": 60,
+      "model": "히스클리프",
+      "content": "……该死，痛快说吧。你们这帮人到底图什么？\n ... Bloody hell, spit it out already. What do you lot have to gain from this?"
+    },
+    {
+      "id": 61,
+      "model": "넬리2",
+      "content": "契约的那部分内容，仍属机密，希斯克利夫。\n That portion of the contract remains confidential, Heathcliff."
+    },
+    {
+      "id": 62,
+      "model": "넬리2",
+      "content": "不过我可以给你一个保证。跟上次的安排不同，这次我们没打算染指金枝。只是恰巧，帮你们一把，让我们的目标更容易达成罢了。\n I can offer one reassurance, though. Unlike in our previous arrangement, we have no intention of claiming the Golden Bough. It just so happens that our goal becomes more achievable by providing you with assistance."
+    },
+    {
+      "id": 63,
+      "model": "이상",
+      "content": "你们莫非又想像鸿园那样，让我们在浑然不觉之中沦为搅乱秩序的工具？想必是图谋某物，唯有借骚乱掩护方可得手……\n Do you seek to make us into unwitting agents of chaos, as you had in Hongyuan? Presumably after aught that can only be purloined only under the cover of tumult..."
+    },
+    {
+      "id": 64,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "无论有意与否，你与你的新同伴每到一处，往往便是混乱的化身。又或者，李箱，是你自己在同伴之中埋下了种子？\n You and your new fellows are quite often the agents of chaos whitherever you venture, unwitting or not. Or could your presence among your fellows have sown the seeds, Yi Sang?"
+    },
+    {
+      "id": 65,
+      "model": "이상",
+      "content": "……你的指控，不过是以偏概全。\n ... Your accusation is but a gross generalization."
+    },
+    {
+      "id": 66,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "若这样能让你好受些，尽管用更委婉的措辞去修饰记录吧。可事实终归是不变的真相，它可不在乎我是否同情。\n Embroider the record with gentler thread if it comforts you. The reality of the matter is a truth immutable that cares not for my sympathies."
+    },
+    {
+      "id": 67,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 68,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "好了，说回计划本身……老实说，其实相当简单。你们同伴被送去的地方，叫做西西弗百货。而在正常情况下，唯一能获准进入那家百货公司的途径，就是西西弗刑。\n Well, moving on to the plan itself... Frankly, it's all rather simple. The place your fellow has been sent to is called Grand Magasin Sisyphe. And under normal circumstances, the only way by which entrance to that department store is permitted is the Sisyphe Penalty."
+    },
+    {
+      "id": 69,
+      "model": "돈키호테",
+      "content": "敢问，莫非我们亦须遭受绞刑？\n Pray, are we to be hanged, too, then?"
+    },
+    {
+      "id": 70,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "请你说明一下，此问是照字面意思提出的，还是拐弯抹角的暗示？\n Would you mind clarifying whether that query was posed in a literal sense, or if it were merely circumlocutory insinuation?"
+    },
+    {
+      "id": 71,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "视你这问题的性质而定，也可以说是一语中的。\n Depending on the nature of your query, one could say that you hit the nail on the head."
+    },
+    {
+      "id": 72,
+      "model": "돈키호테",
+      "content": "唔……\n Uh..."
+    },
+    {
+      "id": 73,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "若你指的是后者，那便正确——想必诸位从方才那场行刑中已经看出来了，唯有经历死亡，方可获准进入西西弗百货。\n You would be correct if the latter were your insinuation—as you all must have gathered from observing the execution of the penalty, one must experience death to gain access to the Grand Magasin Sisyphe."
+    },
+    {
+      "id": 74,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "然而幸运的是，据传闻，西西弗百货近来遇到了一些……麻烦。从其目前经验糊原料的产量来看，这传闻倒也属实。\n As luck would have it, however, word is that the Grand Magasin has recently faced some... difficulties. Word proven true, considering its current production rate of the Experience Batter."
+    },
+    {
+      "id": 75,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "而这，正好开了一道裂缝——一条平常无法通行的路径，用个比方来说，我们便可借此把你们\"塞\"进去。\n And this has opened a crack, or a normally inaccessible avenue through which we may, in a proverbial sense, \"squeeze you through.\""
+    },
+    {
+      "id": 76,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "真是走运，我们身边正好有这座都市里最擅长把自己弄死的专家。\n What luck that we are in the presence of the City's top experts at getting themselves killed."
+    },
+    {
+      "id": 77,
+      "model": "그레고르",
+      "content": "你说得……也没错，可是……\n You're not... wrong, but..."
+    },
+    {
+      "id": 78,
+      "model": "그레고르",
+      "content": "可是……经理老兄没死过吧？\n But... Manager Bud's never died before, have they?"
+    },
+    {
+      "id": 79,
+      "model": "로쟈",
+      "content": "没错，不过也就是名义上没死过而已。我们死的时候感受的每一分痛，但丁也都感受得到。\n Nah, but only technically. Every pain we feel when we die, Dante feels 'em too."
+    },
+    {
+      "id": 80,
+      "model": "홍루",
+      "content": "不过，我还是忍不住替但丁担心……死亡带来的可不只是痛，还有别的感受……\n Still, I can't help but worry for Dante... Pain isn't the only feeling death brings, after all..."
+    },
+    {
+      "id": 81,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "哈，是吗？<i>你</i>还会担心死亡这种事？我记得你说过人类是……怎么说来着？\"生而为死\"？\n Hah, really? <i>You're</i> worried about death? I thought you said humans were... what was it again? \"Born to die\"?"
+    },
+    {
+      "id": 82,
+      "model": "홍루",
+      "content": "......."
+    },
+    {
+      "id": 83,
+      "model": "홍루",
+      "content": "哥哥，我那时候说的那些话，其实……我是——\n Brother, what I said then, it was... I'm—"
+    },
+    {
+      "id": 84,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "贾宝玉。\n Jia Baoyu."
+    },
+    {
+      "id": 85,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "我还以为你现在该学乖了。我们俩都清楚，你嘴边那句道歉，既不是善意，也不是悔意，不过是个令人作呕的小谎话罢了。\n I'd have expected you to know better now. We both know the apology waiting behind your teeth is not kindness, nor is it remorse. It is a revolting little lie."
+    },
+    {
+      "id": 86,
+      "content": "在我看来，鸿璐只能把话咽回去，他回望贾环的眼神里，既有愧疚，也有绝望……\n It appeared to me that Hong Lu could only swallow his words as he stared back at Jia Huan with a look that was as much guilt as it was desperation..."
+    },
+    {
+      "id": 87,
+      "content": "然而这番反应反倒让贾环更加恼火，他张了张嘴，几次想说些什么，可当他注意到周围众人打量的目光时，猛地扭过头去，一言不发。\n Further infuriated by this response, however, Jia Huan opened and closed his mouth a few times as though he were trying to say something. But when he registered the circle of watching faces, he snapped his head aside emphatically without another word."
+    },
+    {
+      "id": 88,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "哎呀呀，大家这是都在如履薄冰啊。看来解体之后，我们谁都没找到什么称心如意的同伴呢？\n My my, it's like we're all tiptoeing on thin ice. It seems that neither of us found the most pleasant company following the dissolution, did we?"
+    },
+    {
+      "id": 89,
+      "model": "이상",
+      "content": "……我宁愿听你继续陈述正题，不愿听这些无谓的闲扯。\n ... I would much rather you continue this presentation than engage in pointless banter."
+    },
+    {
+      "id": 90,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "很好。至少你还保留着一个优点，就是总能说出我爱听的话。\n Very well. At least you still retain the virtue of saying precisely what I like to hear."
+    },
+    {
+      "id": 91,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "回到正题……不，你并不需要<i>真的</i>死掉才能进去。仔细听清我的话——要进入西西弗，你需要\"体验\"死亡。\n Going back to the matter at hand... No, you don't <i>actually</i> need to die to enter. Pay closer attention to my words—you need to \"experience\" death to enter Sisyphe."
+    },
+    {
+      "id": 92,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "只要你们那边满足这个条件，我们就有办法绕过西西弗百货的安保措施，放你们进去。\n Should you fulfill that condition on your end, we have the means to circumvent the Grand Magasin Sisyphe's security measures and grant you entry."
+    },
+    {
+      "id": 93,
+      "model": "파우스트",
+      "content": "自然……这个条件将借助\"自杀贩卖机\"来达成——这正是帮助赫尔曼理事在N公司站稳脚跟的主打产品线。\n Naturally... that condition will be fulfilled using the Suicide Vending Machine—the main product line that helped Director Hermann strengthen her footing in N Corp."
+    },
+    {
+      "id": 94,
+      "model": "그레고르",
+      "content": "哈……原来如此，怪不得她这个G公司的残党，能在N公司当上理事。\n Hah... So that explains how a G Corp. remnant like her became a director at N Corp."
+    },
+    {
+      "id": 95,
+      "model": "단테",
+      "content": "<自杀贩卖机……>\n <Suicide Vending Machine...>"
+    },
+    {
+      "id": 96,
+      "model": "이스마엘",
+      "content": "我以前在一本介绍手册上看到过，说它是N公司的……呃……最新产品。虽然不像经验罐头那样广为人知、大受欢迎，不过一直在靠口口相传扩散开来，因为它提供的体验<i>极其</i>刺激……\n I once read in an information booklet that introduced it as N Corp.'s, uh... newest product. While it's not as widely recognized or popular as Canned Experience, it's been spreading via word of mouth, because the service it offers is <i>extremely</i> thrilling..."
+    },
+    {
+      "id": 97,
+      "model": "구보",
+      "teller": "仇甫\n Gubo",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "毕竟，病态地追求极致刺激，乃是人之本性。\n It is human nature to pathologically pursue extreme thrills, after all."
+    },
+    {
+      "id": 98,
+      "model": "이상",
+      "content": "想必这又是从玻璃窗，或是镜子那儿窃取来的技术吧。\n And I suppose that is another technology purloined from the Glass Window or the Mirror."
+    },
+    {
+      "id": 99,
+      "model": "이상",
+      "content": "……我现在方才重新领教，到处都令人不快的事实。\n ... Now I realize anew that I am beset on all sides by revelations most disagreeable."
+    },
+    {
+      "id": 100,
+      "model": "구보",
+      "teller": "仇甫\n Gubo",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "哈！事到如今，你还任由这点私人恩怨左右自己？\n Hah! Even now, you let these personal grievances affect you?"
+    },
+    {
+      "id": 101,
+      "model": "이상",
+      "content": "……你竟将其贬为\"私人恩怨\"？看来灵之哥创造玻璃窗时所怀的心境，你终究是永远难以领会了。\n ... You would reduce it to \"personal grievance\"? Then I suppose the sentiment with which Brother Young-ji brought the Glass Window into being shall remain forever beyond your ken."
+    },
+    {
+      "id": 102,
+      "model": "이상",
+      "content": "那本是一项技术，为的是让世间注定消逝之物，能够再度自由展翅高飞。然而你们这种虚荣庸俗之辈，却只想从中窥探死亡。\n It was a technology made so that those things doomed to fade away in this world might take wing freely once more. Yet vain, vulgar ones such as yourselves would peer into it only to seek out death."
+    },
+    {
+      "id": 103,
+      "model": "구보",
+      "teller": "仇甫\n Gubo",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "我们不过是为它找到了更适合的用途罢了。这不正是进步之轮转动的方式吗？\n We merely found a purpose better suited to it. Is that not simply the way the wheel of progress turns?"
+    },
+    {
+      "id": 104,
+      "model": "이상",
+      "content": "……你怎敢——\n ... Don't you dare—"
+    },
+    {
+      "id": 105,
+      "model": "구보",
+      "teller": "仇甫\n Gubo",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "好了好了。我们不如把这些旧怨放下，携手合作如何？收起你怒视的目光，一起做正事吧。你总不会打算把今晚剩下的时间都耗在吵架上吧？\n Now, now. How about we leave these old grudges behind us and cooperate? Withdraw that askance glare and let us work together. Surely you do not plan to spend the rest of tonight locked in a bout of words, do you?"
+    },
+    {
+      "id": 106,
+      "model": "로쟈",
+      "content": "……所以……我们就偷偷溜进去，把默尔索从那个什么百货公司里薅出来，然后搞定收工，是这样吧？\n ... So... we sneak in, yoink Meursault right outta that Grand Magasin or whatever, and presto. Right?"
+    },
+    {
+      "id": 107,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "并没有那么容易收工。你们公司向来不怎么做简单的事。西西弗百货的最高楼层，还有一根你们似乎相当热衷于收集的金枝。\n Not quite presto. Your company's affairs have never demonstrated such affection for simple jobs. At the topmost floor of the Grand Magasin is a Golden Bough you all seem to be quite fond of collecting."
+    },
+    {
+      "id": 108,
+      "model": "히스클리프",
+      "content": "你们特地跟我们说这个是因为……？\n And you're showin' us that care because...?"
+    },
+    {
+      "id": 109,
+      "content": "跟我们初次相遇时不同，我知道他们这次并没有在积极谋划自己夺取金枝……\n Unlike our first encounter, I knew they were not actively maneuvering to seize the Golden Bough for themselves..."
+    },
+    {
+      "id": 110,
+      "content": "……因为他们对金枝的争夺向来反复无常。有时候会想从我们手里抢走，有时候又显得毫无兴趣。\n ... because their race for the Golden Bough was seldom consistent. Sometimes they would try to take it from us, but at other times, they seemed entirely uninterested."
+    },
+    {
+      "id": 111,
+      "content": "可就算明白这一点，不知道他们的最终目的，依旧让人心里发毛。\n But being aware of that didn't make it any less unnerving not to know their endgame."
+    },
+    {
+      "id": 112,
+      "model": "오티스",
+      "content": "那么，总结一下……我们要借由新九人会提供的自杀贩卖机路线，偷偷地潜入西西弗百货，解救默尔索，拿到金枝，然后以最小的风险撤离。我有遗漏什么吗？\n Then, to summarize... We are to infiltrate the Grand Magasin Sisyphe, undetected, via the route secured by the Suicide Vending Machine—courtesy of the New League of Nine—rescue Meursault, obtain the Golden Bough, then exfiltrate with minimal risk. Did I miss anything?"
+    },
+    {
+      "id": 113,
+      "model": "넬리2",
+      "content": "你没有遗漏什么，不过……有一个细节我必须纠正。\n You didn't miss anything, but... there is one detail I must correct."
+    },
+    {
+      "id": 114,
+      "model": "넬리2",
+      "content": "你们的入场方式确实不同寻常……可这远不止\"最小风险\"这么简单。\n While it is true that the method of your entry will be unorthodox... it involves more than \"minimal risk.\""
+    },
+    {
+      "id": 115,
+      "model": "싱클레어",
+      "content": "……什么？！\n ... What?!"
+    },
+    {
+      "id": 116,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "容我详细说明：你们的<i>入场</i>本身不会被察觉。但用不了多久，他们就会察觉你们的入侵，风险正是从那时候开始的。\n Allow me to elaborate: your <i>entry</i> will escape notice. But it won't be long before they become wise to your intrusion, which is where the risks come in."
+    },
+    {
+      "id": 117,
+      "model": "돈키호테",
+      "content": "若吾等行踪暴露，届时……将会如何？\n What... shall transpire, should our presence be detected?"
+    },
+    {
+      "id": 118,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "N公司的羽自然会出动。他们会袭击我们选定作为你们进入西西弗百货入口的那台自杀贩卖机。\n Feathers of N Corp. will be mobilized, of course. They will assault the Suicide Vending Machine we have chosen as your inroad to the Grand Magasin Sisyphe."
+    },
+    {
+      "id": 119,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "而那时，正是我们出手相助之时。\n That is when we will lend you aid."
+    },
+    {
+      "id": 120,
+      "model": "그레고르",
+      "content": "要是我们用那台自杀贩卖机的时候被攻击了……会怎么样？\n What's gonna happen... if we get attacked while using the Suicide Vending Machine?"
+    },
+    {
+      "id": 121,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "有必要多加解释吗？很明显会是场彻头彻尾的大灾难。\n Is elaboration really necessary? It's obviously going to be something utterly catastrophic."
+    },
+    {
+      "id": 122,
+      "model": "단테",
+      "content": "<不管是什么，听起来都是我不想让我们冒的险……>\n <Whatever it is, sounds like a risk I don't want us to take...>"
+    },
+    {
+      "id": 123,
+      "model": "파우스트",
+      "content": "我们与新九人会的合作……也涵盖了此类突发状况的应对。\n Our collaboration with the New League of the Nine... extends to cover such contingencies as well."
+    },
+    {
+      "id": 124,
+      "model": "히스클리프",
+      "content": "丫头，你是说我们得指望这帮混蛋来——\n Lass, are you sayin' we'll have to trust these bastards to—"
+    },
+    {
+      "id": 125,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "——保护你们十二个？对，没错，正是我们要做的事。<i>亲自</i>动手。\n —protect the twelve of you? Why yes, that is exactly what we'll be doing. <i>Personally.</i>"
+    },
+    {
+      "id": 126,
+      "model": "그레고르",
+      "content": "……那我们是不是就该乖乖把命交到这帮家伙手里？\n ... And we're, what, supposed to just put our lives in these fellas' hands?"
+    },
+    {
+      "id": 127,
+      "model": "넬리2",
+      "content": "哦，拜托。她那宝贝儿子就在你们队伍里，你真觉得理事会容许半吊子的处理吗？\n Oh, please. Do you really think the Director would allow half-measures when her precious son is in your company?"
+    },
+    {
+      "id": 128,
+      "model": "그레고르",
+      "content": "*嗤笑* 这想法可真让人安心。\n *scoff* Isn't that a comforting thought."
+    },
+    {
+      "id": 129,
+      "content": "格里高尔冷笑一声，语气干涩，满是难以置信。\n Gregor answered with a dry, incredulous snort."
+    },
+    {
+      "id": 130,
+      "model": "오티스",
+      "content": "就算我们撇开信任的问题不谈……我也必须质疑你们一开始保护我们的能力。你们在鸿园的表现，实在算不上有说服力。\n Even if we were to look past the matter of trust... I must voice my doubts about your ability to defend us to begin with. Your performance back in Hongyuan was hardly promising."
+    },
+    {
+      "id": 131,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "哈，那是因为——\n Hah, that's because—"
+    },
+    {
+      "id": 132,
+      "model": "구보",
+      "teller": "仇甫\n Gubo",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "……这点你们不必担心。我们新生产了一批刚出实验室的E.G.O装备，也招了不少新人来穿戴它们。\n ... You needn't worry about that. We have newly produced E.G.O gear, fresh out of lab testing, and plenty of new hires to wear them."
+    },
+    {
+      "id": 133,
+      "model": "가환",
+      "teller": "贾环\n Jia Huan",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "真到了关头，我们总算也能把那个死脑筋的船长用上了。她不喜欢陆地的感觉？那可真遗憾，该干活了。\n When it really comes down to it, we'll finally put that stubborn Captain to use, too. She doesn't like how the solid earth feels? Too bad, time to get to work."
+    },
+    {
+      "id": 134,
+      "model": "이스마엘",
+      "content": "……等……等一下。这位\"船长\"……她该不会叫亚哈吧？\n ... Wh-wait. This \"Captain\"... Her name wouldn't happen to be Ahab, would it?"
+    },
+    {
+      "id": 135,
+      "model": "넬리2",
+      "content": "哎呀，你不知道吗？我记得她比我还早来这儿。\n Deary me, you didn't know? She was here before I joined, I believe."
+    },
+    {
+      "id": 136,
+      "model": "이스마엘",
+      "content": "……你们到底开了什么条件给她？帮她猎杀那头鲸吗？\n ... Just what exactly did you offer her? Help her hunt down the Whale?"
+    },
+    {
+      "id": 137,
+      "model": "넬리2",
+      "content": "她的具体条件我不便透露……不过应该不是那样的吧？\n While I cannot divulge the details of her terms... that wouldn't be the case, would it?"
+    },
+    {
+      "id": 138,
+      "model": "이스마엘",
+      "content": "……我看你们根本不在乎，她那疯狂的煽动和一根筋会害死多少人。\n ... And I guess you people couldn't care less how many people her insane rabble-rousing and pigheadedness are going to get killed."
+    },
+    {
+      "id": 139,
+      "model": "넬리2",
+      "content": "嗯，亚哈船长做事自有她自己的一套方法。\n Well, Captain Ahab has her own ways of doing things."
+    },
+    {
+      "id": 140,
+      "model": "이스마엘",
+      "content": "……也许吧。可要是我得眼睁睁看着她做过的事再重演一遍……我不知道自己会做出什么事来。\n ... Maybe. But if I have to watch what she's done happen all over again, right before my eyes... I don't know what I might do."
+    },
+    {
+      "id": 141,
+      "model": "넬리2",
+      "content": "嗯。这下我倒是确信了，没让船长出席这次会议是个明智的决定。\n Hmm. Now I'm convinced that it was a wise decision to exempt the captain from this meeting."
+    },
+    {
+      "id": 142,
+      "model": "아세아",
+      "teller": "亚细亚\n Aseah",
+      "title": "N公司 - 新九人会\n N Corp. - New League of Nine Littérateurs",
+      "content": "既然所有底牌都摊开了……怎么样？渗透的准备工作已经完成。只需一句话，我们便可将诸位直接送往西西弗百货。\n Now that all cards are on the table... how is it? The preparations for the infiltration are now complete. Simply say the word, and we will send you all straight to the Grand Magasin Sisyphe."
+    },
+    {
+      "id": 143,
+      "model": "단테",
+      "content": "<说说看吧。大家怎么想？>\n <Let's hear it. What's everyone's take?>"
+    },
+    {
+      "id": 144,
+      "model": "이상",
+      "content": "我心中不免生出几分踌躇；这种联盟，之前在铁槛寺曾尝试过，几乎当即破裂，继而大打出手。\n I must admit to a certain reluctance in my heart; such an alliance has been tested before, at the Tiekan Temple, to near-immediate breakdown followed by a clash."
+    },
+    {
+      "id": 145,
+      "model": "오티스",
+      "content": "你确定他们是我们唯一的选择吗？坦白说，比起跟新九人会合作，我更宁愿和环指他们的走廊合作。\n Are you certain they are our sole option? Frankly, I would much more readily work with the Ring and their Corridors than work with the New League of the Nine."
+    },
+    {
+      "id": 146,
+      "model": "파우스트",
+      "content": "西西弗百货是一个本质上完全不同的次元，无法通过后门、走廊或任何形式的传送门进入。目前，我们只有两条可行的渗透途径：接受N公司的司法程序被判处西西弗刑，或者借助新九人会的合作。\n Grand Magasin Sisyphe is a dimension that's fundamentally different, so it cannot be entered through a Backdoor, a Corridor, or any manner of portal. At present, we have only two viable avenues of infiltration: submit to N Corp.'s judicial process and receive the Sisyphe Penalty, or employ the New League of Nine's collaboration."
+    },
+    {
+      "id": 147,
+      "model": "히스클리프",
+      "content": "听着挺简单啊。那咱们干脆去被判个西西弗刑好了。找个巢的海关，直接开始砸墙砸窗户——\n Seems easy enough. Let's get ourselves sentenced to the Sisyphe Penalty, then. We could go to one of them Nest checkpoints and start smashin' walls and windows—"
+    },
+    {
+      "id": 148,
+      "model": "돈키호테",
+      "content": "唉，此等鲁莽之罪行，吾实不愿犯下……\n Alas, I would loath to commit such a heedless crime..."
+    },
+    {
+      "id": 149,
+      "model": "싱클레어",
+      "content": "堂吉诃德……你觉得希斯克利夫说\"砸墙砸窗户\"，是在指谁啊？\n Don Quixote... Who do you think Heathcliff was referring to when he said \"smashing walls and windows\"?"
+    },
+    {
+      "id": 150,
+      "model": "돈키호테",
+      "content": "啊——*咳*\n Ah—*cough*"
+    },
+    {
+      "id": 151,
+      "content": "反对声接连不断，围着桌子团团打转，讨论渐渐开始原地兜圈子。良秀始终一言不发地抽着烟，直到她终于弹掉烟头上一点亮红的烟灰，一句话打断了这场争论。\n Objection chased objection around the table until the discussion began circling its own tail. Through it all, Ryōshū smoked in silence until she finally flicked a bright fleck of ash off her cigarette and severed the debate short."
+    },
+    {
+      "id": 152,
+      "model": "료슈9장이후반담배",
+      "content": "*吐了口烟* 轮到我说完了，也该轮到默.来他的试.了吧？进去以后再想清楚。别在外头磨磨蹭蹭了。\n *puff* Now that I've had my turn, it's about time M.'s had his T. anyway, isn't it? Think it over when we're inside. No more idling out here."
+    },
+    {
+      "id": 153,
+      "model": "홍루",
+      "content": "我同意良秀小姐的意见。虽然我不敢说完全信任我们公司……但我确实想相信浮士德小姐。\n I agree with Miss Ryōshū. I can't say I have complete faith in our company... but I do want to put my trust in Miss Faust."
+    },
+    {
+      "id": 154,
+      "model": "로쟈",
+      "content": "我也不是特别喜欢这主意，可是……我也觉得你们俩说得对。反正我们又不会因为风险太大就<i>不去</i>救默尔，对吧？\n Not a huge fan of this idea either, but... I also think you two are right. I mean, it's not like we're <i>not</i> gonna save Meur 'cuz it's too risky, right?"
+    },
+    {
+      "id": 155,
+      "model": "단테",
+      "content": "<……好吧。看来我们得跟他们合作了。>\n <... Right. We'll have to work with them.>"
+    },
+    {
+      "id": 156,
+      "model": "넬리2",
+      "content": "你们都商量出结果了吗？\n Have you all come to a decision?"
+    },
+    {
+      "id": 157,
+      "model": "이스마엘",
+      "content": "……带我们去自杀贩卖机吧。走吧。\n ... Lead us to the Suicide Vending Machine. Let's go."
+    },
+    {
+      "content": "过了会儿……\n Sometime later..."
+    },
+    {
+      "id": 158,
+      "place": "N公司，自杀贩卖机入口\n N Corp., Suicide Vending Machine Entrance",
+      "model": "단테",
+      "content": "<原来这就是……自杀贩卖机。>\n <So this is it... the Suicide Vending Machine.>"
+    },
+    {
+      "id": 159,
+      "content": "耐莉和亚细亚领着我们走进一处狭小的密闭空间。\n Nelly and Aseah led us into a small enclosure."
+    },
+    {
+      "id": 160,
+      "place": "N公司，自杀贩卖机内部\n N Corp., Inside Suicide Vending Machine",
+      "content": "身处这样一间漆黑的房间是一回事……可更让人不安的是，这地方与外界隔绝得如此彻底、如此寂静。\n It was one thing to be in a dark room like this, but... what was more unsettling was simply how quiet and disconnected this place was from the outside."
+    },
+    {
+      "content": "我们穿过一排排排列整齐的机器，各自入座。\n We passed between the machines that were lined up in a row and took our respective seats."
+    },
+    {
+      "id": 161,
+      "content": "接着……我们打开了显示器。\n Then... we switched on the monitors."
+    }
+  ]
+}

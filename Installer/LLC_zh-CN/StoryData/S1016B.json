@@ -1,0 +1,137 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "红色精品店，3楼\n Boutique du Rouge, 3F",
+      "model": "뫼르소",
+      "content": "……那天我们在甜甜圈巷的一家餐厅吃玛格丽特披萨的时候，你穿的就是这件。你还抱怨说这身衣服穿着难受，闹了肠胃不适。\n ... You wore it on the day we had margherita pizza at a restaurant in the Donut Alley. You did complain about digestive troubles on account of the discomfort caused by the outfit."
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "虽然你更喜欢靠窗的位子，但那家餐厅订位系统出了点问题，把我们安排在了大厅正中央——这一点你也觉得挺遗憾的。\n Though you preferred the window seat, the issue with the reservation system at the restaurant seated us in the middle of the hall—which you also found regrettable."
+    },
+    {
+      "id": 2,
+      "content": "<color=#a5ab8e>……有人或许会觉得你是个真正的浪漫主义者。仅凭前任低语的一句话，就能把整整一天重新唤醒、染上色彩，仿佛那事就发生在昨天。仿佛与她共度的每一件事，他都不曾遗忘分毫。</color>\n <color=#a5ab8e>... Some might see a true romantic in you. A man who brings back to life and color an entire day just from a single word whispered by his ex-lover—as though it happened just yesterday. As though he couldn't forget a single thing done in her company.</color>"
+    },
+    {
+      "id": 3,
+      "content": "<color=#a5ab8e>不过你那出色的记忆力，不过是你小时候被迫接受的记忆训练带来的机械式结果罢了。</color>\n <color=#a5ab8e>But your excellent memory is just the logical, mechanical outcome of childhood mnemonic training you were subjected to.</color>"
+    },
+    {
+      "id": 4,
+      "model": "뫼르소",
+      "content": "......."
+    },
+    {
+      "id": 5,
+      "content": "<color=#a5ab8e>不过你搞错了。那天我生气的根本不是靠窗座位的事。</color>\n <color=#a5ab8e>You've got it wrong, though. It wasn't the window seat I was angry about that day.</color>"
+    },
+    {
+      "id": 6,
+      "content": "<color=#a5ab8e>我生气是因为，你看到我的新裙子，第一句话就是叫我拿去换个大一号的。</color>\n <color=#a5ab8e>I was angry because the first thing you said when you saw my new dress was that I should return it and get something a size larger.</color>"
+    },
+    {
+      "id": 7,
+      "model": "뫼르소",
+      "content": "确实需要换大一号。那件衣服太紧了，日常活动中带来了不少麻烦。\n It was true that you needed to go up a size. The tightness of the outfit was presenting various difficulties in mundane activities."
+    },
+    {
+      "id": 8,
+      "content": "<color=#a5ab8e>没错，可你<i>非得</i>当面这么说吗？你本可以先夸夸我的裙子，然后就此打住的。</color>\n <color=#a5ab8e>Right, but did you <i>have</i> to say that to my face? You could've just complimented my dress and moved on.</color>"
+    },
+    {
+      "id": 9,
+      "content": "<color=#a5ab8e>不管怎样，随着我穿那条裙子的时间越久，起初的不适感也渐渐被我抛到了脑后。</color>\n <color=#a5ab8e>Anyway, the initial discomfort slowly receded to the back of my mind the longer I wore that dress.</color>"
+    },
+    {
+      "id": 10,
+      "content": "<color=#a5ab8e>可当我换上更舒服的衣服……那种令人窒息的不适感一下子全涌了上来，我才意识到，自己一直都在跟一件根本不合我尺寸的衣服较劲。</color>\n <color=#a5ab8e>But when I changed into something more comfortable... That stifling discomfort rushed in all at once, and I realized that, all along, I had been wrestling with an outfit that wasn't made for my size.</color>"
+    },
+    {
+      "id": 11,
+      "content": "<color=#a5ab8e>这个比喻用在那位赤红者身上也很贴切……只不过，跟我不同，她拒绝换上更舒服的衣服。</color>\n <color=#a5ab8e>It's a fitting analogy for that Rouge, too... Though, unlike me, she's refused to change into something more comfortable.</color>"
+    },
+    {
+      "id": 12,
+      "content": "我猜测是默尔索母亲的声音，仍在墙壁后某处回响——那是一个再也不会说出新话语的声音。\n The voice of whom I presume to be Meursault's mother is still playing from somewhere behind the walls—the voice that will never again speak new words."
+    },
+    {
+      "id": 13,
+      "model": "3층하이도메루주번데기",
+      "teller": "不动者\n L'Inamovible",
+      "title": "赤红者\n Le Rouge",
+      "content": "是啊，是啊……我做的一切……那一切一定都有意义……有目的……\n Yes, yes... Everything I did... all of that had to have meant something... A purpose..."
+    },
+    {
+      "id": 14,
+      "model": "3층하이도메루주번데기",
+      "teller": "不动者\n L'Inamovible",
+      "title": "赤红者\n Le Rouge",
+      "content": "我一直在剥去金皮，是因为……对，就是这样。\n I've been flaying the Golden Hide off because... yes, that's it."
+    },
+    {
+      "id": 15,
+      "content": "<color=#a5ab8e>唔，这倒是出乎意料。</color>\n <color=#a5ab8e>Hmm, this is unexpected.</color>"
+    },
+    {
+      "id": 16,
+      "content": "<color=#a5ab8e>\"有意义\"，嗯……？不知道她找到了什么样的意义呢？真是费解。简直就像她听到的是一个完全不同的\"声音\"。</color>\n <color=#a5ab8e>\"Meant something,\" hmm...? What meaning did this one find, I wonder? How puzzling. It's almost as if she's hearing an entirely different Voice.</color>"
+    },
+    {
+      "id": 17,
+      "model": "오티스",
+      "content": "......."
+    },
+    {
+      "id": 18,
+      "content": "<color=#a5ab8e>这次你打算无视我吗？那样也不失为一个不错的选择。</color>\n <color=#a5ab8e>You're going to ignore me this time? That's not a bad choice either, I guess.</color>"
+    },
+    {
+      "id": 19,
+      "model": "3층하이도메루주번데기",
+      "teller": "不动者\n L'Inamovible",
+      "title": "赤红者\n Le Rouge",
+      "content": "它又在对我说话了……再一次……传得如此清晰，不曾中断，不曾消散……\n It's speaking to me... once again... It's coming through so clearly, without breaking, without fading..."
+    },
+    {
+      "id": 20,
+      "model": "3층하이도메루주번데기",
+      "teller": "不动者\n L'Inamovible",
+      "title": "赤红者\n Le Rouge",
+      "content": "它叫我用尖钉刺穿这身衣服……把它整个撕碎……说我赤裸的躯干之中，才能找到真正的自我……\n Telling me to put my nails to this outfit... to rip it all away... That in my naked body, I'll find my true self..."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<她正在变成这里所说的\"人偶\"……>\n <She's turning into a \"Mannequin,\" as they call it in here...>"
+    },
+    {
+      "id": 22,
+      "model": "단테",
+      "content": "<虽然阶段各不相同，但我们在西西弗百货遇到的赤红者和漆黑者员工，无一例外都在扭曲。不过……她这个进展快得多……>\n <Though they were all in different stages, all the Rouge and Noir employees we'd encountered in the Grand Magasin were Distorting without exception. But... her case is progressing much quicker...>"
+    },
+    {
+      "id": 23,
+      "model": "3층하이도메루주번데기",
+      "teller": "不动者\n L'Inamovible",
+      "title": "赤红者\n Le Rouge",
+      "content": "终于……在从我身上蜕落、蜕落了。把这些令人窒息的东西从我身上剥掉……我想成为真正的自己……\n It's finally... sloughing, sloughing off me. Take these stifling things off of me... I want to be my true self..."
+    },
+    {
+      "id": 24,
+      "model": "3층하이도메루주",
+      "teller": "不动者\n L'Inamovible",
+      "title": "赤红者人偶\n Le Rouge Mannequin",
+      "content": "是不是也有人把那些谎言披到了你身上？\n Has someone draped those lies over you, too?"
+    },
+    {
+      "id": 25,
+      "model": "3층하이도메루주",
+      "teller": "不动者\n L'Inamovible",
+      "title": "赤红者人偶\n Le Rouge Mannequin",
+      "content": "来吧，我来把你从那些压迫你的衣物中解放出来……你会感受到……和我一样的感觉……\n Come, I'll liberate you from those oppressive clothes... And you'll feel... just like I do..."
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "content": "按下按钮的瞬间，我的视野清晰了起来。\n My vision cleared up once I pressed the button."
+    },
+    {
+      "id": 1,
+      "content": "我感到自己撞上了坚硬的地面，但那阵震得发麻的疼痛很快就过去了。冰冷的水随潮涌吞没我的身体，把它拖向水下。\n I feel the sensation of striking a hard floor, but the rattling aches pass before long. Cold water swallows my body in its tides and drags it under."
+    },
+    {
+      "id": 2,
+      "content": "很快，水灌满了我的肺。我无法呼吸。\n Soon, the water fills my lungs. I can't breathe."
+    },
+    {
+      "id": 3,
+      "content": "模糊的视野里，我看见荡漾的水波与翻起的白沫。阳光倾泻在水面之外的景色上。\n Through my blurred vision, I see rippling water and cresting white foam. Sunshine pours down over the scenery beyond."
+    },
+    {
+      "id": 4,
+      "content": "没过多久，压迫胸口的窒息感便消失了。包裹着我的水，像一个温暖的拥抱。\n It isn't long before the pressure crushing my chest disappears. The water that surrounds me feels like a warm embrace."
+    },
+    {
+      "id": 5,
+      "content": "平时绝不会冒出的念头不受控制地涌现，淹没了我的脑海。\n Thoughts I normally would never entertain spring uncontrollably, flooding my mind."
+    },
+    {
+      "id": 6,
+      "content": "我能感觉到自己的神经在搏动。\n I can feel my nerves pulsating."
+    },
+    {
+      "id": 7,
+      "content": "我觉得这颗长在我身上、却又不真正属于我的头，将会永远沉在水里。\n I feel as though this head, attached to me but not really mine, is going to be submerged underwater forever."
+    },
+    {
+      "id": 8,
+      "content": "涌上来的是安心吗……？还是说……\n Is it comfort that washes over me...? Or is it..."
+    },
+    {
+      "id": 9,
+      "content": "<color=#916e46>谨向今日莅临西西弗百货的各位贵宾致以最热忱的欢迎。</color>\n <color=#916e46>We extend our warmest welcome to the valued guests of Grand Magasin Sisyphe visiting today.</color>"
+    },
+    {
+      "id": 10,
+      "content": "<color=#916e46>西西弗百货始终珍视顾客在店内购得的每一份体验。</color>\n <color=#916e46>Grand Magasin Sisyphe is ever committed to cherishing every experience our customers procure within.</color>"
+    },
+    {
+      "id": 11,
+      "content": "<color=#916e46>为紧跟最新潮流，本百货积极鼓励店内各色商铺依流行趋势开张与歇业。在店内游览时，敬请留意不要迷路。</color>\n <color=#916e46>To keep abreast of the latest fashions, we actively encourage the wide variety of shops available at the department store to open and close according to trends. Please take care not to lose your way as you explore the establishment.</color>"
+    },
+    {
+      "id": 12,
+      "content": "<color=#916e46>一如既往，各层洗手间目前均在维修中。安排行程时敬请留意。给您带来不便，我们深表歉意。</color>\n <color=#916e46>As always, restrooms on every floor are currently under repair. Please take note of this when planning your visit. We apologize for the inconvenience.</color>"
+    },
+    {
+      "id": 13,
+      "content": "<color=#916e46>为防止卫生问题，各层仅限达到相应评级的顾客进入。如有疑问，敬请前往六层的顾客服务中心。</color>\n <color=#916e46>To prevent hygiene issues, entry to each floor will be limited to customers who have achieved the required Prestige Tier. Please visit our Customer Service Center on the sixth floor for any further queries.</color>"
+    },
+    {
+      "id": 14,
+      "content": "<color=#916e46>欢迎顾客与展出的所有人台进行身体接触。反之，人台亦可与所有顾客进行身体接触。如您愿意参与，请向相应商铺的店员说明，他们将乐于为您效劳。</color>\n <color=#916e46>Customers are welcome to make physical contact with all Mannequins on display. Conversely, Mannequins are also allowed to make physical contact with all customers. Should you wish to participate, please talk to the sales associate at the relevant shop, who will be delighted to assist you.</color>"
+    },
+    {
+      "id": 15,
+      "content": "<color=#916e46>愿各位竭尽所能，为顾客再度呈上值得的消费体验。感谢您选择西西弗百货，祝您购物愉快。</color>\n <color=#916e46>We ask everyone to do their best to ensure another day of worthwhile consumer experience for our customers. Thank you for choosing Grand Magasin Sisyphe, and enjoy your shopping.</color>"
+    },
+    {
+      "id": 16,
+      "place": "泉，1F\n The Fount, 1F",
+      "model": "이상",
+      "content": "我们方才经历的那些……\n What we experienced just now..."
+    },
+    {
+      "id": 17,
+      "model": "이스마엘",
+      "content": "我只知道，那种事我再也不想经历第二次……我是说，在这支队伍里我已经用各种方式死过了，可在根本不是战斗的场合被迫直面死亡……再加上还得亲身体会<i>自己动手</i>的感觉，这实在是……绝对不行。\n I just know it's something I never want to go through again... I mean, I've been killed in a variety of different ways on this team, but to be forced to face death when it wasn't even a combat situation... And on top of that, having to feel the sensation of <i>doing it myself</i> is just... a big no."
+    },
+    {
+      "id": 18,
+      "model": "이스마엘",
+      "content": "难以相信N公司的居民竟然会花<i>钱</i>买这种恶心的体验。就算倒贴我钱，我也不想再来一次。\n Can't believe residents in N Corp. pay <i>money</i> to purchase that nasty experience. You couldn't pay me to go through that twice."
+    },
+    {
+      "id": 19,
+      "model": "돈키호테",
+      "content": "......."
+    },
+    {
+      "id": 20,
+      "model": "돈키호테",
+      "content": "将断绝性命一事包装成消遣，再当作商品售卖……\n To package the very severing of life as amusement, then sell it as a product..."
+    },
+    {
+      "id": 21,
+      "model": "돈키호테",
+      "content": "征服无聊诚然绝非易事，然此举……唔……\n Though conquering boredom is, forsooth, no simple feat, this is... hmm..."
+    },
+    {
+      "id": 22,
+      "model": "홍루",
+      "content": "比我想象的要真实呢。\n It felt more real than I imagined."
+    },
+    {
+      "id": 23,
+      "model": "홍루",
+      "content": "我明明知道那一切都发生在机器里……可就在那一瞬间，我真的觉得……自己正在目睹生命的最后时刻呢。\n I knew it was all taking place within a machine... Yet in that moment, I truly felt as though... I were witnessing the final moments of my life."
+    },
+    {
+      "id": 24,
+      "model": "로쟈",
+      "content": "绳套收紧的时候，我还以为我的脖子要断掉了呢……\n When the noose tightened, I thought my neck was gonna snap..."
+    },
+    {
+      "id": 25,
+      "model": "로쟈",
+      "content": "我跟以实想的一样……居然真有人花<i>钱</i>找这种罪受？\n I'm with Ishy... People actually pay <i>money</i> to put themselves through this?"
+    },
+    {
+      "id": 26,
+      "model": "파우스트",
+      "content": "有些人并无明确目的，却会把自己绑在绳索上从高处一跃而下，或是把自己交给汹涌的浪涛，看看会不会被卷进去。\n There are those who, with no real purpose in mind, tie themselves to a cord and leap from great heights, or surrender themselves to violent waves to see whether or not they will be swept under."
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "据说，人通过无限接近死亡的体验，能更敏锐地感受到自己活着。\n It is said that people come to feel the sensation of being alive more keenly via experiences that bring them infinitely close to death."
+    },
+    {
+      "id": 28,
+      "model": "로쟈",
+      "content": "……所以你是说，他们是故意的啦？\n ... So ya sayin' they do it on purpose?"
+    },
+    {
+      "id": 29,
+      "model": "로쟈",
+      "content": "真倒胃口。\n Distasteful."
+    },
+    {
+      "id": 30,
+      "content": "等等，我……我以前听过这段对话，一字不差。\n Wait, I've... I've heard this exact conversation before."
+    },
+    {
+      "id": 31,
+      "content": "什么时候……在哪儿听过这段对话……？我的脑子像是被打散的信息搅成一团——感觉要理清楚还得花上一阵。\n When... where did I hear this conversation before...? My brain feels like a chaotic scramble of disconnected information—I feel it's going to take a while to get it all in order."
+    },
+    {
+      "id": 32,
+      "model": "단테",
+      "content": "<这里是……泉……>\n <This is... the Fount...>"
+    },
+    {
+      "id": 33,
+      "model": "로쟈",
+      "content": "啊？泉？我们明明是在——\n Wha? The Fount? We're obviously in a—"
+    },
+    {
+      "id": 34,
+      "model": "이스마엘",
+      "content": "……是洗手间。\n ... It's a restroom."
+    },
+    {
+      "id": 35,
+      "model": "돈키호테",
+      "content": "此乃茅厕也！\n Verily, 'tis a privy!"
+    },
+    {
+      "id": 36,
+      "model": "이상",
+      "content": "一处可将心中郁结尽数放空之所。\n A place where one's innermost troubles may be emptied."
+    },
+    {
+      "id": 37,
+      "model": "히스클리프",
+      "content": "我们在那台该死的机器里遭了那么多罪……就为了到个厕所？\n We went through all that shite in that bloody machine... just to get to a toilet?"
+    },
+    {
+      "id": 38,
+      "model": "홍루",
+      "content": "耐莉确实撒过谎，害我们陷入过危险，不过这一次，我倒不觉得她是想害我们或是骗我们呢……\n It's true Nelly's lies did put us in danger before, but it didn't appear to me that she was trying to harm or deceive us this time around..."
+    },
+    {
+      "id": 39,
+      "model": "로쟈",
+      "content": "小浮。我们启动的那台机器……是某种传送装置吗？\n Fau. The machine we triggered... was it some kind of teleporter?"
+    },
+    {
+      "id": 40,
+      "model": "파우스트",
+      "content": "结论取决于我们如何解读那段体验，但可以肯定，我们的身体并未被实际送到此处。不过这不成问题——这里确实是我们要去的目的地，而我们已经成功抵达。\n The verdict would differ depending on our interpretation of the experience, but it is certain that our bodies were not physically sent to this place. That shouldn't be an issue, however, as this is indeed the destination we were bound for, which we have reached successfully."
+    },
+    {
+      "id": 41,
+      "model": "로쟈",
+      "content": "那……我们到底在哪儿啊？要去哪里才能找到默尔？\n So... where the heck are we? Where do we go to find Meur?"
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<你们在说什么？默尔索不就在他惯常的位置站着吗，出口旁边——>\n <What are you talking about? Meursault's right there in his usual spot, by the exit—>"
+    },
+    {
+      "id": 43,
+      "model": "단테",
+      "content": "<咦……？>\n <Huh...?>"
+    },
+    {
+      "id": 44,
+      "content": "我转向出口，看向默尔索……原本所在的位置，才发现他不在那儿。我在洗手间里四下张望，寻找他的踪影，却哪儿都看不见他。\n I turned toward the exit point to where Meursault... used to be, and realized that he wasn't there. I looked around the restroom, searching for his whereabouts, but I couldn't see him anywhere."
+    },
+    {
+      "id": 45,
+      "model": "이스마엘",
+      "content": "<i>您</i>在说什么呢，但丁？我们来这儿的理由就是找默尔索，您忘了吗？\n What are <i>you</i> talking about, Dante? The whole reason we're here is to find Meursault, remember?"
+    },
+    {
+      "id": 46,
+      "model": "히스클리프",
+      "content": "……喂，那台自杀贩卖机八成把钟的齿轮给磕掉了一颗。他现在神游天外呢。\n ... Oi, the Suicide Vending Machine must've knocked a gear off the Clock or somethin'. They're out of it."
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<不，<i>你们</i>到底在说</i>什么</i>？！我们失败了。注定要永远——>\n <No, <i>what</i> are </i>you guys</i> talking about?! We failed. Doomed to forever—>"
+    },
+    {
+      "id": 48,
+      "content": "我转向浮士德，那个几乎总能指望她知情的人……\n I turned to Faust, someone I could almost always trust to be in the know..."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<浮士德！>\n <Faust!>"
+    },
+    {
+      "id": 50,
+      "model": "파우스트",
+      "content": "……啊。若……若是如此……\n ... Ah. If... if that is the case..."
+    },
+    {
+      "id": 51,
+      "model": "파우스트",
+      "content": "……那么这件事，我还是尽量少说为好。\n ... then I'd better speak as little as possible on this matter."
+    },
+    {
+      "id": 52,
+      "content": "……可她只是把视线从我身上移开——明摆着不打算透露任何事。\n ... but she simply looked away from me—a clear sign that she wasn't willing to divulge anything."
+    },
+    {
+      "id": 53,
+      "model": "료슈",
+      "content": "钟。\n Clock."
+    },
+    {
+      "id": 54,
+      "model": "단테",
+      "content": "<只有我记得吗？我们已经……我们亲眼见过西西弗百货的结局……我们……>\n <Am I the only one who remembers this? We already... we were there for the end of the Grand Magasin... We...>"
+    },
+    {
+      "id": 55,
+      "model": "료슈9장",
+      "content": "既视感……我来过这儿。见过什么，然后回来了……或者说，<i>被倒回来了</i>吧。\n Déjà vu... I've been here before. Witnessed something before returning... or <i>being rewound</i>, I suppose."
+    },
+    {
+      "id": 56,
+      "model": "단테",
+      "content": "<…!>"
+    },
+    {
+      "id": 57,
+      "model": "료슈2",
+      "content": "所以冷静点，钟头。\n So calm down, C.H."
+    },
+    {
+      "id": 58,
+      "content": "阿赖耶识震了一下，发出一声轻鸣，像是在附和。\n Arayashiki vibrates, letting out a light hum as though in agreement."
+    },
+    {
+      "id": 59,
+      "model": "히스클리프",
+      "content": "……等等，等等。我可不敢说他这状态还能不能往前走。连他脑袋上那团火，我瞧着都比刚才旺了些……\n ... Hang on, hang on. I ain't so sure if they're okay to move on. Even that fire on their noggin feels a bit hotter, I think..."
+    },
+    {
+      "id": 60,
+      "model": "료슈",
+      "content": "谁知道。记毒之类的吧。\n Who knows. Must be M.P. or something."
+    },
+    {
+      "id": 61,
+      "model": "싱클레어",
+      "content": "“记忆中毒之类的”……？像食物中毒那样吗？那到底算是什么……\n \"Must be memory poisoning or something\"...? Like food poisoning? What does that even..."
+    },
+    {
+      "id": 62,
+      "model": "로쟈",
+      "content": "哦——所以但丁才会在出口那儿看见默尔索的幻觉吧。那些关于西西弗百货的莫名其妙的话也说得通了——他多半是在过来的路上被默尔的记忆轰了个正着！\n Ohh, maybe that's why Dante hallucinated Meursault by the exit. That explains the random stuff they said about the Grand Magasin—they were probably bombarded by Meur's memories on the way here!"
+    },
+    {
+      "id": 63,
+      "model": "홍루",
+      "content": "说不定就是这样呢。每当轮到某个人的“回合”，但丁总能得到一次窥见对方记忆的机会。\n Maybe that's what happened. Whenever someone's \"turn\" comes, Dante tends to get a chance to peek into their memories."
+    },
+    {
+      "id": 64,
+      "content": "良秀环视着房间，紧蹙的眉头里透出不适。\n Ryōshū looked around the room, discomfort visible in her knitted brows."
+    },
+    {
+      "id": 65,
+      "content": "难道良秀真的记得之前西西弗百货的什么事……？不，我觉得不是这样。可我总甩不掉那种漏了什么的别扭感，眼下也下不了什么定论。\n Maybe Ryōshū actually remembers something about the Grand Magasin from before...? No, I don't think that's what's happening. But I can't shake this nagging feeling that I'm missing something to be making any definite guesses at this moment."
+    },
+    {
+      "id": 66,
+      "content": "那么，那一切都是我想象出来的？还是一场梦？\n Has all of that been a figment of my imagination, then? Or a dream?"
+    },
+    {
+      "id": 67,
+      "model": "단테",
+      "content": "<这说不通……>\n <That doesn't seem plausible...>"
+    },
+    {
+      "id": 68,
+      "content": "如果那真的只是幻觉或一场梦，浮士德就不会摆出一副知情的反应。何况我们在西西弗百货经历的一切都太鲜明了，鲜明到无法当作一时的妄想打发过去——至少对我而言是这样。\n If it really were just an illusion or a dream, Faust wouldn't have reacted as though she knew something. Besides, everything we went through at the Grand Magasin was vivid enough to dispel any notion of dismissing it as a product of momentary delusion—at least for me."
+    },
+    {
+      "id": 69,
+      "model": "이상",
+      "content": "眼下……我以为您该靠着这面墙歇息片刻，恢复一下。此刻似乎并无直接的威胁。\n For now... I say that you must rest upon this wall awhile and recover. At present, naught appears to pose a direct threat."
+    },
+    {
+      "id": 70,
+      "model": "오티스",
+      "content": "我们本不该如此盲目地投身进那台功能不明的机器……\n Never should've thrown ourselves so blindly into that machine of dubious function..."
+    },
+    {
+      "id": 71,
+      "model": "오티스",
+      "content": "或许可以趁执行经理进行必要的休整时，向那边那位女性问话，收集些情报。\n Perhaps we can question that woman there and gather some information while the Executive Manager takes their much-needed rest."
+    },
+    {
+      "id": 72,
+      "model": "싱클레어",
+      "content": "...!"
+    },
+    {
+      "id": 73,
+      "model": "싱클레어",
+      "content": "她看上去……和德米安有些像……\n She looks similar... to Demian..."
+    },
+    {
+      "id": 74,
+      "model": "오티스",
+      "content": "报上身份。你对这个地方知道些什么？\n Identify yourself. What do you know about this place?"
+    },
+    {
+      "id": 75,
+      "model": "푸른여인",
+      "content": "……这个地方……\n ... This place..."
+    },
+    {
+      "id": 76,
+      "content": "那女人唇边挂着慈和的微笑，安详地注视着我们。\n The woman, with a benevolent smile gracing her lips, is watching us serenely."
+    },
+    {
+      "id": 77,
+      "content": "我以前也见过她。\n I'd seen her before, too."
+    },
+    {
+      "id": 78,
+      "model": "푸른여인",
+      "content": "……这里是一切被冲走之物的归处。“泉”……\n ... It is where everything that is washed away comes to rest. The \"Fount\"..."
+    },
+    {
+      "id": 79,
+      "model": "로쟈",
+      "content": "泉？！喂，但丁刚才就是这么叫这地方的——\n The Fount?! Hey, that's what Dante called this place earlier—"
+    },
+    {
+      "id": 80,
+      "model": "료슈",
+      "content": "嘘。\n Shh."
+    },
+    {
+      "id": 81,
+      "content": "奥提斯顿了顿，等罗佳和良秀那场短暂的争执结束，才继续向那名神秘女子发问。\n Outis paused, waiting for Rodya and Ryōshū's brief altercation to end, then continued her query toward the mysterious woman."
+    },
+    {
+      "id": 82,
+      "model": "오티스",
+      "content": "……我们问的不是这个。\n ... That's not what we asked."
+    },
+    {
+      "id": 83,
+      "model": "오티스",
+      "content": "你隶属于这家店吗？不可否认，你身上有种令人熟悉的感觉。\n Are you affiliated with this establishment? Can't deny there is something familiar about you."
+    },
+    {
+      "id": 84,
+      "model": "푸른여인",
+      "content": "……万物呈现出的模样……取决于人如何相信。\n ... All things appear... as one believes them to be."
+    },
+    {
+      "id": 85,
+      "model": "이스마엘",
+      "content": "唔，至少她看起来对我们没有敌意……\n Well, at least she doesn't seem hostile to us..."
+    },
+    {
+      "id": 86,
+      "model": "이스마엘",
+      "content": "您是否知道我们……在这里该做些什么……？如果知道的话，能告诉我们吗？\n Do you happen to know what we're... supposed to do here...? Could you tell us if you do?"
+    },
+    {
+      "id": 87,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 88,
+      "content": "……蓝衣女人似乎没有更多要说的了。她只是带着同样慈和的微笑，沉默地继续注视着我们。\n ... The woman in blue doesn't seem to have anything more to say. She just continues to regard us in silence with that same, benevolent smile."
+    },
+    {
+      "id": 89,
+      "model": "싱클레어",
+      "content": "如果我们就这么……从那边那扇门出去，还安全吗？\n Would it still be safe if we just... left through that door over there?"
+    },
+    {
+      "id": 90,
+      "model": "푸른여인",
+      "content": "......."
+    },
+    {
+      "id": 91,
+      "content": "要弄清这一切究竟是不是我的想象，有一个再明确不过的办法，而我已经准备好去验证了。一旦我们从那个出口出去，迎接我们的首先会是一道名副其实的尸体瀑布。然后，正当我们为这突变惊慌失措时，克罗默姐姐会从某处现身，用她那假惺惺的亲切跟我们搭话。\n There was one very clear-cut way of finding out whether this had all been just a product of my imagination or not, and I was ready to confirm it. Once we leave through that exit, we'll first be greeted by a veritable waterfall of corpses. Then, as we panic at the sudden turn of events, Kromer's sister will emerge from somewhere and chat us up with her feigned affability."
+    },
+    {
+      "id": 92,
+      "content": "至少，我对上一次经历的记忆还在。每一个细节我都记得。\n If anything, my memory of the previous experience remains. I remember every detail."
+    },
+    {
+      "id": 93,
+      "model": "단테",
+      "content": "<先办要紧事……我们动身，去看看外面是什么情况。>\n <First things first... Let's get a move on and see what's outside.>"
+    }
+  ]
+}

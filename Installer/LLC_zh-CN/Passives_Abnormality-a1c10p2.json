@@ -1,0 +1,256 @@
+{
+  "dataList": [
+    {
+      "id": 150301,
+      "name": "无休止的哀嚎\n Ceaseless Wailing",
+      "desc": "遭遇战开始：进入恐慌状态\n\n若本单位处于恐慌状态，施加以下效果：\n- <color=#ff6000><mark color=#ff000040><b><u>所有攻击均以布布为目标</color></mark></b></u>\n- 使用技能时，若布布为主要目标，则获得拼点威力与基础威力\n- 战斗开始：将所有硬币转化为[SuperCoin]\n Encounter Start: Enter Panic state\n\nIf this unit is in Panic state, apply the following effects:\n- <color=#ff6000><mark color=#ff000040><b><u>All Attacks target Pwie</color></mark></b></u>\n- On Skill Use, if Pwie is the main target, gain Clash Power and Base Power\n- Combat Start: Convert all Coins into [SuperCoin]s",
+      "flavor": "那远古之物的孩子们，已经不复存在了。\n The children of the thing of eld are no more."
+    },
+    {
+      "id": 150302,
+      "name": "缠结的黑线\n Tangled Black Thread",
+      "desc": "本单位技能、士气低落与恐慌的效果，会对敌人施加[TangleBlackYarn]\n※ [TangleBlackYarn]可以通过<color=#ff6000><mark color=#ff000040><b><u>使用防御技能或本单位的特定技能</color></mark></b></u>来减少\n受到攻击时，触发以下效果：\n- 获得1层[SickBlackYarn]\n- 若命中本单位的技能是<color=#ff6000><mark color=#ff000040><b><u>斩击技能</color></mark></b></u>，额外获得1层[SickBlackYarn]\n- 若命中本单位的技能<color=#ff6000><mark color=#ff000040><b><u>攻击加权值达到5以上</color></mark></b></u>，则下回合获得[HeavyBlackYarn]（每回合1次）\n The effects of this unit's Skills, Low Morale, and Panic inflict [TangleBlackYarn] on the enemy\n※ [TangleBlackYarn] can be reduced either by <color=#ff6000><mark color=#ff000040><b><u>using Defense Skills or via certain Skills of this unit</color></mark></b></u>\nWhen hit, activate the following effects:\n- Gain 1 [SickBlackYarn]\n- If the Skill that hit this unit is a <color=#ff6000><mark color=#ff000040><b><u>Slash Skill</color></mark></b></u>, gain 1 additional [SickBlackYarn]\n- If the Skill that hit this unit has <color=#ff6000><mark color=#ff000040><b><u>5+ Atk Weight</color></mark></b></u>, gain [HeavyBlackYarn] next turn (once per turn)",
+      "flavor": "缠绕在它躯体上的这些黑线，原本并不存在。全凭一份运气，在上个时代让位给下个时代之际，那些丝线便缠上了这远古之物的躯体。裹着丝线，它活过了百货商场时代。如今，那些黑线开始渐渐松开了。\n The black thread wound around its body was not there before. By sheer fortune, when the previous age gave way to the next, those threads coiled around the body of the thing of eld. Wrapped in thread, it survived into the Age of the Department Store. Now, those black threads begin to come undone."
+    },
+    {
+      "id": 150303,
+      "name": "回归远古之水\n Into the Waters of Eld",
+      "desc": "若某个部位<color=#ff6000><mark color=#ff000040><b><u>陷入混乱</color></mark></b></u>，则<color=#ff6000><mark color=#ff000040><b><u>移除其他部位1层混乱区间并结束回合</color></mark></b></u>；随后，所有部位下回合获得[HideBlackYarn]\n\n<color=#ff6000><mark color=#ff000040><b><u>若[HideBlackYarn]因受到攻击而失效</color></mark></b></u>，\n- 获得10层[SickBlackYarn]\n- 若[SickBlackYarn]获得量超过其上限，则本回合与下回合获得3层易损\n\n回合结束：若[HideBlackYarn]已失效，\n- 获得（7-剩余威力）层[SickBlackYarn]\n- 下回合获得1层[AngryBlackYarn]\n If a Part becomes <color=#ff6000><mark color=#ff000040><b><u>Staggered</color></mark></b></u>, remove <color=#ff6000><mark color=#ff000040><b><u>1 Stagger Threshold from other Parts and end the turn</color></mark></b></u>; then, all Parts gain [HideBlackYarn] next turn\n\n<color=#ff6000><mark color=#ff000040><b><u>If [HideBlackYarn] expired due to being hit</color></mark></b></u>,\n- Gain 10 [SickBlackYarn]\n- If [SickBlackYarn] was gained beyond its max cap, gain 3 Fragile this turn and next turn\n\nTurn End: If [HideBlackYarn] expired,\n- Gain (7 - remaining Potency) [SickBlackYarn]\n- Gain 1 [AngryBlackYarn] next turn",
+      "flavor": "回归那久远时代大海的怀抱，昔日它曾在那里自由自在地畅游。\n Into the embrace of the sea from a bygone age, where once it swam as naturally and freely as could be."
+    },
+    {
+      "id": 150304,
+      "name": "挥之不去的潮湿\n Lingering Dampness",
+      "desc": "受到[Combustion]、[Laceration]、[Vibration]、[Burst]与[Sinking]的体力与精神力伤害减少；[Vibration]造成的混乱区间前移量-50%\n\n本单位的恐慌类型不会因施加改变恐慌类型的效果而改变\n回合结束：若本单位处于恐慌状态，则精神力归零\n Take less HP and SP damage from [Combustion], [Laceration], [Vibration], [Burst], and [Sinking]; -50% to Stagger Threshold raised by [Vibration]\n\nThis unit's Panic Type does not change when inflicted with an effect that changes Panic Types\nTurn End: If this unit is in Panic, SP returns to 0",
+      "flavor": "水族箱西西弗早已不复存在，但这具躯体仍残留着那段岁月里的一丝水汽——尚未化为丝线的湿意。\n Aquarium Sisyphe is gone, yet this body still retains a faint trace of the water from those days—moisture that has not yet turned to thread."
+    },
+    {
+      "id": 150101,
+      "name": "陶土塑成的玩偶\n A Doll Molded from Clay",
+      "desc": "遭遇战开始：体力回复至上限\n\n核心与部位不会受到[Combustion]与[Laceration]造成的伤害\n Encounter Start: Heal to max HP\n\nThe Core and the Part do not take damage from [Combustion] and [Laceration]",
+      "flavor": "那如瓷器般的肌肤，其实来自陶土。\n That porcelain-like skin came from clay."
+    },
+    {
+      "id": 150102,
+      "name": "不凋花\n Unwithering Flower",
+      "desc": "战斗开始：获得1层[AlriunePetal]\n\n若本单位陷入混乱，\n- 下回合获得2层[Vulnerable]\n- 使罪人与援护单位回复20点精神力\n- 回合开始：若本单位从混乱中恢复，则将[AlriunePetal]重置为1\n\n回合开始：若没有敌人持有[FlowerLaurelWreath]，则<color=#ff6000><mark color=#ff000040><b><u>装备“芬芳的月桂花环”技能</color></mark></b></u>\n- 若本单位本回合装备了“怀揣归于尘土的希望……”，则下回合装备上述技能\n\n<color=#ff6000><mark color=#ff000040><b><u>受到未持有[FlowerLaurelWreath]的敌人所用技能造成的伤害-50%</color></mark></b></u>\n<color=#ff6000><mark color=#ff000040><b><u>受到持有[FlowerLaurelWreath]的敌人造成的伤害+150%</color></mark></b></u>\n Combat Start: Gain 1 [AlriunePetal]\n\nIf this unit becomes Staggered,\n- Gain 2 [Vulnerable] next turn\n- Heal 20 SP on Sinners and Assist Units\n- Turn Start: If this unit recovered from Stagger, reset [AlriunePetal] to 1\n\nTurn Start: If no enemies have [FlowerLaurelWreath], <color=#ff6000><mark color=#ff000040><b><u>equip the \"Fragrant Laurel Wreath\" Skill</color></mark></b></u>\n- Equip the said Skill next turn if this unit equipped \"Bearing the hope to return to dust...\" this turn\n\n<color=#ff6000><mark color=#ff000040><b><u>Take -50% damage from Skills used by enemies that do not have [FlowerLaurelWreath]</color></mark></b></u>\n<color=#ff6000><mark color=#ff000040><b><u> Take +150% damage from enemies that have [FlowerLaurelWreath]</color></mark></b></u>",
+      "flavor": "花朵会凋谢。而后它们又会再次绽放。\n Flowers wilt. Then they bloom again."
+    },
+    {
+      "id": 150103,
+      "name": "春之降临\n Spring's Advent",
+      "desc": "对陷入混乱的敌人造成20点精神力伤害\n\n回合开始：<color=#ff6000><mark color=#ff000040><b><u>若存在处于恐慌或侵蚀状态的目标，则对该目标使用“……它将带着一切求生的渴望，一同归于坟墓”</color></mark></b></u>（每回合最多2次，优先选择速度最慢的敌人，按速度升序，不包括援护单位）\n\n若上述技能击杀了目标，则下回合召唤1只“从大地中显现之物”\n- 场上存在4只“从大地中显现之物”时，此效果不会触发\n Deal 20 SP damage to Staggered enemies\n\nTurn Start: <color=#ff6000><mark color=#ff000040><b><u>If there is a target in Panic or in Corrosion, use \"... It shall go back to the grave with all that desires to live\" on the said target</color></mark></b></u> (max 2 times per turn, prioritizes the slowest enemies in ascending order of Speed, excluding Assist Units)\n\nIf the said Skill killed the target, summon 1 \"One Who Emerged from the Earth\" next turn\n- This effect does not activate when there are 4 \"One Who Emerged from the Earth\" on the field",
+      "flavor": "待到春天到来，它便会绽放。\n When spring comes, it shall bloom."
+    },
+    {
+      "id": 150201,
+      "name": "来自大地\n From the Earth",
+      "desc": "本单位不会受到[Combustion]与[Laceration]造成的伤害\n\n<color=#ff6000><mark color=#ff000040><b><u>受[Vibration]影响的混乱区间前移量+100%</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>本单位陷入混乱时即被击败</color></mark></b></u>\n This unit does not take damage from [Combustion] and [Laceration]\n\n<color=#ff6000><mark color=#ff000040><b><u>+100% to Stagger Threshold raised by [Vibration]</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>This unit is defeated when Staggered</color></mark></b></u>",
+      "flavor": "归于大地。\n Back to the earth."
+    },
+    {
+      "id": 151901,
+      "name": "超高速SPM\n Ultra-High-Speed SPM",
+      "desc": "若目标<color=#ff6000><mark color=#ff000040><b><u>速度低于本单位，则拼点威力+3</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>若本单位在使用消耗[ChargeKhaki]层数的技能的回合结束时，[ChargeKhaki]层数达到11以上</color></mark></b></u>，则使用一个强力技能\n\n体力降至50%或以下时，使用一个强力技能（每场遭遇战1次）\n If target's <color=#ff6000><mark color=#ff000040><b><u>Speed is slower than this unit's, Clash Power +3</color></mark></b></u>\n\n<color=#ff6000><mark color=#ff000040><b><u>If this unit has 11+ [ChargeKhaki] Count at the end of the turn this unit used a Skill that consumes [ChargeKhaki] Count</color></mark></b></u>, use a powerful Skill\n\nAt 50% or less HP, use a powerful Skill (once per Encounter)",
+      "summary": "若目标速度低于本单位，则获得拼点威力\n If target's Speed is slower than this unit's, gain Clash Power",
+      "flavor": "大姐能达到每分钟10000针。\n Big Sis can reach 10,000 SPM."
+    },
+    {
+      "id": 151902,
+      "name": "钉死的针脚\n Nailed Stitch",
+      "desc": "对陷入混乱或无法行动的目标造成的伤害+40%\n Deal +40% damage to Staggered or immobilized targets",
+      "flavor": "没有什么比缝一件不能动的东西更简单的了。\n Nothing is easier than stitching something that cannot move."
+    },
+    {
+      "id": 151903,
+      "name": "染色针脚\n Color Stitch",
+      "desc": "若本单位持有[SpreadingDye]，则对本单位技能命中的目标施加1层[StickyDye]\n\n对持有[ThreadDye]的目标施加以下效果：\n- 技能额外施加等同于([ThreadDye]威力)点的[Laceration]威力与层数\n- 通过上述效果施加[StickyDye]时，对一名随机持有[ThreadDye]的敌人（不包括已被施加的目标）额外施加1层[StickyDye]\n\n对持有[Inactible]的技能目标不施加[ThreadDye]\n If this unit has [SpreadingDye], inflict 1 [StickyDye] against targets this unit's Skill hit\n\nApply the following effects to targets that have [ThreadDye]:\n- Skills inflict +([ThreadDye] Potency) more [Laceration] Potency and Count\n- When inflicting [StickyDye] via the effect above, inflict 1 [StickyDye] on a random enemy that has [ThreadDye], excluding the target that has been inflicted \n\nDoes not inflict [ThreadDye] on Skill targets that have [Inactible]",
+      "flavor": "你负责缝布料，大姐。我来帮你染色。\n You stitch the fabric, Big Sis. I'll dye with you."
+    },
+    {
+      "id": 151904,
+      "name": "针数调节器调整\n Stitch Count Regulator Adjustment",
+      "desc": "遭遇战开始：体力回复至上限并回复45点精神力\n\n本单位在本场遭遇战中每累计消耗10层[ChargeKhaki]，获得1层[ChargeKhaki]\n Encounter Start: Heal max HP and 45 SP\n\nGain 1 [ChargeKhaki] for every 10 cumulative [ChargeKhaki] Count this unit consumed in this Encounter"
+    },
+    {
+      "id": 149501,
+      "name": "改衣\n Alteration",
+      "desc": "回合开始：<color=#ff6000><mark=#ff000040><b><u>对上回合对本单位造成最多伤害的罪人施加1层[TailoringTarget]</u></b></mark></color>，并使用“制版”技能\n- 若该持有[TailoringTarget]的罪人<color=#ff6000><mark=#ff000040><b><u>持有9层[ScissorsMark]</u></b></mark></color>，则改为触发<color=#ff6000><mark=#ff000040><b><u>“链式锁边”而非“制版”</u></b></mark></color>\n\n每当本单位受到罪人攻击，\n- 对该罪人施加1层[ScissorsMark]（每名罪人每回合最多5层）\n- 获得+1层[ChargeKhaki]（每名罪人每回合最多5层）\n\n<color=#ff6000><mark=#ff000040><b><u>每当本单位受到持有[TailoringTarget]的罪人攻击，获得3层[ResultEnhancement]</u></b></mark></color>（每回合最多9层）\n Turn Start: <color=#ff6000><mark=#ff000040><b><u>Inflict 1 [TailoringTarget] on the Sinner that dealt the most damage</u></b></mark></color> to this unit last turn and use the \"Patterning\" Skill\n- If the [TailoringTarget] Sinner <color=#ff6000><mark=#ff000040><b><u>has 9 [ScissorsMark]</u></b></mark></color>, activate \"Patterning\" as <color=#ff6000><mark=#ff000040><b><u>\"Surfile à la Chaîne\"</u></b></mark></color> instead\n\nEvery time this unit is hit by a Sinner,\n- Inflict 1 [ScissorsMark] on the said Sinner (max 5 per turn per Sinner)\n- Gain +1 [ChargeKhaki] Count (max 5 per turn per Sinner)\n\n<color=#ff6000><mark=#ff000040><b><u>Gain 3 [ResultEnhancement] every time this unit is hit by a Sinner that has [TailoringTarget] (max 9 per turn)</u></b></mark></color>",
+      "flavor": "人们说，一件衣服唯有经过改衣，才算真正完成。除非量身定制，否则总要经过调整，才能合身。\n\n这并非只适用于衣物。任何从外界吸纳而来的东西，都必须先经过改造以适应自身，才能被穿上、被容纳、被裁合于心。\n They say a garment is only truly finished through alteration. Unless it was made to measure, it has to be adjusted until it fits the wearer.\n\nAnd that is not true of clothing alone. Whatever is taken in from the outside must first be altered to suit oneself before it can be worn, lived in, and made to fit the heart."
+    },
+    {
+      "id": 149503,
+      "name": "裁剪\n Tailoring",
+      "desc": "在遭遇战开始时，或在本单位从混乱中恢复的回合开始时，获得30层[FinishedFabric]\n\n施加[PanicChangeLock]效果\n回合结束：若本单位处于恐慌状态，则将精神力变为30\n\n回合开始：\n- <color=#ff6000><mark=#ff000040><b><u>获得等同于([FinishedFabric]层数)%体力的护盾</u></b></mark></color>（最多30%）\n- 回复等同于[FinishedFabric]层数的精神力\n At Encounter Start or at the start of the turn this unit recovered from Stagger, gain 30 [FinishedFabric]\n\nApply the [PanicChangeLock] effect\nTurn End: If this unit is in Panic, change SP to 30\n\nTurn Start:\n- <color=#ff6000><mark=#ff000040><b><u>Gain Shield equal to ([FinishedFabric] Stack)% HP</u></b></mark></color> (max 30%)\n- Heal SP equal to [FinishedFabric] Stack",
+      "flavor": "裁剪，就是把布料塑造成版型的过程。裁剪赋予衣物形态，而改衣则让它变得可穿。\n\n对布料而言，裁剪本身也是一种改造。一旦被裁开，布料便会呈现出反映自身特性的形状，成为裁剪者所构想的那件衣物。\n Cutting means shaping fabric to a pattern. Cutting gives a garment its form, while alteration makes it wearable.\n\nTo fabric, then, cutting itself is a form of alteration. Once cut, the fabric takes on a shape that reflects its own properties, becoming the garment the cutter intended."
+    },
+    {
+      "id": 149504,
+      "name": "永不停歇的剪刀\n Scissors That Do Not Rest",
+      "desc": "每当改衣师安妮特受到罪人攻击，<color=#ff6000><mark=#ff000040><b><u>混乱区间提升等同于0.8%体力的数值</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>若本单位陷入混乱，则失去全部护盾、[FinishedFabric]与[LargeTailoringShears]；随后获得3层[Vulnerable]</u></b></mark></color>\n\n回合开始：体力降至60%或以下时，\n- 每损失20%体力，获得1层[ResultEnhancement]与1层[SlashDamageUp]（各自最多3层）\n- 将“修边”最后一枚硬币与“裁剪”第2枚硬币转化为[SuperCoin]\n Every time Annette the Alterationist is hit by a Sinner, <color=#ff6000><mark=#ff000040><b><u>raise Stagger Threshold equal to 0.8% HP</u></b></mark></color>\n\n<color=#ff6000><mark=#ff000040><b><u>If this unit is Staggered, lose all Shield, [FinishedFabric], and [LargeTailoringShears]; then, gain 3 [Vulnerable]</u></b></mark></color>\n\nTurn Start: At 60% or less HP,\n- Gain 1 [ResultEnhancement] and 1 [SlashDamageUp] for every 20% missing HP (max 3 respectively)\n- Convert the final Coin of \"Trimming\" and Coin 2 of \"Cutting\" to [SuperCoin]",
+      "flavor": "一具其价值全由改衣之工塑造的躯体，永不停歇地裁剪下去，被永远改造、永远裁制的冲动所驱使。\n\n即便这躯体正在分崩离析，她也无法让自己停下改衣与裁剪。她生来就是为了把东西剪掉，却剪不掉束缚自己的枷锁。\n A body whose very worth was shaped by the work of alteration goes on cutting without end, driven to alter and tailor forever.\n\nEven as the body breaks apart, she cannot bring herself to stop altering and cutting. She is made to cut things away, yet cannot cut herself free."
+    },
+    {
+      "id": 149505,
+      "name": "漂流的惯性\n Inertia of Drifting",
+      "desc": "本单位在本场遭遇战中每累计消耗10层[ChargeKhaki]，获得1点[ChargeKhaki]威力\n\n[ChargeKhaki]威力达到3/5以上时，[ChargeKhaki]层数上限+5/+10\n Gain 1 [ChargeKhaki] Potency for every 10 cumulative [ChargeKhaki] Count this unit consumes in this Encounter\n\nAt 3+/5+ [ChargeKhaki] Potency, [ChargeKhaki] Count max cap +5/+10",
+      "flavor": "他们随着百货商场时代所塑造的价值观漂流，被那份惯性推着向前；而这惯性愈发强大，他们便愈发无法停止漂流。\n They drift along the values shaped by the Age of the Department Store, swept onward by their inertia; and the stronger that inertia grows, the less able they are to stop drifting."
+    },
+    {
+      "id": 150601,
+      "name": "保存\n Conservation",
+      "desc": "本单位在本场遭遇战中每累计消耗10层[ChargeNoir]，获得1点[ChargeNoir]威力\n[ChargeNoir]层数上限+10\n Gain 1 [ChargeNoir] Potency for every 10 cumulative [ChargeNoir] Count this unit consumes in this Encounter\n[ChargeNoir] Count max cap +10"
+    },
+    {
+      "id": 150602,
+      "name": "约定之锤\n Malleus Promissionis",
+      "desc": "命中或受到攻击时，获得+1层[ChargeNoir]\n On Hit, or when hit, gain +1 [ChargeNoir] Count",
+      "flavor": "锤子用来钉钉子。这把锤子除了钉子什么都不敲。它敲上去的东西，就是钉子。那是约定好了的。\n A hammer drives nails. This hammer strikes nothing but nails. Whatever it strikes is a nail. That is what was agreed upon."
+    },
+    {
+      "id": 150603,
+      "name": "阵型保存\n Formation Conservation",
+      "desc": "提升“黑派”友方的等级\n\n场上每有1名存活的“黑派”友方，所有“黑派”友方受到的伤害-5%\n“黑派”友方死亡时，所有“黑派”友方（包括新召唤的单位）在本场遭遇战剩余时间内获得1层[NoirSquareCollapse]\n Boost the level of \"Le Noir\" allies\n\nAll \"Le Noir\" allies take -5% damage for every living \"Le Noir\" ally on the field\nOn death of a \"Le Noir\" ally, all \"Le Noir\" allies gain 1 [NoirSquareCollapse] for the rest of this Encounter (including newly summoned units)",
+      "flavor": "各自坚守岗位，忠实履行被托付的职责。他们合在一起，构成一个阵型，而这个阵型便成为保存整体的形象。各就其位，忠于所托。\n Each stays at their post and faithfully performs the duty entrusted to them. Together, they form a formation, and that formation becomes an image that preserves the whole. Fulfill thy charge faithfully, each in thine appointed place."
+    },
+    {
+      "id": 150401,
+      "name": "黑派面料\n Le Noir: Fabric",
+      "desc": "首次进入遭遇战时，获得5层[NoirBindArmor]\n\n回合开始：获得等同于本单位最大体力的([NoirBindArmor]层数)%的护盾\n\n陷入混乱时，失去全部[NoirBindArmor]\n回合开始：本单位从混乱中恢复时，获得5层[NoirBindArmor]\n Upon entering the Encounter for the first time, gain 5 [NoirBindArmor]\n\nTurn Start: Gain Shield equal to ([NoirBindArmor] Stack)% of this unit's max HP\n\nWhen Staggered, lose all [NoirBindArmor]\nTurn Start: When this unit recovers from Stagger, gain 5 [NoirBindArmor]",
+      "flavor": "黑派面料通过如同铠甲般坚固稳定的形态来修饰客人们的体型。\n Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette."
+    },
+    {
+      "id": 150402,
+      "name": "保存\n Conservation",
+      "desc": "根据本单位在本场遭遇战中累计消耗的[ChargeNoir]层数，施加以下效果：\n- 每累计消耗3层[ChargeNoir]，获得1层[NoirBindArmor]\n- 每累计消耗10层[ChargeNoir]，获得1层[ChargeNoir]\n\n[ChargeNoir]威力达到3以上时，[ChargeNoir]层数上限+5\n Apply the following effects based on cumulative [ChargeNoir] Count this unit consumes in this Encounter:\n- Gain 1 [NoirBindArmor] for every 3 cumulative [ChargeNoir] Count consumed\n- Gain 1 [ChargeNoir] for every 10 cumulative [ChargeNoir] Count consumed\n\nAt 3+ [ChargeNoir] Potency, max [ChargeNoir] Count +5",
+      "flavor": "将力量凝聚、集中，并加以固定。有时不改变比改变需要更大的力量。\n Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 150403,
+      "name": "品质保存\n Quality Preservation",
+      "desc": "本单位持有护盾时受到攻击，获得+1层[ChargeNoir]\n\n[ChargeNoir]层数达到10以上时，使用一个强力技能\n When hit while this unit has Shield, gain +1 [ChargeNoir] Count\n\nAt 10+ [ChargeNoir] Count, use a powerful Skill",
+      "flavor": "商品的品质必须被严格管理并保存下来。\n The quality of merchandise must be strictly managed and preserved."
+    },
+    {
+      "id": 150404,
+      "name": "布料密度差\n Fabric Density Disparity",
+      "desc": "[ChargeNoir]威力达到3/5以上时，额外施加+1/+2点[Vibration]威力\n\n使用技能时，若本单位防御等级高于目标，则每有1级防御等级差，造成的伤害+3%（最多30%）\n- 若本单位防御等级高出5级以上，基础威力+1\n At 3+/5+ [ChargeNoir] Potency, inflict +1/+2 more [Vibration] Potency\n\nOn Skill Use, if this unit's Defense Level is higher than the target's, deal +3% damage for every Defense Level difference (max 30%)\n- If this unit's Defense Level is 5+ levels higher, Base Power +1",
+      "flavor": "黑派会压碎一切比自己布料更柔软的东西。\n The Noirs crush whatever is softer than their own fabric."
+    },
+    {
+      "id": 150501,
+      "name": "黑派面料\n Le Noir: Fabric",
+      "desc": "首次进入遭遇战时，获得5层[NoirBindArmor]\n\n回合开始：获得等同于本单位最大体力的([NoirBindArmor]层数)%的护盾\n\n陷入混乱时，失去全部[NoirBindArmor]\n回合开始：本单位从混乱中恢复时，获得5层[NoirBindArmor]\n Upon entering the Encounter for the first time, gain 5 [NoirBindArmor]\n\nTurn Start: Gain Shield equal to ([NoirBindArmor] Stack)% of this unit's max HP\n\nWhen Staggered, lose all [NoirBindArmor]\nTurn Start: When this unit recovers from Stagger, gain 5 [NoirBindArmor]",
+      "flavor": "黑派面料通过如同铠甲般坚固稳定的形态来修饰客人们的体型。\n Le Noir's Worsted holds the body like armor, accentuating it beneath a firm, fixed silhouette."
+    },
+    {
+      "id": 150502,
+      "name": "保存\n Conservation",
+      "desc": "根据本单位在本场遭遇战中累计消耗的[ChargeNoir]层数，施加以下效果：\n- 每累计消耗3层[ChargeNoir]，获得1层[NoirBindArmor]\n- 每累计消耗10层[ChargeNoir]，获得1层[ChargeNoir]\n\n[ChargeNoir]威力达到3以上时，[ChargeNoir]层数上限+5\n Apply the following effects based on cumulative [ChargeNoir] Count this unit consumes in this Encounter:\n- Gain 1 [NoirBindArmor] for every 3 cumulative [ChargeNoir] Count consumed\n- Gain 1 [ChargeNoir] for every 10 cumulative [ChargeNoir] Count consumed\n\nAt 3+ [ChargeNoir] Potency, [ChargeNoir] Count max cap +5",
+      "flavor": "将力量凝聚、集中，并加以固定。有时不改变比改变需要更大的力量。\n Force is compressed, gathered, and fixed in place. Sometimes, it takes more force to prevent change than to cause it."
+    },
+    {
+      "id": 150503,
+      "name": "盘查保存\n Inspection Preservation",
+      "desc": "[ChargeNoir]层数达到10以上时，使用一个强力技能\n At 10+ [ChargeNoir] Count, use a powerful Skill",
+      "flavor": "品质必须通过盘查，而这一过程中的保存不容有失。\n Quality must pass inspection, and preservation must not be compromised in the process."
+    },
+    {
+      "id": 150504,
+      "name": "布料密度差\n Fabric Density Disparity",
+      "desc": "[ChargeNoir]威力达到3/5以上时，额外施加+1/+2点[Vibration]威力\n\n使用攻击技能时，若本单位防御等级高于目标，则每有1级防御等级差，造成的伤害+3%（最多30%）\n- 若本单位防御等级高出5级以上，基础威力+1\n At 3+/5+ [ChargeNoir] Potency, inflict +1/+2 more [Vibration] Potency\n\nOn Attack Skill Use, if this unit's Defense Level is higher than the target's, deal +3% damage for every Defense Level difference (max 30%)\n- If this unit's Defense Level is 5+ levels higher, Base Power +1",
+      "flavor": "黑派会压碎一切比自己布料更柔软的东西。\n Le Noir crushes whatever is softer than their own fabric."
+    },
+    {
+      "id": 148801,
+      "name": "收割生皮：原罪风格\n Reaping Raw Hide: Original Sin Style",
+      "desc": "回合开始：场上鞣制囚徒数量为2名或以下时，获得额外技能栏\n回合结束：场上每有1名<color=#ff6000><mark=#ff000040><b><u>鞣制囚徒</u></b></mark></color>，下回合获得1层[AttackDmgUp]\n Turn Start: When there are 2 or fewer Tanned Prisoners on the field, gain additional Slot\nTurn End: Gain 1 [AttackDmgUp] next turn for every <color=#ff6000><mark=#ff000040><b><u>Tanned Prisoner on the field</u></b></mark></color>",
+      "flavor": "违规者的皮被剥下，粘附其上的罪孽被彻底刮净，只留下皮革可供收割。\n The transgressor's hide is torn away, and the sin clinging to it is scraped clean, leaving only the hide to be harvested."
+    },
+    {
+      "id": 148802,
+      "name": "重鞣准备\n Retanning Preparation",
+      "desc": "场上存在体力低于80%的友方（本单位除外）时，获得额外技能栏\n Gain additional Slot when there is an ally, excluding this unit, with less than 80% HP on the field",
+      "flavor": "一旦罪孽再度渗入皮革，制革工坊便会将其收回，重新处理干净。\n Once sin seeps back into the leather, the Tannery takes it in and works it clean all over again."
+    },
+    {
+      "id": 148803,
+      "name": "原罪制革工坊：全力运转\n Tannery of the Original Sin: Full Operation",
+      "desc": "核心体力低于50%时，结束回合并进入新的模式；包括本单位在内的所有友方，在本场遭遇战剩余时间内获得[RestrictFailed]\n At less than 50% Core HP, end the turn and enter a new pattern; all allies, including this unit, gain [RestrictFailed] for the rest of this Encounter",
+      "flavor": "需求早已爆表，而生皮却愈发难得。原罪之人的皮革曾是连看都没人愿意多看一眼的东西。直到某一季，一切都变了：需求暴涨，价格飙升，曾经被当作边角料贱卖甚至直接丢弃的东西，如今成了人人觊觎的材料。\n\n如今，就连表面的瑕疵，也被包装成个性，当作卖点出售。\n Demand has gone through the roof, while raw hides have only grown harder to come by. The hide of the original sinners was once the sort nobody would so much as glance at. Then one season changed everything: demand surged, prices soared, and what used to be sold for scraps or simply thrown away became coveted material.\n\nNow even the blemishes on its surface are dressed up as character and sold as part of the appeal."
+    },
+    {
+      "id": 148804,
+      "name": "制革工坊的规则\n Rules of the Tannery",
+      "desc": "从第2回合起，每回合开始时随机对3名敌人施加以下效果之一：\n- [RestrictMob]\n- [RestrictBoss]\n- [RestrictTier1]\n- [RestrictDef]\n\n规则被违反时，施加1层[RestrictDenied]\n Starting from Turn 2, randomly inflict 1 of the following effects on 3 random enemies at the start of each turn\n- [RestrictMob]\n- [RestrictBoss]\n- [RestrictTier1]\n- [RestrictDef]\n\nWhen a Rule is violated, inflict 1 [RestrictDenied]",
+      "flavor": "使肉块区别于皮革的，是一套严格的鞣制流程，受着精确规则的约束。\n What separates a slab of meat from hide is a strict regime of tanning, governed by exacting rules."
+    },
+    {
+      "id": 149101,
+      "name": "鞣制囚徒\n Tanned Prisoner",
+      "desc": "死亡时，监工在本场遭遇战剩余时间内永久失去1级防御等级\n On Death, the Overseer permanently loses 1 Defense Level for the rest of this Encounter"
+    },
+    {
+      "id": 150604,
+      "name": "战斗仍在继续\n The Battle Continues",
+      "desc": "以80%体力与45点精神力开始本场遭遇战\n Start this Encounter with 80% HP and 45 SP"
+    },
+    {
+      "id": 151001,
+      "name": "缝制开始\n The Sewing Commences",
+      "desc": "回合开始时，随机对2名敌方单位施加[NiddleExpected]\n Turn Start: Inflict [NiddleExpected] on 2 random enemies"
+    },
+    {
+      "id": 151002,
+      "name": "手工制作\n Handmade",
+      "desc": "每有1名针族在场，使自身技能的最终威力+1\n Skill Final Power +1 for every Needlekin on the field",
+      "flavor": "于手工缝制而言，熟练工匠的数量就是生命。\n No hand sewing survives on one pair of hands alone. A host of practiced artisans are needed to breathe life into it."
+    },
+    {
+      "id": 151003,
+      "name": "堵上耳朵也能听见的投诉\n Unending, Unavoidable Stream of Customer Complaints",
+      "desc": "每到3的倍数回合，会听见茧的悲鸣\n进入第2阶段后，茧的悲鸣每回合持续\n\n在听见茧的悲鸣的回合，自身免疫无法行动状态\n\n若自身的体力降至混乱阈值之下，则下回合对自身施加2层[Vulnerable]\n \"Cry of the Cocoon\" is heard every \"multiple of 3\" turns\nUpon entering Phase 2, \"Cry of the Cocoon\" continues to be heard every turn\n\nThis unit cannot be immobilized in the turn \"Cry of the Cocoon\" is heard\n\nIf this unit's HP is brought past its Stagger Threshold, gain 2 [Vulnerable] next turn",
+      "flavor": "从茧里传来了声音。\n“80支2股以下不算是面料。” “纽扣眼为什么不是横的？”\n“是旧式织机织出来的天竺布吗？” “布边的颜色为什么不是红色？”\n“这个没做防缩水工艺呢。” “Super150以下的都是廉价面料吧。”\n“你说Super等级只代表线的粗细？直径和支数都不一样，怎么连这个都不知道。”\n“肯定会用Union Special给下摆做处理吧？” “这个是硬化过的吗？啊，还是说是布边？”\n“仔细看去，针脚太均匀了，是用了机器吧？” “不是纯手工缝制就算不上定做。”\n“啊，这不是米兰式扣眼啊。” “支数得超过200才能叫衬衫面料吧。”\n“啊，从外面能看见缝线呢。” “能看到两列缝线呢。淘汰。”\n“缝份怎么处理成这样。” “得超过3股才行。”\n Voices seep from the cocoon.\n\n\"Anything under 80-count two-ply? Not even fabric!\"\n\"Why aren't the buttonholes horizontal?\"\n\"Jersey knit on machine? Really?\"\n\"Why isn't the selvage red?\"\n\"This hasn't even been shrink-proofed.\"\n\"Anything below Super 150 is cheap cloth, obviously.\"\n\"You think the Super scale is just yarn thickness? Diameter and yarn count aren't even the same thing. Don't you know that?\"\n\"You're finishing the hem with a Union Special, right? Of course you are!\"\n\"Is this Rigid? ... Oh. Selvage?\"\n\"Wait... the stitch-per-inch count is way too even. You used a machine, didn't you?\"\n\"It's not bespoke if it's not hand-stitched.\"\n\"... That's not even a Milanese buttonhole.\"\n\"Shirting needs to be over 200-count.\"\n\"Ugh, I can see the stitching on the outside.\"\n\"There, I can see two rows of stitching there. Rejected.\"\n\"What's with this seam finish?\"\n\"Three-ply, minimum.\""
+    },
+    {
+      "id": 149604,
+      "name": "刺目阳光之雨\n Shower of Stinging Sunshine",
+      "desc": "本单位的等级因阳光的影响而提升\n\n遭遇战开始：获得[GoldenLeatherEnhance]\n This unit's level is raised due to the influence of the sunshine\n\nEncounter Start: Gain [GoldenLeatherEnhance]",
+      "flavor": "对那些体察阳光暖意的人来说，它的光辉愈发炽烈、耀眼而强烈。\n To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    },
+    {
+      "id": 148805,
+      "name": "战斗仍在继续\n The Battle Continues",
+      "desc": "以90%体力与45点精神力开始本场遭遇战\n Start this Encounter with 90% HP and 45 SP"
+    },
+    {
+      "id": 148305,
+      "name": "刺目阳光之雨\n Shower of Stinging Sunshine",
+      "desc": "本单位的等级因刺目阳光之雨的影响而提升\n\n遭遇战开始：获得2点[ChargeNoir]威力，并获得+15层[ChargeNoir]\n\n以30点精神力与1000点持续护盾开始本场遭遇战\n This unit's level is raised due to the influence of the shower of stinging sunshine\n\nEncounter Start: Gain 2 [ChargeNoir] Potency and +15 [ChargeNoir] Count\n\nStart the Encounter with 30 SP and 1000 persistent Shield\n",
+      "flavor": "对那些体察阳光暖意的人来说，它的光辉愈发炽烈、耀眼而强烈。\n To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    },
+    {
+      "id": 1590001,
+      "name": "刺目阳光之雨\n Shower of Stinging Sunshine",
+      "desc": "本单位的等级因阳光的影响而提升\n This unit's level is raised due to the influence of the sunshine",
+      "flavor": "对那些体察阳光暖意的人来说，它的光辉愈发炽烈、耀眼而强烈。\n To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    },
+    {
+      "id": 149608,
+      "name": "堵上耳朵也能听见的投诉\n Unending, Unavoidable Stream of Customer Complaints",
+      "desc": "“茧的悲鸣”每回合持续\n自身免疫无法行动状态[TabExplain]\n \"Cry of the Cocoon\" continues to be heard every turn\nCannot be immobilized[TabExplain]"
+    },
+    {
+      "id": 151101,
+      "name": "刺目阳光之雨\n Shower of Stinging Sunshine",
+      "desc": "本单位的等级因刺目阳光之雨的影响而提升\n\n遭遇战开始：获得[SapsareeGold]\n This unit's level is raised due to the influence of the shower of stinging sunshine\n\nEncounter Start: Gain [SapsareeGold]",
+      "flavor": "对那些体察阳光暖意的人来说，它的光辉愈发炽烈、耀眼而强烈。\n To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    },
+    {
+      "id": 151201,
+      "name": "刺目阳光之雨\n Shower of Stinging Sunshine",
+      "desc": "本单位的等级因刺目阳光之雨的影响而提升\n\n遭遇战开始：回复全部体力并获得[GoldenManager]\n This unit's level is raised due to the influence of the shower of stinging sunshine\n\nEncounter Start: Heal all HP and gain [GoldenManager]",
+      "flavor": "对留意阳光温暖的人而言，它的光辉显得愈发炽烈、耀眼、强烈。\n To those who heed the warmth of the sunlight, its shine rings out all the more searing, dazzling, and intense."
+    }
+  ]
+}

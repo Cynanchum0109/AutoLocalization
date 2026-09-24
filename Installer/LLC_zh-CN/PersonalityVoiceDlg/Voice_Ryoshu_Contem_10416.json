@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10416_1",
+      "desc": "获得人格\n Identity Acquisition",
+      "dlg": "着地的腿数，在鞋履厅里象征着神意。\n那我，一个\"一腿\"，凭什么要屈尊去服侍那些追逐每一阵流行风潮的下贱顾客呢？\n The number of legs that touch the ground is a symbol of divine providence in the Footwear Hall.\nSo why should I, a One-leg, stoop to serve ignoble clientele who chase after every à la mode fad that passes by?"
+    },
+    {
+      "id": "lobby_morning_10416_1",
+      "desc": "早间问候\n Morning Greeting",
+      "dlg": "……才过了一个季度，这店又脏了。啧……也许我压根就不该让腿太多的东西进来。\n ... A single season was all it took for the store to get filthy again. Tch... maybe I should've kept anything with too many legs from coming in at all."
+    },
+    {
+      "id": "lobby_noon_10416_1",
+      "desc": "午间问候\n Afternoon Greeting",
+      "dlg": "在阳光下用金树脂打磨过的工装靴……看来我无意间做出了一件太过珍贵、不该卖给顾客的艺术品。这双靴子……该属于像我这样尊贵的漆黑者。\n Work boots, burnished with the Golden Resin under the sunlight... Looks like I've inadvertently created a work of art far too precious to be sold to customers. This pair of boots... belongs on an exalted Noir like myself."
+    },
+    {
+      "id": "lobby_night_10416_1",
+      "desc": "夜间问候\n Evening Greeting",
+      "dlg": "售罄了。这一季的顾客倒也不是全都不识货。喂，四.腿.货.，打烊了。\n走之前把每双鞋哪怕一丝褪色都检查一遍，<i>还有</i>把地上那些恶心的脚印都清干净。你们这种四条腿的下等货，也就干得了这个了。\n Sold out. This season's clientele was not entirely blind to beauty. Hey, F.L.L., we're closing.\nCheck every shoe for the slightest sun fade <i>and</i> clean every disgusting track off the floor before you go. That's the only thing four-legged lowlives like you are good for."
+    },
+    {
+      "id": "smalltalk_10416_1",
+      "desc": "对话 1\n Chatter #1",
+      "dlg": "别妄想把我和那些可悲的\"两腿\"混为一谈。我把自己奉献给了做鞋、卖鞋、踏地这三件事——这让我正好处在两腿与一腿的边界上。\n所以……是1.1。无限接近\"一腿\"，比任何\"两腿\"都要尊贵得多。\n Don't you dare lump me in with those wretched Two-legs. I've devoted myself to crafting shoes, selling them, and treading the ground—that places me right on the boundary between two legs and one.\nSo... It's 1.1. Infinitely close to One-leg, and far more exalted than any Two-legs."
+    },
+    {
+      "id": "smalltalk_10416_2",
+      "desc": "对话 2\n Chatter #2",
+      "dlg": "品牌经理跟我说……赤红者开始崇拜一位伪神了。看来那些卑贱的家伙已经把自己安插进豪华厅了……这倒是能上演一场颓废的时装秀。好啊。我们终于能一决胜负，看看是黑还是红该居于上位。\n The Brand Manager tells me... that the Rouges have begun worshipping a false god. It seems those unexalted creatures have installed themselves in the Luxury Hall as well... This will make for one décadent fashion show. Good. We can finally settle whether black or red belongs on top."
+    },
+    {
+      "id": "smalltalk_10416_3",
+      "desc": "对话 3\n Chatter #3",
+      "dlg": "两个植物季度前，这层楼开始流传一个传闻，说某个被卡基占据的店铺里藏着一把传说之剑。哼……它在我的剑面前能有什么了不起的。\n Rumors started making the rounds on this floor two arboreal seasons ago, about a legendary sword hidden in some store Le Kaki are squatting in. Hmph... doubt there's anything exalted about it next to my blade."
+    },
+    {
+      "id": "smalltalk_10416_4",
+      "desc": "同步后对话 1\n Post-Uptie Chat 1",
+      "dlg": "漆黑者的美学根植于克制。赤红者一天到晚都忙着炫耀自己，根本无从理解我们的时尚哲学。\n那些下等人总喜欢在一身造型里塞进太多亮点——那种毫无焦点的做法，只让我想给他们来一记S.A.P。\n The aesthetics of Le Noir are rooted in temperance. The Rouges are so busy trying to flaunt themselves that they can't even begin to understand our fashion philosophy.\nThose plebeians always put far too many highlights into a single look—that lack of focal point only makes me want to S.A.P them."
+    },
+    {
+      "id": "smalltalk_10416_5",
+      "desc": "同步后对话 2\n Post-Uptie Chat 2",
+      "dlg": "鞋子是为踏地而生的艺术品。鞋底触地的部分越少，这件作品就越是升华，其时尚价值也就越高。\n那些拒绝这一常识、毫不犹豫满地乱踩的赤红者设计师……不配拥有比被推去E.W.更好的下场。\n Shoes are works of art made to tread the ground. The less of the sole that touches the ground, the more sublime the work becomes, and the higher its value as fashion.\nRouge designers who reject that common sense and stamp all over the ground without a second thought... deserve nothing less than to be shoved to the E.W."
+    },
+    {
+      "id": "neglect_10416_1",
+      "desc": "闲置\n Idle",
+      "dlg": "……这位顾客用两条腿走路。哈！离高贵还差得远，不过比起\"四腿\"那种恶心的爬行方式……倒也算勉强能忍。\n ... This customer walks on two legs. Hah! Still nowhere near noble, but compared to the disgusting way the Four-legs scuttle around... I suppose it's almost tolerable."
+    },
+    {
+      "id": "gacksung_10416_1",
+      "desc": "进行同步\n Uptying",
+      "dlg": "你试过用一条腿支撑整个躯干吗？要是你无法理解这种步态背后的高贵，那你注定会摔个跟头。\n Ever tried holding your entire body up on a single leg? If you can't comprehend the nobility behind this gait, then you're bound to trip and fall."
+    },
+    {
+      "id": "formation_10416_1",
+      "desc": "部署\n Deployment",
+      "dlg": "是时候终结赤红者的U.S.了。\n Time to put an end to the Rouges' U.S."
+    },
+    {
+      "id": "battleentry_10416_1",
+      "desc": "进入战斗\n Stage Entry",
+      "dlg": "这才符合自然秩序。这才配得上高贵之人。\n As befits the natural order. As befits the elevated."
+    },
+    {
+      "id": "battle_select_10416_1",
+      "desc": "战斗中查看\n Viewed in Battle",
+      "dlg": "嗯……太多了。我不接待踩着S.M.L.的顾客。\n Hm... Too many. I don't deal with customers who stand on S.M.L."
+    },
+    {
+      "id": "battle_endcommand_10416_1",
+      "desc": "发起攻击\n Commencing Attack",
+      "dlg": "我就破例接待你吧。\n I'll make an exception and receive you."
+    },
+    {
+      "id": "battle_enemy_break_10416_1",
+      "desc": "敌方混乱\n Enemy Stagger",
+      "dlg": "放肆的蠢货。\n Insole-ent fools."
+    },
+    {
+      "id": "battle_break_10416_1",
+      "desc": "混乱\n Staggered",
+      "dlg": "呃……！\n Khh...!"
+    },
+    {
+      "id": "battle_kill_10416_1",
+      "desc": "击败敌人\n Enemy Killed",
+      "dlg": "一个<i>合脚</i>的结局。\n A <i>fitting</i> end."
+    },
+    {
+      "id": "battle_dead_10416_1",
+      "desc": "死亡\n Death",
+      "dlg": "多么……不完美……\n How... imperfect..."
+    },
+    {
+      "id": "choice_success_p_10416_2",
+      "desc": "判定成功\n Check Passed",
+      "dlg": "记住T.A.P.。挑选穿着时，\"何时何地\"永远是首先要考虑的。\n Remember T.A.P. The \"when and where\" are the first things to consider when choosing what to wear."
+    },
+    {
+      "id": "choice_fail_n_10416_1",
+      "desc": "判定失败\n Check Failed",
+      "dlg": "在B.E.那些东西周围待久了，我的眼光都变迟钝了……\n Spending too long around things of B.E. dulled my eye..."
+    },
+    {
+      "id": "battle_clear_10416_1",
+      "desc": "战斗胜利\n Victory Cry",
+      "dlg": "这么坚韧又贪婪的皮……看来这些赤红者也不是全无用处。剥下来的皮正好拿来做鞋垫。\n Such tough and avaricious hide... Guess these Rouges do have some use. Their flayed skin is perfect for insoles."
+    },
+    {
+      "id": "battle_clear_ex_10416_1",
+      "desc": "满足额外条件\n Extra Conditions Fulfilled",
+      "dlg": "终于，鞋履厅里最后一点金树脂也归我所有了。嘿……这应该足够把工坊布置成我一直想要的样子了。\n Finally, every last Golden Resin left in the Footwear Hall is now mine. Heh... This should be enough to furnish the atelier the way I've always wanted."
+    },
+    {
+      "id": "battle_defeat_10416_1",
+      "desc": "战斗失败\n Defeat Wail",
+      "dlg": "何等……耻辱……看着这尊贵的鞋履厅……被赤红者那双恶心的脚……踩在脚下……\n What... a disgrace... To see the exalted Footwear Hall... trampled under the disgusting feet... of the Rouges..."
+    }
+  ]
+}
