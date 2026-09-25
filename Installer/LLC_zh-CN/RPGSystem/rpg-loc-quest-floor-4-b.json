@@ -68,7 +68,7 @@
     {
       "key": "Q4004",
       "title": "与驼背落地灯交谈\n Talk to the Arc Floor Lamp",
-      "description": "家具馆的快乐衣橱依旧一言不发。我们从它身上撬出了一些东西。是时候去找驼背落地灯了。\n The Happy Closet in the Furniture Hall still refuses to say a word. We pried a few things loose from them. Time to head over to the Arc Floor Lamp.",
+      "description": "家具馆的快乐衣橱依旧一言不发。我们从祂身上撬出了一些东西。是时候去找驼背落地灯了。\n The Happy Closet in the Furniture Hall still refuses to say a word. We pried a few things loose from them. Time to head over to the Arc Floor Lamp.",
       "steps": [
         {
           "index": 0,
@@ -100,7 +100,7 @@
     {
       "key": "Q4007",
       "title": "把衣服送给家具们\n Deliver the Clothes to the Furnishings",
-      "description": "快乐衣橱再次毫无怨言地交出了它拥有的东西。把衣服送给家具们吧。\n Once again, the Happy Closet gave up what they had without complaint. Deliver the clothes to the Furnishings.",
+      "description": "快乐衣橱再次毫无怨言地交出了祂拥有的东西。把衣服送给家具们吧。\n Once again, the Happy Closet gave up what they had without complaint. Deliver the clothes to the Furnishings.",
       "steps": [
         {
           "index": 0,
@@ -115,12 +115,12 @@
     },
     {
       "key": "Q4008",
-      "title": "询问快乐衣橱能否给我们一块心脏碎片\n Ask the Happy Wardrobe whether we can get a shard of heart",
+      "title": "询问快乐衣橱能否给我们一块心脏碎片\n Ask the Happy Closet whether we can get a shard of heart",
       "description": "我们帮完了家具们的忙。是时候向快乐衣橱要一块心脏碎片了。\n We've finished helping the Furnishings. Time to ask the Happy Closet for a shard of heart.",
       "steps": [
         {
           "index": 0,
-          "goalDescription1": "询问快乐衣橱能否给我们一块心脏碎片\n Ask the Happy Wardrobe whether we can get a shard of heart"
+          "goalDescription1": "询问快乐衣橱能否给我们一块心脏碎片\n Ask the Happy Closet whether we can get a shard of heart"
         }
       ]
     },

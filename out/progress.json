@@ -1518,7 +1518,7 @@
   "ts": "2026-09-23T22:20:38"
  },
  "RPGSystem/rpg-loc-dialogue-floor-1-b.json#D1017#texts[0].text": {
-  "zh": "陌生人——别盯着我看。我的改造护理才做到一半。就算你们想认，也认不出我是谁。",
+  "zh": "异乡人——别盯着我看。我的改造护理才做到一半。就算你们想认，也认不出我是谁。",
   "src_hash": "281c98bd4b1aa1cc",
   "en": "Strangers—stop checking me out. I'm halfway through my makeover treatment. You couldn't tell who I was even if you tried.",
   "ts": "2026-09-23T22:20:38"
@@ -12222,7 +12222,7 @@
   "ts": "2026-09-23T22:53:50"
  },
  "RPGSystem/rpg-loc-item-common-a1c10p2.json#I991017#description": {
-  "zh": "不属于百货商场的某物留下的烟灰。\n\n西西弗系统随着时代变迁一次又一次改变形态。西西弗百货不过是其一名巨人——也就是同时身为改造师的建筑师——认为最便于在象征界中实现、也最适合实现的形态。\n\n依据被指派到这一职位的人选，西西弗系统可以化作百货商场、水族箱、加油站、洞窟、山脉，或完全不同的其他事物。\n\n它是百货商场还是洞窟并不重要。无论采取何种形态，西西弗系统总会在内部构建某种制造“落差”或波动的手段。巨人所需要的，只是一个能够想象这种结构的视角。",
+  "zh": "不属于百货商场的某物留下的烟灰。\n\n西西弗系统随着时代变迁一次又一次改变形态。西西弗百货不过是其一名巨人——也就是同时身为改衣师的建筑师——认为最便于在象征界中实现、也最适合实现的形态。\n\n依据被指派到这一职位的人选，西西弗系统可以化作百货商场、水族箱、加油站、洞窟、山脉，或完全不同的其他事物。\n\n它是百货商场还是洞窟并不重要。无论采取何种形态，西西弗系统总会在内部构建某种制造“落差”或波动的手段。巨人所需要的，只是一个能够想象这种结构的视角。",
   "src_hash": "cbdca53e2018241a",
   "en": "Soot left behind by something that does not belong to the department store.\n\nThe Sisyphe System has changed its form time and again with each passing age. Grand Magasin Sisyphe is simply the form one of its Giants—namely the Architect, who was also an Alterationist—deemed the most convenient and suitable for realization within the Symbolic.\n\nDepending on who is assigned to this position, the Sisyphe System may take the form of a department store, an aquarium, a gas station, a cave, a mountain range, or something else entirely.\n\nWhether it is a department store or a cave is beside the point. Whatever shape it takes, the Sisyphe System will always construct some means of creating a \"drop\", or fluctuations, within itself. All the Giant needs is a perspective capable of imagining such a structure.",
   "ts": "2026-09-23T22:53:50"
@@ -12240,7 +12240,7 @@
   "ts": "2026-09-23T22:53:50"
  },
  "RPGSystem/rpg-loc-item-common-a1c10p2.json#I990917#description": {
-  "zh": "线与针。地下2层因这两个概念的需要而建成。\n\n线试图穿入针中，而针渴望被穿入。要触及本质，自身也必须贴近本质；因此，越深入地下，存在的清晰度就越会模糊并分裂，直至被还原为零碎片段的集合。\n线与针的概念确实十分接近衣物的本质，却并不等同于本质。操纵丝线的改造师走向溶解，是不可避免的命运。",
+  "zh": "线与针。地下2层因这两个概念的需要而建成。\n\n线试图穿入针中，而针渴望被穿入。要触及本质，自身也必须贴近本质；因此，越深入地下，存在的清晰度就越会模糊并分裂，直至被还原为零碎片段的集合。\n线与针的概念确实十分接近衣物的本质，却并不等同于本质。操纵丝线的改衣师走向溶解，是不可避免的命运。",
   "src_hash": "03e4f155debcffcf",
   "en": "Thread and needle. B2F was built from the need for these two concepts.\n\nThread seeks to penetrate the needle, while the needle longs to be penetrated. To handle the essence, one must draw close to the essence oneself; therefore, the deeper one descends to the basement, the clarity of existence blurs and segments until it is reduced to a collection of bits.\nThough the concept of thread and needle does, indeed, approach the essence of clothing closely, it is not the same as the essence. The dissolving of the Alterationist, who handles thread, is an inevitable fate.",
   "ts": "2026-09-23T22:53:50"
@@ -15090,7 +15090,7 @@
   "ts": "2026-09-23T23:04:43"
  },
  "RPGSystem/rpg-loc-dialogue-floor-3-b.json#D3200C#texts[15].text": {
-  "zh": "新的声音，正安然沉睡在那由万千丝线织成的摇篮中，被从所有人身上取走的丝线解开……对他们而言，外面的世界，既是新奇，也是……恐惧……",
+  "zh": "新的声音，正安然沉睡在那由万千丝线织成的摇篮中，被从所有人身上取走的丝线解开……对祂而言，外面的世界，既是新奇，也是……恐惧……",
   "src_hash": "6fb05c8026e62133",
   "en": "The new Voice slumbers soundly in the Cradle of all threads, its strands undone and taken from all... To them, the world outside is at once a curiosity... and horror...",
   "ts": "2026-09-23T23:04:43"
@@ -15234,7 +15234,7 @@
   "ts": "2026-09-23T23:04:43"
  },
  "RPGSystem/rpg-loc-dialogue-floor-3-b.json#D3200C#texts[27].text": {
-  "zh": "既然新的声音已在地平线上升起……那么，一切挡在它前路上的，都必须……被收割。",
+  "zh": "既然新的声音已在地平线上升起……那么，一切挡在祂前路上的，都必须……被收割。",
   "src_hash": "66fe68c36e728742",
   "en": "Now that a new Voice has risen on the horizon... all that stands in their way must be... reaped.",
   "ts": "2026-09-23T23:04:43"
@@ -19470,7 +19470,7 @@
   "ts": "2026-09-23T23:31:50"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b2-b.json#D-2212#texts[0].text": {
-  "zh": "陌生人，你们带着欲望而来。正如那声音所说，要忠于自己的欲望。",
+  "zh": "异乡人，你们带着欲望而来。正如那声音所说，要忠于自己的欲望。",
   "src_hash": "ec0622049c8e7a7f",
   "en": "You have brought desire with you, strangers. As the Voice says, be true to your desires.",
   "ts": "2026-09-23T23:31:50"
@@ -19494,7 +19494,7 @@
   "ts": "2026-09-23T23:31:50"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b2-b.json#D-2216#texts[0].text": {
-  "zh": "陌生人，需要什么吗？",
+  "zh": "异乡人，需要什么吗？",
   "src_hash": "097fa6fae317713a",
   "en": "Need something, strangers?",
   "ts": "2026-09-23T23:31:50"
@@ -22902,7 +22902,7 @@
   "ts": "2026-09-23T23:54:35"
  },
  "RPGSystem/rpg-loc-dialogue-floor-4-b.json#D40312B#texts[1].text": {
-  "zh": "在我看来，与其说是出于贪念，倒更像是出于好奇——布布仔细盯着“快乐衣橱”，想看看它会不会有什么反应。",
+  "zh": "在我看来，与其说是出于贪念，倒更像是出于好奇——布布仔细盯着“快乐衣橱”，想看看祂会不会有什么反应。",
   "src_hash": "739df27b2bc29335",
   "en": "It seemed to me it was more out of curiosity than covetousness—Pwie watched the Happy Closet carefully, trying to see if they reacted in any way.",
   "ts": "2026-09-23T23:54:35"
@@ -23562,7 +23562,7 @@
   "ts": "2026-09-23T23:56:31"
  },
  "RPGSystem/rpg-loc-dialogue-floor-4-b.json#D40411#texts[13].text": {
-  "zh": "在我看来，与其说是出于贪念，倒更像是出于好奇——布布仔细盯着“快乐衣橱”，想看看它会不会有什么反应。",
+  "zh": "在我看来，与其说是出于贪念，倒更像是出于好奇——布布仔细盯着“快乐衣橱”，想看看祂会不会有什么反应。",
   "src_hash": "739df27b2bc29335",
   "en": "It seemed to me it was more out of curiosity than covetousness—Pwie watched the Happy Closet carefully, trying to see if they reacted in any way.",
   "ts": "2026-09-23T23:56:31"
@@ -23766,7 +23766,7 @@
   "ts": "2026-09-23T23:57:30"
  },
  "RPGSystem/rpg-loc-dialogue-floor-4-b.json#D40611B#texts[3].text": {
-  "zh": "还望三思，他们的名字可是“快乐衣橱”啊！说不定，正是那施舍之举，才是他们快乐的来源！",
+  "zh": "还望三思，祂的名字可是“快乐衣橱”啊！说不定，正是那施舍之举，才是祂快乐的来源！",
   "src_hash": "2dc7918df95ad378",
   "en": "Prithee, consider that their name is \"Happy Closet!\" Perchance acts of charity be what give them happiness!",
   "ts": "2026-09-23T23:57:30"
@@ -25087,7 +25087,7 @@
   "ts": "2026-09-24T00:01:34"
  },
  "RPGSystem/rpg-loc-dialogue-floor-4-b.json#D40813#texts[14].text": {
-  "zh": "陌生人……你们说的东西好复杂。",
+  "zh": "异乡人……你们说的东西好复杂。",
   "src_hash": "7a83b632d7dfdedb",
   "en": "Strangers... You say a lotta complicated stuff.",
   "ts": "2026-09-24T00:01:34"
@@ -25585,7 +25585,7 @@
   "ts": "2026-09-24T00:02:45"
  },
  "RPGSystem/rpg-loc-dialogue-floor-4-b.json#D41321#texts[7].text": {
-  "zh": "默尔索从它的胸口挖出心脏时，“快乐衣橱”的身子依旧维持着敞开的姿态。",
+  "zh": "默尔索从祂的胸口挖出心脏时，“快乐衣橱”的身子依旧维持着敞开的姿态。",
   "src_hash": "d67e37cf788d9fe0",
   "en": "The Happy Closet remained unfurled as Meursault carved the heart out of their chest.",
   "ts": "2026-09-24T00:02:45"
@@ -33625,7 +33625,7 @@
   "ts": "2026-09-24T00:27:02"
  },
  "RPGSystem/rpg-loc-dialogue-floor-3-b.json#D3203C#texts[1].text": {
-  "zh": "“声音”正在召唤你们……他们正把异乡人们召往奢侈品馆。那个承诺已久的苏醒之刻，已然临近……",
+  "zh": "“声音”正在召唤你们……祂正把异乡人们召往奢侈品馆。那个承诺已久的苏醒之刻，已然临近……",
   "src_hash": "3602d652c15daff2",
   "en": "The Voice summons you... They are summoning the strangers there to the Luxury Hall. The promised hour of awakening is nigh...",
   "ts": "2026-09-24T00:27:02"
@@ -33637,7 +33637,7 @@
   "ts": "2026-09-24T00:27:02"
  },
  "RPGSystem/rpg-loc-dialogue-floor-3-b.json#D3203C#texts[2].text": {
-  "zh": "我们连你说的那个“声音”都听不见。它有没有说过，找我们想要做什么？",
+  "zh": "我们连你说的那个“声音”都听不见。祂有没有说过，找我们想要做什么？",
   "src_hash": "cb3afc259300b284",
   "en": "We can't even hear that \"Voice\" of yours. Did they say anything about what they want with us?",
   "ts": "2026-09-24T00:27:02"
@@ -39277,7 +39277,7 @@
   "ts": "2026-09-24T02:23:29"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b3-b.json#D-3221A#texts[4].text": {
-  "zh": "给陌生人太可惜了。这是黄金高级定制，是我们最出色的杰作。谁也别想拿走……开始攻击。",
+  "zh": "给异乡人太可惜了。这是黄金高级定制，是我们最出色的杰作。谁也别想拿走……开始攻击。",
   "src_hash": "f1e984f5423b7daf",
   "en": "Much too good for strangers. This is the Golden Haute Couture, our finest masterpiece. No one can have it... COMMENCING ATTACK.",
   "ts": "2026-09-24T02:23:29"
@@ -39319,7 +39319,7 @@
   "ts": "2026-09-24T02:23:29"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b3-b.json#D-PB-CONTROLLER#texts[0].text": {
-  "zh": "多么完美的黄金高级定制……不能交给你们这些陌生人。所有面孔的贪欲均已达到最高等级。",
+  "zh": "多么完美的黄金高级定制……不能交给你们这些异乡人。所有面孔的贪欲均已达到最高等级。",
   "src_hash": "d11ecd5016eec9a7",
   "en": "What a perfectly crafted Haute Couture of gold... Can't let you strangers have it. ALL FACES MAXIMUM GREED LEVEL REACHED.",
   "ts": "2026-09-24T02:23:29"
@@ -40153,7 +40153,7 @@
   "ts": "2026-09-24T02:25:04"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b3-b.json#D-3288#texts[0].text": {
-  "zh": "闻到了高评级顾客的香气。有钱的陌生人总是受欢迎。",
+  "zh": "闻到了高评级顾客的香气。有钱的异乡人总是受欢迎。",
   "src_hash": "812bc8ea023c6b98",
   "en": "Getting a whiff of a high-Prestige customer's fragrance. Loaded strangers are always welcome.",
   "ts": "2026-09-24T02:25:04"
@@ -42277,7 +42277,7 @@
   "ts": "2026-09-24T02:32:42"
  },
  "RPGSystem/rpg-loc-dialogue-floor-5-b.json#D5022#texts[0].text": {
-  "zh": "在那里！我看见那些陌生人了！",
+  "zh": "在那里！我看见那些异乡人了！",
   "src_hash": "1a0ce2099d561bf2",
   "en": "There! I see the strangers!",
   "ts": "2026-09-24T02:32:42"
@@ -42415,7 +42415,7 @@
   "ts": "2026-09-24T02:32:42"
  },
  "RPGSystem/rpg-loc-dialogue-floor-5-b.json#D5025#texts[0].text": {
-  "zh": "……陌生人。来自泉边、不受楼层束缚而行的汝等……步步向上的汝等。",
+  "zh": "……异乡人。来自泉边、不受楼层束缚而行的汝等……步步向上的汝等。",
   "src_hash": "16b6ab0869b06891",
   "en": "... Strangers. Ye of the Fount, whose steps are bound not by the floors... Ye whose footfalls ever point upward.",
   "ts": "2026-09-24T02:32:42"
@@ -43903,7 +43903,7 @@
   "ts": "2026-09-24T02:34:45"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1054#texts[1].text": {
-  "zh": "愿你们下行一路顺利，陌生人。",
+  "zh": "愿你们下行一路顺利，异乡人。",
   "src_hash": "dc92e344470876c8",
   "en": "May your descent be untroubled, Strangers.",
   "ts": "2026-09-24T02:34:45"
@@ -43915,7 +43915,7 @@
   "ts": "2026-09-24T02:34:45"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1055#texts[0].text": {
-  "zh": "愿你们下行一路顺利，陌生人。",
+  "zh": "愿你们下行一路顺利，异乡人。",
   "src_hash": "dc92e344470876c8",
   "en": "May your descent be untroubled, Strangers.",
   "ts": "2026-09-24T02:34:45"
@@ -45289,7 +45289,7 @@
   "ts": "2026-09-24T02:36:26"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1205#texts[1].text": {
-  "zh": "……你带了陌生人来。怎么了，主厨？",
+  "zh": "……你带了异乡人来。怎么了，主厨？",
   "src_hash": "46400be286775260",
   "en": "... You brought strangers with you. What is it, Head Chef?",
   "ts": "2026-09-24T02:36:26"
@@ -45349,7 +45349,7 @@
   "ts": "2026-09-24T02:36:26"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1205#texts[6].text": {
-  "zh": "这些陌生人……他们说愿意把……<i>那个</i>……贡献给我们的苏打，听见没？",
+  "zh": "这些异乡人……他们说愿意把……<i>那个</i>……贡献给我们的苏打，听见没？",
   "src_hash": "519539e70a0bee1a",
   "en": "These strangers... they said they'd contribute... <i>that</i>... to our soda, you hear?",
   "ts": "2026-09-24T02:36:26"
@@ -45409,7 +45409,7 @@
   "ts": "2026-09-24T02:36:26"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b2-b.json#D-2222A9#texts[3].text": {
-  "zh": "……陌生人和蠕蠕会觉得被冷落的。",
+  "zh": "……异乡人和蠕蠕会觉得被冷落的。",
   "src_hash": "53d055cd0fea82b8",
   "en": "... The strangers and Wriggley are gonna feel left out.",
   "ts": "2026-09-24T02:36:54"
@@ -45493,7 +45493,7 @@
   "ts": "2026-09-24T02:36:54"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b2-b.json#D-2222A10#texts[0].text": {
-  "zh": "哦？你们这些陌生人是从上面的楼层下来的吧？",
+  "zh": "哦？你们这些异乡人是从上面的楼层下来的吧？",
   "src_hash": "f4a6572abb0038fb",
   "en": "Oh? You strangers came down from the upper floors, didn't you?",
   "ts": "2026-09-24T02:36:54"
@@ -45769,7 +45769,7 @@
   "ts": "2026-09-24T02:36:54"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1205#texts[11].text": {
-  "zh": "那么，说吧，陌生人。你们想换什么？",
+  "zh": "那么，说吧，异乡人。你们想换什么？",
   "src_hash": "608dab69e07b0218",
   "en": "So, speak then, strangers. What do you want in exchange?",
   "ts": "2026-09-24T02:36:55"
@@ -47749,7 +47749,7 @@
   "ts": "2026-09-24T02:38:37"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1209H#texts[2].text": {
-  "zh": "陌生人连一口猎物反刍肉都别想吃到，听见没？*吸溜*",
+  "zh": "异乡人连一口猎物反刍肉都别想吃到，听见没？*吸溜*",
   "src_hash": "192918285a464b5b",
   "en": "Won't let strangers get even a single bite of the Ruminations of the Prey, you hear? *slurp*",
   "ts": "2026-09-24T02:38:37"
@@ -49261,7 +49261,7 @@
   "ts": "2026-09-24T02:39:56"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1236#texts[0].text": {
-  "zh": "陌生人，想问问你们身上有没有眼球，听见没？",
+  "zh": "异乡人，想问问你们身上有没有眼球，听见没？",
   "src_hash": "6856f5251737c973",
   "en": "Strangers, wondering if you have eyeballs on you, you hear?",
   "ts": "2026-09-24T02:39:56"
@@ -49633,7 +49633,7 @@
   "ts": "2026-09-24T02:40:30"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1294B#texts[5].text": {
-  "zh": "……是你们先提出交易的，听见没？是陌生人先想做这笔买卖的，听见没？",
+  "zh": "……是你们先提出交易的，听见没？是异乡人先想做这笔买卖的，听见没？",
   "src_hash": "80f03f0dad0b1ff1",
   "en": "... You offered the trade first, you hear? Strangers wanted this deal first, you hear?",
   "ts": "2026-09-24T02:40:30"
@@ -50419,7 +50419,7 @@
   "ts": "2026-09-24T02:41:05"
  },
  "RPGSystem/rpg-loc-dialogue-floor-b1-b.json#D-1294B#texts[11].text": {
-  "zh": "再见，听见没？你们这些陌生人全是冤大头，听见没？",
+  "zh": "再见，听见没？你们这些异乡人全是冤大头，听见没？",
   "src_hash": "4897c0db2ccda12a",
   "en": "Good-bye, you hear? You strangers are all suckers, you hear?",
   "ts": "2026-09-24T02:41:05"
@@ -50761,7 +50761,7 @@
   "ts": "2026-09-24T03:22:30"
  },
  "StoryData/P10917.json#0#content": {
-  "zh": "杜布瓦：我一直想发财。",
+  "zh": "我一直想发财。",
   "src_hash": "e7925111794cbb73",
   "en": "I always wanted to get rich.",
   "ts": "2026-09-24T03:22:30"
@@ -50791,7 +50791,7 @@
   "ts": "2026-09-24T03:22:30"
  },
  "StoryData/P10917.json#2#content": {
-  "zh": "杜布瓦：呃……发财了要做什么呢……？",
+  "zh": "呃……发财了要做什么呢……？",
   "src_hash": "d16e2dca5c41bf2b",
   "en": "Uh... what would I do once I got rich...?",
   "ts": "2026-09-24T03:22:30"
@@ -50809,7 +50809,7 @@
   "ts": "2026-09-24T03:22:30"
  },
  "StoryData/P10917.json#3#content": {
-  "zh": "杜布瓦：我……呃，还没想那么远……",
+  "zh": "我……呃，还没想那么远……",
   "src_hash": "65f44dbf83652bce",
   "en": "I, uh... haven't really thought that far ahead...",
   "ts": "2026-09-24T03:22:30"
@@ -50827,7 +50827,7 @@
   "ts": "2026-09-24T03:22:30"
  },
  "StoryData/P10917.json#4#content": {
-  "zh": "杜布瓦：哦对了！我预订的布料！谢谢提醒，我得赶紧过去了！",
+  "zh": "哦对了！我预订的布料！谢谢提醒，我得赶紧过去了！",
   "src_hash": "bb884bbb06fe9415",
   "en": "Oh, right! My fabric reservation! Thanks for reminding me. I'd better get going!",
   "ts": "2026-09-24T03:22:30"
@@ -50845,7 +50845,7 @@
   "ts": "2026-09-24T03:22:30"
  },
  "StoryData/P10917.json#6#content": {
-  "zh": "杜布瓦：你好！我是来取我预订的布料的。听说已经准备好了……",
+  "zh": "你好！我是来取我预订的布料的。听说已经准备好了……",
   "src_hash": "9036f598d7937e79",
   "en": "Hello! I'm here to pick up the fabric I reserved. I was told it would be ready...",
   "ts": "2026-09-24T03:22:30"
@@ -50947,7 +50947,7 @@
   "ts": "2026-09-24T03:23:01"
  },
  "StoryData/P10917.json#18#content": {
-  "zh": "杜布瓦：哦……呃，你好。很高兴认识你……",
+  "zh": "哦……呃，你好。很高兴认识你……",
   "src_hash": "75e6acb8f3ced887",
   "en": "Oh... uh, hello. Nice to meet you...",
   "ts": "2026-09-24T03:23:01"
@@ -51013,7 +51013,7 @@
   "ts": "2026-09-24T03:23:01"
  },
  "StoryData/P10917.json#25#content": {
-  "zh": "杜布瓦：啊，对哦。抱歉。",
+  "zh": "啊，对哦。抱歉。",
   "src_hash": "d4e473be25d1d63b",
   "en": "Ah, right. Sorry about that.",
   "ts": "2026-09-24T03:23:01"
@@ -51043,7 +51043,7 @@
   "ts": "2026-09-24T03:23:01"
  },
  "StoryData/P10917.json#27#content": {
-  "zh": "杜布瓦：哈哈……只是没想到会在你店里看见红派的顾客。我还以为他们不会跟改衣师小姐有来往呢。",
+  "zh": "哈哈……只是没想到会在你店里看见红派的顾客。我还以为他们不会跟改衣师小姐有来往呢。",
   "src_hash": "817dc1111400967f",
   "en": "Haha... I just wasn't expecting to see a Rouge customer at your shop. I didn't think they'd have dealings with you, Miss Alterationist.",
   "ts": "2026-09-24T03:23:01"
@@ -51133,7 +51133,7 @@
   "ts": "2026-09-24T03:23:32"
  },
  "StoryData/P10917.json#36#content": {
-  "zh": "杜布瓦：你手上这件……是黑派委托你做的吗？",
+  "zh": "你手上这件……是黑派委托你做的吗？",
   "src_hash": "251beb81f009e299",
   "en": "That piece you're working on... is it something the Noirs asked you to make?",
   "ts": "2026-09-24T03:23:32"
@@ -51175,7 +51175,7 @@
   "ts": "2026-09-24T03:23:32"
  },
  "StoryData/P10917.json#39#content": {
-  "zh": "杜布瓦：这么漂亮的布料……最后要变成铠甲？真的假的……？",
+  "zh": "这么漂亮的布料……最后要变成铠甲？真的假的……？",
   "src_hash": "393f6859120a2034",
   "en": "All this beautiful fabric... and it's going to end up as armor? Really...?",
   "ts": "2026-09-24T03:23:32"
@@ -51193,7 +51193,7 @@
   "ts": "2026-09-24T03:23:32"
  },
  "StoryData/P10917.json#40#content": {
-  "zh": "杜布瓦：可要是做成裙子，那该有多美啊……？那样肯定好看多了……",
+  "zh": "可要是做成裙子，那该有多美啊……？那样肯定好看多了……",
   "src_hash": "8c7c75bec57a4844",
   "en": "Wouldn't it be lovely as a dress, though...? It'd be so much better that way...",
   "ts": "2026-09-24T03:23:32"
@@ -51241,7 +51241,7 @@
   "ts": "2026-09-24T03:23:32"
  },
  "StoryData/P10917.json#44#content": {
-  "zh": "杜布瓦：较量……哦，怪不得最近这么难预约。",
+  "zh": "较量……哦，怪不得最近这么难预约。",
   "src_hash": "951a0115f9164684",
   "en": "Competition... Oh, so that's why it's been so hard to get a reservation lately.",
   "ts": "2026-09-24T03:23:32"
@@ -51295,7 +51295,7 @@
   "ts": "2026-09-24T03:24:02"
  },
  "StoryData/P10917.json#49#content": {
-  "zh": "杜布瓦：哇。要是把这个缠在袖口上……整套衣服会优雅好多……",
+  "zh": "哇。要是把这个缠在袖口上……整套衣服会优雅好多……",
   "src_hash": "e551b12936bdc0c6",
   "en": "Whoa. If I put this around my cuffs... the whole outfit would look so much more elegant...",
   "ts": "2026-09-24T03:24:02"
@@ -51313,7 +51313,7 @@
   "ts": "2026-09-24T03:24:02"
  },
  "StoryData/P10917.json#50#content": {
-  "zh": "杜布瓦：谢谢你！我下次一定还来找你！",
+  "zh": "谢谢你！我下次一定还来找你！",
   "src_hash": "619ad0c6716d590a",
   "en": "Thank you! I'll be sure to come to you again next time!",
   "ts": "2026-09-24T03:24:02"
@@ -51367,7 +51367,7 @@
   "ts": "2026-09-24T03:24:02"
  },
  "StoryData/P10917.json#56#content": {
-  "zh": "杜布瓦：我想……其实我想去地下楼层看看。",
+  "zh": "我想……其实我想去地下楼层看看。",
   "src_hash": "a50283ee62257c10",
   "en": "I think I'll head... down to the basement floors, actually.",
   "ts": "2026-09-24T03:24:02"
@@ -51385,7 +51385,7 @@
   "ts": "2026-09-24T03:24:02"
  },
  "StoryData/P10917.json#57#content": {
-  "zh": "杜布瓦：听说地下一楼有种饮料，能喝出你想要的任何味道。呃，至少……我是这么听说的。",
+  "zh": "听说地下一楼有种饮料，能喝出你想要的任何味道。呃，至少……我是这么听说的。",
   "src_hash": "30832019f67b68ce",
   "en": "There's supposed to be a drink on B1F that can taste like anything you want. Or, um... that's what I've heard, at least.",
   "ts": "2026-09-24T03:24:02"
@@ -51427,7 +51427,7 @@
   "ts": "2026-09-24T03:24:02"
  },
  "StoryData/P10917.json#60#content": {
-  "zh": "杜布瓦：那我该付你多少眼球？这看起来可不像上次那样只值200……",
+  "zh": "那我该付你多少眼球？这看起来可不像上次那样只值200……",
   "src_hash": "658e1d1361e2a0dc",
   "en": "So, how many eyeballs do I owe you? This looks way too good to pay just 200, like last time...",
   "ts": "2026-09-24T03:24:02"
@@ -51457,7 +51457,7 @@
   "ts": "2026-09-24T03:24:02"
  },
  "StoryData/P10917.json#62#content": {
-  "zh": "杜布瓦：等等，真的吗？你要白送我？！",
+  "zh": "等等，真的吗？你要白送我？！",
   "src_hash": "e5f37b53b58f01c8",
   "en": "Wait, really? You're giving it for free?!",
   "ts": "2026-09-24T03:24:02"
@@ -51487,7 +51487,7 @@
   "ts": "2026-09-24T03:25:05"
  },
  "StoryData/P10917.json#64#content": {
-  "zh": "杜布瓦：哦，这个我可以！我很擅长散布消息，其实也算是练出来的了！",
+  "zh": "哦，这个我可以！我很擅长散布消息，其实也算是练出来的了！",
   "src_hash": "efb4efd0107b069b",
   "en": "Oh, I can do that! I'm good at getting a rumor around. I've had a bit of practice, actually!",
   "ts": "2026-09-24T03:25:05"
@@ -51505,7 +51505,7 @@
   "ts": "2026-09-24T03:25:05"
  },
  "StoryData/P10917.json#65#content": {
-  "zh": "杜布瓦：你知道4楼开始流传的那把传说之剑的传闻吗？我亲自把它带到了1楼和3楼！传到你这儿了没？",
+  "zh": "你知道4楼开始流传的那把传说之剑的传闻吗？我亲自把它带到了1楼和3楼！传到你这儿了没？",
   "src_hash": "aa8147b78f0179cc",
   "en": "You know the rumor about a legendary sword that started going around on 4F? I brought it to 1F and 3F myself! Has it reached you yet?",
   "ts": "2026-09-24T03:25:05"
@@ -51547,7 +51547,7 @@
   "ts": "2026-09-24T03:25:05"
  },
  "StoryData/P10917.json#68#content": {
-  "zh": "杜布瓦：呃，“平衡”……？",
+  "zh": "呃，“平衡”……？",
   "src_hash": "654f7d31b91708f7",
   "en": "Uh, \"balance\"...?",
   "ts": "2026-09-24T03:25:05"
@@ -51625,7 +51625,7 @@
   "ts": "2026-09-24T03:25:05"
  },
  "StoryData/P10917.json#74#content": {
-  "zh": "杜布瓦：当然！我一定会把这话原原本本地带到。",
+  "zh": "当然！我一定会把这话原原本本地带到。",
   "src_hash": "004d23f49e0e70d9",
   "en": "Of course! I'll make sure the message gets through, just as you said.",
   "ts": "2026-09-24T03:25:05"
@@ -51667,7 +51667,7 @@
   "ts": "2026-09-24T03:25:38"
  },
  "StoryData/P10917.json#79#content": {
-  "zh": "杜布瓦：哈……？",
+  "zh": "哈……？",
   "src_hash": "a78e6701b0229228",
   "en": "Huh...?",
   "ts": "2026-09-24T03:25:38"
@@ -51721,7 +51721,7 @@
   "ts": "2026-09-24T03:25:38"
  },
  "StoryData/P10917.json#82#content": {
-  "zh": "杜布瓦：可、可你看它们多搭啊……这样明明更好看……",
+  "zh": "可、可你看它们多搭啊……这样明明更好看……",
   "src_hash": "d0cba434dd26415b",
   "en": "B-but look at how well they go together... It's much prettier like this...",
   "ts": "2026-09-24T03:25:38"
@@ -52345,7 +52345,7 @@
   "ts": "2026-09-24T03:29:43"
  },
  "RPGSystem/rpg-loc-dialogue-floor-4.json#D41331#texts[8].text": {
-  "zh": "单脚人：5楼……？",
+  "zh": "5楼……？",
   "src_hash": "37dc3510d2c238e5",
   "en": "The fifth floor...?",
   "ts": "2026-09-24T03:30:02"
@@ -52447,7 +52447,7 @@
   "ts": "2026-09-24T03:34:26"
  },
  "RPGSystem/rpg-loc-quest-floor-4-b.json#Q4004#description": {
-  "zh": "家具馆的快乐衣橱依旧一言不发。我们从它身上撬出了一些东西。是时候去找驼背落地灯了。",
+  "zh": "家具馆的快乐衣橱依旧一言不发。我们从祂身上撬出了一些东西。是时候去找驼背落地灯了。",
   "src_hash": "bf32f7eee96ed015",
   "en": "The Happy Closet in the Furniture Hall still refuses to say a word. We pried a few things loose from them. Time to head over to the Arc Floor Lamp.",
   "ts": "2026-09-24T03:34:26"
@@ -52489,7 +52489,7 @@
   "ts": "2026-09-24T03:34:26"
  },
  "RPGSystem/rpg-loc-quest-floor-4-b.json#Q4007#description": {
-  "zh": "快乐衣橱再次毫无怨言地交出了它拥有的东西。把衣服送给家具们吧。",
+  "zh": "快乐衣橱再次毫无怨言地交出了祂拥有的东西。把衣服送给家具们吧。",
   "src_hash": "e3c01715646842e4",
   "en": "Once again, the Happy Closet gave up what they had without complaint. Deliver the clothes to the Furnishings.",
   "ts": "2026-09-24T03:34:26"
@@ -61217,5 +61217,521 @@
   "src_hash": "1500fb5a91c531a9",
   "en": "Le Noir Footwear Hall Sales Associate",
   "ts": "2026-09-24T04:11:28"
+ },
+ "StoryData/S1027B.json#0#place": {
+  "zh": "线团之巢，地下2层",
+  "src_hash": "e8009ff441ce85aa",
+  "en": "Skein Nest, B2F",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#0#content": {
+  "zh": "人人都有想要的东西。是这样吧？",
+  "src_hash": "e7d326e3f5ae0862",
+  "en": "Everyone has something they want. That's how it is, right?",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#1#content": {
+  "zh": "……对。",
+  "src_hash": "1919e7be217e0a6e",
+  "en": "Correct.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#2#content": {
+  "zh": "你的愿望是什么，布布？",
+  "src_hash": "aca751a785bd5cbc",
+  "en": "What is your wish, Pwie?",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#3#content": {
+  "zh": "我的愿望……？我想要的……",
+  "src_hash": "906d53d210d41552",
+  "en": "My wish...? What I want...",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#5#content": {
+  "zh": "我想要的是……填满。",
+  "src_hash": "aed7e17015119f23",
+  "en": "What I want is... to fill.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#6#content": {
+  "zh": "具体想填满什么？",
+  "src_hash": "da66d687060cffbc",
+  "en": "What specifically do you want to fill?",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#7#content": {
+  "zh": "我自己。",
+  "src_hash": "3686a6cee8b5563d",
+  "en": "Myself.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#8#content": {
+  "zh": "我……从一开始就是空的。所以我才总是很饿。",
+  "src_hash": "d5660b2fb0ff016a",
+  "en": "I was... empty from the beginning. That's why I was always hungry.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#9#content": {
+  "zh": "但是……当我和大家在一起……还有蠕蠕在一起的时候……",
+  "src_hash": "62acfb1d0c882cd4",
+  "en": "But... when I'm with all of you... and Wriggley...",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#10#content": {
+  "zh": "我总是会忘记自己是空的。",
+  "src_hash": "738064a728d4316a",
+  "en": "I keep forgetting that I'm empty.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#11#content": {
+  "zh": "为什么会这样？",
+  "src_hash": "e1975024bdca5200",
+  "en": "Why does that happen?",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#12#content": {
+  "zh": "<这个问题不好回答……>",
+  "src_hash": "a76a3296853a1758",
+  "en": "<That's a hard question to answer...>",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#13#content": {
+  "zh": "当你和别人在一起时……他们的形状，往往能藏住一点空缺的部分。",
+  "src_hash": "f6cd1324283ff96a",
+  "en": "When you're with someone... their shape tends to hide a bit of the negative space.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#14#content": {
+  "zh": "但也别因为自己是空的，就把自己填得太满，布布。",
+  "src_hash": "cf92dc8a52adf17c",
+  "en": "But don't fill yourself too full just because you're empty, Pwie.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#15#content": {
+  "zh": "……为什么不行？",
+  "src_hash": "9790333a45b3dc7e",
+  "en": "... Why not?",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#16#content": {
+  "zh": "因为没有了空缺的部分……哪怕别人想站在你身边，你也腾不出位置了。",
+  "src_hash": "a1dcd007eb0b5f34",
+  "en": "Because without the negative space... you won't have any room left for others, even if they wanted to stand by your side.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#18#content": {
+  "zh": "怎么了，钟头？",
+  "src_hash": "b556ead3fe766012",
+  "en": "What, C.H.?",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#19#content": {
+  "zh": "<没什么，只是……我只是在想，你和以前比变了很多。像其他罪人一样。>",
+  "src_hash": "f3106dc3d08703bb",
+  "en": "<No, just... I was just thinking you've changed a lot from how you used to be. Like the other Sinners did.>",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#20#content": {
+  "zh": "……你那副得意的滴答声真让人心烦。",
+  "src_hash": "181a3224c339fa7a",
+  "en": "... That smug ticking of yours is getting on my nerves.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#21#content": {
+  "zh": "<……我是说，默尔索也这么想，所以……>",
+  "src_hash": "1ab9ff8d06e1bee6",
+  "en": "<... I mean, Meursault thinks the same, so...>",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#22#content": {
+  "zh": "本经理认可该罪人身上发生的变化。",
+  "src_hash": "424835bbbad38122",
+  "en": "I recognize the changes that have occurred in the Sinner concerned.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#23#content": {
+  "zh": "不过……没有什么是永恒不变的，经理。",
+  "src_hash": "54f162448b35650d",
+  "en": "However... nothing remains fixed for eternity, Manager.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#24#content": {
+  "zh": "就像这家百货商店一样，许多事都可能在转瞬之间发生改变，被彻底颠覆。",
+  "src_hash": "0786b86cee7dfda6",
+  "en": "Much like this department store, many things may change and be overturned in an instant.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#25#content": {
+  "zh": "……哈……我知道。",
+  "src_hash": "051c56fa85082b4c",
+  "en": "... Hah... I know.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#26#content": {
+  "zh": "我看起来像是会一直维持这样吗？",
+  "src_hash": "44e7ef04b182ca00",
+  "en": "Do I look like I'm going to stay this way forever?",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#27#content": {
+  "zh": "我可能会再次任由盲目的怒火挥动我的刀。可能会厌倦这一切，甚至可能会再次开始伤人。",
+  "src_hash": "cddd19eebad08fa2",
+  "en": "I might let blind rage swing my blade again. Might get sick of all of this, or might even start hurting again.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#28#content": {
+  "zh": "但是……",
+  "src_hash": "2e7fce59515cfe8f",
+  "en": "But...",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#29#content": {
+  "zh": "眼下，这里就是我选择留下的地方。",
+  "src_hash": "2e9bb472f10a47c3",
+  "en": "Right now, this is where I've chosen to stay.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1027B.json#30#content": {
+  "zh": "钟要是聒噪个不停，我就把耳朵掏干净。这该死的刀鞘要是碍事，我就想办法让它安分点。我要做的，仅此而已。",
+  "src_hash": "4f974c21c4377920",
+  "en": "If the clock keeps yapping, I'll clean out my ears. If this damn scabbard gets in my way, I'll just have to keep it pacified. That's all I need to do.",
+  "ts": "2026-09-24T11:07:50"
+ },
+ "StoryData/S1028B.json#0#place": {
+  "zh": "制革工坊，地下3层",
+  "src_hash": "29d8d2e2505aedf8",
+  "en": "Tannery, B3F",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#0#content": {
+  "zh": "布布似乎依旧陷在沉思之中。",
+  "src_hash": "ae28bd1bbfbc9d00",
+  "en": "Pwie still seemed lost in deep thought.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#1#content": {
+  "zh": "<这……这真的很适合你……>",
+  "src_hash": "a4ac50ee5089a5fa",
+  "en": "<It... It really suits you...>",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#2#content": {
+  "zh": "确实很适合……至少没有白忙一场……",
+  "src_hash": "88da6daa44e30791",
+  "en": "It really does... At least all that work wasn't for nothing...",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#3#content": {
+  "zh": "布布想要的那件衣服，此刻正贴合地穿在祂身上，每一处尺寸都恰到好处……",
+  "src_hash": "c4105c125a4f9497",
+  "en": "The garment Pwie had wanted now rested perfectly against their body, every measurement exact...",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#4#content": {
+  "zh": "但布布脸上既没有兴奋，也没有喜悦——我甚至看不出一丝满足的神情。",
+  "src_hash": "6e2a66cfe58abe04",
+  "en": "Yet Pwie showed neither excitement nor joy—I could not see even the smallest spark of satisfaction.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#6#content": {
+  "zh": "蠕蠕……我不是故意要伤害……蠕蠕的。",
+  "src_hash": "2ab60d1f8ac76d71",
+  "en": "Wriggley... I didn't want to hurt... Wriggley.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#7#content": {
+  "zh": "但是……就在我觉得或许可以到此为止的那一刻……我脑海中有什么东西炸开了。",
+  "src_hash": "a304c66b5b29370f",
+  "en": "But... the moment I thought it might be all right to stop here... something burst open inside my head.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#8#content": {
+  "zh": "它说我必须继续前进……必须填满每一处空缺……",
+  "src_hash": "0f6c019a693d6afa",
+  "en": "It said I had to keep moving... that I had to fill every empty space...",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#9#content": {
+  "zh": "……这就是我的本性吗？",
+  "src_hash": "08d2532911772a4d",
+  "en": "... Is this my nature?",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#10#content": {
+  "zh": "我想每个人这辈子总会有陷入疯狂的时候。那种连自己都难以相信的疯狂。",
+  "src_hash": "35ca3ec8fa6ebb3f",
+  "en": "I think everyone can fall into madness at some point in their lives. One that they can hardly believe themselves.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#11#content": {
+  "zh": "……或许正如你所说，那是你与生俱来的本能。又或许，在那一刻，抵达五层对你而言，比蠕蠕更重要。",
+  "src_hash": "79619c788004b5c8",
+  "en": "... It may have been an instinct you were born with, as you said. Or perhaps, in that moment, reaching the fifth floor mattered more to you than Wriggley.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#12#content": {
+  "zh": "唔嗯…",
+  "src_hash": "039c3f6e5d062e5f",
+  "en": "Nngh...",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#13#content": {
+  "zh": "但你要知道，就算那真的是本能造成的，你也不能每次都拿这个当借口……",
+  "src_hash": "4d77e5c9753e0ad6",
+  "en": "But you know, even if it really was your instinct that caused it, you can't keep blaming it every time...",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#14#content": {
+  "zh": "……不管你有多渴望改变，你也只会原地踏步。",
+  "src_hash": "7fc206faddaa95ce",
+  "en": "... or however dearly you wish to change, you shall remain rooted where you stand.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#15#content": {
+  "zh": "我等着布布再向以实玛利抛出更多问题，但祂却没有再问。",
+  "src_hash": "b763ed7c55f9a6d4",
+  "en": "I waited for Pwie to bombard Ishmael with more questions, but none came.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#16#content": {
+  "zh": "祂只是盯着自己的双手……又陷入了沉思。",
+  "src_hash": "a295555bf0d5326b",
+  "en": "They only stared at their own hands... and seemed lost in thought again.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#17#content": {
+  "zh": "……等等，那声巨响是什么？听起来像是什么东西塌了……",
+  "src_hash": "3a767f2b85c6428d",
+  "en": "... Wait, what was that crash? It sounded like something gave way...",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#18#content": {
+  "zh": "我还能听见……某种怪物的哭喊声……",
+  "src_hash": "98ecfcb86da05e3c",
+  "en": "I can hear... a monstrous cry as well...",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#19#content": {
+  "zh": "……它在哭。",
+  "src_hash": "64dc64a35525356d",
+  "en": "... It's crying.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#20#content": {
+  "zh": "它在为那只茧感到痛苦……因为那只茧本身正在痛苦。",
+  "src_hash": "2e3e07bc08881053",
+  "en": "It's hurting for the cocoon... because the cocoon was hurting.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#21#content": {
+  "zh": "<……默尔索，那个声音……是我们在地下2层听到的同一声哀嚎吧？就是那个不属于这里任何派系的存在……>",
+  "src_hash": "1f6f973f2070c70a",
+  "en": "<... Meursault, that sound.... It's the same wail we heard in B2, isn't it? The entity that didn't belong to any of the factions here...>",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1028B.json#22#content": {
+  "zh": "……对。",
+  "src_hash": "1873211836614e2a",
+  "en": "... Correct.",
+  "ts": "2026-09-24T11:09:07"
+ },
+ "StoryData/S1029B.json#1#place": {
+  "zh": "餐厅，5层",
+  "src_hash": "5e9ced615bf3897c",
+  "en": "Restaurant, 5F",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#1#content": {
+  "zh": "直到最后……一道裂缝豁然张开，从中走出了那个理应是布布的存在。",
+  "src_hash": "75bfeba9120e5ef3",
+  "en": "Until, at last... a seam split open, and something that should have been Pwie stepped through.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#2#content": {
+  "zh": "站在我们面前的身影庞大而威严，带着神明……或是红派一直宣称终将降生的君王……那般的气度。",
+  "src_hash": "d4df6a37e07b4e80",
+  "en": "The figure standing before us was colossal and august, with the majestic presence of a deity... or a king... that the Rouges had always claimed would be born.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#3#teller": {
+  "zh": "布布？",
+  "src_hash": "d28d7edc5270603a",
+  "en": "Pwie?",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#4#teller": {
+  "zh": "布布？",
+  "src_hash": "d28d7edc5270603a",
+  "en": "Pwie?",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#4#content": {
+  "zh": "你……还留在我身边……",
+  "src_hash": "4b0d6901e014c8c9",
+  "en": "You... still remained beside me...",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#5#content": {
+  "zh": "……你变了呢，布布。你的沉睡……安稳吗？",
+  "src_hash": "0d0a119c0c5da94b",
+  "en": "... You have changed, Pwie. Was your sleep... peaceful?",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#6#teller": {
+  "zh": "布布？",
+  "src_hash": "d28d7edc5270603a",
+  "en": "Pwie?",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#6#content": {
+  "zh": "很安稳。而在那安稳的沉睡中……我做了一个梦。",
+  "src_hash": "69c6eb569e888e74",
+  "en": "It was. And in that peaceful slumber... I dreamed.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#7#content": {
+  "zh": "那就好，真让人安心。都说小孩子蹭蹭地长，可你……长得都快让我认不出来了，都得重新自我介绍一下了。",
+  "src_hash": "2927225e1c346fa3",
+  "en": "Well, that's a relief. They say kids grow like weeds, but... you've grown enough that I nearly need an reintroduction.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#8#content": {
+  "zh": "<可不是嘛……真是蹿高了不少。>",
+  "src_hash": "6e649ef83db73baa",
+  "en": "<No kidding... They really shot up.>",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#9#teller": {
+  "zh": "布布？",
+  "src_hash": "d28d7edc5270603a",
+  "en": "Pwie?",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#9#content": {
+  "zh": "……在梦中，我终于学会了说出自己真正的名字。",
+  "src_hash": "881f65886aca96e2",
+  "en": "... In my dream, I finally learned to speak my true name.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#10#teller": {
+  "zh": "布布？",
+  "src_hash": "d28d7edc5270603a",
+  "en": "Pwie?",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#10#content": {
+  "zh": "那个一直哽在喉咙里，说不出口的名字。",
+  "src_hash": "23617b85da1b59fb",
+  "en": "The name that had always caught in my throat before it could be uttered.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#11#content": {
+  "zh": "“布菲”——这个名字，应该就够了。",
+  "src_hash": "cb226c3adde28089",
+  "en": "\"Buffet\"—that name should suffice.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#12#content": {
+  "zh": "……看来，是因为你当时尚未成熟，只能说出“布菲”的第一个音节——所以才是“布布”。",
+  "src_hash": "637927c31e4e6e28",
+  "en": "... It seems that, as you had not matured yet, only the first syllable of \"Buffet\" could pass your lips—hence, \"Pwie.\"",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#13#content": {
+  "zh": "哈……总之，恭喜你了！你现在长这么大，再用这么可爱的小名可有点不合适了。",
+  "src_hash": "13b471540307dcac",
+  "en": "Huh... Anyways, good for you! You're a bit too grown-up for a nickname that cute now.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#15#content": {
+  "zh": "接下来，我们将寻找通往6层的自动扶梯。",
+  "src_hash": "a90d8cf2e844ddff",
+  "en": "We will now search for the escalator leading to 6F.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#16#content": {
+  "zh": "布菲。你……接下来打算怎么做？",
+  "src_hash": "3aca11749b6ef203",
+  "en": "Buffet. What... will you do from now on?",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#18#content": {
+  "zh": "我是由所有饥饿之人的渴望揉捏而成的存在。",
+  "src_hash": "4904e926aa29be9b",
+  "en": "I am a being kneaded from the desires of all who are starving.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#19#content": {
+  "zh": "早在我出生之前，饥渴便已在啃噬着我。",
+  "src_hash": "901e5f1501e0689c",
+  "en": "Hunger and thirst gnawed at me even before I was born.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#20#content": {
+  "zh": "但是……那从来都不是我自己的饥渴。",
+  "src_hash": "f4f6d424bbebb8cb",
+  "en": "But... they were never mine.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#21#content": {
+  "zh": "构成我的每一根丝线……都是由他人饥饿所生的愿望纺成的。或者说……是他人的梦？",
+  "src_hash": "e656843bf6be5060",
+  "en": "Every thread that forms me... was spun from a wish born of someone else's hunger. Or shall I say... the dream of others?",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#22#content": {
+  "zh": "我是由那无底的饥饿编织而成的。",
+  "src_hash": "325c1870e7e0cde2",
+  "en": "I was woven from that bottomless hunger.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#23#content": {
+  "zh": "……这里，是一间餐厅。",
+  "src_hash": "f66dca08c48efbfa",
+  "en": "... This location is a restaurant.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#24#content": {
+  "zh": "只要入座等待……就该有一顿饭端上来，填饱你的饥饿。",
+  "src_hash": "0a4041f400c1960f",
+  "en": "A meal should be served to sate your hunger... if you take a seat and wait.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#25#content": {
+  "zh": "……不。没有任何一顿饭，能填满这具空洞的胃……",
+  "src_hash": "ea300b424ff38842",
+  "en": "... No. No meal can fill this hollow stomach...",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#26#content": {
+  "zh": "……因为这份饥饿，永无止境。",
+  "src_hash": "276b282f6f17919c",
+  "en": "... because there will be no end to this hunger.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#27#content": {
+  "zh": "所以……不会再有等待了。也不会再有什么上菜顺序，或是完整的一套大餐了。",
+  "src_hash": "04d34633f0b31de2",
+  "en": "So... there will be no more waiting. No order of service or full-course meal to be observed either.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#29#content": {
+  "zh": "……加入我吧。你不必再往上爬了。",
+  "src_hash": "5db1fcf9f0188241",
+  "en": "... Join me. You won't have to climb up anymore.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#30#content": {
+  "zh": "我们可以都留在这里，不停地填满自己。不给干渴留下滋生的余地。也不必再去渴望楼上那些遥远的地方。",
+  "src_hash": "c1e0336799eb77bf",
+  "en": "We can all stay here and never stop filling ourselves. We'll leave no room for thirst to bloom. We won't need to yearn for distant places upstairs.",
+  "ts": "2026-09-24T11:09:47"
+ },
+ "StoryData/S1029B.json#31#content": {
+  "zh": "你这话是什么意思……？",
+  "src_hash": "8cf2de742bcfe709",
+  "en": "What do you mean...?",
+  "ts": "2026-09-24T11:09:47"
  }
 }

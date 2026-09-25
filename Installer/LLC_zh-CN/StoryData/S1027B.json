@@ -1,0 +1,165 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "线团之巢，地下2层\n Skein Nest, B2F",
+      "model": "뷔페어린이신발",
+      "content": "人人都有想要的东西。是这样吧？\n Everyone has something they want. That's how it is, right?"
+    },
+    {
+      "id": 1,
+      "model": "뫼르소",
+      "content": "……对。\n Correct."
+    },
+    {
+      "id": 2,
+      "model": "료슈9장이후노담배",
+      "content": "你的愿望是什么，布布？\n What is your wish, Pwie?"
+    },
+    {
+      "id": 3,
+      "model": "뷔페어린이신발",
+      "content": "我的愿望……？我想要的……\n My wish...? What I want..."
+    },
+    {
+      "id": 4,
+      "model": "뷔페어린이신발",
+      "content": "......."
+    },
+    {
+      "id": 5,
+      "model": "뷔페어린이신발",
+      "content": "我想要的是……填满。\n What I want is... to fill."
+    },
+    {
+      "id": 6,
+      "model": "오티스",
+      "content": "具体想填满什么？\n What specifically do you want to fill?"
+    },
+    {
+      "id": 7,
+      "model": "뷔페어린이신발",
+      "content": "我自己。\n Myself."
+    },
+    {
+      "id": 8,
+      "model": "뷔페어린이신발",
+      "content": "我……从一开始就是空的。所以我才总是很饿。\n I was... empty from the beginning. That's why I was always hungry."
+    },
+    {
+      "id": 9,
+      "model": "뷔페어린이신발",
+      "content": "但是……当我和大家在一起……还有蠕蠕在一起的时候……\n But... when I'm with all of you... and Wriggley..."
+    },
+    {
+      "id": 10,
+      "model": "뷔페어린이신발",
+      "content": "我总是会忘记自己是空的。\n I keep forgetting that I'm empty."
+    },
+    {
+      "id": 11,
+      "model": "뷔페어린이신발",
+      "content": "为什么会这样？\n Why does that happen?"
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<这个问题不好回答……>\n <That's a hard question to answer...>"
+    },
+    {
+      "id": 13,
+      "model": "료슈9장이후노담배",
+      "content": "当你和别人在一起时……他们的形状，往往能藏住一点空缺的部分。\n When you're with someone... their shape tends to hide a bit of the negative space."
+    },
+    {
+      "id": 14,
+      "model": "료슈9장이후노담배",
+      "content": "但也别因为自己是空的，就把自己填得太满，布布。\n But don't fill yourself too full just because you're empty, Pwie."
+    },
+    {
+      "id": 15,
+      "model": "뷔페어린이신발",
+      "content": "……为什么不行？\n ... Why not?"
+    },
+    {
+      "id": 16,
+      "model": "료슈9장이후노담배",
+      "content": "因为没有了空缺的部分……哪怕别人想站在你身边，你也腾不出位置了。\n Because without the negative space... you won't have any room left for others, even if they wanted to stand by your side."
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 18,
+      "model": "료슈9장이후노담배",
+      "content": "怎么了，钟头？\n What, C.H.?"
+    },
+    {
+      "id": 19,
+      "model": "단테",
+      "content": "<没什么，只是……我只是在想，你和以前比变了很多。像其他罪人一样。>\n <No, just... I was just thinking you've changed a lot from how you used to be. Like the other Sinners did.>"
+    },
+    {
+      "id": 20,
+      "model": "료슈9장이후노담배",
+      "content": "……你那副得意的滴答声真让人心烦。\n ... That smug ticking of yours is getting on my nerves."
+    },
+    {
+      "id": 21,
+      "model": "단테",
+      "content": "<……我是说，默尔索也这么想，所以……>\n <... I mean, Meursault thinks the same, so...>"
+    },
+    {
+      "id": 22,
+      "model": "뫼르소",
+      "content": "本经理认可该罪人身上发生的变化。\n I recognize the changes that have occurred in the Sinner concerned."
+    },
+    {
+      "id": 23,
+      "model": "뫼르소",
+      "content": "不过……没有什么是永恒不变的，经理。\n However... nothing remains fixed for eternity, Manager."
+    },
+    {
+      "id": 24,
+      "model": "뫼르소",
+      "content": "就像这家百货商店一样，许多事都可能在转瞬之间发生改变，被彻底颠覆。\n Much like this department store, many things may change and be overturned in an instant."
+    },
+    {
+      "id": 25,
+      "model": "료슈9장이후노담배",
+      "content": "……哈……我知道。\n ... Hah... I know."
+    },
+    {
+      "id": 26,
+      "model": "료슈9장이후노담배",
+      "content": "我看起来像是会一直维持这样吗？\n Do I look like I'm going to stay this way forever?"
+    },
+    {
+      "id": 27,
+      "model": "료슈9장이후노담배",
+      "content": "我可能会再次任由盲目的怒火挥动我的刀。可能会厌倦这一切，甚至可能会再次开始伤人。\n I might let blind rage swing my blade again. Might get sick of all of this, or might even start hurting again."
+    },
+    {
+      "id": 28,
+      "model": "료슈9장이후노담배",
+      "content": "但是……\n But..."
+    },
+    {
+      "id": 29,
+      "model": "료슈9장이후노담배",
+      "content": "眼下，这里就是我选择留下的地方。\n Right now, this is where I've chosen to stay."
+    },
+    {
+      "id": 30,
+      "model": "료슈9장이후노담배",
+      "content": "钟要是聒噪个不停，我就把耳朵掏干净。这该死的刀鞘要是碍事，我就想办法让它安分点。我要做的，仅此而已。\n If the clock keeps yapping, I'll clean out my ears. If this damn scabbard gets in my way, I'll just have to keep it pacified. That's all I need to do."
+    },
+    {
+      "id": 31,
+      "model": "뫼르소",
+      "content": "......."
+    }
+  ]
+}
