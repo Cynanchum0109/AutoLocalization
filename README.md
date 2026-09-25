@@ -17,55 +17,18 @@
 
 **需先装过零协会汉化版本再装本补丁；零协更新后会自动覆盖本补丁。**
 
-## 当前范围（tier 0）
+## 译者 / agent 工作流程
 
-| scope | 内容 |
-|---|---|
-| `StoryData/` | 剧情对话与旁白（922 个文件） |
-| `PersonalityVoiceDlg/` | 人格语音台词（186 个文件） |
-| `_root/BattleSpeechBubbleDlg*.json` | 战斗气泡台词 |
-| `_root/ScenarioModelCodes-AutoCreated.json` | 角色名 / 别名表 |
-| `_mech/*-BossRaid.json` | BossRaid 的技能 / 被动 / Buff / 关键词 / UI |
-
-其余根目录文件（技能、被动、Buff、事件、UI 等约 890 个）暂不处理，等剧情和语音之后再排优先级。
-范围在 `config.py` 的 `TIER0_*` 里改。
-
-## 基线约定
-
-**当前 `LLC_zh-CN` 版本视为完备基线。** 基线里没翻的条目（ZH 缺条目、ZH 与 EN 一模一样的 390 条，
-如 `LCCB`、`Mon3tr`、`Gesellschaft`）已记入 `out/ignore.json`，**以后不再翻**。
-只有官方改写了这些条目的英文原文，它们才会重新进入队列。
-
-因此日常待办 = **游戏更新带来的增量**：新文件、新条目、被官方改写的原文。
-
-## 日常流程
+**完整说明见 [`TRANSLATION_GUIDE.md`](TRANSLATION_GUIDE.md)**（唯一真本，规则只改那一份），
+本轮翻哪些文件、做到哪了见 [`PROGRESS.md`](PROGRESS.md)。一句话流程：
 
 ```bash
-# 1. 游戏更新后，看官方改了什么
-python scan.py
-#    → out/changes/<时间>.md   新增 / 改写 / 删除 的清单
-#    → out/state.json          待办条目
-
-# 2. 取一批待译文本
-python batch_next.py --size 60
-#    → out/batch_pending.json
-
-# 3. Claude Code 读 batch_pending.json，逐条填 translation，
-#    存成 out/batch_answers.json
-
-# 4. 校验并入库
-python batch_merge.py
-#    格式码丢失 / 空译文 → 整批拒绝，progress.json 不会被污染
-
-# 重复 2-4 直到 state.json 清空
-
-# 5. 生成成品
-python apply.py            # → Workplace/translated/**
-python apply.py --install  # 产出并直接拷进游戏 LLC_zh-CN（覆盖前自动备份）
-python check.py            # 全库体检：格式码、漏译、术语不一致
-
-# 6. 确认看过本次变更后，推进基线
-python scan.py --accept
+python scan.py                                  # 看游戏更新了什么
+python batch_next.py --size 60 --status todo,stale,outdated_official,same_as_en,zh_placeholder
+#   → 填 out/slots/<slot>/batch_answers.json
+python batch_merge.py                           # 校验 + 入库，格式错整批拒绝
+python apply.py                                 # 每翻完一个文件出一次成品 → Workplace/translated/
+python pack.py <附件名>.zip                     # 发布时打玩家安装包 → out/
 ```
 
 ## 状态含义
@@ -74,9 +37,10 @@ python scan.py --accept
 |---|---|---|
 | `todo` | ZH 侧没有（缺文件 / 缺条目 / 缺字段） | 是 |
 | `stale` | 我们译过，之后官方改了英文原文 | 是 |
-| `outdated_official` | 官方有中文，但英文原文在上次基线后被改过 | 手动 `--status outdated_official` |
-| `same_as_en` | ZH 与 EN 一模一样 | 手动 |
-| `ignored` | 基线里就没翻，按约定永久跳过 | 否 |
+| `outdated_official` | 官方有中文，但英文原文在上次基线后被改过 | 需 `--status` 带上 |
+| `same_as_en` | ZH 与 EN 一模一样（官方没翻） | 需 `--status` 带上 |
+| `zh_placeholder` | ZH 是占位符 | 需 `--status` 带上 |
+| `ignored` | 记在 `out/ignore.json`，约定永久跳过 | 否 |
 | `ours` / `official` | 已译且原文未变 | 否 |
 
 ## 文件说明
@@ -93,11 +57,13 @@ python scan.py --accept
 | `batch_next.py` | 出批次 |
 | `batch_merge.py` | 校验 + 合批 |
 | `apply.py` | progress → 成品文件 |
+| `pack.py` | 打玩家安装包（校验结构） |
+| `Installer/` | 安装包外壳：install.bat / install.ps1 / README.txt，`LLC_zh-CN/` 由 pack.py 生成 |
 | `check.py` | 全库体检 |
 | `out/progress.json` | **我们自己的译文库，唯一真相** |
 | `out/snapshot.json` | 上次 accept 的 EN 原文指纹（变更检测基线） |
 | `out/ignore.json` | 永久跳过的条目 |
-| `glossary/glossary.json` | 术语表（2612 条，不入库） |
+| `glossary/glossary.json` | 术语表（不入 git） |
 
 ## 格式标签
 

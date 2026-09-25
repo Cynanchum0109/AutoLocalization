@@ -22,3 +22,4 @@ out/tm.json
 out/tm_ambiguous.json
 out/consistency.md
 Installer/*.zip
+out/*.zip

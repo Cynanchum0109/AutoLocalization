@@ -1366,3 +1366,23 @@ progress.json 共 **1668 条 / 22 个文件**。
   - RPGSystem/rpg-loc-quest-floor-4-b.json#Q4002#description
 - 其余含"他/她"的Pwie相关条目核对后确认指代其他角色（堂吉诃德/默尔索/副主厨等），非误译，未改动。
 - 已apply。以后翻译新的Pwie相关条目时，英文they/them/their指Pwie本人时一律用"祂"。
+
+## 续47 (2026-09-24，slot a)
+- 发现并修正两类问题：
+  1) 被误判为"老章节"跳过的新StoryData文件S1027B/S1028B/S1029B（"My wish...What I want..."开头一段，布布觉醒为布菲的关键剧情）实为本次更新内容，已全部补译（86条）。
+  2) 全库排查"说话人名+冒号"重复前缀问题：StoryData/P10917.json里24处content字段被我误加了"杜布瓦："前缀（与teller字段重复），已去除；RPGSystem/rpg-loc-dialogue-floor-4.json#D41331#texts[8].text同样误加"单脚人："前缀，已去除。全库扫描确认无其它文件有此问题。
+  3) 一致性核查（consistency.py）：Stranger术语20处误译成"陌生人"（应为"异乡人"），已统一修正；Alterationist术语2处误译成"改造师"（应为"改衣师"），已统一修正。剩余的"陌生者"5处确认为同一机器人NPC固定风格用词，非分裂，未改。
+- 教训：以后判断StoryData文件是否属于本次更新，不能只看编号规律，要看是否与已知章节剧情连续（如S1000-S1026已完成，S1027-S1029明显是同批延续）；批量翻译content字段时不要在正文里重复teller/speaker字段已有的名字。
+
+## 续48 (2026-09-24，slot a)
+- 用户确认：布布(Pwie)＝2层出生的胎儿＝红派的神＝红派的"声音"(the Voice/New Voice)，是同一实体，they/them/their指代时统一用"祂"。
+- 排查修正10处：快乐衣橱(Happy Closet，同样是Giant/单数实体)、以及floor-3红派"声音"相关台词里残留的"他们/它"，统一改"祂"：
+  - D3200C#texts[15]/[27]、D40312B#texts[1]、D40411#texts[13]、D40611B#texts[3]、D41321#texts[7]、Q4004/Q4007、D3203C#texts[1]/[2]
+- 已apply并同步进Installer/LLC_zh-CN，重新打包发布替换release附件（发布时用--clobber，旧包不会残留，只保留最新一个）。
+
+## 续49 (2026-09-24，slot a)
+- 用户反馈release包混入非本次更新的文件、和实装版本对不上。原因：续48打包时压的是整个 Installer/LLC_zh-CN（173个文件，含第十章（上）a1c10p1/S1000-S1016B等），而不是 Workplace/translated（96个文件）。
+- 已从 Workplace/translated 重新打包，gh release upload --clobber 替换 Canto10(2)TheGazeBearing 的附件。
+- 已按用户指示删除 Installer/LLC_zh-CN 里不在 translated 范围的77个文件（均为git跟踪文件，可 git checkout 找回），现在两个目录完全一致。
+- TRANSLATION_GUIDE.md：清空流程加上 Installer/LLC_zh-CN；边界一节加上"zip只从Workplace/translated打包"。
+- 订正（续49内）：上面第一次重打的包只含裸json，缺install.bat/install.ps1/README.txt和LLC_zh-CN外层，玩家无法安装。已按安装包结构重打（4项顶层，LLC_zh-CN==translated 96文件，共99文件，575133字节）并--clobber替换。Installer/里的旧坏包(176文件)已移出。TRANSLATION_GUIDE.md边界一节改为完整安装包打包步骤。
