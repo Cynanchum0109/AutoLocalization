@@ -25,7 +25,11 @@ IGNORE       = os.path.join(OUT_DIR, "ignore.json")                # 基线里�
 STATE        = os.path.join(OUT_DIR, "state.json")                # scan 产出的全量状态
 # 多 agent 并行：每个 agent 一个 slot（环境变量 LIMBUS_SLOT，默认 a），
 # 批次文件各放各的目录，互不覆盖。progress/state/snapshot 仍然是全局唯一真相。
+SLOTS        = ("a", "b")   # 只有两个 agent；中断重开用回原来的字母，不要新开
 SLOT         = (os.environ.get("LIMBUS_SLOT") or "a").strip() or "a"
+if SLOT not in SLOTS:
+    raise SystemExit(f"[错误] LIMBUS_SLOT={SLOT!r}，只能是 {' / '.join(SLOTS)}。"
+                     "中断后重开请用回原来的字母，不要新开 slot。")
 SLOT_DIR     = os.path.join(OUT_DIR, "slots", SLOT)
 PENDING      = os.path.join(SLOT_DIR, "batch_pending.json")
 ANSWERS      = os.path.join(SLOT_DIR, "batch_answers.json")
@@ -38,10 +42,15 @@ GLOSSARY     = os.path.join(BASE_DIR, "glossary", "glossary.json")
 
 ROOT_SCOPE = "_root"
 
+# 只翻「中文没有、英文有」的部分。这两个 scope 按整个文件判断（ZH 有这个文件就整份不翻），
+# 其余 scope 按 JSON 条目判断（ZH 有这个条目就不翻）。
+FILE_LEVEL_SCOPES = {"StoryData", "PersonalityVoiceDlg"}
+
 # (scope, 相对 EN_ROOT 的子目录 或 None)
 TIER0_DIRS = [
     ("StoryData",          "StoryData"),
     ("PersonalityVoiceDlg", "PersonalityVoiceDlg"),
+    ("BgmLyrics",          "BgmLyrics"),  # 主题曲/歌词
     ("RPGSystem",          "RPGSystem"),  # 未发布的 RPG 玩法：floor-1~4/b1/b2/route-a/theater 对话、NPC、任务、物品、地点文本
 ]
 
@@ -79,7 +88,37 @@ TIER0_MECH_FILES = [
     "BattleKeywords-a1c10p2.json",
     "Enemies-a1c10p2.json",
     "PanicInfo-a1c10p2.json",
+    # a1c10p3（第10章下）机制与杂项文本
+    "AbnormalityGuides-a1c10p3.json",
+    "Announcer-a1c10p3.json",
+    "BattleKeywords-a1c10p3.json",
+    "BattleResultHint-a1c10p3.json",
+    "Bufs-a1c10p3.json",
+    "Enemies-a1c10p3.json",
+    "PanicInfo-a1c10p3.json",
+    "Passives_Abnormality-a1c10p3.json",
+    "Skills_Abnormality-a1c10p3.json",
+    "StageNode-a1c10p3.json",
+    "UnitKeyword-a1c10p3.json",
+    "UserTicket-EGOBg-a1c10p3.json",
+    "UserTicket-L-a1c10p3.json",
+    "UserTicket-R-a1c10p3.json",
 ]
+
+# ==================== 单数 they ====================
+# 原文有 they/them/their/themself、且条目或上下文里出现这些名字时，batch_next 附 they_note 提醒。
+# 新出现的性别不明角色在这里加一行：(名字们, 该角色被 they 指代时的译法)。
+SINGULAR_THEY = [
+    (("Pwie", "吱咿"),
+     "吱咿（Pwie）：they 指它本人时译「它」（官方用法），对话里也可直接用名字「吱咿」"),
+    (("Crimson God", "the Voice", "New Voice", "赤红之神"),
+     "红派的「声音」/赤红之神：they 指那个存在时译「那位」（官方用法），不用「祂」"),
+    (("Happy Closet", "快乐衣橱"),
+     "快乐衣橱：旁白/转述用「其」；对话里或拿不准时直接用名字「快乐衣橱」"),
+    (("Dante", "但丁"),
+     "但丁：旁白/转述用「其」；对话里或拿不准时直接用名字「但丁」；绝不译「他们」"),
+]
+SINGULAR_THEY_FALLBACK = "指多个人才译「他们」；单数且性别不明：旁白用「其」，对话或拿不准时直接用名字"
 
 # ==================== 双语输出 ====================
 # apply.py 在译文后面贴上英文原文：中文译文 + 换行 + 一个空格 + 英文原文。
@@ -123,7 +162,14 @@ NEVER_TRANSLATE = {
 # [SingleWord] 方括号当作「机制关键词 ID，不翻」的 scope。
 # 剧情/语音里 [Activating] 这类是音效标注，官方译成 [启动声]，所以 tier0 全部不在此列。
 # 以后做 Skills / Passives / BattleKeywords 时把对应 scope 加进来。
-KEYWORD_BRACKET_SCOPES = {MECH_SCOPE}
+# 兜底扫描（tail）：tier0 名单之外的所有 EN 文件，排在队列最后。
+# 机制类文件名（技能/被动/Buff/关键词…）用 _tailmech，方括号关键词保留英文；其余用 _tail。
+TAIL_SCOPE = "_tail"
+TAIL_MECH_SCOPE = "_tailmech"
+TAIL_SCOPES = {TAIL_SCOPE, TAIL_MECH_SCOPE}
+TAIL_MECH_RE = r"^(Skills|Passive|Bufs|BattleKeywords|BuffAbilities|SkillTag|UnitKeyword|PanicInfo|Enemies)"
+
+KEYWORD_BRACKET_SCOPES = {MECH_SCOPE, TAIL_MECH_SCOPE}
 
 # 只有这些字段里的 [Xxx] 才是关键词 ID。
 # name 字段里的方括号是名字的一部分，要翻：

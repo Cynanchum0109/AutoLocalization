@@ -1,6 +1,9 @@
 # 给 agent 的工作说明
 
 **完整工作说明在 [`TRANSLATION_GUIDE.md`](TRANSLATION_GUIDE.md)，开工前整份读完。**
+
+**你（Codex）是 slot `b`**：每条 `batch_next.py` / `batch_merge.py` 命令前都要带 `LIMBUS_SLOT=b`
+（PowerShell 里先 `$env:LIMBUS_SLOT = "b"`）。不带就会被当成 Claude 的 `a`。中断重开也还是 `b`。
 这里不重复内容，避免两份说明各写各的、两个 agent 按不同规矩翻。
 
 配套必读：

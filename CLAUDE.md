@@ -1,6 +1,8 @@
 # 给 Claude Code 的工作说明
 
 **完整工作说明在 [`TRANSLATION_GUIDE.md`](TRANSLATION_GUIDE.md)，开工前整份读完。**
+
+**你是 slot `a`**（`LIMBUS_SLOT` 默认就是 `a`，不用设）。中断重开也还是 `a`，不要换字母。
 这里不重复内容，避免两份说明各写各的、两个 agent 按不同规矩翻。
 
 配套必读：

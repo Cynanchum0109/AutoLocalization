@@ -12,7 +12,7 @@
     （进程被 Ctrl-C 掉不会把整条流水线卡死）。
   - claims.json 记 **文件** -> {slot, ts}：一个文件整份包给一个 agent，
     别的 slot 不碰。按文件分工才有上下文可言——同一段对话被两个 agent 各翻一半，
-    称谓、语气、代词指代必然对不上。租约 LEASE_SECONDS 到期自动失效。
+    称谓、语气、代词指代必然对不上。认领不过期，翻完自动交还，或 --abandon 主动放弃。
 """
 
 import os
@@ -26,7 +26,6 @@ LOCK_DIR = os.path.join(config.OUT_DIR, "locks")
 CLAIMS = os.path.join(config.OUT_DIR, "claims.json")
 
 STALE_SECONDS = 300      # 锁文件超过这么久没人动 → 认定是残锁
-LEASE_SECONDS = 4 * 3600  # 认领的条目多久没合批 → 自动放出来给别人
 
 
 @contextmanager
@@ -67,15 +66,9 @@ def lock(name, timeout=60):
             pass
 
 
-def _prune(claims, now=None):
-    now = now or time.time()
-    return {k: v for k, v in claims.items()
-            if now - v.get("ts", 0) < LEASE_SECONDS}
-
-
 def load_claims():
-    """读认领表，顺手滤掉过期租约。"""
-    return _prune(load_json(CLAIMS) or {})
+    """读认领表。认领不过期：文件一直归认领的 slot，直到翻完或 --abandon。"""
+    return load_json(CLAIMS) or {}
 
 
 def claimed_by_others(slot=None):
@@ -110,18 +103,6 @@ def claim(files, slot=None):
     return got
 
 
-def touch(files, slot=None):
-    """续租：批次还在手上就刷新时间戳，别让 4 小时租约到期被别人抢走。"""
-    slot = slot or config.SLOT
-    now = time.time()
-    with lock("claims"):
-        claims = load_claims()
-        for f in files:
-            if claims.get(f, {}).get("slot") == slot:
-                claims[f]["ts"] = now
-        save_json(CLAIMS, claims, indent=1)
-
-
 def release(files, slot=None):
     """文件翻完了，交还给池子。"""
     slot = slot or config.SLOT
@@ -130,6 +111,17 @@ def release(files, slot=None):
         for f in set(files):
             if claims.get(f, {}).get("slot") == slot:
                 claims.pop(f, None)
+        save_json(CLAIMS, claims, indent=1)
+
+
+def reassign(files, to_slot=None):
+    """把这些文件的认领强行转到 to_slot 名下（接手中断的 slot 用）。"""
+    to_slot = to_slot or config.SLOT
+    now = time.time()
+    with lock("claims"):
+        claims = load_claims()
+        for f in files:
+            claims[f] = {"slot": to_slot, "ts": now}
         save_json(CLAIMS, claims, indent=1)
 
 

@@ -24,7 +24,7 @@
 
 ```bash
 python scan.py                                  # 看游戏更新了什么
-python batch_next.py --size 60 --status todo,stale,outdated_official,same_as_en,zh_placeholder
+python batch_next.py --size 60                  # 取一批 todo
 #   → 填 out/slots/<slot>/batch_answers.json
 python batch_merge.py                           # 校验 + 入库，格式错整批拒绝
 python apply.py                                 # 每翻完一个文件出一次成品 → Workplace/translated/
@@ -33,15 +33,18 @@ python pack.py <附件名>.zip                     # 发布时打玩家安装包
 
 ## 状态含义
 
+**只翻中文没有、英文有的部分。** `StoryData/`、`PersonalityVoiceDlg/` 按文件判断（中文侧缺整个文件才翻），
+其余按 JSON 条目判断（中文侧缺这个条目才翻）。只有 `todo` 进队列，其余状态仅作统计。
+
 | 状态 | 含义 | 是否进队列 |
 |---|---|---|
-| `todo` | ZH 侧没有（缺文件 / 缺条目 / 缺字段） | 是 |
-| `stale` | 我们译过，之后官方改了英文原文 | 是 |
-| `outdated_official` | 官方有中文，但英文原文在上次基线后被改过 | 需 `--status` 带上 |
-| `same_as_en` | ZH 与 EN 一模一样（官方没翻） | 需 `--status` 带上 |
-| `zh_placeholder` | ZH 是占位符 | 需 `--status` 带上 |
-| `ignored` | 记在 `out/ignore.json`，约定永久跳过 | 否 |
-| `ours` / `official` | 已译且原文未变 | 否 |
+| `todo` | ZH 缺这个文件（按文件的目录）/ 缺这个条目（其余目录） | 是 |
+| `ours` | 我们译过（英文原文之后改了也不重翻） | 否 |
+| `official` | ZH 已有中文 | 否 |
+| `has_zh` | ZH 已有该文件/条目，只是缺这个字段 | 否 |
+| `same_as_en` | ZH 已有，但与 EN 一模一样 | 否 |
+| `zh_placeholder` | ZH 已有，但没有汉字（韩文占位等） | 否 |
+| `ignored` | 记在 `out/ignore.json` 的 todo，永久跳过 | 否 |
 
 ## 文件说明
 
@@ -64,6 +67,10 @@ python pack.py <附件名>.zip                     # 发布时打玩家安装包
 | `out/snapshot.json` | 上次 accept 的 EN 原文指纹（变更检测基线） |
 | `out/ignore.json` | 永久跳过的条目 |
 | `glossary/glossary.json` | 术语表（不入 git） |
+| `glossary/categories.json` | 术语分组：所属章 `chap` + 类型 `cat`（`by`/`chap_by: 人工` 为手改，重跑不覆盖） |
+| `glossary/categorize.py` | 生成分组 + 出处索引 `term_where.json`；文件名→章节的对照写在 `source_label` |
+| `glossary/fetch_wiki_categories.py` | 从英文 wiki 拉页面分类，缓存供 categorize.py 判类型用 |
+| `term.py` | 术语查找：中英互查、`--chap` 按章、`--cat` 按类型、`--where` 按出处、`--set`/`--set-chap` 手改、`--check` |
 
 ## 格式标签
 

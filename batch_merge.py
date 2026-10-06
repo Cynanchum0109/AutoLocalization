@@ -59,8 +59,7 @@ def main():
     batch_files = {p["key"].rsplit("#", 2)[0] for p in pending if "key" in p}
     poached = batch_files & lock.claimed_by_others()
     if poached and not args.force:
-        print("[拒绝合批] 这些文件现在归别的 agent 包着（本 slot 的租约多半已过期，"
-              "期间对方可能已重译）：")
+        print("[拒绝合批] 这些文件现在归另一个 agent 包着（多半被 --adopt 接手了，对方可能已重译）：")
         for f in sorted(poached):
             print(f"  - {f}")
         print()
@@ -163,20 +162,16 @@ def main():
                 "ts":       now,
             }
         save_json(config.PROGRESS, progress, indent=1)
-    # 本批涉及的文件：还有没翻完的就续租，翻完的交还池子（scan 之后才知道，
-    # 所以这里按 state.json 的剩余量粗判；拿不到 state 就保守续租）
+    # 本批涉及的文件：翻完的交还池子（scan 之后才知道，所以这里按 state.json 的剩余量粗判）
     files = {k.rsplit("#", 2)[0] for k in pend_map}
     state = load_json(config.STATE) or {}
     merged = set(pend_map)
     left = {f"{x['scope']}/{x['file']}" for x in state.get("actionable", [])
-            if x["status"] in ("todo", "stale", "outdated_official")
-            and x["key"] not in merged}
+            if x["status"] == "todo" and x["key"] not in merged}
     drained = files - left
     if drained:
         lock.release(drained)
         print(f"[并行] 已翻完并交还：{', '.join(sorted(drained))}")
-    if files - drained:
-        lock.touch(files - drained)
 
     print(f"\n合批完成：{before} → {len(progress)} 条译文（{config.PROGRESS}）")
     print("下一步：python scan.py 刷新状态，或 python apply.py 出文件。")

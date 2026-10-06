@@ -49,21 +49,25 @@ class Glossary:
                 return lookup[w]
         return None
 
-    def hits(self, text, max_hits=12):
-        """返回 {原词: 译名}，按在文中出现的顺序，最多 max_hits 条。"""
+    def finditer(self, text):
+        """产出全部命中 (位置, 术语表原键, 译名, 原文里实际匹配到的串)，不排序不去重。
+        原键保留 ``!`` 前缀。"""
         if not text:
-            return {}
-        found = []  # (pos, 显示词, 译名)
+            return
         if self._re_ci:
             for m in self._re_ci.finditer(text):
                 orig = self._find(self._lookup_ci, m.group(0).lower())
                 if orig:
-                    found.append((m.start(), orig, self.terms[orig]))
+                    yield m.start(), orig, self.terms[orig], m.group(0)
         if self._re_cs:
             for m in self._re_cs.finditer(text):
                 k = self._find(self._lookup_cs, m.group(0))
                 if k:
-                    found.append((m.start(), k[1:], self.terms[k]))
+                    yield m.start(), k, self.terms[k], m.group(0)
+
+    def hits(self, text, max_hits=12):
+        """返回 {原词: 译名}，按在文中出现的顺序，最多 max_hits 条。"""
+        found = [(pos, k.lstrip("!"), zh) for pos, k, zh, _ in self.finditer(text)]
         out = {}
         for _, word, zh in sorted(found, key=lambda x: x[0]):
             if word not in out:

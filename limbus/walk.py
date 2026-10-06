@@ -39,7 +39,16 @@ class Target:
 
 
 def iter_targets():
-    """按 config 里的 tier0 范围列出所有待处理文件。"""
+    """先列 tier0 范围，再兜底列其余全部 EN 文件（tail，排最后）。"""
+    covered = set()
+    for t in _iter_tier0_targets():
+        covered.add(t.en_path)
+        yield t
+    yield from _iter_tail_targets(covered)
+
+
+def _iter_tier0_targets():
+    """按 config 里的 tier0 范围列出待处理文件。"""
     for scope, subdir in config.TIER0_DIRS:
         en_dir = os.path.join(config.EN_ROOT, subdir)
         zh_dir = os.path.join(config.ZH_ROOT, subdir)
@@ -85,6 +94,31 @@ def iter_targets():
                 os.path.join(config.EN_ROOT, fn),
                 os.path.join(config.ZH_ROOT, zh_fn),
                 os.path.join(config.WORK_ROOT, zh_fn),
+            )
+
+
+def _iter_tail_targets(covered):
+    """兜底：tier0 名单之外的所有 EN 文件，递归 EN_ROOT。排队时排在最后（见 config.TAIL_SCOPES）。"""
+    if not os.path.isdir(config.EN_ROOT):
+        return
+    for root, _dirs, files in os.walk(config.EN_ROOT):
+        for fn in sorted(files):
+            if not (fn.startswith("EN_") and fn.endswith(".json")):
+                continue
+            en_path = os.path.join(root, fn)
+            if en_path in covered:
+                continue
+            rel = os.path.relpath(root, config.EN_ROOT)
+            sub = "" if rel == "." else rel
+            zh_fn = fn[3:]
+            scope = (config.TAIL_MECH_SCOPE
+                     if not sub and re.match(config.TAIL_MECH_RE, zh_fn)
+                     else config.TAIL_SCOPE)
+            yield Target(
+                scope, (sub.replace("\\", "/") + "/" if sub else "") + zh_fn,
+                en_path,
+                os.path.join(config.ZH_ROOT, sub, zh_fn),
+                os.path.join(config.WORK_ROOT, sub, zh_fn),
             )
 
 

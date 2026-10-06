@@ -6,11 +6,13 @@
 存成 out/batch_answers.json，再跑 batch_merge.py。
 
 用法：
-  python batch_next.py                        默认 60 条，状态 todo+stale
+  python batch_next.py                        默认 60 条
   python batch_next.py --size 120
   python batch_next.py --file P10705.json     只取某个文件（可重复）
   python batch_next.py --scope StoryData
-  python batch_next.py --status todo,stale,outdated_official,same_as_en
+  python batch_next.py --adopt b              用户让你接手另一个 agent 的活时用（原批次和已填答案一起搬过来）
+
+slot 固定：Claude Code = a，Codex = b。自己还有没合批的批次时不取新批，提示接着做。
 """
 
 import argparse
@@ -31,6 +33,17 @@ from limbus import tm as tmlib
 from limbus.jsonio import load_json, save_json, setup_stdout
 
 CONTEXT_SPAN = 3          # 前后各取几条相邻对话做上下文
+THEY_RE = re.compile(r"\b(they|them|their|theirs|themself|themselves)\b", re.I)
+
+
+def they_notes(original, speaker, prev, nxt):
+    """原文有单数 they 嫌疑时，按上下文里出现的角色给出该用的译法。"""
+    if not THEY_RE.search(original or ""):
+        return []
+    hay = " ".join([original or "", speaker or "", *prev, *nxt]).lower()
+    notes = [rule for names, rule in config.SINGULAR_THEY
+             if any(n.lower() in hay for n in names)]
+    return notes + [config.SINGULAR_THEY_FALLBACK] if notes else []
 
 
 def _line(item, zh_item, idx=None):
@@ -91,6 +104,41 @@ def build_context(en_items, en_ids, zh_index, order, field, span=CONTEXT_SPAN):
     return prev, nxt
 
 
+def _unfinished(slot_dir, prog):
+    """该 slot 目录里还没合批的待译条目（pending 里 key 不在 progress 的）。"""
+    pend = load_json(os.path.join(slot_dir, "batch_pending.json")) or []
+    return [p for p in pend if p.get("key") not in prog]
+
+
+def find_orphans(prog):
+    """另一个 slot 还没合批完的批次：[(slot, 文件集合, 未完成条数)]。"""
+    root = os.path.dirname(config.SLOT_DIR)
+    out = []
+    for s in config.SLOTS:
+        if s == config.SLOT:
+            continue
+        left = _unfinished(os.path.join(root, s), prog)
+        if left:
+            out.append((s, {p["key"].rsplit("#", 2)[0] for p in left}, len(left)))
+    return out
+
+
+def adopt(slot, files):
+    """把中断 slot 的 pending / answers 整份搬到自己名下，连同文件认领。"""
+    src = os.path.join(os.path.dirname(config.SLOT_DIR), slot)
+    os.makedirs(config.SLOT_DIR, exist_ok=True)
+    for name, dst in (("batch_pending.json", config.PENDING), ("batch_answers.json", config.ANSWERS)):
+        p = os.path.join(src, name)
+        if os.path.exists(p):
+            os.replace(p, dst)
+        elif os.path.exists(dst):
+            os.remove(dst)
+    lock.reassign(files)
+    print(f"[接手] 已接手中断的 slot {slot}：{', '.join(sorted(files))}")
+    print(f"  原批次和已填的答案已搬到 {config.SLOT_DIR}")
+    print("  接着读 batch_pending.json，把 batch_answers.json 里没填的补上，再跑 batch_merge.py")
+
+
 def main():
     setup_stdout()
     ap = argparse.ArgumentParser()
@@ -98,19 +146,39 @@ def main():
     ap.add_argument("--file", action="append",
                     help="点名要包的文件（可重复）。不给就自动挑一个没人包的文件")
     ap.add_argument("--scope", action="append", help="限定 scope，如 StoryData / _root")
-    ap.add_argument("--status", default="todo,stale",
-                    help="要取的状态，逗号分隔")
+    ap.add_argument("--status", default="todo",
+                    help="要取的状态，逗号分隔（scan.py 只会产出 todo）")
     ap.add_argument("--no-claim", action="store_true",
                     help="不走认领表（确认只有你一个 agent 在干活时用）")
     ap.add_argument("--files", type=int, default=1,
                     help="自动挑几个文件包下来（默认 1，整份翻完再换下一个）")
     ap.add_argument("--abandon", action="store_true",
                     help="放弃本 slot 已认领但没合批的条目，放回池子给别人")
+    ap.add_argument("--adopt", metavar="SLOT",
+                    help="接手另一个 slot 没合批完的批次（仅在用户明确要求时用）")
     args = ap.parse_args()
 
     if args.abandon:
         lock.release_all()
-        print(f"[并行] 已释放 slot {config.SLOT} 的全部认领")
+        for p in (config.PENDING, config.ANSWERS):
+            if os.path.exists(p):
+                os.replace(p, p + ".abandoned")
+        print(f"[并行] 已释放 slot {config.SLOT} 的全部认领，未合批的批次改名为 *.abandoned 留档")
+        return
+
+    prog = load_json(config.PROGRESS) or {}
+    mine_left = _unfinished(config.SLOT_DIR, prog)
+    if mine_left:
+        print(f"[接着做] slot {config.SLOT} 还有 {len(mine_left)} 条没合批：{config.PENDING}")
+        print("  把 batch_answers.json 填完再跑 batch_merge.py；不做了就 python batch_next.py --abandon")
+        return
+
+    if args.adopt:
+        hit = [o for o in find_orphans(prog) if o[0] == args.adopt]
+        if not hit:
+            print(f"[接手] slot {args.adopt} 没有未合批的批次，不用接手。")
+            return
+        adopt(args.adopt, hit[0][1])
         return
 
     state = load_json(config.STATE)
@@ -123,7 +191,6 @@ def main():
 
     # state.json 是上次 scan 的快照，progress.json 才是实时真相：
     # 合批后没重新 scan 就取批，会把已经翻好的条目再发一遍（白翻 + 浪费 token）。
-    prog = load_json(config.PROGRESS) or {}
     if prog:
         n0 = len(items)
         items = [x for x in items
@@ -164,7 +231,8 @@ def main():
         picked = {f for f in held if remaining.get(f)}
         if not picked:
             free = [(n, f) for f, n in remaining.items() if f not in taken]
-            free.sort(key=lambda t: (-t[0], t[1]))
+            # 兜底扫描（_tail / _tailmech）排最后：先把 tier0 名单里的翻完
+            free.sort(key=lambda t: (t[1].split("/", 1)[0] in config.TAIL_SCOPES, -t[0], t[1]))
             picked = {f for _, f in free[: max(1, args.files)]}
 
     if not picked:
@@ -246,6 +314,9 @@ def main():
                 "translation": "",
             }
             kw = config.keyword_brackets(scope, x["field"])
+            they = they_notes(x["original"], entry["speaker"], prev, nxt)
+            if they:
+                entry["they_note"] = they
             prior = ours.lookup(x["original"], exclude_key=x["key"])
             if prior:
                 entry["ours"] = prior
@@ -276,16 +347,12 @@ def main():
             soft = sorted(soft_tokens(x["original"]))
             if soft:
                 entry["layout_tags"] = soft
-            if x["status"] in ("stale", "outdated_official") and x.get("zh"):
-                entry["previous_zh"] = x["zh"]
             out.append(entry)
 
     order_of = {x["key"]: sort_key(x["scope"], x["file"], x["order"], x["field"])
                 for x in batch}
     out.sort(key=lambda e: order_of[e["key"]])
     save_json(config.PENDING, out, indent=1)
-    if not args.no_claim:
-        lock.touch(picked)       # 续租，别让长批次翻到一半被别人抢走
 
     print(f"slot            : {config.SLOT}")
     print(f"本 agent 包的文件 : {', '.join(sorted(picked))}")

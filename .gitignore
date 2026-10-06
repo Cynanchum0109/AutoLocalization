@@ -9,6 +9,9 @@ __pycache__/
 .vscode/
 glossary.json
 !glossary/session_terms.json
+# 术语分类的派生产物（glossary/categorize.py、fetch_wiki_categories.py 重新生成）；categories.json 有人工修正，要入库
+glossary/term_where.json
+glossary/wiki_categories_cache.json
 
 # 新流水线：派生产物不入库（progress.json / ignore.json / snapshot.json 要入库）
 out/state.json

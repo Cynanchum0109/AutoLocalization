@@ -3,31 +3,24 @@
 > 这是**当前状态**，每翻完一个文件就改写对应小节，不追加流水账（规矩见 `TRANSLATION_GUIDE.md`「进度记录」）。
 > 2026-09-24 以前的完整记录在 `PROGRESS_archive.md`，只作历史参考。
 
-更新：2026-09-24　·　译文库 `out/progress.json` 10289 条　·　`out/claims.json` 无人占用
+更新：2026-10-06　·　术语表 2748 条
 
-## 本轮范围：第十章（中）a1c10p2
+## 本轮范围
 
-官方汉化 2026-09-20 更新后空库重开。**只翻下面这些**，其余 StoryData 老章节（S0xx/S2xx/S3xx/S7xx/S8xx、
-3D/7D/旧 E/P 系列、第十章（上）的 a1c10p1/S1000–S1016B）不属于本轮，不要认领。
-判断新文件是否属于本轮：看剧情是否和下面已完成的章节连续，不能只看编号（S1027–S1029B 曾被误当老章节跳过）。
+**无。**第十章（下）a1c10p3 一轮已结束：2026-10-05 官方汉化更新已覆盖本轮范围，我们的译文不再安装。
+等下次游戏/官方汉化更新后，按 `TRANSLATION_GUIDE.md`「游戏/汉化更新后」从 `scan.py` 重新开始。
 
-- 机制：`BattleKeywords` `BattleSpeechBubbleDlg` `Bufs` `Enemies` `PanicInfo` `Passives_Abnormality`
-  `Passives_Assist` `Skills_Abnormality` `Skills_Assist`（均为 `-a1c10p2`）
-- 剧情：StoryData `S1017B`–`S1029B`、`S9992B`、`P10705`、`P10917`
-- 语音：`PersonalityVoiceDlg/Voice_Rodion_Contem_10917`（罗佳 改衣师人格）
-- RPG：`RPGSystem/` 下 a1c10p2 相关文件（各楼层 `-b`、`-a` 杂兵、common-a1c10p2、route-a/b 等），共 69 个
-- 名表：`ScenarioModelCodes-AutoCreated`
+## 2026-10-05 对照官方后的术语表改动
 
-## 已完成
-
-上面范围**全部翻完并 apply**，`Workplace/translated` 共 96 个文件。
-2026-09-24 已发布：release `Canto10(2)TheGazeBearing`（仓库 `Cynanchum0109/LimbusCompanyTempLoc`），
-附件 `Canto10.2.TheGazeBearing_byBQCynanchum.zip`（玩家安装包，用 `pack.py` 同结构打）。
-
-本轮收尾时做过的全库订正（后续新译照此执行，规则已写进 `TRANSLATION_GUIDE.md`）：
-- 布布/布菲/红派的"声音"及快乐衣橱：they/them 指本体时改「祂」
-- 去掉 `P10917`、`rpg-loc-dialogue-floor-4` 正文里多加的说话人前缀
-- Stranger→「异乡人」（原误作「陌生人」20处），Alterationist→「改衣师」（原误作「改造师」2处）
+- `session_terms.json` / `pending_terms.json` 里官方已定名的 30 条已按官方写进 `glossary.json`
+  （如 The Sedimented 堆积之物、Thumping Pulse 搏动、Compunction 罪恶感、Hammernail [Judgment] 锤之钉[审判]、
+  Fresh Meat Section 新鲜精肉区、Ionesco 尤内斯库）。`session_terms.json` 只剩官方仍未出现的 7 个自拟词，`pending_terms.json` 已清空。
+- 新出现的官方定名：Instructor 教官、Tannery 鞣制室、Le Rouge Staff 红派 工作人员、Le Noir Officer 黑派的干部、
+  Lost Child Center 走失儿童保护所、Owner's Momma 老板的妈妈、A Certain Castle 某城堡、Inquisitor 审判官。Maman 保留「妈妈」。
+- 常见词清理：76 个按语境翻的常见词已删（含保护区的 Sister/Father/Clan/Jar/Host/Assistant/Thief），Student/Flesh/Fear 也已删；
+  专名兼常见词改成 `!` 大小写敏感，一词多义的在值里写明用法（参考 `!Rain`、`!Mentor`、`!Wings`=翼、`!Boss`）；Child 固定「孩子」。
+  复查工具：`glossary/case_audit.py`（大小写审计）、`glossary/usage_report.py`（单词的官方用法分布）。
+- 人格剧情归章规则已写进 `TRANSLATION_GUIDE.md`（基线 `glossary/p_story_baseline.json`）。
 
 ## 进行中
 
@@ -35,6 +28,4 @@
 
 ## 待用户确认
 
-- `E003I3`、`S308B`、`E406B`：09-23 的任务顺序里列在 S1029B 之后，但后来按"S03 这类不是本次更新"跳过了，没翻。要不要翻？
-- `glossary/pending_terms.json` 里的待定译名（RPG 人名、Kaki、Golden 材料前缀、Prestige Tier、Fount）还没拍板。
-- `glossary/glossary.json` 不在 git 里（`.gitignore` 排除），丢了无法恢复，要不要纳入版本管理或另行备份。
+无。（`glossary/glossary.json` 按用户决定继续不入 git，靠 `glossary/glossary.json.bak-*` 备份。）
