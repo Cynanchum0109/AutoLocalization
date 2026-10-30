@@ -13,7 +13,7 @@ while ($true) {
   $round++; if($MaxRounds -gt 0 -and $round -gt $MaxRounds){break}
   $stage='speech'; if((Count-Stage 'speech') -eq 0){$stage='boss'}; if((Count-Stage $stage) -eq 0){$stage='floors'}
   if((Count-Stage $stage) -eq 0){break}
-  $prompt="Work from disk state only. This is autonomous translation round $round. Current phase: $stage. Claim the next batch for agent b, actually translate every item, write batch_answers.json, run batch_merge.py, then verify state/progress. Do not merely report progress. Do not stop while the current batch remains unfinished. Respect TRANSLATION_GUIDE.md, FORMAT_TAGS.md, CHARACTER_VOICE.md, glossary files. If the phase has no todo, move to the next phase. Return a concise result only after committing the batch or documenting a real blocking error."
+  $prompt="Work from disk state only. This is autonomous translation round $round. Current phase: $stage. Claim the next batch for agent b, actually translate every item, write batch_answers.json, run tools/batch_merge.py, then verify state/progress. Do not merely report progress. Do not stop while the current batch remains unfinished. Respect docs/TRANSLATION_GUIDE.md, docs/FORMAT_TAGS.md, docs/CHARACTER_VOICE.md, glossary files. If the phase has no todo, move to the next phase. Return a concise result only after committing the batch or documenting a real blocking error."
   $out=Join-Path $log ("round-{0:D4}.stdout.log" -f $round); $err=Join-Path $log ("round-{0:D4}.stderr.log" -f $round); $pf=Join-Path $log ("round-{0:D4}.prompt.txt" -f $round)
   Set-Content -LiteralPath $pf -Value $prompt -Encoding UTF8
   Get-Content -LiteralPath $pf -Raw | & $codex exec -C $root --approve-for-me --dangerously-bypass-hook-trust --json - 1>$out 2>$err; $code=$LASTEXITCODE

@@ -9,8 +9,8 @@
 用来决定术语值要不要加「仅…时；其他按语境」的说明（参考 !Rain、!Mentor）。
 
 用法：
-  python glossary/usage_report.py Boss Sister Clan
-  python glossary/usage_report.py --tsv glossary/common_words_review.tsv   # 取表里「英文」列
+  python tools/glossary/usage_report.py Boss Sister Clan
+  python tools/glossary/usage_report.py --tsv glossary/common_words_review.tsv   # 取表里「英文」列
 输出 glossary/usage_report.md
 """
 
@@ -26,7 +26,7 @@ sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from case_audit import SENT_START_RE, WORD_RE, iter_pairs, zh_core
 from limbus.jsonio import load_json
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "glossary")  # 术语数据目录
 OUT = os.path.join(HERE, "usage_report.md")
 N_SAMPLES = 3
 

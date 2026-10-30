@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """categorize.py - 给术语表分组：所属章（主）+ 类型（辅），并统计每个术语出现在哪些章节。
 
-  python glossary/categorize.py
+  python tools/glossary/categorize.py
 
 产出两个文件：
   glossary/categories.json   {术语: {"chap": 所属章, "cat": 类型, "by": 类型依据}}   入 git
@@ -40,7 +40,7 @@ import config
 from limbus.glossary import Glossary
 from limbus.jsonio import load_json, save_json, setup_stdout
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "glossary")  # 术语数据目录
 CATEGORIES = os.path.join(HERE, "categories.json")
 WHERE = os.path.join(HERE, "term_where.json")
 WIKI_CACHE = os.path.join(HERE, "wiki_categories_cache.json")
@@ -446,7 +446,7 @@ def main():
     terms = list(gloss.terms)
     wiki = load_json(WIKI_CACHE) or {}
     if not wiki:
-        print("[提示] 没有 wiki 缓存，只按游戏数据和规则分类。先跑 glossary/fetch_wiki_categories.py 效果更好。")
+        print("[提示] 没有 wiki 缓存，只按游戏数据和规则分类。先跑 tools/glossary/fetch_wiki_categories.py 效果更好。")
     old = {k: v for k, v in (load_json(CATEGORIES) or {}).items() if not k.startswith("_")}
 
     print(f"扫描游戏文件 {config.EN_ROOT} …")

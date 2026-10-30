@@ -11,7 +11,7 @@
   4. 译文长度相对原文异常（疑似漏译/塞私货）
   5. 译文与原文完全相同
 
-用法：python check.py
+用法：python tools/check.py
 """
 
 import os

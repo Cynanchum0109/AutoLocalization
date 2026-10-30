@@ -15,15 +15,17 @@
   ours              我们译过（英文原文之后改了也不重翻）
   official          ZH 已有中文
   has_zh            ZH 已有该文件/条目，只是缺这个字段 —— 按规则不补
-  same_as_en        ZH 已有，但与 EN 一模一样 —— 按规则不翻，仅作统计
+  same_as_en        ZH 已有，但与 EN 一模一样 —— 按规则不翻，仅作统计。
+                    例外：同一条目的其他字段是我们译的（ZH 里是装进游戏的我们的产出，
+                    英文是当时没覆盖到的字段），算 todo
   zh_placeholder    ZH 已有，但没有一个汉字（韩文占位等）—— 按规则不翻，仅作统计
   ignored           记在 ignore.json 里的 todo，永久跳过
 
 用法：
-  python scan.py                 只扫描并报告，不动基线
-  python scan.py --accept        把本次 EN 指纹存为新基线（每次看完变更后用）
-  python scan.py --baseline      一次性：当前所有 todo 记入 ignore.json，以后不再出现
-  python scan.py --show-ignored  报告里附上被忽略的条目统计
+  python tools/scan.py                 只扫描并报告，不动基线
+  python tools/scan.py --accept        把本次 EN 指纹存为新基线（每次看完变更后用）
+  python tools/scan.py --baseline      一次性：当前所有 todo 记入 ignore.json，以后不再出现
+  python tools/scan.py --show-ignored  报告里附上被忽略的条目统计
 """
 
 import argparse
@@ -43,7 +45,7 @@ ACTIONABLE = ("todo",)
 STATUSES = ("todo", "ours", "official", "has_zh", "same_as_en", "zh_placeholder", "ignored")
 
 
-def classify(unit, zh_file_exists, zh_item, zh_val, prog_entry):
+def classify(unit, zh_file_exists, zh_item, zh_val, prog_entry, our_item=False):
     en_h = walk.src_hash(unit["original"])
     if prog_entry:
         return "ours", en_h
@@ -56,7 +58,7 @@ def classify(unit, zh_file_exists, zh_item, zh_val, prog_entry):
     if zh_val is None or not isinstance(zh_val, str) or zh_val == "":
         return "has_zh", en_h
     if zh_val == unit["original"]:
-        return "same_as_en", en_h
+        return ("todo" if our_item else "same_as_en"), en_h
     if not has_cjk(zh_val):
         return "zh_placeholder", en_h
     return "official", en_h
@@ -80,6 +82,10 @@ def main():
     ignore   = load_json(config.IGNORE) or {}
     first_run = not snapshot
 
+    # 我们译过其他字段的条目：ZH 那份是装进游戏的我们的产出，同条目里剩下的英文是当时
+    # 没覆盖到的字段（如事件选项），不是官方保留原文。按条目而非按文件，免得把官方
+    # 有意留英文的条目（Announcer 里的司书名等）也翻出来。
+    our_items = {k.rsplit("#", 1)[0] for k in progress}
     hashes    = {}
     actionable = []
     counts    = Counter()
@@ -107,7 +113,8 @@ def main():
             # 必须按路径取，用 dict.get 会一律读成 None。
             zh_val  = (walk.get_by_path(zh_item, unit["field"])
                        if isinstance(zh_item, dict) else None)
-            status, en_h = classify(unit, zh_file_exists, zh_item, zh_val, progress.get(key))
+            status, en_h = classify(unit, zh_file_exists, zh_item, zh_val, progress.get(key),
+                                   f"{t.label}#{unit['id']}" in our_items)
             if status == "todo" and ignore.get(key) == en_h:
                 status = "ignored"
             hashes[key] = en_h
@@ -144,7 +151,7 @@ def main():
     report = os.path.join(config.CHANGES_DIR, f"{stamp}.md")
     lines = [f"# 游戏文本变更报告 {stamp}", ""]
     if first_run:
-        lines += ["> 首次扫描，没有可比对的基线。跑 `python scan.py --accept` 建立基线。", ""]
+        lines += ["> 首次扫描，没有可比对的基线。跑 `python tools/scan.py --accept` 建立基线。", ""]
     lines += [
         "## 与上次基线的差异", "",
         f"- 新增文本条目：**{len(added)}**",
@@ -204,7 +211,7 @@ def main():
         save_json(config.IGNORE, frozen, indent=None)
         print(f"  已冻结 {n} 条基线期就存在的条目 → {config.IGNORE}"
               f"（共 {len(frozen)} 条永久跳过）")
-        print("  基线之后新出现的条目仍在待办里。重跑 python scan.py 查看。")
+        print("  基线之后新出现的条目仍在待办里。重跑 python tools/scan.py 查看。")
         return
 
     if args.baseline:
@@ -220,7 +227,7 @@ def main():
         save_json(config.SNAPSHOT, hashes, indent=None)
         print(f"  已更新基线 → {config.SNAPSHOT}")
     else:
-        print("  （未更新基线。确认看过变更后跑 python scan.py --accept）")
+        print("  （未更新基线。确认看过变更后跑 python tools/scan.py --accept）")
 
 
 if __name__ == "__main__":

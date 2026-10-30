@@ -21,8 +21,8 @@
   - 术语表命中词在译文里找不到对应译名（Fixer→收尾人 之类；普通词义可忽略）
 
 用法：
-  python batch_merge.py
-  python batch_merge.py --force   忽略硬错误强行合批（不建议）
+  python tools/batch_merge.py
+  python tools/batch_merge.py --force   忽略硬错误强行合批（不建议）
 """
 
 import argparse
@@ -174,7 +174,7 @@ def main():
         print(f"[并行] 已翻完并交还：{', '.join(sorted(drained))}")
 
     print(f"\n合批完成：{before} → {len(progress)} 条译文（{config.PROGRESS}）")
-    print("下一步：python scan.py 刷新状态，或 python apply.py 出文件。")
+    print("下一步：python tools/scan.py 刷新状态，或 python tools/apply.py 出文件。")
 
     # 合批成功后归档，避免下一批误用旧答案
     for path in (config.PENDING, config.ANSWERS):

@@ -19,16 +19,16 @@
 
 ## 译者 / agent 工作流程
 
-**完整说明见 [`TRANSLATION_GUIDE.md`](TRANSLATION_GUIDE.md)**（唯一真本，规则只改那一份），
-本轮翻哪些文件、做到哪了见 [`PROGRESS.md`](PROGRESS.md)。一句话流程：
+**完整说明见 [`docs/TRANSLATION_GUIDE.md`](docs/TRANSLATION_GUIDE.md)**（唯一真本，规则只改那一份），
+本轮翻哪些文件、做到哪了见 [`docs/PROGRESS.md`](docs/PROGRESS.md)。一句话流程：
 
 ```bash
-python scan.py                                  # 看游戏更新了什么
-python batch_next.py --size 60                  # 取一批 todo
+python tools/scan.py                                  # 看游戏更新了什么
+python tools/batch_next.py --size 60                  # 取一批 todo
 #   → 填 out/slots/<slot>/batch_answers.json
-python batch_merge.py                           # 校验 + 入库，格式错整批拒绝
-python apply.py                                 # 每翻完一个文件出一次成品 → Workplace/translated/
-python pack.py <附件名>.zip                     # 发布时打玩家安装包 → out/
+python tools/batch_merge.py                           # 校验 + 入库，格式错整批拒绝
+python tools/apply.py                                 # 每翻完一个文件出一次成品 → Workplace/translated/
+python tools/pack.py <附件名>.zip                     # 发布时打玩家安装包 → release/
 ```
 
 ## 状态含义
@@ -46,35 +46,54 @@ python pack.py <附件名>.zip                     # 发布时打玩家安装包
 | `zh_placeholder` | ZH 已有，但没有汉字（韩文占位等） | 否 |
 | `ignored` | 记在 `out/ignore.json` 的 todo，永久跳过 | 否 |
 
+## 目录结构
+
+```
+CLAUDE.md / AGENTS.md   agent 入口（只指向 docs/TRANSLATION_GUIDE.md）
+docs/                   规程与进度：TRANSLATION_GUIDE、FORMAT_TAGS、CHARACTER_VOICE、PROGRESS
+  archive/              历史记录（PROGRESS_archive、旧术语清洗记录），只作参考
+tools/                  全部脚本，从工程根目录跑：python tools/xxx.py
+  limbus/               共享模块
+  glossary/             术语表维护脚本（数据在根目录 glossary/）
+    legacy/             旧术语清洗脚本，依赖已删除的 json_io，跑不起来，只留档
+glossary/               术语数据（glossary.json、session_terms.json、categories.json…）
+  backups/              术语表手动备份（不入 git）
+out/                    流水线状态：progress.json（译文库）、slots/、changes/
+Workplace/translated/   apply.py 产出的成品，可直接手改（apply 会先收回手改再生成，不会覆盖）
+Workplace/backups/      覆盖前的备份：<时间>/ = --install 前的游戏文件，<时间>-手改/ = 手改过的成品
+release/                pack.py 打出的玩家安装包 zip
+Installer/              玩家安装包外壳
+```
+
 ## 文件说明
 
 | 路径 | 作用 |
 |---|---|
-| `config.py` | 路径、翻译范围、字段规则 —— 唯一配置入口 |
-| `limbus/walk.py` | 遍历文件、生成 key、判断哪些字段要翻 |
-| `limbus/glossary.py` | 术语表索引（长词优先 + 词边界正则） |
-| `limbus/tm.py` | 翻译记忆库：官方已译过的同一句原文直接复用（3 万条，缓存 out/tm.json） |
-| `limbus/fmtcode.py` | 格式标签识别与校验（标签名硬编码，清单见 `FORMAT_TAGS.md`） |
-| `limbus/jsonio.py` | JSON 读写（剥 BOM，写出对齐官方：utf-8 无 BOM / LF / indent=2） |
-| `scan.py` | 扫描 + 快照 diff + 待办清单 |
-| `batch_next.py` | 出批次 |
-| `batch_merge.py` | 校验 + 合批 |
-| `apply.py` | progress → 成品文件 |
-| `pack.py` | 打玩家安装包（校验结构） |
+| `tools/config.py` | 路径、翻译范围、字段规则 —— 唯一配置入口 |
+| `tools/limbus/walk.py` | 遍历文件、生成 key、判断哪些字段要翻 |
+| `tools/limbus/glossary.py` | 术语表索引（长词优先 + 词边界正则） |
+| `tools/limbus/tm.py` | 翻译记忆库：官方已译过的同一句原文直接复用（3 万条，缓存 out/tm.json） |
+| `tools/limbus/fmtcode.py` | 格式标签识别与校验（标签名硬编码，清单见 `docs/FORMAT_TAGS.md`） |
+| `tools/limbus/jsonio.py` | JSON 读写（剥 BOM，写出对齐官方：utf-8 无 BOM / LF / indent=2） |
+| `tools/scan.py` | 扫描 + 快照 diff + 待办清单 |
+| `tools/batch_next.py` | 出批次 |
+| `tools/batch_merge.py` | 校验 + 合批 |
+| `tools/apply.py` | progress → 成品文件 |
+| `tools/pack.py` | 打玩家安装包（校验结构） |
 | `Installer/` | 安装包外壳：install.bat / install.ps1 / README.txt，`LLC_zh-CN/` 由 pack.py 生成 |
-| `check.py` | 全库体检 |
+| `tools/check.py` | 全库体检 |
 | `out/progress.json` | **我们自己的译文库，唯一真相** |
 | `out/snapshot.json` | 上次 accept 的 EN 原文指纹（变更检测基线） |
 | `out/ignore.json` | 永久跳过的条目 |
 | `glossary/glossary.json` | 术语表（不入 git） |
 | `glossary/categories.json` | 术语分组：所属章 `chap` + 类型 `cat`（`by`/`chap_by: 人工` 为手改，重跑不覆盖） |
-| `glossary/categorize.py` | 生成分组 + 出处索引 `term_where.json`；文件名→章节的对照写在 `source_label` |
-| `glossary/fetch_wiki_categories.py` | 从英文 wiki 拉页面分类，缓存供 categorize.py 判类型用 |
-| `term.py` | 术语查找：中英互查、`--chap` 按章、`--cat` 按类型、`--where` 按出处、`--set`/`--set-chap` 手改、`--check` |
+| `tools/glossary/categorize.py` | 生成分组 + 出处索引 `term_where.json`；文件名→章节的对照写在 `source_label` |
+| `tools/glossary/fetch_wiki_categories.py` | 从英文 wiki 拉页面分类，缓存供 categorize.py 判类型用 |
+| `tools/term.py` | 术语查找：中英互查、`--chap` 按章、`--cat` 按类型、`--where` 按出处、`--set`/`--set-chap` 手改、`--check` |
 
 ## 格式标签
 
-见 `FORMAT_TAGS.md`。一句话版本：`<color>` `<style>` `<mark>` `<noparse>` 和 `{占位符}`
+见 `docs/FORMAT_TAGS.md`。一句话版本：`<color>` `<style>` `<mark>` `<noparse>` 和 `{占位符}`
 必须一一对应；`<i> <b> <size> <ruby>` 等排版标签**原样照抄，不丢也不加**（只有良秀注音 `<ruby=Yoshihide>` 例外）；
 `<Uh...>` `[INITIATING SITE BURIAL.]` 这类尖/方括号是**引号不是标签**，内容要翻、括号保留。
 

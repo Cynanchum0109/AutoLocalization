@@ -2,20 +2,20 @@
 # -*- coding: utf-8 -*-
 """term.py - 术语查找（按章节 / 类型 / 出处 / 中英互查）。
 
-  python term.py Faust                 中英互查（子串，不分大小写）：译名、所属章、类型、出现在哪
-  python term.py 浮士德
-  python term.py --chap                各章条数（带章名）
-  python term.py --chap 10             第10章的术语，按类型分组（也可写 8.5 / 间章8.5 / 通用 / 人格剧情）
-  python term.py --cat                 各类型条数
-  python term.py --cat 组织            某类型全部术语，按章节分组（类型名写一部分即可）
-  python term.py --chap 10 --cat 人物  条件可以叠加
-  python term.py --where 第10章        在某出处出现过的（不只看所属章），按次数排
-  python term.py --set Kaki 组织势力   手动改类型（记为 人工，重跑分类不覆盖）
-  python term.py --set-chap Kaki 10    手动改所属章
-  python term.py --check               术语表 / 分类表 / 出处索引是否对得上
+  python tools/term.py Faust                 中英互查（子串，不分大小写）：译名、所属章、类型、出现在哪
+  python tools/term.py 浮士德
+  python tools/term.py --chap                各章条数（带章名）
+  python tools/term.py --chap 10             第10章的术语，按类型分组（也可写 8.5 / 间章8.5 / 通用 / 人格剧情）
+  python tools/term.py --cat                 各类型条数
+  python tools/term.py --cat 组织            某类型全部术语，按章节分组（类型名写一部分即可）
+  python tools/term.py --chap 10 --cat 人物  条件可以叠加
+  python tools/term.py --where 第10章        在某出处出现过的（不只看所属章），按次数排
+  python tools/term.py --set Kaki 组织势力   手动改类型（记为 人工，重跑分类不覆盖）
+  python tools/term.py --set-chap Kaki 10    手动改所属章
+  python tools/term.py --check               术语表 / 分类表 / 出处索引是否对得上
 
 所属章 = 该词在主线/间章里出现最多的那章；铺满多章的归「通用」。
-数据由 glossary/categorize.py 生成；术语表或游戏文本更新后重跑它。
+数据由 tools/glossary/categorize.py 生成；术语表或游戏文本更新后重跑它。
 也会查 glossary/session_terms.json（本轮新定）和 pending_terms.json（待定）。
 """
 
@@ -27,15 +27,15 @@ import sys
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, BASE)
-sys.path.insert(0, os.path.join(BASE, "glossary"))
+sys.path.insert(0, os.path.join(BASE, "glossary"))  # tools/glossary/categorize.py
 
 import config
 from categorize import (CATEGORIES, CATS, CHAP_OTHER, GENERAL, MANUAL, UNSORTED, WHERE,
                         chap_sort_key, glossary_digest)
 from limbus.jsonio import load_json, save_json, setup_stdout
 
-SESSION = os.path.join(BASE, "glossary", "session_terms.json")
-PENDING = os.path.join(BASE, "glossary", "pending_terms.json")
+SESSION = os.path.join(config.BASE_DIR, "glossary", "session_terms.json")
+PENDING = os.path.join(config.BASE_DIR, "glossary", "pending_terms.json")
 
 
 class DB:
@@ -96,7 +96,7 @@ def cmd_lookup(db, q):
         c = db.cats.get(k, {})
         print(f"{k.lstrip('!')} = {zh}" + (" [区分大小写]" if k.startswith("!") else ""))
         if not c:
-            print("    （未建分类，跑 glossary/categorize.py）")
+            print("    （未建分类，跑 tools/glossary/categorize.py）")
         else:
             print(f"    所属：{db.chap_title(c['chap'])}" + ("（人工）" if c.get("chap_by") == MANUAL else "")
                   + f"    类型：{c['cat']}" + (f"  ← {c['by']}" if c.get("by") else ""))
@@ -183,16 +183,16 @@ def cmd_check(db):
     extra = [k for k in db.cats if k not in db.gloss]
     if miss:
         ok = False
-        print(f"术语表里有、分类表里没有 {len(miss)} 条（跑 glossary/categorize.py）：{', '.join(miss[:15])}")
+        print(f"术语表里有、分类表里没有 {len(miss)} 条（跑 tools/glossary/categorize.py）：{', '.join(miss[:15])}")
     if extra:
         ok = False
-        print(f"分类表里有、术语表已删 {len(extra)} 条（跑 glossary/categorize.py 清掉）：{', '.join(extra[:15])}")
+        print(f"分类表里有、术语表已删 {len(extra)} 条（跑 tools/glossary/categorize.py 清掉）：{', '.join(extra[:15])}")
     if db.where_all.get("_glossary") != glossary_digest():
         ok = False
-        print(f"出处索引建于 {db.where_all.get('_built', '?')}，之后术语表改过 → 跑 glossary/categorize.py")
+        print(f"出处索引建于 {db.where_all.get('_built', '?')}，之后术语表改过 → 跑 tools/glossary/categorize.py")
     uns = sum(1 for k in db.gloss if db.cat(k) == UNSORTED)
     unseen = [k.lstrip("!") for k in db.gloss if k not in db.where]
-    print(f"类型未分类 {uns} 条（python term.py --cat 未分类 查看，--set 手动归类）")
+    print(f"类型未分类 {uns} 条（python tools/term.py --cat 未分类 查看，--set 手动归类）")
     print(f"当前英文文本里没出现的术语 {len(unseen)} 条：{', '.join(unseen[:20])}")
     if ok:
         print("术语表、分类表、出处索引一致。")

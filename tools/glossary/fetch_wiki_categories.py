@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """fetch_wiki_categories.py - 从英文 wiki（limbuscompany.wiki.gg）拉术语的页面分类。
 
-  python glossary/fetch_wiki_categories.py            只拉缓存里还没有的词
-  python glossary/fetch_wiki_categories.py --refresh  全部重拉
+  python tools/glossary/fetch_wiki_categories.py            只拉缓存里还没有的词
+  python tools/glossary/fetch_wiki_categories.py --refresh  全部重拉
 
 结果缓存到 glossary/wiki_categories_cache.json：
   {"Faust": {"page": "Faust", "cats": ["Characters"]},

@@ -16,8 +16,8 @@
   人工  其余 / 样本太少
 
 输出 glossary/case_audit.tsv（UTF-8 BOM，Excel 可开）。用法：
-  python glossary/case_audit.py               # 审单词术语，小写出现 ≥10 次的
-  python glossary/case_audit.py --min 5
+  python tools/glossary/case_audit.py               # 审单词术语，小写出现 ≥10 次的
+  python tools/glossary/case_audit.py --min 5
 """
 
 import argparse
@@ -29,7 +29,7 @@ from collections import Counter, defaultdict
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 from limbus.jsonio import load_json
 
-HERE = os.path.dirname(os.path.abspath(__file__))
+HERE = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))), "glossary")  # 术语数据目录
 GLOSSARY = os.path.join(HERE, "glossary.json")
 OUT = os.path.join(HERE, "case_audit.tsv")
 EN_ROOT = r"D:\Steam\steamapps\common\Limbus Company\LimbusCompany_Data\Assets\Resources_moved\Localize\en"

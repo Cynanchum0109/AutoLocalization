@@ -9,9 +9,9 @@
 只做提示，不改任何东西。结果写 out/consistency.md。
 
 用法：
-  python consistency.py                 # 全库
-  python consistency.py --file floor-b1 # 只看 key 含该串的条目
-  python consistency.py --min 5 --top 4
+  python tools/consistency.py                 # 全库
+  python tools/consistency.py --file floor-b1 # 只看 key 含该串的条目
+  python tools/consistency.py --min 5 --top 4
 """
 
 import argparse

@@ -6,11 +6,11 @@
 存成 out/batch_answers.json，再跑 batch_merge.py。
 
 用法：
-  python batch_next.py                        默认 60 条
-  python batch_next.py --size 120
-  python batch_next.py --file P10705.json     只取某个文件（可重复）
-  python batch_next.py --scope StoryData
-  python batch_next.py --adopt b              用户让你接手另一个 agent 的活时用（原批次和已填答案一起搬过来）
+  python tools/batch_next.py                        默认 60 条
+  python tools/batch_next.py --size 120
+  python tools/batch_next.py --file P10705.json     只取某个文件（可重复）
+  python tools/batch_next.py --scope StoryData
+  python tools/batch_next.py --adopt b              用户让你接手另一个 agent 的活时用（原批次和已填答案一起搬过来）
 
 slot 固定：Claude Code = a，Codex = b。自己还有没合批的批次时不取新批，提示接着做。
 """
@@ -170,7 +170,7 @@ def main():
     mine_left = _unfinished(config.SLOT_DIR, prog)
     if mine_left:
         print(f"[接着做] slot {config.SLOT} 还有 {len(mine_left)} 条没合批：{config.PENDING}")
-        print("  把 batch_answers.json 填完再跑 batch_merge.py；不做了就 python batch_next.py --abandon")
+        print("  把 batch_answers.json 填完再跑 batch_merge.py；不做了就 python tools/batch_next.py --abandon")
         return
 
     if args.adopt:
@@ -183,7 +183,7 @@ def main():
 
     state = load_json(config.STATE)
     if not state:
-        print("[错误] 没有 out/state.json，先跑 python scan.py")
+        print("[错误] 没有 out/state.json，先跑 python tools/scan.py")
         sys.exit(1)
 
     wanted_status = {s.strip() for s in args.status.split(",") if s.strip()}
@@ -198,7 +198,7 @@ def main():
                          and prog[x["key"]].get("src_hash") == walk.src_hash(x["original"]))]
         if len(items) != n0:
             print(f"[过滤] state.json 已过期：{n0 - len(items)} 条其实已合批，跳过"
-                  f"（想让统计准确就跑 python scan.py 刷新）")
+                  f"（想让统计准确就跑 python tools/scan.py 刷新）")
     total_remaining = len(items)
 
 
@@ -369,7 +369,7 @@ def main():
         print(f"    {v:>4}  {k}")
     print()
     print(f"下一步：读 {config.PENDING}，填好 translation，")
-    print(f"        存成 {config.ANSWERS}，然后 python batch_merge.py")
+    print(f"        存成 {config.ANSWERS}，然后 python tools/batch_merge.py")
 
 
 if __name__ == "__main__":

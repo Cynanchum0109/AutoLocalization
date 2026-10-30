@@ -1,38 +1,13 @@
 {
-  "_note": "跨 agent 共享的新造专名台账：glossary.json 里没有、但本轮已经定下来的译名。两个 agent 都要读、都要写。",
-  "Experience Soup": {
-    "zh": "经验浓汤",
-    "by": "a",
-    "note": "自拟，官方无"
-  },
-  "Sisyphean Rain": {
-    "zh": "西西弗之雨",
-    "by": "a",
-    "note": "自拟，官方无"
-  },
-  "Voice of Voices": {
-    "zh": "声音之声",
-    "by": "a",
-    "note": "自拟，官方无"
-  },
-  "Giant of Le Néant": {
-    "zh": "虚无派的巨人",
-    "by": "a",
-    "note": "由官方 Le Néant=虚无派 拼出"
-  },
-  "Sisyphus": {
-    "zh": "西西弗斯",
-    "by": "a",
-    "note": "自拟"
-  },
-  "Moulin Rouge": {
-    "zh": "红磨坊",
-    "by": "a",
-    "note": "自拟"
-  },
-  "Fixed Damage": {
-    "zh": "固定伤害",
-    "by": "a",
-    "note": "自拟"
-  }
+ "_note": "跨 agent 共享的新造专名台账：glossary.json 里没有、但本轮已经定下来的译名。两个 agent 都要读、都要写。",
+ "Golden Tape": {
+  "zh": "金色磁带",
+  "by": "a",
+  "note": "P10617 广播室说话的磁带（teller）"
+ },
+ "blanket": {
+  "zh": "毯子",
+  "by": "a",
+  "note": "P10617 鸿璐罩鸟笼的毯子（KR 담요），不意译成布料"
+ }
 }

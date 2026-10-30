@@ -15,10 +15,15 @@ r"""apply.py - 把 out/progress.json 的译文写进成品文件。
   - 只覆盖 progress 里有译文的字段，其余原样保留
   - 只输出真正有改动的文件
   - 格式对齐官方：utf-8 无 BOM、LF、indent=2
+  - **用户手改保护**：写出前先比对 Workplace/translated 里的文件和上次写出的内容，
+    用户手改过的译文字段收回 progress.json（标 by=user），再按 progress 重新生成，
+    手改不会被覆盖；同一条两边都改了以用户为准，并打印出来。
+    手改过的文件覆盖前整份备份到 Workplace/backups/<时间>-手改/（非译文字段的手改也不丢）。
 
 用法：
-  python apply.py
-  python apply.py --clean    先清空 Workplace/translated 再生成
+  python tools/apply.py
+  python tools/apply.py --import-only   只收用户手改进 progress，不写文件（改译文前先跑）
+  python tools/apply.py --clean         先清空 Workplace/translated 再生成（手改照样先收回）
 """
 
 import argparse
@@ -33,9 +38,111 @@ import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 import config
-from limbus import walk
+from limbus import lock, walk
 from limbus.fmtcode import has_cjk
 from limbus.jsonio import load_json, save_json, setup_stdout
+
+
+def file_hash(path):
+    with open(path, "rb") as f:
+        return hashlib.sha256(f.read()).hexdigest()
+
+
+def is_bilingual(label):
+    return config.BILINGUAL and label.split("/")[0] not in config.MONOLINGUAL_SCOPES
+
+
+def strip_bilingual(value, label, en_item, field, en):
+    """成品字段值 → 纯中文。双语文件去掉「换行+空格+英文原文」尾巴。"""
+    if not is_bilingual(label):
+        return value
+    src = walk.get_by_path(en_item, field) if en_item else None
+    for s in (src, en):
+        if isinstance(s, str) and s and value.endswith(config.BILINGUAL_JOIN + s):
+            return value[: -len(config.BILINGUAL_JOIN + s)]
+    # 英文尾巴也被改过：取第一个分隔符之前的部分当中文
+    return value.split(config.BILINGUAL_JOIN, 1)[0]
+
+
+def import_hand_edits(progress, apply_state, only_file=None):
+    """把 Workplace/translated 里的手改收回 progress。返回 (收回条数, 冲突列表, 手改过的文件集合)。
+
+    apply_state[label] = {"fp": 指纹, "out": 写出文件的 sha256, "zh": {key: 写出时的中文}}；
+    旧格式只有指纹字符串，指纹没变时视 progress 当前中文为写出时的中文。
+    """
+    by_file = {}
+    for key in progress:
+        by_file.setdefault(key.rsplit("#", 2)[0], []).append(key)
+
+    stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
+    imported, conflicts, edited_files = 0, [], set()
+    for t in walk.iter_targets():
+        label = t.label
+        if only_file and only_file not in (label, os.path.basename(label)):
+            continue
+        st = apply_state.get(label)
+        keys = by_file.get(label)
+        if not st or not keys or not os.path.exists(t.out_path):
+            continue
+        if isinstance(st, str):
+            st = {"fp": st}
+        if st.get("out") and st["out"] == file_hash(t.out_path):
+            continue  # 和上次写出的一字不差
+        applied = st.get("zh")
+        if applied is None:
+            if st["fp"] != file_fingerprint(progress, keys):
+                print(f"  [警告] {label}：旧格式状态且 progress 已变，无法判断哪些是手改，按全部手改处理")
+            applied = {k: progress[k]["zh"] for k in keys}
+
+        disk = load_json(t.out_path, on_error="warn")
+        if disk is None:
+            continue
+        en_data = load_json(t.en_path) or {}
+        disk_index, en_index = walk.index_by_id(disk), walk.index_by_id(en_data)
+        changed = []
+        for key in keys:
+            _, item_id, field = key.rsplit("#", 2)
+            item = disk_index.get(item_id)
+            val = walk.get_by_path(item, field) if item else None
+            if not isinstance(val, str):
+                continue
+            zh = strip_bilingual(val, label, en_index.get(item_id), field, progress[key].get("en", ""))
+            if zh == applied.get(key, progress[key]["zh"]):
+                continue
+            if progress[key]["zh"] != applied.get(key, progress[key]["zh"]):
+                conflicts.append((key, progress[key]["zh"], zh))
+            changed.append((key, zh))
+
+        if st.get("out") or changed:
+            # 文件被动过（可能只改了非译文字段）：覆盖前整份留底
+            bak = os.path.join(config.BASE_DIR, "Workplace", "backups", stamp + "-手改",
+                               os.path.relpath(t.out_path, config.WORK_ROOT))
+            os.makedirs(os.path.dirname(bak), exist_ok=True)
+            shutil.copy2(t.out_path, bak)
+            edited_files.add(label)
+        if changed:
+            with lock.lock("progress"):
+                latest = load_json(config.PROGRESS) or {}
+                now = datetime.now().isoformat(timespec="seconds")
+                for key, zh in changed:
+                    if key in latest:
+                        latest[key].update(zh=zh, by="user", ts=now)
+                        progress[key] = latest[key]
+                save_json(config.PROGRESS, latest, indent=1)
+            imported += len(changed)
+            print(f"  [手改] {label}：收回 {len(changed)} 条进 progress")
+    for label in sorted(edited_files):
+        print(f"  [留底] {label} 覆盖前已备份到 Workplace/backups/{stamp}-手改/")
+    for key, ours, theirs in conflicts:
+        print(f"  [冲突·以用户为准] {key}\n      agent 版：{ours}\n      用户版：{theirs}")
+    return imported, conflicts, edited_files
+
+
+def file_fingerprint(progress, keys):
+    edits = {tuple(k.rsplit("#", 2)[1:]): (progress[k]["zh"], progress[k].get("en", "")) for k in keys}
+    return hashlib.sha256(
+        json.dumps(sorted(edits.items()), ensure_ascii=False, sort_keys=True).encode("utf-8")
+    ).hexdigest()
 
 
 def main():
@@ -43,9 +150,11 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("--clean", action="store_true")
     ap.add_argument("--install", action="store_true",
-                    help="产出后直接拷进游戏 LLC_zh-CN 目录（覆盖前自动备份到 Workplace/backup_<时间>/）")
+                    help="产出后直接拷进游戏 LLC_zh-CN 目录（覆盖前自动备份到 Workplace/backups/<时间>/）")
     ap.add_argument("--force", action="store_true",
-                    help="忽略指纹缓存，强制重写所有文件（危险：会覆盖 Workplace/translated 里的任何手改）")
+                    help="忽略指纹缓存，强制重写所有文件（手改仍会先收回 progress）")
+    ap.add_argument("--import-only", action="store_true",
+                    help="只把 Workplace/translated 里的手改收回 progress.json，不写文件")
     ap.add_argument("--file", help="只输出指定文件名或 scope/文件名，例如 RPGSystem/rpg-loc-dialogue-floor-5-b.json")
     args = ap.parse_args()
 
@@ -55,6 +164,14 @@ def main():
         return
 
     apply_state = load_json(config.APPLY_STATE) or {}
+
+    imported, conflicts, _ = import_hand_edits(progress, apply_state, args.file)
+    if imported:
+        print(f"共收回 {imported} 条手改（冲突 {len(conflicts)} 条，以用户为准）。\n")
+    if args.import_only:
+        if not imported:
+            print("Workplace/translated 没有手改。")
+        return
 
     if args.clean and os.path.isdir(config.WORK_ROOT):
         shutil.rmtree(config.WORK_ROOT)
@@ -81,7 +198,10 @@ def main():
         fingerprint = hashlib.sha256(
             json.dumps(sorted(edits.items()), ensure_ascii=False, sort_keys=True).encode("utf-8")
         ).hexdigest()
-        if not args.force and apply_state.get(label) == fingerprint and os.path.exists(t.out_path):
+        st = apply_state.get(label)
+        prev_fp = st.get("fp") if isinstance(st, dict) else st
+        if (not args.force and prev_fp == fingerprint and os.path.exists(t.out_path)
+                and isinstance(st, dict) and st.get("out") == file_hash(t.out_path)):
             skipped += 1
             continue
 
@@ -140,8 +260,8 @@ def main():
             src = walk.get_by_path(en_item, field) if en_item else None
             if not isinstance(src, str) or not src:
                 src = en
-            value = (zh + config.BILINGUAL_JOIN + src
-                     if config.BILINGUAL and src else zh)
+            bilingual = is_bilingual(label)
+            value = zh + config.BILINGUAL_JOIN + src if bilingual and src else zh
             try:
                 walk.set_by_path(item, field, value)
             except (KeyError, IndexError, TypeError):
@@ -158,7 +278,11 @@ def main():
             applied += 1
 
         save_json(t.out_path, data, indent=2)
-        apply_state[label] = fingerprint
+        apply_state[label] = {
+            "fp": fingerprint,
+            "out": file_hash(t.out_path),
+            "zh": {f"{label}#{i}#{f}": zh for (i, f), (zh, _) in edits.items()},
+        }
         written += 1
         total_fields += applied
         print(f"  {label}  ({applied} 字段) -> {os.path.relpath(t.out_path, config.BASE_DIR)}")
@@ -169,11 +293,11 @@ def main():
 
     if not args.install:
         print("确认无误后拷贝到 LimbusCompany_Data/Lang/LLC_zh-CN/")
-        print("（或直接跑 python apply.py --install 自动拷贝）")
+        print("（或直接跑 python tools/apply.py --install 自动拷贝）")
         return
 
     stamp = datetime.now().strftime("%Y%m%d-%H%M%S")
-    backup_root = os.path.join(config.BASE_DIR, "Workplace", "backup_" + stamp)
+    backup_root = os.path.join(config.BASE_DIR, "Workplace", "backups", stamp)
     copied = backed = 0
     for root, _, files in os.walk(config.WORK_ROOT):
         for fn in files:

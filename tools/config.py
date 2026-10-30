@@ -7,7 +7,7 @@
 
 import os
 
-BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # 工程根目录（本文件在 tools/ 下）
 
 # ==================== 游戏目录 ====================
 
@@ -35,6 +35,7 @@ PENDING      = os.path.join(SLOT_DIR, "batch_pending.json")
 ANSWERS      = os.path.join(SLOT_DIR, "batch_answers.json")
 APPLY_STATE  = os.path.join(OUT_DIR, "apply_state.json")           # 每个输出文件上次 apply 时的译文指纹，未变则不重写
 CHANGES_DIR  = os.path.join(OUT_DIR, "changes")
+RELEASE_DIR  = os.path.join(BASE_DIR, "release")                   # pack.py 打出的玩家安装包 zip
 GLOSSARY     = os.path.join(BASE_DIR, "glossary", "glossary.json")
 
 # ==================== 翻译范围（tier 0：现在就翻） ====================
@@ -125,6 +126,9 @@ SINGULAR_THEY_FALLBACK = "指多个人才译「他们」；单数且性别不明
 # 这一步由脚本机械拼接，不经过 LLM —— progress.json 里存的始终是纯中文译文。
 BILINGUAL = True
 BILINGUAL_JOIN = "\n "
+# 这些 scope 不拼英文，只放中文：机制文本（技能/被动/Buff/关键词）和兜底扫描的 UI/杂项文本
+# （人格名、抽卡标题、礼包等）。值即下文 MECH_SCOPE / TAIL_SCOPE / TAIL_MECH_SCOPE。
+MONOLINGUAL_SCOPES = {"_mech", "_tail", "_tailmech"}
 
 
 # ==================== 字段规则 ====================
@@ -149,6 +153,14 @@ TRANSLATE_FIELDS = {
     "statText",     # 物品词条效果说明
     "goalDescription1", "goalDescription2", "goalDescription3",
     "goalDescription4", "goalDescription5", "goalDescription6",  # 任务步骤目标说明
+    # ---- 镜牢/剧情事件（AbEvents / ActionEvents）与 E.G.O 饰品 ----
+    "eventDesc", "prevDesc",          # 事件开场叙述
+    "behaveDesc",                     # 判定提示（“谁来上前？”）
+    "successDesc", "failureDesc",     # 判定成功/失败叙述（字符串列表）
+    "message",                        # 事件选项文本
+    "messageDesc",                    # 选项效果说明（判定/奖励）
+    "result",                         # 选项结果叙述（字符串列表）
+    "simpleDesc",                     # E.G.O 饰品简述
 }
 
 # 明确不翻的字段（列出来是为了自我说明，逻辑上白名单已经排除它们）
@@ -199,5 +211,12 @@ FIELD_HINT = {
     "summary":  "机制说明的简短版，与 desc 用词保持一致。",
     "flavor":   "风味文本，可以有文学性，但不要脱离原意。",
     "nickName": "角色别名/称号。",
+    "behaveDesc":  "事件判定提示，照官方往季同句。",
+    "successDesc": "事件判定成功后的叙述，旁白用「我们」视角。",
+    "failureDesc": "事件判定失败后的叙述，旁白用「我们」视角。",
+    "message":     "事件选项，祈使短句。",
+    "messageDesc": "选项效果说明，判定/奖励措辞照官方往季镜牢事件。",
+    "result":      "选择该选项后的叙述。",
+    "simpleDesc":  "E.G.O 饰品简述，与该饰品 desc 用词一致。",
 }
 
