@@ -9,5 +9,105 @@
   "zh": "毯子",
   "by": "a",
   "note": "P10617 鸿璐罩鸟笼的毯子（KR 담요），不意译成布料"
+ },
+ "Wedge Office": {
+  "zh": "楔子事务所",
+  "by": "a",
+  "note": "P10316/P11017 堂吉诃德/辛克莱人格所属事务所（KR 쐐기 사무소）；Fixer=楔子事务所收尾人，Rep=楔子事务所代表"
+ },
+ "Salvador": {
+  "zh": "萨尔瓦多",
+  "by": "a",
+  "note": "E100X 黎明事务所代表（KR 살바도르），官方无译名"
+ },
+ "Oscar": {
+  "zh": "奥斯卡",
+  "by": "a",
+  "note": "楔子事务所成员（用户指定；ScenarioModelCodes nickName=Wedge Office）"
+ },
+ "Pameli": {
+  "zh": "帕梅莉",
+  "by": "a",
+  "note": "楔子事务所成员（用户指定），注意与 Pamela 区分"
+ },
+ "Pamela": {
+  "zh": "帕梅菈",
+  "by": "a",
+  "note": "楔子事务所成员（用户指定），注意与 Pameli 区分"
+ },
+ "Yuna": {
+  "zh": "尤娜",
+  "by": "a",
+  "note": "黎明事务所，照官方 Announcer_Dawn_19"
+ },
+ "Philip": {
+  "zh": "菲利普",
+  "by": "a",
+  "note": "黎明事务所，照官方 Announcer_Dawn_19；称萨尔瓦多「师父」（KR 스승님），称尤娜「前辈」"
+ },
+ "8 o'clock Circus": {
+  "zh": "8点档马戏团",
+  "by": "a",
+  "note": "P11116（KR 8시 서커스），官方无；ringmaster=团长（KR 단장），troupe members=团员"
+ },
+ "Blazing Strike": {
+  "zh": "爆炎一击",
+  "by": "a",
+  "note": "官方黎明事务所辛克莱同名技能（Skills_personality-10）；菲利普技能/Buff/任务条件同用，弃用早先的“炽烈打击”"
+ },
+ "Waxen Pinion": {
+  "zh": "蜡之翼",
+  "by": "a",
+  "note": "菲利普绽放E.G.O；Volatile Effloresced E.G.O::Waxen Pinion=不稳定的绽放E.G.O::蜡之翼"
+ },
+ "Wedge Drive": {
+  "zh": "楔入",
+  "by": "a",
+  "note": "楔子事务所人格/敌人被动名"
+ },
+ "Hunters of the City": {
+  "zh": "都市的猎手",
+  "by": "a",
+  "note": "楔子事务所被动名"
+ },
+ "Wedge-style Spearmanship": {
+  "zh": "楔子式枪术",
+  "by": "a",
+  "note": "楔子事务所被动名"
+ },
+ "Assistance of the Wedge": {
+  "zh": "楔子的援护",
+  "by": "a",
+  "note": "楔子事务所被动名"
+ },
+ "Unrelenting": {
+  "zh": "不屈",
+  "by": "a",
+  "note": "楔子事务所被动名"
+ },
+ "Stigma Workshop Weaponry": {
+  "zh": "烙印工造",
+  "by": "a",
+  "note": "官方"
+ },
+ "Dawn Office - Rookie / Guardian / Seonbae": {
+  "zh": "黎明事务所 - 新人 / 守护者 / 前辈",
+  "by": "a",
+  "note": "菲利普/萨尔瓦多/尤娜被动"
+ },
+ "The Conclusion Prewritten": {
+  "zh": "早已写定的结局",
+  "by": "a",
+  "note": "菲利普被动"
+ },
+ "Collision / Gap Strike / Speared Sweep": {
+  "zh": "冲撞 / 破隙一击 / 枪扫",
+  "by": "a",
+  "note": "楔子事务所堂吉诃德/辛克莱技能1-3"
+ },
+ "My Spear Shall Puncture Thee True! / I'll Run You Through Quick & True / My Spear Will Puncture You True.": {
+  "zh": "吾之长枪必将汝贯穿！ / 我会干脆利落地刺穿你 / 我的长枪必将贯穿你。",
+  "by": "a",
+  "note": "楔子事务所专属技能，堂吉诃德用吾/汝"
  }
 }

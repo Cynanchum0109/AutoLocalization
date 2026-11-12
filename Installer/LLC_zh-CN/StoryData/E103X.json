@@ -1,0 +1,87 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "巴士的后门\n Bus’s Backdoor",
+      "content": "他那充满复仇之念的痛苦渐行渐远，直到连那声音也消散得无影无踪。等我的视线稳定下来时，眼前只剩下熟悉的巴士走廊，以及沿着走廊排成一长列的门。\n His vengeful anguish drifted farther and farther away until even that sound scattered without a trace. By the time my vision settled, all that remained was the familiar sight of our bus's corridor and the long row of doors lining it."
+    },
+    {
+      "id": 1,
+      "model": "파우스트",
+      "content": "……看来这个情境到此结束了。\n ... It seems that this is where this scenario ends."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<感觉比平时长了好多……>\n <That felt a lot longer than usual...>"
+    },
+    {
+      "id": 3,
+      "model": "파우스트",
+      "content": "是的。这会让其变量的计算复杂得多。\n Yes. Which will make calculating its variables considerably more complex."
+    },
+    {
+      "id": 4,
+      "content": "而且每当情境似乎就要收尾时，它又会在边缘缝上另一块碎片，仿佛不肯让这条线就此终结……\n And whenever the scenario seemed poised to close, it stitched another fragment onto its edge as though it refused to let the thread end there..."
+    },
+    {
+      "id": 5,
+      "model": "단테",
+      "content": "<浮士德，我有件事一直很在意……>\n <Faust, there's something I've been wondering about...>"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "……什么事？\n ... Yes?"
+    },
+    {
+      "id": 7,
+      "content": "如果这个情境唯一的目的就是让我们看到某人绽放E.G.O，又何必让我们如此紧密地追随菲利普的脚步？真是那样的话，只要让我们看到这个过程最后的那一闪就够了。\n If showing us someone Effloresce an E.G.O had been the sole point of this scenario, why make us trail Philip's footsteps so closely? If it were, all it had to do was show us the final flicker of the process."
+    },
+    {
+      "id": 8,
+      "content": "可这个情境给人的感觉，却像是想让我们陪着菲利普把他的故事本身走一遍。\n Instead, it felt as though the scenario wanted us to walk beside Philip's story itself."
+    },
+    {
+      "id": 9,
+      "content": "而如果它需要被构建成这样……\n And if it had needed to be built that way..."
+    },
+    {
+      "id": 10,
+      "model": "단테",
+      "content": "<你觉得，这个情境之所以被缝合得这么奇怪，是因为它想让我们看到绽放的<i>完整</i>过程吗？>\n <Do you think the scenario was stitched together this strangely because it wanted us to see the <i>entire</i> process of Efflorescence?>"
+    },
+    {
+      "id": 11,
+      "model": "파우스트",
+      "content": "……有这个可能。\n ... That is possible."
+    },
+    {
+      "id": 12,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 13,
+      "model": "이상",
+      "content": "或许……接待的过程本身，其意义并不亚于获取填满书架的书。\n Perhaps... the course of a Reception itself bears a significance no lesser than obtaining the books to fill the shelves."
+    },
+    {
+      "id": 14,
+      "content": "……我想过问李箱为什么会这样，但总觉得问了也没多大意义。\n ... I considered asking Yi Sang why that would be the case, but it didn't feel like there was much point in asking."
+    },
+    {
+      "id": 15,
+      "content": "不知为何，我觉得如果情境选择了含糊其辞，那它大概也有充分的理由。\n Something told me that, if the scenario had chosen to speak vaguely, then it probably had a good reason for doing so."
+    },
+    {
+      "id": 16,
+      "content": "眼下，我们能做的只有再走一遍，找找第一次可能遗漏的东西。\n For now, all we could do was walk it again and look for whatever might have slipped past us the first time."
+    },
+    {
+      "id": 17,
+      "model": "단테",
+      "content": "<好吧，那我们再来一次，确保没漏掉什么。>\n <All right, then. Let's give it another go and make sure that we haven't missed anything.>"
+    }
+  ]
+}

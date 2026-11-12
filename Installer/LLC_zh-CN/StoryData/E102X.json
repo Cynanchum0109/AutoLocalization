@@ -1,0 +1,66 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "다친필립",
+      "content": "……我不想把自己的动机粉饰成是为了别人。\n ... I don’t want to embellish my motives saying it's for others."
+    },
+    {
+      "id": 1,
+      "model": "다친필립",
+      "content": "我做这一切都是为了我自己。\n I was doing it all for me."
+    },
+    {
+      "id": 2,
+      "model": "다친필립",
+      "content": "比什么都更是为了我自己。\n For myself above anything else."
+    },
+    {
+      "id": 3,
+      "model": "다친필립",
+      "content": "为了比任何人都更悲伤的我……\n For me, who's feeling sadder than anyone..."
+    },
+    {
+      "id": 4,
+      "model": "다친필립",
+      "content": "......."
+    },
+    {
+      "id": 5,
+      "place": "图书馆 历史层\n Floor of History, the Library",
+      "model": "단테",
+      "content": "<……等等……他这是……在绽放？>\n <... Wait... is he... Efflorescing?>"
+    },
+    {
+      "id": 6,
+      "model": "파우스트",
+      "content": "……这或许正是这个情境想让我们看到的。\n ... It is possible that this is what the scenario was meant to show us."
+    },
+    {
+      "id": 7,
+      "model": "다친필립",
+      "content": "……就算我悲伤，也不会有人替我哭泣。\n ... No one's going to cry on my behalf even if I'm sad."
+    },
+    {
+      "id": 8,
+      "model": "다친필립",
+      "content": "如果我非得……背负着这份情感，如果我没法摆脱它……\n If I must... carry this emotion, if I can't get rid of it..."
+    },
+    {
+      "id": 9,
+      "model": "에고필립",
+      "content": "那我就选择带着这份悲伤重新站起来。\n Then I'll take the path of getting back on my feet with this sadness instead."
+    },
+    {
+      "id": 10,
+      "place": -1,
+      "model": "에고필립",
+      "content": "我必须向前走……\n I have to move forward..."
+    },
+    {
+      "id": 11,
+      "model": "에고필립",
+      "content": "这份力量一定是赐予我的机会。\n This power has to be an opportunity given to me."
+    }
+  ]
+}

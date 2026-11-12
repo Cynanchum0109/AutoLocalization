@@ -129,6 +129,9 @@ BILINGUAL_JOIN = "\n "
 # 这些 scope 不拼英文，只放中文：机制文本（技能/被动/Buff/关键词）和兜底扫描的 UI/杂项文本
 # （人格名、抽卡标题、礼包等）。值即下文 MECH_SCOPE / TAIL_SCOPE / TAIL_MECH_SCOPE。
 MONOLINGUAL_SCOPES = {"_mech", "_tail", "_tailmech"}
+# 例外：单语 scope 下这些子目录是台词（播报员、E.G.O 语音），仍按双语输出。
+# 判断看的是整个文件的路径，所以 Announcer.json 里的播报员名字照旧只放中文。
+BILINGUAL_SUBDIRS = {"BattleAnnouncerDlg", "EGOVoiceDig"}
 
 
 # ==================== 字段规则 ====================

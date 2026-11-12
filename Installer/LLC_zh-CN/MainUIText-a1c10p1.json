@@ -1,0 +1,112 @@
+{
+  "dataList": [
+    {
+      "id": "main_ui_rpg_battle_defeated_title",
+      "content": "战斗失败"
+    },
+    {
+      "id": "main_ui_rpg_battle_defeated_desc",
+      "content": "<color=#990000>所有罪人阵亡。</color>\n请选择后续操作。"
+    },
+    {
+      "id": "main_ui_rpg_retry",
+      "content": "重试"
+    },
+    {
+      "id": "main_ui_rpg_retry_desc",
+      "content": "重新开始这次战斗"
+    },
+    {
+      "id": "main_ui_rpg_accept_defeat",
+      "content": "放弃"
+    },
+    {
+      "id": "main_ui_rpg_accept_defeat_desc",
+      "content": "返回最后保存状态的泉"
+    },
+    {
+      "id": "ContinueConfirm_Desc_Rpg_Stage",
+      "content": "无论玩家是否使用过续关功能，\n最终通过关卡10-4时都将标记为EX通关。\n\n但是，若使用了续关功能，且<color=#990000>在没有重试、失败或放弃的情况下战斗胜利并保存了进度</color>，则<color=#990000>中途放弃关卡10-4将不会返还用于续关的资源。</color>\n\n请注意，消耗的狂气无法退款。"
+    },
+    {
+      "id": "formation_ego_resource_popup_current_owned_desc",
+      "content": "当前持有的E.G.O资源数量。"
+    },
+    {
+      "id": "formation_ego_resource_popup_current_owned",
+      "content": "所持E.G.O资源"
+    },
+    {
+      "id": "9128_chapter_notice_button_title",
+      "content": "章节注意事项"
+    },
+    {
+      "id": "9128_chapter_notice_popup_title",
+      "content": "当前正在游玩的章节为<color=#3246AB>[{0} - {1}]</color>。"
+    },
+    {
+      "id": "9128_chapter_notice_enter_title",
+      "content": "要进入<color=#3246AB>[Chapter {0} - {1}]</color>吗？"
+    },
+    {
+      "id": "9128_chapter_notice_popup_desc",
+      "content": "◆ 即使尚未通关之前的章节，<color=#ff6000><mark color=#ff000040><b><u>也可游玩主线故事第10章</color></mark></b></u>。\n◆ 包含<color=#ff6000><mark color=#ff000040><b><u>至间章VII的剧透</color></mark></b></u>。\n◆ 通关第10章时，若仍未通关之前的章节，则镜像迷宫、折射轨道、采光、映射战斗等<color=#ff6000><mark color=#ff000040><b><u>需通关之前的章节才能解锁的内容将无法使用。</color></mark></b></u>若想游玩所有内容，请满足解锁条件。\n◆ 对于以通关第10章为条件的内容（预计今后更新），请<color=#ff6000><mark color=#ff000040><b><u>通关第10章及关卡9.5-26</color></mark></b></u>。\n◆ 游玩第10章时，<color=#ff6000><mark color=#ff000040><b><u>将提供默尔索的部分人格作为助战人格</color></mark></b></u>。（助战人格及E.G.O为同步/异想解析4阶段。）\n◆ 游玩第10章时，<color=#ff6000><mark color=#ff000040><b><u>全体友方单位的人格同步将提升至3阶段</color></mark></b></u>。E.G.O的异想解析不会另行补正。"
+    },
+    {
+      "id": "settings_battle_effect_gate",
+      "content": "在重要战斗时隐藏人格/E.G.O的演出效果"
+    },
+    {
+      "id": "exp_dungeon_10_open_condition",
+      "content": "通关9.5-26与10-4"
+    },
+    {
+      "id": "formation_deck_code_condition_reset",
+      "content": "不符合编队条件的人格已替换为基础人格。"
+    },
+    {
+      "id": "character_list_friend_support_companion_impossible",
+      "content": "{0}将会一同被选中。本关卡无法使用其助战人格。"
+    },
+    {
+      "id": "gacha_additional_explain_button_label",
+      "content": "组合人格详情"
+    },
+    {
+      "id": "gacha_307_additional_explain_title",
+      "content": "组合人格详情"
+    },
+    {
+      "id": "gacha_307_additional_explain_desc",
+      "content": "楔子事务所收尾人 堂吉诃德与楔子事务所收尾人 辛克莱在提取中视为同一个3★人格。获得其中任意一个人格时，必定同时获得另一个。\n\n· 楔子事务所收尾人 堂吉诃德 & 楔子事务所收尾人 辛克莱的提取概率如下：\n  - 以该组合为3★目标的定向提取中：与1个3★目标人格的出现概率相同\n  - 其他可能出现该组合的提取中：与1个非目标3★人格的出现概率相同\n（详细概率请参阅各提取的[概率]）\n\n· 星芒也按该组合为同一个3★人格计算。首次通过提取获得时，两个人格合计获得300星芒。\n\n· 在两个人格均为3★目标的定向提取中，可消耗200[理想]同时兑换两者。\n\n· 两个人格均已拥有后再次获得该组合时，将获得当前赛季的堂吉诃德自我碎片25个与辛克莱自我碎片25个，以代替该稀有度重复人格通常给予的自我碎片。\n\n· 该组合加入自动贩卖机后，可消耗堂吉诃德与辛克莱的自我碎片合计400个同时获得两个人格。每名罪人的自我碎片至少须使用1个，两者的比例可自由调整。\n\n· 人格升级、同步与外观投影需对每个人格分别进行。每个人格所需材料与普通3★人格相同。强化所需的自我碎片须为对应罪人的碎片。"
+    },
+    {
+      "id": "formation_ui_panel_start_battle_lor",
+      "content": "开始接待"
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_ashes",
+      "content": "将一切明亮之物焚为灰烬……"
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_nostalgic_embrace",
+      "content": "能紧紧抱我一下吗？这会让你的心平静下来。"
+    },
+    {
+      "id": "battle_walpu10_ego_page_history_gluttony",
+      "content": "我们待在你身边的理由？\n当然是为了保护你啊！"
+    },
+    {
+      "id": "notice_of_pity_point_progress_or_not_already_have_companion",
+      "content": "您已拥有所选的组合人格。是否消耗200[理想]兑换每名罪人的自我碎片各25个？"
+    },
+    {
+      "id": "notice_of_vending_machine_companion_1",
+      "content": "可消耗堂吉诃德与辛克莱的自我碎片合计400个同时获得两个人格。每名罪人的自我碎片至少须使用1个，两者的比例可自由调整。"
+    },
+    {
+      "id": "notice_of_story_same_content",
+      "content": "内容与{0}相同。仅获得奖励。"
+    }
+  ]
+}

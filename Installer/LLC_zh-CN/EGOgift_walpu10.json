@@ -1,0 +1,103 @@
+{
+  "dataList": [
+    {
+      "id": 9292,
+      "name": "榜样",
+      "desc": "若编队中有不少于2名“收尾人”人格，则对出战顺序最靠后的1名“收尾人”友方单位(不包括待命人员)触发以下效果：\n- 首次进入战斗时，获得[Emulation]\n\n回合开始时，场上每有2名友方“收尾人”人格，使友方“收尾人”人格恢复2点理智值\n\n若场上有不少于3名属于同一阵营的“收尾人”人格，则触发以下效果：\n- 带有[Emulation]的友方单位的基础攻击技能造成的伤害+(场上“收尾人”友方单位数×3)%(最多+15%)\n\n若场上有不少于3名属于不同阵营的“收尾人”人格，则触发以下效果：\n- 带有[Emulation]的友方单位使用基础攻击技能时，使该友方单位获得1层[Enhancement](每回合最多2次)\n- 带有[Emulation]的友方单位使用基础攻击技能命中时，对目标施加1层[Vulnerable](每回合最多2次；集中遭遇战，仅该部位)",
+      "simpleDesc": [
+        {
+          "abilityID": 9292,
+          "simpleDesc": ""
+        }
+      ]
+    },
+    {
+      "id": 9293,
+      "name": "精挑细选的药草",
+      "desc": "由带有[ComboSkill]效果的技能追加触发、或由友方技能/被动效果触发的攻击技能造成的伤害+10%\n- 上述效果每触发1次，额外使造成的伤害+2%(最多+10%)\n- 带有[ComboSkill]效果的技能每使用1次，获得1层[AttackDmgUp](每名人格最多2层)\n- 若该友方单位为“<noparse>黎明事务所</noparse>”或“<noparse>楔子事务所</noparse>”人格，则使该友方单位获得1层[Enhancement](每名人格最多2层)",
+      "simpleDesc": [
+        {
+          "abilityID": 9293,
+          "simpleDesc": "<noparse>造成更多伤害</noparse>，获得[AttackDmgUp]。满足条件时获得[Enhancement]"
+        }
+      ]
+    },
+    {
+      "id": 9294,
+      "name": "空洞的自尊",
+      "desc": "战斗开始时，对1名随机友方单位施加[CursedBlessing]\n在带有[CursedBlessing]的人格存活的情况下取得6次战斗胜利后，本E.G.O饰品将转变为“骑士的自尊”\n{0}",
+      "simpleDesc": [
+        {
+          "abilityID": 9294,
+          "simpleDesc": "施加[CursedBlessing]"
+        }
+      ]
+    },
+    {
+      "id": 9295,
+      "name": "骑士的自尊",
+      "desc": "[第1顺位人格专属]\n移除所有混乱阈值\n战斗开始时，施加[BeyondDespair]",
+      "simpleDesc": [
+        {
+          "abilityID": 9295,
+          "simpleDesc": "施加[BeyondDespair]"
+        }
+      ]
+    },
+    {
+      "id": 9296,
+      "name": "浸透悲伤之剑",
+      "desc": "增加[Sinking]强度、施加[Sinking]层数或特殊[Sinking]的突刺基础技能最终威力+1\n\n友方单位使用技能命中时，若目标的理智值不高于-20点，则对目标造成相当于其[Sinking]强度的忧郁伤害(每个技能最多1次)\n- 若该技能为突刺技能，则额外造成(目标的[Sinking]层数/2)点固定伤害(每个技能最多1次)\n\n[脑叶公司E.G.O::<noparse>泪锋之剑</noparse> 罗佳专属效果]\n使用消耗[Charge]且攻击容量为1的基础技能的最后一枚硬币命中敌方单位时，对全体敌方单位造成最终伤害(所消耗的[Charge]强度)%的傲慢伤害(包括特殊[Charge])\n\n[<noparse>泪锋之剑</noparse> 鸿璐E.G.O技能专属效果]\nE.G.O技能最终威力+1",
+      "simpleDesc": [
+        {
+          "abilityID": 9296,
+          "simpleDesc": "技能最终威力提升，造成忧郁伤害；若目标理智值较低，则造成固定伤害"
+        }
+      ]
+    },
+    {
+      "id": 9297,
+      "name": "白色领巾",
+      "desc": "回合开始时，若属于“<noparse>楔子事务所</noparse>”的人格不低于3名，则触发该效果(以编队人员为基准)\n\n[<noparse>楔子事务所</noparse>代表 奥提斯专属效果]\n- 回合开始时，若首次满足上述条件，则获得20层[ComboWedge]\n- 使用“组成楔形阵”、“……全员，准备冲击交锋。”、“破晓之后贯穿而来的楔子”时，下回合获得1层[ComboWedgeDawn](每回合最多2次)\n- 若使用了“组成楔形阵”，则在下个回合开始时返还所消耗[ComboWedge]的一半(每回合最多1次，向下取整)",
+      "simpleDesc": [
+        {
+          "abilityID": 9297,
+          "simpleDesc": "获得[ComboWedge]或[ComboWedgeDawn]"
+        }
+      ]
+    },
+    {
+      "id": 9298,
+      "name": "黑色三角帽",
+      "desc": "进行拼点时，每次拼点对敌方单位施加2层[Vibration](每个技能最多3次)\n\n友方单位使用基础攻击技能对敌方单位暴击时，若主要目标带有[Vibration]，则触发[VibrationExplosion]；随后使目标的[Vibration]层数减少1层(每个技能最多1次)\n- 若敌方单位处于[Switch_Vibration]状态，则使本次暴击造成的伤害+10%\n- 若敌方单位处于[VibrationNesting]状态，则每有1种<noparse>叠加</noparse>的特殊[Vibration]，使暴击时造成的伤害额外+5%(最多+25%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9298,
+          "simpleDesc": "拼点时施加震颤\n满足条件时触发震颤引爆，技能暴击时造成的伤害提升"
+        }
+      ]
+    },
+    {
+      "id": 9299,
+      "name": "备用身体适应装置",
+      "desc": "对带有[VibrationCollapse]的敌方单位触发[VibrationExplosion]时，对每个目标造成所造成伤害(各目标的防御等级降低值)%的怠惰伤害(最多15%)",
+      "simpleDesc": [
+        {
+          "abilityID": 9299,
+          "simpleDesc": "怠惰伤害"
+        }
+      ]
+    },
+    {
+      "id": 9300,
+      "name": "折断的枪头",
+      "desc": "使用突刺基础攻击技能暴击时，在攻击结束时对目标施加[EmbeddedSpearhead](每回合每名人格最多1次；集中遭遇战中以部位为单位)",
+      "simpleDesc": [
+        {
+          "abilityID": 9300,
+          "simpleDesc": "施加[EmbeddedSpearhead]"
+        }
+      ]
+    }
+  ]
+}

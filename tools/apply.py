@@ -49,7 +49,13 @@ def file_hash(path):
 
 
 def is_bilingual(label):
-    return config.BILINGUAL and label.split("/")[0] not in config.MONOLINGUAL_SCOPES
+    if not config.BILINGUAL:
+        return False
+    parts = label.split("/")
+    if parts[0] not in config.MONOLINGUAL_SCOPES:
+        return True
+    # 单语 scope 里的台词目录（播报员、E.G.O 语音）照样双语
+    return len(parts) > 2 and parts[1] in config.BILINGUAL_SUBDIRS
 
 
 def strip_bilingual(value, label, en_item, field, en):

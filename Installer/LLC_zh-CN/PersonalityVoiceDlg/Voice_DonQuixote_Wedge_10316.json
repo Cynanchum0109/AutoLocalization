@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10316_1",
+      "desc": "获得人格\n Identity Acquisition",
+      "dlg": "<size=80%>最后刺穿敌人咽喉的可是吾之长枪！那一个理应算吾的吧？这样汝便是两个，小辛克莱。公平即是公平。\n<color=#8b9c15>这算什么逻辑？那一个是我们<i>两个</i>一起捅穿的——所以一人两个半。说真的，你怎么能一本正经地说出这种话？</color></size>\n <size=80%>'Twas my spear that skewered the foe's throat last! Surely that kill is mine to claim? That leaves thee with two, young Sinclair. Fair's fair.\n<color=#8b9c15>What kind of logic is that? We <i>both</i> ran that one through—so that's two and a half each. Seriously, how do you say that with a straight face?</color></size>"
+    },
+    {
+      "id": "lobby_morning_10316_1",
+      "desc": "早间问候\n Morning Greeting",
+      "dlg": "小辛克莱！！快来橱柜这边……！劳驾，把麦片拿下来……！是谁把它放得这么高的？！\n<color=#8b9c15>……我放的。当时我还够得着，现在够不着了。</color>\n那、那个嘛……\n<color=#8b9c15>我说，你当初要是肯好好看看保险的细则，我也不至于变成这样……</color>\n Young Sinclair!! Come thee to the cupboard...! Prithee, fetch down the cereal...! Who saw fit to place it at such a lofty height?!\n<color=#8b9c15>... I did. When I used to be able to reach it. Now I can't.</color>\nW-well, that's...\n<color=#8b9c15>You know, if you'd actually bothered to read the fine print on the insurance, I wouldn't have been stuck like this...</color>"
+    },
+    {
+      "id": "lobby_noon_10316_1",
+      "desc": "午间问候\n Afternoon Greeting",
+      "dlg": "<color=#8b9c15>“糖醋肉（Tangsu<i>yuk</i>）”。</color>“牛肉汤（Yukgae<i>jang</i>）”！<color=#8b9c15>“火腿黄油法棍（Jambon-beur<i>re</i>）”。</color>Re……“勒布罗申芝士焗土豆（Reblochon on potato gra<i>tin</i>）”！<color=#8b9c15>呃……Tang……“汤包（Tangba<i>o</i>）”……？</color>O……“蛋包饭（Omuri<i>ce</i>）”！汝意下如何？<color=#8b9c15>呵。“斯莫雷布洛（Smørre<i>brød</i>）”。</color>诶诶诶？！“Ble”？“Bro”？那是何种食物？！<color=#8b9c15>是一种开放式三明治。好了，看来今天的午饭你请。</color>*呜呃* 好吧。吾这就去买份蛋包饭……打包。\n <color=#8b9c15>\"Tangsu<i>yuk</i>\".</color> \"Yukgae<i>jang</i>\"! <color=#8b9c15>\"Jambon-beur<i>re</i>\".</color> Re... \"Reblochon on potato gra<i>tin</i>\"! <color=#8b9c15>Ugh... Tang... \"Tangba<i>o</i>\"...?</color> O... \"Omuri<i>ce</i>\"! What sayest thou to that? <color=#8b9c15>Heh. \"Smørre<i>brød</i>\".</color> Ehhhh?! \"Ble\"? \"Bro\"? What manner of food is that?! <color=#8b9c15>It's an open-faced sandwich. All right, then. Guess you're buying lunch today.</color> *groan* Very well. I shall fetch some omurice... to go."
+    },
+    {
+      "id": "lobby_night_10316_1",
+      "desc": "晚间问候\n Evening Greeting",
+      "dlg": "呜嗯……！*呼* *呼* 每天晚上……都是同一个噩梦——那些恶徒将小辛克莱撕得四分五裂，一遍又一遍……\n<color=#8b9c15>……？你叫我？</color>\n啊，不、不！没什么，什么事都没有！\n Nnngh...! *huff* *huff* Every evening... 'tis the same nightmare—those wretches tearing young Sinclair limb from limb, again and again...\n<color=#8b9c15>...? Did you call me?</color>\nAh, n-nay! 'Tis nothing, nothing at all!"
+    },
+    {
+      "id": "smalltalk_10316_1",
+      "desc": "对话 1\n Chatter #1",
+      "dlg": "<color=#8b9c15>……堂吉诃德，你可别告诉我你忘了马上要续保的事。</color>\n嗯？！不、不，当然没忘……！\n<color=#8b9c15>……还有，把附加项目也过一遍。我发誓，你要是再忘了给克隆身体加上生长针剂的保障，我就……*唉*</color>\n诚然，那是吾之过错……吾认错还认得不够多吗……？\n <color=#8b9c15>... Don Quixote, please tell me you haven't forgotten the upcoming insurance renewal.</color>\nHm?! N-nay, of course not...!\n<color=#8b9c15>... And go over the add-ons. I swear, if you forget to get the clone body's growth shots covered again, I'm gonna... *sigh*</color>\n'Twas my fault, forsooth... Have I not admitted my guilt often enough...?"
+    },
+    {
+      "id": "smalltalk_10316_2",
+      "desc": "对话 2\n Chatter #2",
+      "dlg": "<color=#8b9c15>啧……我说，你越来越<i>让人受不了</i>了。又没人说你错了什么。</color>\n诚然，吾等应给他一些空间，小辛克莱……他尚未恢复……\n<color=#8b9c15>不，够了。我们只是说这一单活儿可以一起干，因为你这种想法的收尾人跟我们事务所不合，就这么简单。结果你倒好，突然摆出一副苦大仇深的混账样！你能不能……算了。听着，你这小——别再板着张脸了行不行？</color>\n <color=#8b9c15>Ugh... You know, you're getting <i>insufferable</i>. Nobody said you were wrong or anything.</color>\nVerily, we ought to give him some space, young Sinclair... He hath yet to recover...\n<color=#8b9c15>No, enough is enough. All we said was we'll work together on this one job 'cause Fixers who think like you aren't a good fit for our Office, simple as that. And you had to be a miserable ass about it out of the blue! Could you please... never mind. Look, you little—stop frowning already, would you?</color>"
+    },
+    {
+      "id": "smalltalk_10316_3",
+      "desc": "对话 3\n Chatter #3",
+      "dlg": "汝且看，楔子乃是与劈砍和碾压最为无缘的武器。看看吾这杆长枪针尖般锋利的枪头：汝看见了吗？！此乃效率无与伦比的武器！最为专一的一击、最为精细的专注，施展起来几乎无需多少力气。这便是与“楔子”相称的工作！\n因此！那些怀揣委托前来本事务所的人，期待的并非蛮力，不；而是迅捷与精准……建立在敏锐而精确的局势判断这一基石之上！嘿嘿，<i>这</i>便是吾等的事务所！\n A wedge, thou seest, is a weapon most divorced from cleaving and crushing. Behold the pinpoint-keen tip of this spear mine: dost thou see?! 'Tis a weapon of unparalleled efficiency! A strike most singular and focus most fine requireth little strength to execute. Such is the work befitting a \"Wedge!\"\nConsequently! Those who seek our Office with a quest in their bosom expect no brute strength, nay; 'tis swiftness and precision... founded upon the bedrock of shrewd and precise situational assessment! Heh heh, <i>that</i> is what our Office is!"
+    },
+    {
+      "id": "smalltalk_10316_4",
+      "desc": "同步后对话 1\n Post-Uptie Chat 1",
+      "dlg": "<color=#8b9c15>现在可不是能讲礼貌的情况。我这就把你捅个对穿。</color>\n身为收尾人，人命关天之际，吾实在顾不上礼数周全！汝定能理解吧！\n <color=#8b9c15>Not exactly the kind of situation where we can afford to be polite. I'll get to skewering you right away.</color>\nAs a Fixer, I can scarce afford proper etiquette when lives stand at stake! Surely thou canst understand!"
+    },
+    {
+      "id": "smalltalk_10316_5",
+      "desc": "同步后对话 2\n Post-Uptie Chat 2",
+      "dlg": "<color=#8b9c15>我们事务所对那些喜欢把自己打扮成“无私”的混账尤其没耐心。要是其中最自私的那个自己还没意识到这一点，那就更是加倍。</color>\n <color=#8b9c15>Our Office has particularly low tolerance for dickheads who like to dress themselves up as \"selfless.\" Doubly so when the most selfish of them don't seem to realize that himself.</color>"
+    },
+    {
+      "id": "neglect_10316_1",
+      "desc": "闲置\n Idle",
+      "dlg": "<color=#8b9c15>……那个小混混还要赖在我们事务所多久？</color>\n恳请汝耐心些！汝还记得奥提斯女士的保证吧？此番委托一完成，他便会离开。\n <color=#8b9c15>... How long is that punk going to leech on our Office?</color>\nPrithee, practice patience! Thou recallest Lady Outis's reassurance, dost thou not? He shall depart anon following this contract's completion."
+    },
+    {
+      "id": "gacksung_10316_1",
+      "desc": "进行同步\n Uptying",
+      "dlg": "<color=#8b9c15>喂，现在别瞪我们。我们只是戳你一下确认确认。</color>\n嘿嘿，吾听闻汝本该是个“好人”——吾对汝别无所求，只盼汝慷慨到极致！\n <color=#8b9c15>Hey, don't glare at us now. We just poked you to make sure.</color>\nHeh heh, I had heard that thou wert supposed to be \"nice\"—I expect naught else but the maximum generosity from thee!"
+    },
+    {
+      "id": "formation_10316_1",
+      "desc": "人格出战\n Deployment",
+      "dlg": "劳驾，小辛克莱！别挡着吾的位置！\n Prithee, young Sinclair! Stay clear of position mine!"
+    },
+    {
+      "id": "battleentry_10316_1",
+      "desc": "进入战斗\n Stage Entry",
+      "dlg": "吾来开路！\n I shall clear the way forth!"
+    },
+    {
+      "id": "battle_select_10316_1",
+      "desc": "战斗中选中人格\n Viewed in Battle",
+      "dlg": "吾须将全副心神投入眼前的战场！若有急事，去找小辛克莱！\n I must invest my focus entirely upon this battlefield before us! If it's urgent, take it to young Sinclair!"
+    },
+    {
+      "id": "battle_endcommand_10316_1",
+      "desc": "进行攻击\n Commencing Attack",
+      "dlg": "刺穿！\n Skewer!"
+    },
+    {
+      "id": "battle_enemy_break_10316_1",
+      "desc": "敌方混乱\n Enemy Stagger",
+      "dlg": "汝就如一本摊开的书！\n Thou'rt like a book opened!"
+    },
+    {
+      "id": "battle_break_10316_1",
+      "desc": "自身混乱\n Staggered",
+      "dlg": "呃……吾快撑不住了。\n Guh... 'Tis wearing me down."
+    },
+    {
+      "id": "battle_kill_10316_1",
+      "desc": "击杀敌方\n Enemy Killed",
+      "dlg": "呵！真是轻易便看穿了！\n Hoh! 'Twas quite easily read!"
+    },
+    {
+      "id": "battle_dead_10316_1",
+      "desc": "自身阵亡\n Death",
+      "dlg": "竟犯下……如此大错……\n Such... a grave mistake..."
+    },
+    {
+      "id": "choice_success_p_10316_2",
+      "desc": "判定成功\n Check Passed",
+      "dlg": "哎呀！汝的成功，莫非是忘了该归功于谁？依吾之见，前半段全靠吾之——！！\n Hoyday! Perchance thou hast forgotten someone to credit for thine success? I daresay the first half was made possible only thanks to my—!!"
+    },
+    {
+      "id": "choice_fail_n_10316_1",
+      "desc": "判定失败\n Check Failed",
+      "dlg": "吾不是早就警告过汝，汝的方法有误——\n Have I not warned thee, that thine approach was misguid—"
+    },
+    {
+      "id": "battle_clear_10316_1",
+      "desc": "战斗胜利\n Victory Cry",
+      "dlg": "呼……又了结了一项委托！小辛克莱，稍事歇息如何？\n<color=#8b9c15>虽然还有些头疼的事要处理……嗯，到这份上也无所谓了，对吧？</color>\n Phew... That be one quest behind us! What sayest thou, young Sinclair, to a moment's respite?\n<color=#8b9c15>We still have some headaches to deal with, but... Eh, it's whatever at this point, right?</color>"
+    },
+    {
+      "id": "battle_clear_ex_10316_1",
+      "desc": "EX CLEAR战斗胜利\n Extra Conditions Fulfilled",
+      "dlg": "<color=#8b9c15>虽然他们给我们添了点麻烦，但——</color>\n——诚然，委托一经接下，便没有吾等完成不了的！\n<color=#8b9c15>是啊，这次委托也——</color>\n——以最楔子的方式了结了！\n<color=#8b9c15>啊啊啊啊啊！！！！！我靠，你能不能有一秒钟别打断我说话？！</color>\n <color=#8b9c15>They gave us some trouble, but—</color>\n—verily, once accepted, no contract is beyond us!\n<color=#8b9c15>Yeah, this contract was also—</color>\n—settled in the Wedgiest fashion!\n<color=#8b9c15>ARRRGH!!!!! Holy shit, can you stop cutting me off for one damn second?!</color>"
+    },
+    {
+      "id": "battle_defeat_10316_1",
+      "desc": "战斗失败\n Defeat Wail",
+      "dlg": "<color=#8b9c15>该死的小混混……我就知道一出事他就会溜之大吉……</color>\n唉……这结果早在意料之中，不是吗……？\n<color=#8b9c15>啧，别说话……！你流的血要超出保险肯赔的额度了……</color>\n <color=#8b9c15>Damn punk... I knew he'd hightail it the moment shit hit the fan...</color>\nAlas... 'twas an expected outcome, was it not...?\n<color=#8b9c15>Tsk, don't talk...! You're gonna lose more blood than insurance's willing to cover...</color>"
+    }
+  ]
+}

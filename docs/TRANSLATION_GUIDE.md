@@ -106,7 +106,8 @@ python tools/batch_merge.py     # 校验不过会整批拒绝，按提示改 ans
 （不刷新 `batch_next` 会重复吐旧批次）；需要推进基线时再 `python tools/scan.py --accept`。
 用户要求流程从简：**不跑 `tools/check.py` / `tools/consistency.py`**，只靠 `tools/batch_merge.py` 的硬拦截，
 除非用户点名要查。
-`tools/apply.py` 默认输出「中文 + 换行 + 英文」双语；技能/被动/Buff/关键词和 `_tail` 杂项（人格名、抽卡标题等）只放中文，名单在 `config.MONOLINGUAL_SCOPES`。
+`tools/apply.py` 默认输出「中文 + 换行 + 英文」双语；技能/被动/Buff/关键词和 `_tail` 杂项（人格名、抽卡标题等）只放中文，名单在 `config.MONOLINGUAL_SCOPES`；
+例外是 `_tail` 里的台词目录 `BattleAnnouncerDlg/`、`EGOVoiceDig/`（播报员、E.G.O 语音），照样双语，名单在 `config.BILINGUAL_SUBDIRS`。
 默认**不带 `--install`**：产物只落在 `Workplace/translated/`，装不装由用户决定
 （`--install` 会直接拷进游戏 LLC_zh-CN，覆盖前自动备份到 `Workplace/backups/<时间>/`）。
 

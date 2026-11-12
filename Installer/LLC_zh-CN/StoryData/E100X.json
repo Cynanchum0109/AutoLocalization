@@ -1,0 +1,649 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "place": "梅菲斯托费勒斯 内部\n Inside Mephistopheles",
+      "model": "단테",
+      "content": "<……浮士德？>\n <... Faust?>"
+    },
+    {
+      "id": 1,
+      "model": "파우스트",
+      "content": "……啊，但丁。\n ... Ah, Dante."
+    },
+    {
+      "id": 2,
+      "model": "단테",
+      "content": "<你还在工作吗？大家早就回房间了。>\n <Are you still working? Everyone went back to their rooms a while ago.>"
+    },
+    {
+      "id": 3,
+      "model": "파우스트",
+      "content": "……是的。积压的工作相当多。\n ... Yes. The backlog is rather substantial."
+    },
+    {
+      "id": 4,
+      "model": "파우스트",
+      "content": "浮士德需要补交缺失的3个月份定期报告，还要参加会议，商讨我们在西西弗百货执行任务后引发的……连带事件的善后措施。\n I am expected to submit 3 months' worth of missing scheduled reports and participate in meetings concerning post-incident measures following the... collateral event in the wake of our mission in the Grand Magasin."
+    },
+    {
+      "id": 5,
+      "content": "我们刚从西西弗之塔回来，巴士难得迎来了一段称得上真正休息的时光……\n We had only just returned from Sisyphe Tower, and for once the bus had finally settled into something resembling genuine downtime..."
+    },
+    {
+      "id": 6,
+      "content": "但即便大家都回了房间，浮士德仍独自坐在位子上，飞快地敲打着她的设备。\n But even after everyone had retired to their rooms, Faust remained in her seat, alone, furiously typing away at her device."
+    },
+    {
+      "id": 7,
+      "model": "단테",
+      "content": "<……那些全都是……通知吗？>\n <... Are those all... notifications?>"
+    },
+    {
+      "id": 8,
+      "model": "파우스트",
+      "content": "是的。各方渠道都发来了通讯请求。\n Yes. Various channels have submitted requests for communication."
+    },
+    {
+      "id": 9,
+      "content": "就在我们简短交谈的这会儿，她的屏幕上也不断冒出一个个小窗口，接连不断，刚消失就被下一个闪烁的方框取代。\n Even during our brief exchange, little windows kept blooming endlessly across her screen, only to vanish and be replaced by the next flashing square."
+    },
+    {
+      "id": 10,
+      "content": "想想也不奇怪……毕竟我们的任务引发了一连串连锁反应。\n Guess I shouldn't be too surprised... given the chain reaction of events we set off with our mission."
+    },
+    {
+      "id": 11,
+      "model": "단테",
+      "content": "<……这大概是我们执行完任务后留下的最大烂摊子了吧……？>\n <... This is probably the biggest mess we've left behind after one of our missions, isn't it...?>"
+    },
+    {
+      "id": 12,
+      "model": "파우스트",
+      "content": "尽管浮士德认为总部对这样的结果早有准备……\n While Faust is of the belief that the HQ was prepared for such an outcome..."
+    },
+    {
+      "id": 13,
+      "model": "파우스트",
+      "content": "我们确实让某个翼的奇点生产线中最重要的设施陷入了瘫痪。从目的论的角度而言。\n We did cripple the most important facility in a Wing's Singularity production pipeline. Teleologically speaking."
+    },
+    {
+      "id": 14,
+      "content": "尽管她的话细想之下相当骇人，浮士德仍平静地继续打着字，语气一如既往地平稳而干巴。\n Despite the rather horrifying implications of her words, Faust calmly continued typing, her tone as even and dry as ever."
+    },
+    {
+      "id": 15,
+      "content": "……反正大概也不是我能帮上忙的事。\n ... Probably not something I could help with anyway."
+    },
+    {
+      "id": 16,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 17,
+      "content": "浮士德注意到我还站在她身后，尴尬地挠着时钟脑袋的后脑勺，便停顿了片刻，开口说道。\n When Faust noticed that I was still standing behind her, awkwardly scratching at the back of my clock head, she paused for a moment before speaking."
+    },
+    {
+      "id": 18,
+      "model": "파우스트",
+      "content": "……虽然希望这只是杞人忧天……\n ... Though one hopes that this is an unwarranted concern..."
+    },
+    {
+      "id": 19,
+      "model": "파우스트",
+      "content": "您无需担心，但丁。您尚未偏离您的旅途。\n You need not worry, Dante. You have not yet deviated from your journey."
+    },
+    {
+      "id": 20,
+      "model": "단테",
+      "content": "<好吧，既然你这么说……>\n <Well, if you say so...>"
+    },
+    {
+      "id": 21,
+      "content": "……我想，也没必要特地给自己找事操心。\n ... No need to go out of my way looking for something to worry about, I suppose."
+    },
+    {
+      "id": 22,
+      "model": "파우스트",
+      "content": "比起这个，但丁，是不是差不多该开始做准备了？\n More importantly, Dante, is it about time for us to begin the preparations?"
+    },
+    {
+      "id": 23,
+      "model": "단테",
+      "content": "<啊，又一次瓦尔普吉斯之夜？>\n <Ah, for another Walpurgis Night?>"
+    },
+    {
+      "id": 24,
+      "model": "단테",
+      "content": "<嗯……我也觉得差不多到时候了……咦，你也开始有这种感觉了吗？>\n <Uhm... I'm getting a feeling it's about time, yeah... Hey, are you starting to get a feel for it, too?>"
+    },
+    {
+      "id": 25,
+      "model": "파우스트",
+      "content": "不。浮士德只是想验证一个个人假说：瓦尔普吉斯之夜呈现出某种周期性。\n No. I merely wish to verify a personal hypothesis that the Walpurgis Nights exhibit a certain periodicity."
+    },
+    {
+      "id": 26,
+      "model": "단테",
+      "content": "<哦对了，霍恩海姆也有过同样的想——>\n <Oh hey, Hohenheim had the same id—>"
+    },
+    {
+      "id": 27,
+      "model": "파우스트",
+      "content": "那个男人的“猜测”充斥着荒谬的逻辑跳跃，简直是对统计学本身的侮辱；与之不同，这个理论是由浮士德深奥而具体的演绎推理与思想实验方法推导而出的。\n Unlike that man's \"guess,\" riddled with ridiculous bounds of logic and insults to the field of statistics itself, this theory is an extrapolation of Faust's esoteric yet concrete deductive reasoning and thought experimentation methodologies."
+    },
+    {
+      "id": 28,
+      "model": "단테",
+      "content": "<……对、对，抱歉。>\n <... R-right, sorry.>"
+    },
+    {
+      "id": 29,
+      "model": "단테",
+      "content": "<不过，你之前不是说过吗，瓦尔普吉斯之夜何时发生完全是由偶然决定的……？>\n <Still, didn't you say some time ago that only pure chance dictates when Walpurgis Nights will occur...?>"
+    },
+    {
+      "id": 30,
+      "model": "파우스트",
+      "content": "浮士德至今仍坚持这一判断。不过，浮士德决定采纳这样一种视角：在足够宏观的尺度上，看似纯属偶然的事件最终也会呈现出一定程度的规律性。\n And I still stand by that assessment. However, I have decided to adopt the perspective that, on a sufficiently macroscopic scale, events that are seemingly of pure chance ultimately exhibit a degree of regularity."
+    },
+    {
+      "id": 31,
+      "model": "파우스트",
+      "content": "诚然，若沿着线性的时间轴观察，或许只能将这一事件归结为“纯粹的偶然”。然而，倘若改变观察时间本身的视角……换言之，倘若将上述“轴”加以旋转——\n Indeed, one may have no choice but to consign the event to \"pure chance,\" observing along a linear temporal axis. However, if the perspective from which time itself is observed were altered... if, in other words, one were to rotate the aforementioned \"axis\"—"
+    },
+    {
+      "id": 32,
+      "model": "파우스트",
+      "content": "——浮士德判断，尽管要精确定位那一刻仍有难度，但识别出可以观察到其降临可能性的时段是可行的。\n —I have judged that, while pinpointing the exact moment is still a challenge, it is possible to identify the period during which its potentiality for advent may be observed."
+    },
+    {
+      "id": 33,
+      "model": "단테",
+      "content": "<……呃，什么？>\n <... Uh, what?>"
+    },
+    {
+      "id": 34,
+      "model": "파우스트",
+      "content": "看来需要更直白的解释。打个比方，将一组形形色色的情境等同于物质对象“A”，将其周期性的共振等同于“B”；现在假设将“A”投射到一个表面反射系数不均匀的假想镜像上。由此，便可以计算出B的相对——\n A more straightforward explication is needed, then. Let us say that, for the sake of analogy, a set of variegated scenarios is equated to a material object \"A,\" and the resonance of its periodicity \"B\"; now suppose we project \"A\" onto a hypothetical mirror image whose surface has an uneven reflectance coefficient. From that, we may calculate B's relative—"
+    },
+    {
+      "id": 35,
+      "model": "단테",
+      "content": "<暂停。>\n <Pause.>"
+    },
+    {
+      "id": 36,
+      "model": "파우스트",
+      "content": "...?"
+    },
+    {
+      "id": 37,
+      "model": "단테",
+      "content": "<所以……如果质量为“A”的物质对象基本上就是一堆情境，那就把“A”投射到镜子上，再用周期共振“B”来算出数值。我理解得对吗？>\n <So... if a material object with mass \"A\" is basically a bunch of scenarios, you project \"A\" onto a mirror and use the cycle resonance \"B\" to calculate the value. Did I get that right?>"
+    },
+    {
+      "id": 38,
+      "model": "파우스트",
+      "content": "……但丁。\n ... Dante."
+    },
+    {
+      "id": 39,
+      "model": "단테",
+      "content": "<嗯？>\n <Yeah?>"
+    },
+    {
+      "id": 40,
+      "model": "파우스트",
+      "content": "仅仅是把浮士德说过的话换个说法复述一遍，并不能证明您真的理解了内容。\n Simply rephrasing what Faust has said back to me does not lend any credence to the supposed notion that you truly understood the material."
+    },
+    {
+      "id": 41,
+      "content": "……早知道至少该翻翻同义词词典的。\n ... Maybe I should've at least flipped through a thesaurus."
+    },
+    {
+      "id": 42,
+      "model": "단테",
+      "content": "<我说，我这不是在努力理解你说的话嘛……？>\n <Look, I'm just trying to understand what you're saying, okay...?>"
+    },
+    {
+      "id": 43,
+      "model": "파우스트",
+      "content": "简单来说，这是根据以往历次瓦尔普吉斯之夜收集的数据所做的归纳推断。\n Simply put, it is an inductive inference extrapolated from the data gathered over previous Walpurgis Nights."
+    },
+    {
+      "id": 44,
+      "model": "단테",
+      "content": "<那照这个推断，你觉得它会在什么时候发生？>\n <Then based on that reasoning, when do you think it'll happen?>"
+    },
+    {
+      "id": 45,
+      "model": "파우스트",
+      "content": "按浮士德的计算，它本该在大约一小时前发生，看来浮士德的计算得出了不准确的预测。这也是浮士德选择留在这里继续工作、而不回房间的原因之一。\n It should have occurred approximately an hour ago based on my calculations, which now appear to have led me to an inaccurate prediction. It was one of the reasons I have elected to continue working out here instead of returning to my room."
+    },
+    {
+      "id": 46,
+      "model": "파우스트",
+      "content": "不过，但丁，既然您的直觉也认为那一夜即将来临，这便支持了浮士德的误差极小这一可能性。一旦将这一轮瓦尔普吉斯之夜纳入数据集——\n However, the fact that your intuition also places the coming of the Night close at hand, Dante, lends support to the possibility that my margin of error is minuscule. Once this round of Walpurgis Night is added to the data set—"
+    },
+    {
+      "id": 47,
+      "model": "단테",
+      "content": "<哦……？>\n <Ooh...?>"
+    },
+    {
+      "id": 48,
+      "model": "파우스트",
+      "content": "——该假说成立的可能性将提升0.552%。\n —it will increase the likelihood of this hypothesis proving true by 0.552%."
+    },
+    {
+      "id": 49,
+      "model": "단테",
+      "content": "<呃，没我想的那么多啊。>\n <Huh, not as much as I expected.>"
+    },
+    {
+      "id": 50,
+      "model": "파우스트",
+      "content": "无论多么微小，这都足以证明浮士德的方法正朝着有利的方向前进。毕竟，看着一个假说逐渐成熟为理论的过程，总是相当令人愉快。\n It is sufficient evidence that my approach is moving in a favorable direction, no matter how incremental it may be. After all, the process by which a hypothesis gradually matures into a theory is always quite enjoyable."
+    },
+    {
+      "id": 51,
+      "model": "파우스트",
+      "content": "那么……请带路吧，但丁。\n Well, then... Take the lead, Dante."
+    },
+    {
+      "id": 52,
+      "content": "……她说的话，我大半还是没听懂……\n ... Most of her words still sailed clean over my head..."
+    },
+    {
+      "id": 53,
+      "place": -1,
+      "content": "……但我相信，只要像往常一样把情境走到最后，自然就会明白。\n ... but I'm sure I'll find out as we go along, following the scenario to the end as we've always done."
+    },
+    {
+      "id": 54,
+      "place": "???",
+      "model": "홍루",
+      "content": "哇，这个地方……和我们之前去过的地方看起来好不一样呀！\n Whoa, this place looks... so distinct from what we'd seen on our previous excursions!"
+    },
+    {
+      "id": 55,
+      "model": "이상",
+      "content": "地面结构由吸音板构成……而内部通道是为高效通行而设计，使区域与走廊之间的往来畅通无阻……\n The floor construction consists of sound-absorbing panels... And the interior paths are designed for efficient transportation, enabling unimpeded traffic between the bays and the hallways..."
+    },
+    {
+      "id": 56,
+      "model": "이상",
+      "content": "哦，看来建筑师选用了挑高结构，以最有效地消散声波，而环境灯的布置则显示出一种格外注重减轻眼部疲劳的设计理念。\n Ooh, it appears that the architect has chosen a high-ceiling construction to most effectively dissipate sound frequencies, while the placement of ambient lights suggests a design philosophy with a particular focus on minimizing eye strain."
+    },
+    {
+      "id": 57,
+      "model": "이상",
+      "content": "根据优先考虑隔音的结构、高效的人流引导以及整体构造，可以得出结论：我们刚刚踏入的地方，正是……！\n One may arrive at a conclusion that, based on structure prioritizing soundproofing, efficient foot traffic guidance, and the general construction, we have just stepped foot into none other than...!"
+    },
+    {
+      "id": 58,
+      "model": "싱클레어",
+      "content": "有好多书。应该是图书馆吧。\n It's got lots of books. Must be a library."
+    },
+    {
+      "id": 59,
+      "model": "이상",
+      "content": "图书— *咳咳* 诚然，辛克莱所言不虚。此处应是图书馆。\n A lib— *cough* Indeed, Sinclair speaks true. It must be a library."
+    },
+    {
+      "id": 60,
+      "content": "在以前的某次瓦尔普吉斯之夜里，我们曾在一本“书”里战斗过……\n We fought inside a \"Book\" in one of these past Walpurgis Nights..."
+    },
+    {
+      "id": 61,
+      "content": "那这里就不是随便哪个图书馆，而是<i>那个</i>图书馆，满满当当装着那种“书”……\n Then this isn't just any other library, but <i>the</i> Library, filled to the brim with those \"Books\"..."
+    },
+    {
+      "id": 62,
+      "model": "카르멘진짜",
+      "content": "<i>啊，对了！但丁，在你走之前……你该把图书馆加进你的行程里。</i>\n <i>Ah, wait! Before you go, Dante... you should add the Library to your itinerary.</i>"
+    },
+    {
+      "id": 63,
+      "content": "……她说的是哪个图书馆，再明显不过了。\n ... Seems pretty obvious which library she was referring to."
+    },
+    {
+      "id": 64,
+      "model": "단테",
+      "content": "<浮士德，你能连上Gesellschaft吗？>\n <Faust, can you access the Gesellschaft?>"
+    },
+    {
+      "id": 65,
+      "model": "파우스트",
+      "content": "是的。未发现任何连接问题。不过……\n Yes. No connection issues have been identified. However..."
+    },
+    {
+      "id": 66,
+      "model": "파우스트",
+      "content": "……为防将来再发生类似的连接问题，浮士德最近一直在努力减少对它的依赖。何况无论您想查询什么信息，恐怕都派不上多大用场。\n ... I have been making efforts to reduce my reliance in recent days, in case similar connection issues occur in the future. Whatever information you would like to request is unlikely to be of much utility, either."
+    },
+    {
+      "id": 67,
+      "content": "……自从轮到良秀那次之后，浮士德和Gesellschaft之间显然一直有些不对劲。而且它们给我们的信息也确实没什么用……\n ... Clearly, something's been off-kilter with Faust and the Gesellschaft ever since Ryōshū had her turn. And it's true that they've been giving us some pretty useless information, too..."
+    },
+    {
+      "id": 68,
+      "content": "好吧，那么……\n Alright, then..."
+    },
+    {
+      "id": 69,
+      "model": "단테",
+      "content": "<那……要不说说你自己的想法？>\n <Well, then... care to share your own thoughts instead?>"
+    },
+    {
+      "id": 70,
+      "model": "파우스트",
+      "content": "......."
+    },
+    {
+      "id": 71,
+      "place": "图书馆 历史层\n Floor of History, the Library",
+      "model": "파우스트",
+      "content": "根据此前查阅的信息和眼前的景象推断，可以认为我们已进入曾被定为“杂质”的存在——图书馆的最深层。更准确地说，我们现在位于其最底层，被称为“历史层”。\n Deducing from the previously observed information and the visual evidence before us, it can be presumed that we have entered the deepest floor of an entity previously designated Impuritas Civitatis: The Library. To be more precise, we are now on its lowest floor, designated \"The Floor of History.\""
+    },
+    {
+      "id": 72,
+      "model": "이상",
+      "content": "嗯……我们终于来到了图书馆。\n Hmmm... Thus we arrive at the Library at last."
+    },
+    {
+      "id": 73,
+      "model": "이상",
+      "content": "我认为，这又为我们此前讨论的“压力逐步递增”假说添了一项证据。\n I say this is another in the lengthening list of evidence in favor of the incrementally progressive pressure hypothesis we had discussed."
+    },
+    {
+      "id": 74,
+      "model": "파우스트",
+      "content": "正是。起初是遭遇大家都相当熟悉的异想体，之后发展为图书馆外的事件，而如今，我们已身处建筑内部的历史层。\n Indeed. It first began with an encounter with an Abnormality, a subject we were all rather familiar with, before progressing to an event outside the Library, and now we find ourselves on the Floor of History within the building itself."
+    },
+    {
+      "id": 75,
+      "model": "파우스트",
+      "content": "这与我们在旧L公司的情境中观察到的风险递增如出一辙；可以放心预计，这一趋势还会持续下去。\n It is very much in the same fashion as the mounting risk we had observed in the scenarios of the former L Corp.; it seems we can safely expect this trend to continue."
+    },
+    {
+      "id": 76,
+      "model": "단테",
+      "content": "<那我们接下来要参与的是什么样的情境……？>\n <Then what kind of scenario are we about to...?>"
+    },
+    {
+      "id": 77,
+      "model": "파우스트",
+      "content": "既然舞台设在图书馆内，可以很有把握地说，我们将参与一场“接待”。\n As it is set within the walls of the Library, it can be said with confidence that we will be participating in a \"Reception.\""
+    },
+    {
+      "id": 78,
+      "model": "파우스트",
+      "content": "不过，至于我们扮演的是接受了图书馆邀请的客人，还是图书馆的司书……目前还没有任何证据能说明是哪一方。\n However, regarding whether we are to play the guests who have accepted the Library's invitation or its librarians... there is no evidence suggesting either way."
+    },
+    {
+      "id": 79,
+      "model": "???",
+      "content": "......."
+    },
+    {
+      "id": 80,
+      "model": "???",
+      "content": "啊，啊。测试。大家能听到吗？\n Ahh, ahh. Testing. Can everyone hear me?"
+    },
+    {
+      "id": 81,
+      "model": "단테",
+      "content": "<……？这个声音……我好像在哪儿听过。>\n <...? This voice... I feel like I've heard it before.>"
+    },
+    {
+      "id": 82,
+      "model": "뫼르소",
+      "content": "这个声音似乎属于在旧L公司的某个情境中，对我们的战斗表现做过点评的人之一。\n It seems that this voice belongs to one of those who had commented on our combat performance in one of our scenarios in the former L Corp."
+    },
+    {
+      "id": 83,
+      "model": "뫼르소",
+      "content": "我记得，这个声音的主人曾自我介绍为“Malkuth”。\n This particular voice, I believe, had introduced herself as \"Malkuth.\""
+    },
+    {
+      "id": 84,
+      "model": "단테",
+      "content": "<哦……原来是她？这次听起来稍微有点不一样……>\n <Ohh... this is her? She sounds ever-so-slightly different this time...>"
+    },
+    {
+      "id": 85,
+      "model": "말쿠트",
+      "title": "历史层指定司书\n Patron Librarian of the Floor of History",
+      "content": "抱歉，各位。按理说，我身为指定司书，应该亲自上前线才对……\n Sorry, everyone. Normally, I should be out there on the front lines as the Patron Librarian..."
+    },
+    {
+      "id": 86,
+      "model": "말쿠트",
+      "title": "历史层指定司书\n Patron Librarian of the Floor of History",
+      "content": "可是@#$%!，所以我现在没法亲自到场。我不在的时候，得由你们中的一个人来担任指定司书。\n But @#$%!, so I can't be there in person right now. One of you is going to have to take up the Patron Librarian role while I'm unavailable."
+    },
+    {
+      "id": 87,
+      "content": "突然，一阵刺耳的嗡鸣声切进了Malkuth的话，打断了部分内容。\n Suddenly, a loud, auditory buzz cut into Malkuth's voice mid-sentence, disrupting a part of the message."
+    },
+    {
+      "id": 88,
+      "content": "现实像这样卡顿的声音，我们已经听过很多次了。我几乎不觉得惊讶。\n We'd heard reality hiccup like this often enough by now. I found myself hardly surprised."
+    },
+    {
+      "id": 89,
+      "model": "파우스트",
+      "content": "……某些信息被隐瞒的方式似乎带有一定的刻意性。或许是有什么东西为了解释我们“插入”这个情境，特意抹去了相关的差错。\n ... There appears to be a degree of intentionality in how certain information is concealed from us. Perhaps something has contrived to erase the error in question to explain our \"insertion\" into this scenario."
+    },
+    {
+      "id": 90,
+      "model": "단테",
+      "content": "<嗯，很有可能。>\n <Yeah, that seems likely.>"
+    },
+    {
+      "id": 91,
+      "model": "돈키호테",
+      "content": "哎呀，还有更多疑问等着呢；这“指定司书”究竟是何种职务，竟需吾等之中一人代她担此重任？\n Alas, further curiosities await; what manner of office is this \"Patron Librarian,\" that one among us must take up the mantle in her stead?"
+    },
+    {
+      "id": 92,
+      "model": "파우스트",
+      "content": "可以说……指定司书就是负责管理图书馆中所分配楼层各项事务的人。\n One could say that... a Patron Librarian is an individual responsible for managing various aspects of their assigned floor within the Library."
+    },
+    {
+      "id": 93,
+      "model": "그레고르",
+      "content": "哦，有点像那个……我们在美食广场碰到的那个好多条胳膊的家伙？\n Ohh, kinda like that... that fella with many arms we met at the Food Court?"
+    },
+    {
+      "id": 94,
+      "model": "파우스트",
+      "content": "是的，拿<i>楼层经理</i>来类比很贴切。\n Yes, a <i>Floor Manager</i> makes for an apt comparison."
+    },
+    {
+      "id": 95,
+      "model": "말쿠트",
+      "title": "历史层指定司书\n Patron Librarian of the Floor of History",
+      "content": "不过嘛，你们现在都已经是接待的老手了，对吧？我知道你们搞得定的！\n But hey, you've all become total veterans at Receptions by now, haven't you? I know you guys have this handled!"
+    },
+    {
+      "id": 96,
+      "model": "돈키호테",
+      "content": "等、等一下！汝所说的这“接待”究竟为何物？\n P-prithee, hold! What be this \"Reception\" thou speakest of?"
+    },
+    {
+      "id": 97,
+      "model": "파우스트",
+      "content": "就是司书接待受邀来到图书馆的客人的过程。\n It is the process by which Librarians receive guests invited to the Library."
+    },
+    {
+      "id": 98,
+      "model": "히스클리프",
+      "content": "说人话行不—\n Speak human, will y—"
+    },
+    {
+      "id": 99,
+      "model": "파우스트",
+      "content": "……通过物理手段与他们周旋。\n ... By engaging them through physical means."
+    },
+    {
+      "id": 100,
+      "model": "히스클리프",
+      "content": "……咳哼。\n ... Ahem."
+    },
+    {
+      "id": 101,
+      "model": "이스마엘",
+      "content": "说白了，就是挂着客服名牌的殊死搏斗嘛……\n\n So it's basically a fight to the death with a customer-service name tag pinned to it...\n"
+    },
+    {
+      "id": 102,
+      "model": "로쟈",
+      "content": "那么，今天的客人是谁呀~？\n So, who are today's guests, then~?"
+    },
+    {
+      "id": 103,
+      "model": "말쿠트",
+      "title": "历史层指定司书\n Patron Librarian of the Floor of History",
+      "content": "这个嘛……安吉拉从来都不肯告诉我什么。我只听说了名字。好像是叫“黎明事务所”？\n Well... it's not like Angela ever lets me in on anything. I only heard the name. \"Dawn Office,\" I think?"
+    },
+    {
+      "id": 104,
+      "model": "돈키호테",
+      "content": "黎、黎明事务所？！就是由烙印工坊赞助的那个事务所？！汝说的是<i>那个</i>黎明事务所？！\n D-Dawn Office?! The very Office sponsored by Stigma Workshop?! <i>That</i> Dawn Office, thou sayest?!"
+    },
+    {
+      "id": 105,
+      "model": "돈키호테",
+      "content": "呜……！若早知会有这番幸运的相遇，吾出发前便该换一套徽章收藏！尤其是黎明事务所的徽章，那是收尾人杂志访谈附赠的限定特典，吾正是为数不多持有它的收藏家之一！啊，还有什么旗帜比它更能将吾之仰慕彰显于胸前……！\n Ghh...! Had I but foreseen this blessed meeting, I would have worn a different badge colección ere we departed! The Dawn Office badge in particular was offered solely as a limited bonus with a Fixer magazine interview, and I am counted among the precious few collectors who possess one! Ah, what truer banner of mine admiration could I have borne upon my chest...!"
+    },
+    {
+      "id": 106,
+      "model": "말쿠트",
+      "title": "历史层指定司书\n Patron Librarian of the Floor of History",
+      "content": "原来真<i>有</i>司书听说过他们！那我就放心了。\n So there <i>is</i> a Librarian who's heard of them! That's a relief."
+    },
+    {
+      "id": 107,
+      "model": "말쿠트",
+      "title": "历史层指定司书\n Patron Librarian of the Floor of History",
+      "content": "又像……以前那样被困在后勤岗位上，说实话我不太开心，但我会陪着你们直到一切结束。所以……\n I'm not exactly thrilled about being stuck on support duty again like... before, but I'll stay with you until everything is over. So..."
+    },
+    {
+      "id": 108,
+      "model": "말쿠트",
+      "title": "历史层指定司书\n Patron Librarian of the Floor of History",
+      "content": "大家，请不要死。像往常一样去做，我们这次也一定能挺过去。\n Please don't die, everyone. Let's do what we always do, and we'll make it through again."
+    },
+    {
+      "id": 109,
+      "model": "단테",
+      "content": "<.......>"
+    },
+    {
+      "id": 110,
+      "content": "她的声音和我记忆中一样充满活力。只是如今，她说话的方式里似乎有什么东西落定了——某种更加饱满的东西。\n Her voice was just as energetic as I remembered. Only now, something seemed to have settled into place in the way she spoke—something fuller."
+    },
+    {
+      "id": 111,
+      "model": "오티스",
+      "content": "……目标接近，执行经理。\n ... Incoming, Executive Manager."
+    },
+    {
+      "id": 112,
+      "model": "료슈",
+      "content": "哦吼。\n Oho."
+    },
+    {
+      "id": 113,
+      "model": "돈키호테",
+      "content": "终于……！\n At last...!"
+    },
+    {
+      "id": 114,
+      "model": "살바도르",
+      "content": "啊。这些人似乎很乐意接待我们，和安吉拉不一样。\n Ah. These people seem rather glad to receive us, unlike Angela."
+    },
+    {
+      "id": 115,
+      "model": "필립",
+      "content": "师父……！我们是不是该再保持点距离——\n Master...! Maybe we should keep a little more distance—"
+    },
+    {
+      "id": 116,
+      "model": "오티스",
+      "content": "……嗯？\n ... Hmm?"
+    },
+    {
+      "id": 117,
+      "model": "돈키호테",
+      "content": "哦吼！小奥提斯，看来汝也因亲眼目睹如此著名的收尾人之风采而惊得说不出话来了！\n Oho! Young Outis, I see that thou too art struck speechless by the splendor of beholding such famed Fixers in the flesh!"
+    },
+    {
+      "id": 118,
+      "model": "오티스",
+      "content": "……不，不是那样。\n ... No, that's not it."
+    },
+    {
+      "id": 119,
+      "model": "유나",
+      "content": "这些没意义的闲聊太让人泄气了，老爷子。赶紧解决掉，拿了Zwei协会的书就走吧。\n All this pointless chit-chat is killing my excitement, gramps. Let's get this over with, collect the Book of Zwei Association, and get out of here."
+    },
+    {
+      "id": 120,
+      "model": "필립",
+      "content": "前辈……我们是不是至少该先摸清他们的底细……？\n Seonbae... shouldn't we at least get a read on them first...?"
+    },
+    {
+      "id": 121,
+      "model": "살바도르",
+      "content": "*呵呵* 菲利普。你再绷这么紧，可要断成两截了。\n *chuckle* Philip. You'll snap in half if you wind yourself any tighter."
+    },
+    {
+      "id": 122,
+      "model": "단테",
+      "content": "<看来那边那位老人就是事务所的代表了。>\n <Looks like that old man over there's the Office rep.>"
+    },
+    {
+      "id": 123,
+      "model": "돈키호테",
+      "content": "正是！看哪，汝眼前这位正是黎明事务所的代表——\n Correct! Behold, for thou'rt in the presence of the Representative of Dawn Office—"
+    },
+    {
+      "id": 124,
+      "model": "오티스",
+      "content": "……萨尔瓦多。\n ... Salvador."
+    },
+    {
+      "id": 125,
+      "model": "돈키호테",
+      "content": "嗯？小奥提斯，汝与萨尔瓦多阁下相识吗？\n Eh? Young Outis, art thou acquainted with Sir Salvador?"
+    },
+    {
+      "id": 126,
+      "model": "오티스",
+      "content": "不，我从未见过他本人。不过……\n No, I've never met him in person. However..."
+    },
+    {
+      "id": 127,
+      "model": "돈키호테",
+      "content": "那……汝又是如何……\n Then... How is it that..."
+    },
+    {
+      "id": 128,
+      "model": "단테",
+      "content": "<……哦。>\n <... Oh.>"
+    },
+    {
+      "id": 129,
+      "content": "其实根本没必要问她是怎么知道的。\n There really wasn't any need to ask how she knew."
+    },
+    {
+      "id": 130,
+      "content": "奥提斯脸上的表情，已经足以回答这个问题。\n That look on Outis's face answered the question well enough."
+    }
+  ]
+}
