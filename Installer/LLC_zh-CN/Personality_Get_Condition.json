@@ -1442,27 +1442,43 @@
     },
     {
       "id": "11116_getCondition_normal",
-      "content": "楔子事务所代表 奥提斯 获得时"
+      "content": "楔子事务所 代表 奥提斯 获得时"
     },
     {
       "id": "11116_getCondition_gacksung",
-      "content": "楔子事务所代表 奥提斯 3阶段同步完成"
+      "content": "楔子事务所 代表 奥提斯 3阶段同步完成"
     },
     {
       "id": "10316_getCondition_normal",
-      "content": "楔子事务所收尾人 堂吉诃德 获得时"
+      "content": "楔子事务所 收尾人 堂吉诃德 获得时"
     },
     {
       "id": "10316_getCondition_gacksung",
-      "content": "楔子事务所收尾人 堂吉诃德 3阶段同步完成"
+      "content": "楔子事务所 收尾人 堂吉诃德 3阶段同步完成"
     },
     {
       "id": "11017_getCondition_normal",
-      "content": "楔子事务所收尾人 辛克莱 获得时"
+      "content": "楔子事务所 收尾人 辛克莱 获得时"
     },
     {
       "id": "11017_getCondition_gacksung",
-      "content": "楔子事务所收尾人 辛克莱 3阶段同步完成"
+      "content": "楔子事务所 收尾人 辛克莱 3阶段同步完成"
+    },
+    {
+      "id": "10117_getCondition_normal",
+      "content": "获得高级定制::黑派 B3F 干燥室 李箱"
+    },
+    {
+      "id": "10117_getCondition_gacksung",
+      "content": "将高级定制::黑派 B3F 干燥室 李箱同步至第3阶段"
+    },
+    {
+      "id": "11217_getCondition_normal",
+      "content": "获得高级定制::红派 B2F 线团之巢 格里高尔"
+    },
+    {
+      "id": "11217_getCondition_gacksung",
+      "content": "将高级定制::红派 B2F 线团之巢 格里高尔同步至第3阶段"
     }
   ]
 }

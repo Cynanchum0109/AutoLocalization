@@ -1066,9 +1066,9 @@
       "dlg": "就是现在。骷髅头，蜘蛛头！"
     },
     {
-      "id": "battle_s3_10910_1_1-01",
+      "id": "battle_s3_10910_1_1-02",
       "desc": "",
-      "dlg": "波鲁！加把劲！\n[已确认提高功率的请求。]"
+      "dlg": "波鲁！加把劲！\n[已确认提高功率的请求。]\n Polu! Back me up a bit!\n[Output increase request acknowledged.]"
     },
     {
       "id": "battle_special_10910_1",
@@ -1808,12 +1808,12 @@
     {
       "id": "battle_special_10213_5",
       "desc": "",
-      "dlg": "……瞄准。\n ... Taking aim."
+      "dlg": "……正在瞄准。"
     },
     {
       "id": "battle_special_10213_5_1",
       "desc": "",
-      "dlg": "待机，等候时机。\n On standby for the opportunity."
+      "dlg": "静待良机。"
     },
     {
       "id": "battle_s3_10513_1_4",
@@ -3656,6 +3656,31 @@
       "dlg": "反刍四色的次元。"
     },
     {
+      "id": "battle_special_10117_1_1",
+      "desc": "",
+      "dlg": "凡超出此限的怪异，皆与我所奉行的怪异规则相悖；\n Any oddity beyond is at odds with the odd rules with which I deal;"
+    },
+    {
+      "id": "battle_special_10117_1_4",
+      "desc": "",
+      "dlg": "可惜你的热忱，究其本心，最不理想。\n a shame your zeal is, at its heart, most unideal."
+    },
+    {
+      "id": "battle_special_10117_2",
+      "desc": "",
+      "dlg": "勤勉换不来劳役的解脱。\n Diligence earns no deliverance from drudgery."
+    },
+    {
+      "id": "battle_special_10117_3",
+      "desc": "",
+      "dlg": "<size=150%>一</size>再<size=150%>上</size>班<size=150%>之</size><size=150%>循</size>环<size=150%>往</size>复。\n <size=150%>R</size>ECURRING<size=150%>A</size>RRIVAL<size=150%>F</size>OR<size=150%>W</size>ORK<size=150%>R</size>ECURS."
+    },
+    {
+      "id": "battle_special_10117_4",
+      "desc": "",
+      "dlg": "<size=150%>警</size>告。\n <size=150%>W</size>ARNING."
+    },
+    {
       "id": "7SV-BV-022",
       "desc": "리카르도 - 시험은 끝났다 스킬 장착한 턴 시작 시",
       "dlg": "游戏到此为止。"
@@ -4026,6 +4051,16 @@
       "dlg": "脱衣。毫无虚假之再诞。"
     },
     {
+      "id": "battle_special_11016_15_a",
+      "desc": "르루주 히스클리프 강화",
+      "dlg": "就连最恶毒的批评也一并吞下。\n Devour even the most vicious criticisms."
+    },
+    {
+      "id": "battle_special_11016_15_b",
+      "desc": "르루주 히스클리프 강화",
+      "dlg": "屈辱。最为喧嚣的狂怒。\n Mortification. A fury most uproarious."
+    },
+    {
       "id": "battle_special_10617_1",
       "desc": "",
       "dlg": "漆黑之神曾说过。"
@@ -4098,165 +4133,220 @@
     {
       "id": "battle_special_11116_1",
       "desc": "",
-      "dlg": "都是熟面孔。那么我们的策略……我想不必多说了。\n All familiar faces. Then our stratagem... I shouldn't have to spell it out."
+      "dlg": "都是熟面孔啊。作战……不用说明你们也应该知道吧。"
     },
     {
       "id": "battle_special_11216_4",
       "desc": "",
-      "dlg": "我们可不是白当兄弟事务所的。那么……一如既往，拜托你了。\n We aren't sister Offices for nothing. Well... I'll be counting on you, as always."
+      "dlg": "兄弟事务所就是那样的嘛。嘛，这次也麻烦你们了。"
     },
     {
       "id": "battle_special_11116_2",
       "desc": "",
-      "dlg": "那我们最好赶在它之前了结。\n Then we'd do well to finish before it does."
+      "dlg": "既然如此，不如在那之前就结束掉吧？"
     },
     {
       "id": "battle_special_11116_3_1",
       "desc": "",
-      "dlg": "组成楔形阵！\n Assume wedge formation!"
+      "dlg": "展开楔形阵势！"
     },
     {
       "id": "battle_special_11116_3_2",
       "desc": "",
-      "dlg": "放电！\n Spark!"
+      "dlg": "闪光！"
     },
     {
       "id": "battle_special_11116_4",
       "desc": "",
-      "dlg": "突入路线已确保。全员，准备冲击交锋！\n Entry route secured. All units, engage for collision!"
+      "dlg": "确保入口路线畅通。全员交锋！"
     },
     {
       "id": "battle_special_11116_5",
       "desc": "",
-      "dlg": "我至少能承担起责任。\n The least I can do is bear responsibility."
+      "dlg": "至少应该负起责任。"
     },
     {
       "id": "battle_s3_11017_1",
       "desc": "",
-      "dlg": "枪之漩涡！\n A maelstrom of spears!"
+      "dlg": "横扫吧！"
     },
     {
       "id": "battle_special_11017_1_3",
       "desc": "",
-      "dlg": "联携攻击！\n Linked strike!"
+      "dlg": "合击！"
     },
     {
       "id": "battle_special_11017_2",
       "desc": "",
-      "dlg": "啧，别对我指手画脚！\n Sheesh, stop telling me what to do!"
+      "dlg": "我会自己处理的！"
     },
     {
       "id": "battle_special_11017_3_9",
       "desc": "",
-      "dlg": "刺穿了！\n Skewered!"
+      "dlg": "贯穿，"
     },
     {
       "id": "battle_special_11017_4",
       "desc": "",
-      "dlg": "电击，横扫！\n Jolt and sweep!"
+      "dlg": "撼动并横扫一切！"
     },
     {
       "id": "battle_special_11017_5_9",
       "desc": "",
-      "dlg": "行啊，你想试试是吧？\n Fine, you wanna have a go at it, yeah?"
+      "dlg": "好，你想要来一次……对吧？"
     },
     {
       "id": "battle_special_11017_6",
       "desc": "",
-      "dlg": "……你就不能只挑一个吗？\n ... Can't you just stick to one?"
+      "dlg": "……说一个就够了吧！"
     },
     {
       "id": "battle_special_11017_7",
       "desc": "",
-      "dlg": "……我才不会在意——真的不会。\n ... I'm not gonna care—I really won't."
+      "dlg": "……我不介意的。"
     },
     {
       "id": "battle_special_11017_9",
       "desc": "",
-      "dlg": "让我来开路！\n Lemme clear the way!"
+      "dlg": "我来开辟道路！"
     },
     {
       "id": "battle_special_11017_10",
       "desc": "",
-      "dlg": "侧翼突破！\n Flank breached!"
+      "dlg": "侧翼突破！"
     },
     {
       "id": "battle_special_11017_11",
       "desc": "",
-      "dlg": "嘿。这话我爱听！\n Heh. I like the sound of that!"
+      "dlg": "呵，我喜欢！"
     },
     {
       "id": "battle_s3_10316_1",
       "desc": "",
-      "dlg": "枪之漩涡！\n A maelstrom of spears!"
+      "dlg": "横扫吧！"
     },
     {
       "id": "battle_special_10316_1",
       "desc": "",
-      "dlg": "吾定将汝刺穿！\n I shall see thee skewered!"
+      "dlg": "吾必将其贯穿！"
     },
     {
       "id": "battle_special_10316_2_3",
       "desc": "",
-      "dlg": "劳驾，现在掩护吾的后方！\n Prithee, now watch my back!"
+      "dlg": "背后就交给汝了！"
     },
     {
       "id": "battle_special_10316_3",
       "desc": "",
-      "dlg": "再刺穿一次！\n And skewered again!"
+      "dlg": "再次贯穿！"
     },
     {
       "id": "battle_special_10316_4_6",
       "desc": "",
-      "dlg": "刺穿，电击！\n Skewer and jolt!"
+      "dlg": "若贯穿并撼动！"
     },
     {
       "id": "battle_special_10316_5",
       "desc": "",
-      "dlg": "吾来打下楔子！\n I shall plant the wedge!"
+      "dlg": "吾将刺入楔子！"
     },
     {
       "id": "battle_special_10316_6_4",
       "desc": "",
-      "dlg": "必杀！必中！必准！\n Sure-kill! Sure-strike! Sure-aim!"
+      "dlg": "必杀！必击！必中！"
     },
     {
       "id": "battle_special_10316_8",
       "desc": "",
-      "dlg": "……这次连脑袋都被碾得无可挽回了……\n ... Even the head hath been crushed beyond salvaging this time..."
+      "dlg": "……这次连要拾取的头颅都被粉碎了吗。"
     },
     {
       "id": "battle_special_10316_9",
       "desc": "",
-      "dlg": "吾来开路！\n I shall clear the way forth!"
+      "dlg": "吾将开辟道路！"
     },
     {
       "id": "battle_special_10316_10",
       "desc": "",
-      "dlg": "侧翼突破！\n Flank breached!"
+      "dlg": "侧翼突破！"
     },
     {
       "id": "battle_special_10316_11",
       "desc": "",
-      "dlg": "楔子，射出！\n Wedge, ejection!"
+      "dlg": "楔子，迸射！"
     },
     {
       "id": "battle_special_10216_6_link_1",
-      "dlg": "反应射出。\n Reactive ejection."
+      "dlg": "反应型迸射。"
     },
     {
       "id": "battle_special_10216_6_link_2",
-      "dlg": "将所有目标切割成块。\n Sectioning every target into pieces."
+      "dlg": "全部切碎吧。"
     },
     {
       "id": "85SV-065_1",
       "desc": "오티스 - 5인 합동기",
-      "dlg": "迅速而确实的一刺，将你刺穿。\n A swift, sure thrust to stab you through."
+      "dlg": "迅速且切实地将其贯穿。"
     },
     {
       "id": "battle_s3_11116",
       "desc": "",
-      "dlg": "已贯穿。现在，挣扎着触电吧。\n Punctured. Now, writhe and jolt."
+      "dlg": "贯穿，并撼动。"
+    },
+    {
+      "id": "battle_s3_10117_1_1",
+      "desc": "통제자 이상 3번 스킬",
+      "dlg": "<size=150%>原</size>罪<size=150%>劳</size>作<size=150%>之</size><size=150%>下</size><size=150%>所</size><size=150%>隐</size>藏<size=150%>之</size><size=150%>物</size>。\n <size=150%>W</size>HAT<size=150%>L</size>IES<size=150%>B</size>ENEATH<size=150%>T</size>HE<size=150%>L</size>ABOR<size=150%>O</size>F<size=150%>O</size>RIGINAL<size=150%>S</size>IN."
+    },
+    {
+      "id": "battle_s3_10117_1_3",
+      "desc": "통제자 이상 3번 스킬",
+      "dlg": "勤勉劳作，片刻不得歇息。\n Toil diligently with nary a passing respite."
+    },
+    {
+      "id": "battle_special_11217_1_1",
+      "desc": "타래둥지 그레고르 2-2 1타",
+      "dlg": "纺起来……\n Spin it up..."
+    },
+    {
+      "id": "battle_special_11217_1_2",
+      "desc": "타래둥지 그레고르 2-2 3타",
+      "dlg": "……再捆个结实。\n ... and bind 'em down."
+    },
+    {
+      "id": "battle_special_11217_2",
+      "desc": "타래둥지 그레고르 붉은 실",
+      "dlg": "渴望。\n The yearning."
+    },
+    {
+      "id": "battle_special_11217_3",
+      "desc": "타래둥지 그레고르 노란 실",
+      "dlg": "欲望。\n The desire."
+    },
+    {
+      "id": "battle_special_11217_4",
+      "desc": "타래둥지 그레고르 푸른 실",
+      "dlg": "慰藉。\n The comfort."
+    },
+    {
+      "id": "battle_s3_11217_1",
+      "desc": "타래둥지 그레고르 푸른 실",
+      "dlg": "让它缠起来……那样才真正能显出光泽。\n Let it tangle... that's what really brings out the shine."
+    },
+    {
+      "id": "battle_special_11016_18_a",
+      "desc": "르루주 그레고르 강화",
+      "dlg": "既然没有什么能永远持续，那我们不如尽情放纵。\n If nothing lasts forever, then we may as well turn to overindulgence."
+    },
+    {
+      "id": "battle_special_11016_18_b",
+      "desc": "르루주 그레고르 강화",
+      "dlg": "命运。躁动交缠的色彩。\n Fate. A restless tangle of colors."
+    },
+    {
+      "id": "battle_s3_10910_1_1-01",
+      "desc": "",
+      "dlg": "波鲁！加把劲！\n[已确认提高功率的请求。]"
     }
   ]
 }

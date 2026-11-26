@@ -1,0 +1,256 @@
+{
+  "dataList": [
+    {
+      "id": "schemacraft_choice_1_title",
+      "content": "当铺"
+    },
+    {
+      "id": "schemacraft_choice_1_text",
+      "content": "要知道，光是运气差、钱包空，还不足以让人心甘情愿地走进当铺。人们远比想象中更能默默忍受那破烂又窝囊的“凑合过日子”的喧嚣……直到连对明天那一丝渺茫的期待也离他们而去。\n到了那时，人们才会涌进这间昏暗的铺子，准备放下自己过往中最珍贵的东西。\n\n陈列架上摆着饰有浮雕纹样的右臂义肢、一张不知开往何处的火车票，还有一支虽已生锈、却似乎还能值点钱的钢笔。\n\n你尴尬地踌躇着，店主却显然早已见过成千上万个你这样的人，连头都没抬，就问道：“要当什么？”\n\n你翻了翻口袋，然后……"
+    },
+    {
+      "id": "schemacraft_choice_1_option_a",
+      "content": "把身上的东西全都放到柜台上。"
+    },
+    {
+      "id": "schemacraft_choice_1_option_b",
+      "content": "只拿出自己最不值钱的一样东西。"
+    },
+    {
+      "id": "schemacraft_choice_1_skip",
+      "content": "避开那审视的目光，拔腿就跑。"
+    },
+    {
+      "id": "schemacraft_choice_2_title",
+      "content": "替考"
+    },
+    {
+      "id": "schemacraft_choice_2_text",
+      "content": "聚在小巷里的一群人朝你走来。\n\n“你也知道，明天的实操考试……嗯，他们核对长相不怎么仔细。”\n\n你很快就明白了这些人想说什么。\n\n“而且我家孩子还太小了。经验也不够。”\n\n旁边的人接过了话头。\n\n“可听说要是这个月底前把证全拿下来，下个月的入职面试就能加分……”\n\n没有人提那究竟是什么考试。不过，像你这样的人，或许能帮他们在追寻巢中生活的梦想之路上，稍微推上一把？"
+    },
+    {
+      "id": "schemacraft_choice_2_option_a",
+      "content": "派一名罪人去。虽然对方一脸不情愿，但总得有人去。"
+    },
+    {
+      "id": "schemacraft_choice_2_option_b",
+      "content": "抽签派两名罪人去。这样应该能让尽可能多的考生通过。"
+    },
+    {
+      "id": "schemacraft_choice_2_skip",
+      "content": "不掺和。搬进巢里，从来就没有这么容易。"
+    },
+    {
+      "id": "schemacraft_choice_3_title",
+      "content": "没有空位的游乐场"
+    },
+    {
+      "id": "schemacraft_choice_3_text",
+      "content": "一辆满载着某人家当的搬家卡车挤进了狭窄的小巷。游乐场里的孩子们齐刷刷地转过头来，可惜——没有一张脸露出欢迎的神色。\n\n“可是游乐场已经满了。红秋千上八个，绿秋千上五个，滑梯上十个，台阶上四个半，跷跷板上十个。”\n\n看上去像是孩子王的那个孩子一字一顿、清清楚楚地数着人头。\n\n“那新来的孩子，到底该放在哪儿呢？”"
+    },
+    {
+      "id": "schemacraft_choice_3_option_a",
+      "content": "沙地上。那是留给迟来者的唯一位置。"
+    },
+    {
+      "id": "schemacraft_choice_3_option_b",
+      "content": "红秋千上。再挤一挤，或许还能塞下一个？"
+    },
+    {
+      "id": "schemacraft_choice_3_skip",
+      "content": "不参与点名。背对孩子们走开。"
+    },
+    {
+      "id": "schemacraft_choice_4_title",
+      "content": "伪造名片"
+    },
+    {
+      "id": "schemacraft_choice_4_text",
+      "content": "“你可以成为任何人。哪怕是你连做梦都不敢想的人。”\n\n店主熟练地推销着，看样子没少应付过有故事的人。\n可尽管许下这么多豪言壮语，他手里拿着的，不过是几张名片而已。\n\n“至少在这张小纸片上，你就是K公司的队长。想的话，当个5级收尾人事务所的所长也行。不过可别忘了，要是有检查员找上门，这里就是家水果店，而你今天买走的，只有一个熟透的苹果。”\n\n只要手里握着一张精心伪造的名片……你就可以成为任何人。"
+    },
+    {
+      "id": "schemacraft_choice_4_option_a",
+      "content": "试着成为别人。只要不是现在的我，谁都行。"
+    },
+    {
+      "id": "schemacraft_choice_4_option_b",
+      "content": "成为翼的新员工。这样应该能让很多人羡慕得眼红。"
+    },
+    {
+      "id": "schemacraft_choice_4_skip",
+      "content": "维持现在的我。仔细想想，这样的人生也不算太坏。"
+    },
+    {
+      "id": "schemacraft_choice_5_title",
+      "content": "破布山"
+    },
+    {
+      "id": "schemacraft_choice_5_text",
+      "content": "拥挤的市场摊位之间，一座小山映入你的眼帘。凑近一看，你很快发现那是层层叠叠堆起来的衣物；或许整座镇子的待洗衣物都流落到这堆里来了吧？那是被穿得单薄、起皱、揉烂、脏污、发臭的人生与经历。\n\n或许带一件走也无妨，留着以后用。总有一天，我们自己的衣服也会流落到这座山脚下……"
+    },
+    {
+      "id": "schemacraft_choice_5_option_a",
+      "content": "拿一套西装。再漂洗一遍、好好熨一熨，说不定还挺像样。"
+    },
+    {
+      "id": "schemacraft_choice_5_option_b",
+      "content": "拿一张……某种东西的皮。在这些街道上游荡，或许总有时候，看起来像个人并不是什么好主意。"
+    },
+    {
+      "id": "schemacraft_choice_5_skip",
+      "content": "什么也不拿。身上穿的就够了。"
+    },
+    {
+      "id": "schemacraft_choice_6_title",
+      "content": "空无一人的车站"
+    },
+    {
+      "id": "schemacraft_choice_6_text",
+      "content": "你来到一处车站，四下不见人影。\n一辆不知从何而来的公交车停在你面前；你也不知道它要开往哪里。\n仿佛是在回报你等待的漫长时光，它连喇叭都不按一声，耐心地等着你。\n但它不会永远等下去。\n毕竟，即使夜幕已经降临，后巷还会迎来另一个夜晚……\n你最好赶快决定怎么回家。"
+    },
+    {
+      "id": "schemacraft_choice_6_option_a",
+      "content": "上车。"
+    },
+    {
+      "id": "schemacraft_choice_6_option_b",
+      "content": "按记忆中的方向步行离开。"
+    },
+    {
+      "id": "schemacraft_choice_6_skip",
+      "content": "让公交车开走，留在车站。可还会有下一班吗？"
+    },
+    {
+      "id": "schemacraft_choice_7_title",
+      "content": "白夜"
+    },
+    {
+      "id": "schemacraft_choice_7_text",
+      "content": "你看见一道耀眼的光柱直冲天际，光芒穿过密密麻麻的楼宇间的缝隙。整个世界都亮了起来，仿佛夜晚本身已不复存在。\n后巷的人们一个接一个地抬头望向天空。\n在那温和而温暖的光芒之下，你……"
+    },
+    {
+      "id": "schemacraft_choice_7_option_a",
+      "content": "和大家一起仰望天空。"
+    },
+    {
+      "id": "schemacraft_choice_7_option_b",
+      "content": "低头看着在坑洼路面上四散的光。"
+    },
+    {
+      "id": "schemacraft_choice_7_skip",
+      "content": "只是紧紧闭上眼睛。"
+    },
+    {
+      "id": "schemacraft_choice_8_title",
+      "content": "贴满传闻的墙"
+    },
+    {
+      "id": "schemacraft_choice_8_text",
+      "content": "从鸡毛蒜皮的跑腿到探险乃至买凶杀人，收尾人从来不缺活儿干，对吧？\n每份委托的报酬看起来都还算公道。至少表面上如此。\n但要接下哪一个、对哪一个视而不见呢？选择权在你手里。"
+    },
+    {
+      "id": "schemacraft_choice_8_option_a",
+      "content": "都市怪谈。接下早已熟悉的那类委托。"
+    },
+    {
+      "id": "schemacraft_choice_8_option_b",
+      "content": "追查一条或许能赚钱的传闻。"
+    },
+    {
+      "id": "schemacraft_choice_8_option_c",
+      "content": "都市传说。接下报酬丰厚的委托。"
+    },
+    {
+      "id": "schemacraft_choice_8_skip",
+      "content": "一份委托也不接。"
+    },
+    {
+      "id": "schemacraft_choice_201_title",
+      "content": "熟悉又陌生的小巷"
+    },
+    {
+      "id": "schemacraft_choice_201_text",
+      "content": "迷宫般的小巷网络蜿蜒延伸，拐过一个弯又是一个弯。这片后巷与你记忆中的每一条小巷都相似，却又没有一条让人感到熟悉。你不停地走，拐了一个又一个弯，却看不到尽头。就在这时，你忽然意识到：那股一直牵动着你注意力的奇怪感觉是……"
+    },
+    {
+      "id": "schemacraft_choice_201_option_a",
+      "content": "周围逼近的黑暗。最好掏出终端看看时间。"
+    },
+    {
+      "id": "schemacraft_choice_201_option_a_desc",
+      "content": "凌晨3点13分。\n当“深宵”降临后巷，他们就会到来。\n待到日出，什么痕迹都不会留下。"
+    },
+    {
+      "id": "schemacraft_choice_201_option_b",
+      "content": "不知从哪里飘来的音乐。节奏很欢快。"
+    },
+    {
+      "id": "schemacraft_choice_201_option_b_desc",
+      "content": "锁链叮当作响。张狂的大笑。没错，中指从不会忘记。一旦被他们记恨上，你这辈子都只能东躲西藏……最终也只会在某个小巷口，发现他们早已在那里等着你。"
+    },
+    {
+      "id": "schemacraft_choice_201_option_c",
+      "content": "什么东西在叫的声音……"
+    },
+    {
+      "id": "schemacraft_choice_201_option_c_desc",
+      "content": "一只叫了起来，很快每条小巷都跟着一齐吠叫。四条腿的东西在这些街道上爬行，连自己该守护的是什么都没搞明白，就冲着空中嚎叫。"
+    },
+    {
+      "id": "schemacraft_choice_201_option_d",
+      "content": "没什么值得停下的。继续走。"
+    },
+    {
+      "id": "schemacraft_choice_201_option_d_desc",
+      "content": "我决定继续往前走。我在等待的东西，或许根本不在这条小巷里。"
+    },
+    {
+      "id": "schemacraft_choice_201_option_e",
+      "content": "没什么要紧的。我已经不想再在乎任何事了。"
+    },
+    {
+      "id": "schemacraft_choice_201_option_e_desc",
+      "content": "不管那是什么，我都没兴趣弄清楚。那些动静很快就会平息。然后，又会有别的什么来填满这片寂静。"
+    },
+    {
+      "id": "schemacraft_choice_202_title",
+      "content": "黑云"
+    },
+    {
+      "id": "schemacraft_choice_202_text",
+      "content": "你误入了一片迷宫般的小巷网络的尽头。\n你踏入的这片后巷不同于你走过的任何街道；它既陌生，又漠不关心。\n仅以记忆为画纸，你开始描绘这片后巷里的生活，毫不在意孰真孰假，孰强孰弱……\n当街道的漠不关心变成一种具体而不受欢迎的关注时，从你思绪中伸展出的黑云，也在小巷上投下同样漫长而黑暗的阴影。"
+    },
+    {
+      "id": "schemacraft_choice_202_option_a",
+      "content": "斩开云层。"
+    },
+    {
+      "id": "schemacraft_choice_202_option_a_desc",
+      "content": "东部十剑。剑鬼。修罗。\n每一位曾背负那些名号的武者，都一次又一次将我带到地狱之门前，以痛苦为烙印，深深烙进我的记忆。\n\n在这里等待着的是……"
+    },
+    {
+      "id": "schemacraft_choice_202_option_c",
+      "content": "逃离云层。"
+    },
+    {
+      "id": "schemacraft_choice_202_option_c_desc",
+      "content": "没有必要踏入构筑出来的世界。"
+    },
+    {
+      "id": "schemacraft_choice_203_title",
+      "content": ""
+    },
+    {
+      "id": "schemacraft_choice_203_text",
+      "content": ""
+    },
+    {
+      "id": "schemacraft_choice_203_option_a",
+      "content": ""
+    },
+    {
+      "id": "schemacraft_choice_203_option_a_desc",
+      "content": ""
+    }
+  ]
+}

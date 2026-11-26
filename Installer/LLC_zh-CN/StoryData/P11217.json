@@ -1,0 +1,448 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "……原来如此。\n ... I see."
+    },
+    {
+      "id": 1,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "这么说，你见过这件寿衣。我没说错吧？\n So you've seen this shroud before. Have I got that right?"
+    },
+    {
+      "id": 2,
+      "content": "我在B2F见到的那位楼层经理，是个悠闲随和的……“人”。至少我是这么觉得的。\n The Floor Manager I met down on B2F was a relaxed, easygoing... \"person.\" That was the impression I got, anyway."
+    },
+    {
+      "id": 3,
+      "content": "他身上隐约带着一股陈旧的烟味，本该是一条手臂的地方，长着个丑陋的东西，看起来活像是昆虫的腿。我确实有点被吓到，但按西西弗百货的标准来看？我觉得应该没问题。\n He smelled faintly of stale cigarette smoke, and where one arm should've been, he had this ugly thing that looked an awful lot like an insect's leg. It put me off a little, sure, but by Grand Magasin standards? I figured I'd be fine."
+    },
+    {
+      "id": 4,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "呃，嗯……我很确定我见过。\n Uh, yeah... I'm pretty sure I have."
+    },
+    {
+      "id": 5,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "好，好。这下我就放心了……这说明那位还穿着我为那位做的寿衣。\n Good, good. That's a weight off my mind... It means He still wears the shroud I made for Him."
+    },
+    {
+      "id": 6,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "等等，那是你做的？真奇怪……我记得他们说线团之巢一整个季度都只纺线来着。\n Wait, you made it? That's funny... I could've sworn they said the Skein Nest spins nothing but thread all season."
+    },
+    {
+      "id": 7,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "其实我就是为这个来的。想要些线来缝我的作品……\n That's what I came for, actually. Some thread to sew my piece together..."
+    },
+    {
+      "id": 8,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "别担心，你来对地方了。告诉你这话的人也没说错。几个季度以前，这地方全靠纺线这门生意转着。\n Don't you worry, you've come to the right place. And whoever told you that had it right, too. A few seasons back, thread was the whole business that made this place go 'round."
+    },
+    {
+      "id": 9,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "我现在就可以接你的单……那么。你想要什么？\n Nothing stopping me from taking your order right now... So. What is it you want?"
+    },
+    {
+      "id": 10,
+      "content": "关于他，我还听说了另一件事。\n I'd heard something else about him, too."
+    },
+    {
+      "id": 11,
+      "content": "据说B2F的楼层经理纺线不另收费。如果说他要什么回报的话……\n Word was the B2F Floor Manager didn't charge a separate fee for spinning. If there was anything he asked in return..."
+    },
+    {
+      "id": 12,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "我只要告诉你我有多想要这些线，对吧？\n I just have to tell you how badly I want the thread, right?"
+    },
+    {
+      "id": 13,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "*呼* 传言这东西真是招人喜欢。它自己就在西西弗百货里四处传开了，我连这个房间的门都不用迈出去一步。\n *puff* You've gotta love a rumor. Off it goes on its rounds of the Grand Magasin, and I don't so much as have to put a foot outside this room."
+    },
+    {
+      "id": 14,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "省得我跑腿了。我还得转纺车呢，要是还得四处跟人解释我们这儿怎么做事，那可有点麻烦……\n Saves me the legwork. Bit of a nuisance, having to go around explaining how we work when I've got a wheel to turn..."
+    },
+    {
+      "id": 15,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "……呃，所以我现在该开口了吗，还是……？\n ... Um, so am I supposed to start talking now, or...?"
+    },
+    {
+      "id": 16,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "嗯？哦，抱歉。一直都是我在说，是吧？\n Hm? Oh, my bad. Been doing all the talking myself, haven't I?"
+    },
+    {
+      "id": 17,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "嗯。不过话说回来……\n Hmm. Mind you, though..."
+    },
+    {
+      "id": 18,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "你现在渴望的，是这件寿衣的真相，对吧？瞧你眼睛亮的。\n What you're yearning for right now is the truth about this shroud, isn't it? Look at how your eyes light up."
+    },
+    {
+      "id": 19,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "…!"
+    },
+    {
+      "id": 20,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "哈。看来我到底是怎么纺线的，这事还没传开？\n Huh. I take it word hasn't gotten around about how I actually spin the stuff?"
+    },
+    {
+      "id": 21,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "传言就这点可惜。它们能钻进每个角落缝隙，可除此之外就没多少实在东西了。拿一条一路传到这底下的传言来纺，纺出来的东西你都不好意思管它叫线。\n That's the pity about rumors. They get into every nook and cranny, but don't bring much substance beyond that. Try spinning one that makes it all the way down here, and you'd be too ashamed to even call the result thread."
+    },
+    {
+      "id": 22,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "所以给我讲个真故事吧——货真价实的那种，你知道的，满得往外溢的渴望与向往在里头翻腾！那种想要得不得了，要是得不到，宁可拧断自己脖子的东西……！\n So gimme a real story—the real deal, y'know, squirming with so much want and yearning that it spills over! Something you desire so badly you'd sooner wring your own neck than go without it...!"
+    },
+    {
+      "id": 23,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "……那样才能纺出结实的线。还有它的光泽也是。\n ... That's how you get thread that'll hold. And the shine of it, too."
+    },
+    {
+      "id": 24,
+      "content": "……我想我得把之前印象里“悠闲随和”那部分划掉了。\n ... Think I'll scratch out the \"relaxed and easygoing\" part from my earlier impression."
+    },
+    {
+      "id": 25,
+      "content": "他一点点凑近，每迈一步、每吐一个字，话语都更加沉重。他靠得越近，眼中那股癫狂野性的光芒就越明显，一点点地剥蚀着我。\n He inched closer, increasing the weight of his words with each step and subsequent syllable. And the closer he got, the more apparent the mad, wild gleam in his eyes became, picking away at me."
+    },
+    {
+      "id": 26,
+      "content": "换作几个季度以前，光这样就足以把我吓得原路逃回去了。但是……\n A few seasons ago, that would've been enough to send me scurrying scared back the way I'd come. But..."
+    },
+    {
+      "id": 27,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "……你说得对。我对自己的作品确实怀有那种渴望，但不止如此。\n ... You're right. I do feel that kind of yearning about my work, but there's more to it."
+    },
+    {
+      "id": 28,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "你看，我就是放不下我的好奇心。我想知道你是怎么认识那个……现在被称为赤红之神的人的。还有，一个只纺过线的人，怎么会做出一件真正的衣服。\n You see, I can't just leave my curiosity alone. I wanna know how you know that... person they call the Crimson God now. And how somebody who only ever spun thread came to make an actual garment."
+    },
+    {
+      "id": 29,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "你看，这正是我在做的东西的意义所在。每当我找到某个疑问的答案，我就会做一个体现所学的配件，挂到作品上。我想，作品就是这么拼起来的。一个配件一个配件地，添上每一份美德。\n See, that's the whole point of what I'm making. Whenever I find the answer to something I've wondered about, I make a fitting that shows what I learned and attach it to the piece. That's how it comes together, I guess. Each virtue added, one fitting at a time."
+    },
+    {
+      "id": 30,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "所以这也是一件……我真的很需要你回答的事。\n So this is one more thing... I really need you to answer."
+    },
+    {
+      "id": 31,
+      "content": "……他低声笑了笑，凑了过来，直到他的脸紧贴着我的脸。\n ... He gave a low chuckle and leaned in until his face was right up against mine."
+    },
+    {
+      "id": 32,
+      "content": "然后他说：\n Then he said:"
+    },
+    {
+      "id": 33,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "……双股。\n ... Two-ply."
+    },
+    {
+      "id": 34,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "你的那份渴望……我会给你纺一条双股线。很好。非常好……\n That yearning of yours... I'll be spinning you a two-ply thread. That's good. Very good..."
+    },
+    {
+      "id": 35,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "也就是说，两股线拧在一起……拧两次？\n So, two strands, twisted together... twice?"
+    },
+    {
+      "id": 36,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "怎么，你做的东西需要单股吗？不……我看不需要。\n Why, did you need single-ply for whatever you're making? Nah... I don't think you do."
+    },
+    {
+      "id": 37,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "照我看，你心里的渴望不止一个。不过随便顺着哪一个往回找，最后都归结到同一件大事上——你想把你一直在拼的那件衣服做完。\n Far as I can tell, you've got more than one yearning in you. Follow any one of 'em back, though, and it all comes down to the one big thing—you wanna finish that garment you've been putting together."
+    },
+    {
+      "id": 38,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "你的好奇心就是从那儿来的，对吧？那么……你这件还没完成的作品，至少得用双股线。要是我说得离谱了，就告诉我。\n That's where this curiosity of yours stems from, isn't it? Well, then... this in-progress work of yours calls for two-ply at the very least. Tell me if I'm wide of the mark."
+    },
+    {
+      "id": 39,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "其实我本来也想问问你关于这些的建议……\n Actually, I was going to ask your advice about all that, too..."
+    },
+    {
+      "id": 40,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "不过听你这么一说，我明白那种线为什么适合我在做的东西了。\n But hearing you talk, I can see how that kind of thread would suit what I'm making."
+    },
+    {
+      "id": 41,
+      "content": "我想，那终究就是我想要的吧。可以说是我自己的欲望。\n I guess that was what I wanted, after all. A desire of my own, you might say."
+    },
+    {
+      "id": 42,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "……至于我嘛。\n ... As for me, well."
+    },
+    {
+      "id": 43,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "以前我就坐在这巢里，纺着线，听着送到我这儿来的各种故事。也就这么些事。\n Used to be I'd sit here in my nest, spinning thread and listening to whatever stories came my way. Not much else to it."
+    },
+    {
+      "id": 44,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "我有命运之声一路指点我。从哪儿开始，该怎么做，该纺什么线……总在那儿告诉我下一次该纺什么。\n I had the Voice of Fate talking me through it. Where to start, how to go about it, the thread to spin... always there to tell me what I ought to spin next."
+    },
+    {
+      "id": 45,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "说真的，没什么可抱怨的。\n Couldn't complain, really."
+    },
+    {
+      "id": 46,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "可是，我按部就班做着这些的时候，一直觉得缺了点什么。\n Still, I felt like I was missing something the whole time I went through the motions."
+    },
+    {
+      "id": 47,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "我是说，线是用来干什么的？穿进针里，用它缝点东西。或者把线织在一起做成布。对吧？\n I mean, what're threads for? You put one through a needle and stitch something with it. Or you weave them together and make cloth. Right?"
+    },
+    {
+      "id": 48,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "只不过，命运之声给我安排的不是这个。从来都不是。有些日子，我会发现自己盼着听到一句“今天织点布吧”，可那样的启示从来没降临到我身上过。\n Only, that's not what the Voice of Fate had in store for me. Never did. Some days I'd catch myself hoping to hear, \"Make some cloth today,\" but no revelation like that ever came my way."
+    },
+    {
+      "id": 49,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "后来有一天……我遇见了那位。\n Then one day... I met Him."
+    },
+    {
+      "id": 50,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "那位屈尊一路来到了这底下。\n He who deigned to come all the way down here."
+    },
+    {
+      "id": 51,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "赤红之神……！\n The Crimson God...!"
+    },
+    {
+      "id": 52,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "你真该看看我用那位的渴望纺出来的线。光彩夺目。闪闪发亮……纯金一般。\n You should've seen the thread I spun from His yearning. It was radiant. It shone... pure gold."
+    },
+    {
+      "id": 53,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "我心里有什么东西燃了起来。我可从没有过那种感觉。我忍不住问自己：要是用那条线做出一套真正的衣服，该会是何等狂喜啊？！\n Something caught fire in me. Never felt anything like it, mind you. I couldn't help but ask myself the question: just how ecstatic would it be to make an actual outfit out of that thread?!"
+    },
+    {
+      "id": 54,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "就在那时，那位对我开口了。\n And that's when He spoke to me."
+    },
+    {
+      "id": 55,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "“任由欲望行事吧。追随你的欲望……”\n \"Let desire have its way. Follow your desires...\""
+    },
+    {
+      "id": 56,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "“……照你所渴望的去做，”那位这么说。那位说，当想要摄取的冲动找上门来，我们就该任由它行事。\n \"... and do as you have yearned,\" he said. He said that when the urge to consume comes calling, we're to let it have its way."
+    },
+    {
+      "id": 57,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "还说，不管做出了什么，那位都非常想穿上。\n And that he'd very much like to wear whatever came of it."
+    },
+    {
+      "id": 58,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "原来你就是因为这个才投靠了红派。\n So that's what brought you over to Le Rouge."
+    },
+    {
+      "id": 59,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "差不多就是这么回事。黑派那帮人一直是我店里的老主顾，可他们的漆黑之神……？我说不出这百货店里有哪样东西是他想要的。\n That's about the size of it. Them Le Noir folks've been longtime customers of my shop, but their Obsidian God...? I couldn't name one thing in this department store he wants."
+    },
+    {
+      "id": 60,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "我可以随便动手，想做什么就做什么，而他只会……接受它的存在。说真的，仅此而已。一个像局外人一样的神，你懂我意思吧。追随一个真正想要这些货的人，总不能怪我吧？\n I could turn my hand to anything, make whatever I liked, and he'd just... accept that it exists. Seriously, no more to it than that. A god who comes across like a stranger, if you catch my drift. Can't blame a fella for following somebody who actually wants the goods, can you?"
+    },
+    {
+      "id": 61,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "我时不时还会再做一件黄金寿衣，跟那天做的那件一样。算是我纪念那一天的方式。我想着哪天给那位送件新寿衣也不错，毕竟那位现在穿的那件也快褪色了。瞧瞧这光泽……\n Now and then I'll run up another Golden Shroud, same as the one I made that day. My way of marking the occasion. Thought it'd be nice to give Him a new shroud one day, seeing as the one He's got is due to start fading. Look at the shine on this..."
+    },
+    {
+      "id": 62,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "……哦？原来你的渴望得到回应时，眼睛里会是这种神情啊。\n ... Oh? So that's the look you get in your eyes when your yearning's been met, huh."
+    },
+    {
+      "id": 63,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "很好。够我用的了。看来我该去转纺车了。\n Good. Plenty there for me to work with. Suppose it's time for me to get wheeling, then."
+    },
+    {
+      "id": 64,
+      "content": "关于我想要的线，我还一个字都没跟他说过。可当他走向纺车时，我也没有拦住他提出我的要求。\n I hadn't told him the first thing about the thread I wanted. Still, when he headed for his wheel, I didn't hold him back to make my request."
+    },
+    {
+      "id": 65,
+      "content": "说他“古怪”都算轻的了，但出于某种同样古怪的理由，我觉得他知道一些我所渴望的东西，是连我自己都还没弄明白的。\n \"Eccentric\" would be an understatement, but for some equally odd reason, I had the feeling he knew things about what I yearned for that even I hadn't figured out myself yet."
+    },
+    {
+      "id": 66,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "好了，那么……再多跟我讲讲你的渴望吧。接下来我要开始把线股拧到一起了。\n Now, then... Tell me a bit more about that yearning of yours. This is the part where I start twisting the strands together."
+    },
+    {
+      "id": 67,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "还有，呃，对了——趁这时候，我有件事想请你帮忙。\n And, uh, right—there's favor I'd like to ask while you're at it."
+    },
+    {
+      "id": 68,
+      "teller": "???",
+      "title": "???",
+      "content": "……咕呃呃……*嘎吱*\n ... Grrrkk... *scree*"
+    },
+    {
+      "id": 69,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "古老之物。要是听到纺车在转，它们肯定很快就会冒出来妨碍我干活。\n Things of eld. They're definitely gonna turn up to hinder my work soon if they hear the wheel spinning."
+    },
+    {
+      "id": 70,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "明白了。那我最好帮你一把。\n Got it. I'd better lend a hand, then."
+    },
+    {
+      "id": 71,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "我想这样一来，我也能更好地展示我的渴望。\n I think that way, I can showcase my yearning better."
+    },
+    {
+      "id": 72,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "虽然它还没完成……\n It's still a work-in-progress, though..."
+    },
+    {
+      "id": 73,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "……*口哨* 瞧瞧这个！这可真是个了不起的“作品”啊！\n ... *whistle* Would you look at that! Now that's one heck of a \"piece\" indeed!"
+    },
+    {
+      "id": 74,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "继续！全都讲给我听。不用为了我停下砍它们的手。全都放出来吧！\n Keep going! Tell me all about it. No need to stop cutting them down on my account. Let all of it loose!"
+    },
+    {
+      "id": 75,
+      "model": "그레고르",
+      "title": "红派\n Le Rouge",
+      "content": "让我看看那份激情，那份欲望……那渴望之火。\n Show me that passion, that desire... the fire of the yearning."
+    },
+    {
+      "id": 76,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "嗯，好的。这有点难为情，不过……我想该正式介绍一下了。\n Um, okay. This is a little embarrassing, but... I guess a proper introduction is in order."
+    },
+    {
+      "id": 77,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "我管这件作品叫……\n I call this piece..."
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_10117_1",
+      "desc": "获得人格\n Identity Acquisition",
+      "dlg": "以伞膜遮挡阳光乃我等之禁忌，以免有人将雨伞之职责误认作阳伞之职责。\n<size=150%>要</size>求<size=150%>克</size>制<size=150%>擅</size>自<size=150%>独</size>行<size=150%>之</size>举。\n Forbidden are we to take refuge from the sun 'neath the membrane of an umbrella, lest one mistake the duties of the rainshade for those of a sunshade.\n<size=150%>I</size>NSTRUCTING<size=150%>R</size>EFRAINMENT<size=150%>F</size>ROM<size=150%>I</size>NDEPENDENT<size=150%>T</size>OILS."
+    },
+    {
+      "id": "lobby_morning_10117_1",
+      "desc": "早间问候\n Morning Greeting",
+      "dlg": "来者何其怪异反常，须知滚落此处之物，从不借助扶梯。\n莫非你的来处，亦是一片更为怪异的异乡？\n<size=150%>进</size>行<size=150%>异</size>质<size=150%>存</size>在<size=150%>之</size><size=150%>空</size>间<size=150%>踪</size>迹<size=150%>追</size>溯<size=150%>分</size>析。\n In comes a being so odd and anomalous, for those who tumble down to this place do not avail themselves of the escalator.\nCould it be that whence you came, too, is a land of stranger oddities?\n<size=150%>C</size>ONDUCTING<size=150%>S</size>PATIAL<size=150%>S</size>HADOWTRACE<size=150%>A</size>NALYSIS<size=150%>O</size>F<size=150%>T</size>HE<size=150%>O</size>DDITY<size=150%>E</size>NTITY."
+    },
+    {
+      "id": "lobby_noon_10117_1",
+      "desc": "午间问候\n Afternoon Greeting",
+      "dlg": "端详这理想的皮革，不禁令人思索：这抹被阳光晒出的斑斓铜锈之美从何而来？其过程看似如此闲散，不过是皮革在一方明亮光斑中慵懒躺卧罢了。\n可叹，阳光自初次渗入以来，从未有一刻甘于隐遁；故而只要百货尚得保存，这皮革便永不会背离理想。\n Taking in this ideal leather, one wonders: how did this beauty tinged in sundry hues of sun-dried patina come to be, for so idle a process it seems when the leather lounges lazily upon the pinch of a well-lit patch?\nAlas, never once did the sunshine submit to elusiveness since its first infiltration; thus the hide shall know no departure from the ideal, for as long as the Grand Magasin remains under preservation."
+    },
+    {
+      "id": "lobby_night_10117_1",
+      "desc": "晚间问候\n Evening Greeting",
+      "dlg": "若你是带着疑问来到我面前，我劝你唇上只着沉默，原路返回。纵使任好奇无解是一桩悲剧，但如此执意在营业时间之后交谈，将受禁令处置。\n<size=150%>首</size>次<size=150%>警</size>告<size=150%>记</size>录。\n If you have come before me bearing queries, I urge you to wear only silence upon your lips and return to whence you came. Though it be a tragedy to leave curiosity unanswered, such insistence on communicating past business hours shall be subject to proscription.\n<size=150%>F</size>IRST<size=150%>S</size>TRIKE<size=150%>R</size>ECORDED."
+    },
+    {
+      "id": "smalltalk_10117_1",
+      "desc": "对话 1\n Chatter #1",
+      "dlg": "思绪孕育思绪、思绪再孕育思绪，这是唯有与阳光对答、达成相互理解之人才享有的特权；现实的自然流向便是，绝大多数人台都欠缺这份以因果之线将思绪与思绪系连、成为理性沉思的才能。\n排队等着鞣制的囚犯们亦是同类；故而我劝你——将那泉涌般的好奇转向我吧。\n<size=150%>提</size>交<size=150%>疑</size>问<size=150%>主</size>体<size=150%>身</size>份<size=150%>识</size>别<size=150%>请</size>求。\n To have a mind whose thoughts beget thoughts begetting thoughts is the privilege afforded only to those whose dialogues with the sunshine have reached mutual understanding; the natural flow of reality is that a great majority of Mannequins lack such talent by which the causal line tethers thought and thought into reasoned contemplation.\nThe prisoners who are lined up for tanning, too, are of the same lot; thus I encourage you—redirect that fount of curiosity to me.\n<size=150%>S</size>UBMITTING<size=150%>R</size>EQUEST<size=150%>F</size>OR<size=150%>Q</size>UERY<size=150%>S</size>UBJECT<size=150%>I</size>DENTIFICATION."
+    },
+    {
+      "id": "smalltalk_10117_2",
+      "desc": "对话 2\n Chatter #2",
+      "dlg": "秩序自有其次序，次序亦自有其秩序；那么，违背秩序之人反受其害，不也是顺理成章的后果吗？\n因此，无论顾客何等尊贵，都不得偏离我的设计，我的规划。\n There are orders to sequences as there are sequences to orders; then, would not the sequent consequence be that those who have wronged the order become wronged themselves?\nConsequently, no matter the prestige of a customer, they are forbidden to deviate from the rules of my design, my outline."
+    },
+    {
+      "id": "smalltalk_10117_3",
+      "desc": "对话 3\n Chatter #3",
+      "dlg": "皮革这种材料，与其外表相反，须得十分细心地对待。<size=150%>加</size>工<size=150%>过</size>程<size=150%>中</size><size=150%>留</size><size=150%>有</size><size=150%>与</size><size=150%>朝</size><size=150%>三</size><size=150%>暮</size><size=150%>四</size><size=150%>之</size><size=150%>智</size><size=150%>慧</size><size=150%>相</size><size=150%>符</size><size=150%>的</size><size=150%>处</size><size=150%>理</size><size=150%>痕</size><size=150%>迹</size>。\n仓促鞣制的生命，其终结亦同样仓促；而历经坚忍苦难之鞣制的生命，将会发现其终结远在地平线之外——倘若终结真的存在。\n The material we call leather, contrary to its appearance, must be treated quite delicately. <size=150%>E</size>VIDENCE<size=150%>O</size>F<size=150%>T</size>REATMENT<size=150%>P</size>ROCESS<size=150%>C</size>ONSISTENT<size=150%>W</size>ITH<size=150%>T</size>HE<size=150%>W</size>ISDOM<size=150%>O</size>F<size=150%>T</size>HREE<size=150%>I</size>N<size=150%>T</size>HE<size=150%>F</size>ORENOON<size=150%>F</size>IRST,<size=150%>T</size>HEN<size=150%>F</size>OUR<size=150%>I</size>N<size=150%>T</size>HE<size=150%>A</size>FTERNOON<size=150%>N</size>EXT.\nThe life that has undergone tanning in a hurry will meet an end that is just as hurried, and the life that has endured tannage of perseverant suffering shall find that its end lies far beyond the horizon, if it exists at all."
+    },
+    {
+      "id": "smalltalk_10117_4",
+      "desc": "同步后对话 1\n Post-Uptie Chat 1",
+      "dlg": "你可知规则与法则之间的区别？规则是顾客赋予四方的秩序，反之，法则是四方对顾客下达的秩序。\n违反规则的罪人确实可以受到监督……可惜，违反法则的罪人，譬如赤红之神，无法管制，也非寻常手段所能及。\n因为他们违反了不可违反之物。\n Are you aware of the distinctions that exist betwixt a rule and a law? Rules are an order bestowed upon the square by customers, and conversely, laws are an order commanded upon the customers by the square.\nThe sinners who have disobeyed the rules can be subject to oversight, indeed... Alas, the sinners who have violated the laws, like the Crimson God, are uncontrollable and beyond such plain measures.\nFor they have violated the inviolable."
+    },
+    {
+      "id": "smalltalk_10117_5",
+      "desc": "同步后对话 2\n Post-Uptie Chat 2",
+      "dlg": "每一张落到此处的皮，都已学会屈从于我手，化作了革。既然如此，我又为何要将它们拱手让给红派之神，却得不到任何回报？\n<size=150%>基</size>于<size=150%>世</size>俗<size=150%>观</size>念<size=150%>得</size>出<size=150%>的</size><size=150%>决</size>定。今日我便要放弃这践踏我欲望的徒劳苦役。\n Every hide that has fallen here has since become leather, having learned to yield to my hand. Why, then, must I relinquish them to the God of Le Rouge without yield in return?\n<size=150%>D</size>ECISION<size=150%>D</size>RAWN<size=150%>B</size>Y<size=150%>C</size>ONCEPTION<size=150%>O</size>F<size=150%>C</size>ONVENTION. I shall today abandon this futile labor that tramples upon desires mine."
+    },
+    {
+      "id": "neglect_10117_1",
+      "desc": "闲置\n Idle",
+      "dlg": "反刍中……反刍失败……反刍中……反刍失败……反刍中……\n<size=150%>因</size><size=150%>失</size>败<size=150%>触</size>发<size=150%>新</size>一轮<size=150%>反</size>刍……\n Ruminating... Failed to ruminate... Ruminating... Failed to ruminate... Ruminating...\n<size=150%>F</size>AILURE-<size=150%>T</size>RIGGERED<size=150%>N</size>EW<size=150%>R</size>UMINATION<size=150%>I</size>NSTANCE..."
+    },
+    {
+      "id": "gacksung_10117_1",
+      "desc": "进行同步\n Uptying",
+      "dlg": "<size=150%>三</size>度<size=150%>下</size>沉<size=150%>地</size>下<size=150%>四</size>方。\n我们身处一座以模型为原型所造之四方、再以其为原型所造的四方之中；故而，你须受我的监督与管制。\n <size=150%>T</size>HRICE<size=150%>D</size>ESCENDED<size=150%>S</size>UBTERRANEAN<size=150%>T</size>ETRAGON.\nWe are within a square made from the model of a square made as a model; thus, you are subject to oversight and control mine."
+    },
+    {
+      "id": "formation_10117_1",
+      "desc": "人格出战\n Deployment",
+      "dlg": "映入我眼帘的，是那些黄金之皮，曾在我掌握之中，如今却已四散离去……<size=150%>错</size>位<size=150%>拼</size>图<size=150%>碎</size>片<size=150%>之</size><size=150%>完</size>全<size=150%>确</size>凿<size=150%>合</size>一。\n Captured in my vision are the hides of Gold, once within my grasp and now gone in scattering departure... <size=150%>C</size>OMPLETELY<size=150%>C</size>ONCLUSIVE<size=150%>C</size>ONJUNCTION<size=150%>O</size>F<size=150%>M</size>ISPLACED<size=150%>P</size>UZZLE<size=150%>P</size>IECES."
+    },
+    {
+      "id": "battleentry_10117_1",
+      "desc": "进入战斗\n Stage Entry",
+      "dlg": "隐藏欲望，一再隐藏……我已厌倦了。\n To conceal desire, and conceal it still... I have grown weary of it."
+    },
+    {
+      "id": "battle_select_10117_1",
+      "desc": "战斗中选中人格\n Viewed in Battle",
+      "dlg": "我记得我已明言，战斗中禁止闲谈。那条警告是从你那混沌的脑中溜走了吗？\n<size=150%>疑</size><size=150%>似</size><size=150%>误</size>判<size=150%>提</size>问者<size=150%>之</size><size=150%>智</size>力<size=150%>未</size>知。\n I recall making it known that idle chatter amidst battle is prohibited. Has that warning slipped through the haze of your mind?\n<size=150%>P</size>OSSIBLE<size=150%>M</size>ISCALCULATION<size=150%>O</size>F<size=150%>T</size>HE<size=150%>Q</size>UERYMAKER'S<size=150%>I</size>NTELLIGENCE<size=150%>U</size>NKNOWN."
+    },
+    {
+      "id": "battle_endcommand_10117_1",
+      "desc": "进行攻击\n Commencing Attack",
+      "dlg": "<size=150%>加</size>速<size=150%>加</size>速的<size=150%>作</size>业。\n <size=150%>A</size>CCELERATING<size=150%>A</size>CCELERATED<size=150%>A</size>SSIGNMENT."
+    },
+    {
+      "id": "battle_enemy_break_10117_1",
+      "desc": "敌方混乱\n Enemy Stagger",
+      "dlg": "欲望已全然占据了我的兴趣。\n Desire has completely occupied my interest."
+    },
+    {
+      "id": "battle_break_10117_1",
+      "desc": "自身混乱\n Staggered",
+      "dlg": "<size=150%>检</size>测到<size=150%>脑</size><size=150%>脂</size><size=150%>含</size>量<size=150%>波</size>动。\n <size=150%>B</size>RAIN<size=150%>F</size>AT<size=150%>C</size>ONTENT<size=150%>A</size>GITATION<size=150%>D</size>ETECTED."
+    },
+    {
+      "id": "battle_kill_10117_1",
+      "desc": "击杀敌方\n Enemy Killed",
+      "dlg": "<size=150%>个</size>人<size=150%>思</size>考<size=150%>转</size>移。\n <size=150%>I</size>NDIVIDUAL<size=150%>C</size>ONTEMPLATION<size=150%>C</size>ONVEYANCE."
+    },
+    {
+      "id": "battle_dead_10117_1",
+      "desc": "自身阵亡\n Death",
+      "dlg": "在这四方的最底层……就连死亡，也不过是沿着阶梯上升……\n Down here at the square nadir... Death itself is but an ascent through the staircase..."
+    },
+    {
+      "id": "choice_success_p_10117_2",
+      "desc": "判定成功\n Check Passed",
+      "dlg": "加工过程中并无任何偏差。请看成品为证：这张永恒理想的黄金皮革。\n Naught was at odds with the processing process. Witness the end product as proof: this Golden Hide of eternal ideality."
+    },
+    {
+      "id": "choice_fail_n_10117_1",
+      "desc": "判定失败\n Check Failed",
+      "dlg": "针线活还差得远。<size=150%>诊</size>断<size=150%>异</size>常<size=150%>得</size>出<size=150%>丢</size>弃<size=150%>的</size><size=150%>决</size>定。\n The needlework leaves much to be desired. <size=150%>D</size>IAGNOSTIC<size=150%>D</size>ISTURBANCE<size=150%>D</size>ERIVES<size=150%>D</size>ECISION<size=150%>T</size>O<size=150%>D</size>ISCARD."
+    },
+    {
+      "id": "battle_clear_10117_1",
+      "desc": "战斗胜利\n Victory Cry",
+      "dlg": "无数驯熟的皮革已从我的队列中走失。循环甚至吞没了历代皮革层层累积的岁月，每转一圈，便夺走一分时间曾经赋予的视角……\n看来有一段时间，我必须忍受一场过长的等待，用黑派的布料来填补它们的空缺。<size=150%>逐</size>步<size=150%>适</size>应<size=150%>陌</size>生<size=150%>材</size>料。\n Innumerable broken-in leathers have gone astray from my ranks. The cycle subsumes even the aged layers of leathers of ages, each revolution taking away the perspectives that time once instilled...\nFor a little while, it seems I must endure an overlong wait and patch their absence with Le Noir fabric. <size=150%>A</size>CCLIMATIZATION<size=150%>W</size>ITH<size=150%>U</size>NFAMILIAR<size=150%>M</size>ATERIAL."
+    },
+    {
+      "id": "battle_clear_ex_10117_1",
+      "desc": "EX CLEAR战斗胜利\n Extra Conditions Fulfilled",
+      "dlg": "就这样结束了，未有一条规则遭到违反。嗯……温柔些对待它们，它们的赎罪将以皮革的形式完成；我可不想它们起皱。<size=150%>监</size>督<size=150%>管</size>控<size=150%>圆</size>满<size=150%>完</size>成。\n Thus it has come to an end with nary a rule violated. Hm... Treat them with gentleness, for their penance shall take the form of leathers; I would not have them wrinkled. <size=150%>O</size>VERSIGHT<size=150%>C</size>ONTROL<size=150%>C</size>ONCLUSIVELY<size=150%>C</size>OMPLETED."
+    },
+    {
+      "id": "battle_defeat_10117_1",
+      "desc": "战斗失败\n Defeat Wail",
+      "dlg": "纵然我背弃红派、投向黑派，你也未曾一次垂顾于我……赤红之神，你是否早就知道，我终将背离规则、屈从于欲望？啊，原来是一张背叛的巨口——其始其终皆是空洞的深坑，诱使不幸之人懵然坠落……<size=150%>停</size>止<size=150%>生</size>命<size=150%>活</size>动…… <size=150%>源</size>于<size=150%>停</size>滞<size=150%>脉</size>动……\n Though I have turned my back on Le Rouge in favor of Le Noir, you have not once graced me... Have you always known, Crimson God, that I would eventually turn from the rules and submit to desire? Ah, a gaping maw of treachery, then—its incipience and terminus both hollow pits inviting descent unawares to the hapless... <size=150%>C</size>EASING<size=150%>L</size>IFE<size=150%>A</size>CTIVITY... <size=150%>O</size>F<size=150%>H</size>ALTING<size=150%>P</size>ULSATIONS..."
+    }
+  ]
+}

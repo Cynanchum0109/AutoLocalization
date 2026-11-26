@@ -2166,19 +2166,19 @@
     },
     {
       "id": "introduce_word_272",
-      "content": "楔形"
+      "content": "楔子"
     },
     {
       "id": "introduce_sentence_272",
-      "content": "组成{0}阵！"
+      "content": "展开{0}阵势！"
     },
     {
       "id": "introduce_word_273",
-      "content": "续保"
+      "content": "保险更新"
     },
     {
       "id": "introduce_sentence_273",
-      "content": "你可别告诉我你忘了马上要{0}的事。"
+      "content": "这次的{0}，你没忘吧？"
     },
     {
       "id": "introduce_word_274",
@@ -2186,7 +2186,23 @@
     },
     {
       "id": "introduce_sentence_274",
-      "content": "这把以未能守住的{0}磨砺的剑……"
+      "content": "由无法守护的{0}磨砺而成的这柄剑……"
+    },
+    {
+      "id": "introduce_word_275",
+      "content": "欲望"
+    },
+    {
+      "id": "introduce_sentence_275",
+      "content": "{0}已全然占据了我的兴趣。"
+    },
+    {
+      "id": "introduce_word_276",
+      "content": "线"
+    },
+    {
+      "id": "introduce_sentence_276",
+      "content": "那么，有什么{0}想纺吗？"
     }
   ]
 }

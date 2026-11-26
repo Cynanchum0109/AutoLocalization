@@ -1380,6 +1380,20 @@
       "name": "辛克莱",
       "nameWithTitle": "Sinclair",
       "desc": "辛克莱的第17人格"
+    },
+    {
+      "id": 10117,
+      "title": "高级定制::\n黑派 B3F 干燥室",
+      "name": "李箱",
+      "nameWithTitle": "Yi Sang",
+      "desc": "李箱的第17人格"
+    },
+    {
+      "id": 11217,
+      "title": "高级定制::\n红派 B2F 线团之巢",
+      "name": "格里高尔",
+      "nameWithTitle": "Gregor",
+      "desc": "格里高尔的第17人格"
     }
   ]
 }

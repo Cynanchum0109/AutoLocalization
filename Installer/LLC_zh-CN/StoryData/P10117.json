@@ -1,0 +1,547 @@
+{
+  "dataList": [
+    {
+      "id": 0,
+      "teller": "???",
+      "title": "???",
+      "content": "……真是令人惊奇的发展。<size=150%>注</size>意力<size=150%>被</size><size=150%>反</size>常<size=150%>活</size>动<size=150%>吸</size>引。\n ... What a fascinating development. <size=150%>A</size>TTENTION<size=150%>A</size>RRESTED<size=150%>B</size>Y<size=150%>A</size>TYPICAL<size=150%>A</size>CTIVITY."
+    },
+    {
+      "id": 1,
+      "content": "乘着仿佛永无止境的漫长扶梯一路向下，我踏进了底部一片昏暗又闷湿的空地。\n After a long escalator ride that seemed to stretch on forever, I found myself stepping into a dark and muggy clearing at the bottom."
+    },
+    {
+      "id": 2,
+      "content": "但空气里的湿气可不只是水汽——那股呛人的烟味要是再冲一点，我差点就要以为这是一团化学药剂的瘴气了。说得夸张些，在这里呼吸，就像用鼻子吸进成千上万根细针。\n But the humidity in the air was more than just water—I would've mistaken it for a miasma of chemicals had that acrid, smoky smell been any sharper. Being a bit dramatic, breathing in here was like sniffing thousands of tiny needles through my nose."
+    },
+    {
+      "id": 3,
+      "content": "而在这一切之中，站着……\n And amidst it all stood..."
+    },
+    {
+      "id": 4,
+      "model": "이상",
+      "teller": "???",
+      "title": "???",
+      "content": "有个怪异的人物滚落到此处；何其怪异，何其离奇。双目直视前方，暗含期待。<size=150%>确</size>立<size=150%>废</size>弃<size=150%>对</size>象<size=150%>之</size><size=150%>例</size>外<size=150%>消</size>除。\n A personality of oddity has tumbled down here; how odd, how outré. The eyes face forward in veiled anticipation. <size=150%>E</size>STABLISHING<size=150%>E</size>LIMINATION<size=150%>E</size>NTITY<size=150%>F</size>OR<size=150%>E</size>LIMINATION<size=150%>E</size>XCEPTION."
+    },
+    {
+      "id": 5,
+      "content": "……一个说起话来奇奇怪怪的男人，他的话我得花上好几秒才能理清。\n ... a rambling man with a manner of speech so incomprehensible that I had to spend a few seconds untangling them."
+    },
+    {
+      "id": 6,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "你是……？\n You're...?"
+    },
+    {
+      "id": 7,
+      "model": "이상",
+      "teller": "???",
+      "title": "???",
+      "content": "该个体会说话。故而，他是理性的生物。驱动他的并非欲望与冲动的火花；不，他在解读，感知并拆解眼前的信息。<size=150%>观</size>测到<size=150%>异</size>质<size=150%>存</size>在<size=150%>之</size><size=150%>结</size>构<size=150%>所</size><size=150%>具</size><size=150%>特</size>异<size=150%>着</size>实<size=150%>令</size>人<size=150%>兴</size>奋。\n The entity speaks. Ergo, he is a creature of reason. Desire and impulse are not the sparks that propel him; no, he interprets, perceiving and unraveling the information before him. <size=150%>I</size>NTERESTING<size=150%>S</size>TRUCTURAL<size=150%>P</size>ECULIARITIES<size=150%>O</size>BSERVED<size=150%>I</size>N<size=150%>T</size>HE<size=150%>O</size>DDITY<size=150%>E</size>NTITY<size=150%>A</size>RE<size=150%>I</size>NDEED<size=150%>E</size>XCITING."
+    },
+    {
+      "id": 8,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "呃……喂、为、为什么凑得这么近……？你侵犯到我的私人空间了。\n Nngh... H-hey, w-why are you getting so close...? You're invading my personal space over here."
+    },
+    {
+      "id": 9,
+      "model": "이상",
+      "teller": "???",
+      "title": "???",
+      "content": "要进行细致的观察，还有什么途径比肢体亲近更好？<size=150%>兴</size>奋地<size=150%>确</size>认<size=150%>专</size>注<size=150%>兴</size>趣<size=150%>中</size><size=150%>存</size>在<size=150%>理</size>想<size=150%>实</size>践<size=150%>之</size><size=150%>前</size>景。\n What better avenue of detailed observation is there than physical intimacy? <size=150%>E</size>XCITINGLY<size=150%>I</size>DENTIFYING<size=150%>T</size>HE<size=150%>P</size>ROSPECT<size=150%>O</size>F<size=150%>I</size>DEAL<size=150%>P</size>RAXIS<size=150%>I</size>N<size=150%>P</size>REOCCUPATIONAL<size=150%>I</size>NTERESTS."
+    },
+    {
+      "id": 10,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "你到底在兴奋什——\n What are you even getting all excited f—"
+    },
+    {
+      "id": 11,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "……啊，等等。你该不会就是这里的楼层经理吧？\n ... Oh, wait. Are you the Floor Manager here, by any chance?"
+    },
+    {
+      "id": 12,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "确然如此。由此一问推断，发问者先前并不知晓我的身份。<size=150%>常</size>规<size=150%>异</size>常<size=150%>识</size>别<size=150%>引</size>发<size=150%>好</size>奇<size=150%>疑</size>问。\n Indubitably so. The line of questioning leads one to suspect that the speaker knew not of my identity. <size=150%>G</size>ENERAL<size=150%>O</size>DDITY<size=150%>I</size>DENTIFICATION<size=150%>T</size>RIGGERS<size=150%>C</size>URIOSITY<size=150%>Q</size>UERY."
+    },
+    {
+      "id": 13,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "毕竟你们实在很显眼……我最近见过不少楼层经理，发现想找你们的话，直接去找那层楼里最古怪的那个就行。\n Well, you people are rather hard to miss... I've met a fair few Floor Managers lately and noticed that if I wanted to find one of you guys, I should go straight to the quirkiest one on that floor."
+    },
+    {
+      "id": 14,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "“古怪”？你说我“古怪”？<size=150%>兹</size><size=150%>提</size>出<size=150%>一</size>个<size=150%>疑</size>问——<size=150%>特</size>异<size=150%>是</size>否<size=150%>属</size>于<size=150%>具</size>有<size=150%>某</size>种<size=150%>理</size>想<size=150%>性</size>质<size=150%>之</size><size=150%>异</size>常？\n \"Quirky\"? You say I am \"quirky\"? <size=150%>O</size>NE<size=150%>F</size>ORMS<size=150%>A</size><size=150%>Q</size>UERY—<size=150%>I</size>S<size=150%>Q</size>UIRKINESS<size=150%>A</size>N<size=150%>O</size>DDITY<size=150%>W</size>ITH<size=150%>A</size><size=150%>Q</size>UALITY<size=150%>O</size>F<size=150%>I</size>DEALITY?"
+    },
+    {
+      "id": 15,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "……而且你是<i>最</i>古怪的。\n ... And you're the <i>quirkiest</i>."
+    },
+    {
+      "id": 16,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "嗯嗯……\n Hmmmmmh."
+    },
+    {
+      "id": 17,
+      "content": "……那听起来简直像是满足的叹息——真怪。总之……\n ... That almost sounded like a satisfied sigh—weird. Anyways..."
+    },
+    {
+      "id": 18,
+      "content": "……说到底，我来这儿是为了尽可能多地搬走成摞的皮革。\n ... At the end of the day, I'm here to pick up as many stacks of leather as I can carry."
+    },
+    {
+      "id": 19,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "好——吧。那我直说正事了：我是来买皮革的。\n Ookay, then. Lemme get straight down to business: I'm here to buy leather."
+    },
+    {
+      "id": 20,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "哦？你说需要皮革。请详述。<size=150%>事</size>先<size=150%>声</size>明<size=150%>加</size>急<size=150%>委</size>托<size=150%>必</size>然<size=150%>附</size>带<size=150%>惊</size>人<size=150%>的</size><size=150%>加</size>价。\n Oho. In need of leather, you say. Do elaborate. <size=150%>P</size>REFACE<size=150%>O</size>F<size=150%>S</size>URE<size=150%>S</size>URCHARGE<size=150%>S</size>URPRISE<size=150%>S</size>URFACED<size=150%>F</size>OR<size=150%>C</size>ELERITOUS<size=150%>C</size>OMMISSION."
+    },
+    {
+      "id": 21,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "一个尚且神智清醒的陌生人踏足这地下第三层，实属罕见；更罕见的是，他宁可选择这般深入地底的途径，也不屑于光顾上面几层的皮革买卖。\n Most strange it is to see a stranger who is yet sane set foot upon the third-descended surface; stranger yet, he has elected such hypogean recourse rather than deign to partake in the leathermongery of the floors above."
+    },
+    {
+      "id": 22,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "你没听说吗……？红派几乎把上面整个皮革行业都买空了。不管他们在做什么，肯定是件大东西。\n Haven't you heard...? The Rouges are practically buying out the entire leather industry up there. Whatever they're making, it's gotta be big."
+    },
+    {
+      "id": 23,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "他们连大小都不挑。只要有块皮革——<i>随便</i>哪块皮革——被他们看上，就直接扫进兜里。我可头疼了，因为我本来想做……呃，是什么来着？总、总之……我自己的作品一直没什么进展。\n They don't even care if it's big or small. When a piece of leather—<i>any</i> piece of leather—catches their eye, they scrape it right into their pockets. It's been a real headache for me, since I was trying to make... Uh, what was it again? A-anyways... I've not been making much progress in my personal project."
+    },
+    {
+      "id": 24,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "就是……那些不是边角料吗？我又不需要多高级的东西，你脚边那些丢掉的皮革碎片就够——\n Like... Aren't those scraps, anyway? I don't need anything fancier than those discarded pieces of leather by your fee—"
+    },
+    {
+      "id": 25,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "<i>不行。</i> <size=150%>警</size>告。\n <i>No.</i> <size=150%>W</size>ARNING."
+    },
+    {
+      "id": 26,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "哇，好吧……？你想要钱的话，我愿意付。换作是<i>我</i>，可没脸把那么小的边角料拿来卖眼球，不过……\n Whoa, okay...? I'm willing to pay, if that's what you want. <i>I</i> wouldn't have the cheek to sell scraps that little for eyeballs if I were you, but..."
+    },
+    {
+      "id": 27,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "不，绝非此意。纵使你在我面前堆起一座万亿眼球的山，我也确信自己不会与之割舍。<size=150%>将</size><size=150%>失</size>控<size=150%>非</size>理想<size=150%>称</size>为<size=150%>理</size>想<size=150%>乃</size><size=150%>荒</size>谬<size=150%>矛</size>盾。\n Nay, nothing of the like. A trillion eyeballs you might build a mountain with before me, yet convinced I shan't be made to part with it. <size=150%>P</size>REPOSTEROUS<size=150%>C</size>ONTRADICTION<size=150%>T</size>O<size=150%>D</size>ENOMINATE<size=150%>A</size>N<size=150%>U</size>NCONTROLLED<size=150%>U</size>NIDEALITY<size=150%>I</size>DEALITY."
+    },
+    {
+      "id": 28,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "……你是说那块边角料值<i>一万亿</i>个眼球？\n ... Are you telling me that scrap of leather is worth a <i>trillion</i> eyeballs?"
+    },
+    {
+      "id": 29,
+      "content": "他好像开始把我当成好骗的外行（我承认，我看起来确实有点像），想敲我竹杠，于是我几乎不加掩饰地带着火气回了嘴。\n As it was starting to seem as though he took me for some gullible amateur (admittedly, I somewhat do look the part) and was trying to rip me off, I snapped back with a barely disguised irritation."
+    },
+    {
+      "id": 30,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "五季之前负责那块烤栗色皮革的剥皮匠，即刻到我面前来。<size=150%>立</size>即<size=150%>予</size>以<size=150%>监</size>禁<size=150%>擅</size>离<size=150%>职</size>守<size=150%>者</size>。\n The hidescraper of five seasons past, responsible for the roasted chestnut-colored leather, is to come before me this instant. <size=150%>I</size>MMEDIATE<size=150%>I</size>NCARCERATION<size=150%>F</size>OR<size=150%>D</size>ESERTION<size=150%>O</size>F<size=150%>D</size>UTY."
+    },
+    {
+      "id": 31,
+      "teller": "皮革手套\n Leather Glove",
+      "title": "???",
+      "content": "……."
+    },
+    {
+      "id": 32,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "我的皮革订单，从剥皮到交付，每一环都要处于绝对的管制与监督之下，不许留下一丝死角。你可记得听过这番指示？<size=150%>对</size>象<size=150%>智</size>力<size=150%>未</size>知<size=150%>存</size>在<size=150%>疑</size>问。\n Every aspect of leather orders mine, from skinning to delivery, is to remain under absolute control and oversight with nary a blind spot spared. Do you recall hearing these instructions? <size=150%>E</size>NTITY'S<size=150%>I</size>NTELLIGENCE<size=150%>U</size>NKNOWN<size=150%>A</size>T<size=150%>D</size>OUBT."
+    },
+    {
+      "id": 33,
+      "teller": "皮革手套\n Leather Glove",
+      "title": "???",
+      "content": "是、是的，当然。可、可是——\n Yes, of course. B-but—"
+    },
+    {
+      "id": 34,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "借口是最不理想的辩护形式。<size=150%>关</size>押<size=150%>于</size><size=150%>无</size>尽<size=150%>黑</size>暗<size=150%>之</size><size=150%>巷</size><size=150%>尾</size>。\n Excuses are the most unideal form of defense. <size=150%>I</size>NTERNMENT<size=150%>I</size>N<size=150%>T</size>HE<size=150%>A</size>LLEY-END<size=150%>O</size>F<size=150%>I</size>NTERMINABLE<size=150%>D</size>ARK."
+    },
+    {
+      "id": 35,
+      "teller": "皮革手套\n Leather Glove",
+      "title": "???",
+      "content": "不、不要，求您了！不要！！！\n N-no, please! No!!!"
+    },
+    {
+      "id": 36,
+      "content": "皮革手套可怜地颤抖着，哀求着，把能想到的借口一股脑儿全抛了出来，楼层经理却把它提起来，塞进了远处角落的一间暗室里。\n The leather glove trembled pathetically, pleading and flinging whatever excuses it could come up with as the Floor Manager hoisted it up and shoved it into a dark room in the far corner."
+    },
+    {
+      "id": 37,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "如你亲眼所见，你所觊觎的那些皮革碎料，皆是可悲的产品，既不知其出错之处，也不知其何时被撤出流通。<size=150%>无</size>疑<size=150%>是</size><size=150%>一</size>个<size=150%>脱</size>离<size=150%>管</size>控<size=150%>之</size>物，<size=150%>从</size><size=150%>管</size>制<size=150%>牢</size>笼<size=150%>中</size><size=150%>逃</size>离<size=150%>而</size><size=150%>出</size>。\n The scraps of leather you covet are, as you must have borne witness, truly pitiable products whose point of failure and the subsequent removal from circulation are alike unknown. <size=150%>D</size>OUBTLESS<size=150%>A</size><size=150%>B</size>EING<size=150%>D</size>EVIATED<size=150%>F</size>ROM<size=150%>C</size>ONTROL,<size=150%>R</size>ELEASED<size=150%>W</size>ILD<size=150%>F</size>ROM<size=150%>T</size>HE<size=150%>C</size>AGE<size=150%>O</size>F<size=150%>O</size>VERSIGHT."
+    },
+    {
+      "id": 38,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "身为本层的经理，我无法让自己将此等失败之作拿出来贩售——但愿此中难处，已传达清楚。\n As the manager of this floor, I cannot bring myself to put such failures up for sale—one hopes that this conundrum has been successfully communicated."
+    },
+    {
+      "id": 39,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "我……明白了……那，我直接拿走总可以吧？我是说，反正你也不算是“卖”给我，那干脆就——\n I... see... Well, then you wouldn't mind if I just took them, right? I mean, you wouldn't be \"selling\" them to me anyway, so why not just—"
+    },
+    {
+      "id": 40,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "所有权未经交易的皮革，不得上行至楼上各层。<size=150%>禁</size>止。\n Leathers whose ownership is untransacted may not rise to floors above. <size=150%>P</size>ROHIBITED."
+    },
+    {
+      "id": 41,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "未受管制、逃避监督的皮革，不得上行至楼上各层。<size=150%>禁</size>止。\n Leathers uncontrolled, evading oversight, may not rise to the floors above. <size=150%>P</size>ROHIBITED."
+    },
+    {
+      "id": 42,
+      "content": "我注意到他眼中闪烁着只有疯子才有的那种狂热笃定，双臂顿时起了一层鸡皮疙瘩。\n A sudden horripilation crawled up my arms as I noticed, in the gleam of his eye, the kind of feverish certainty only seen in those of madmen."
+    },
+    {
+      "id": 43,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "是你亲口说的，红派称霸楼上各层；皮革匠们无物可缝。然而，<size=150%>提</size>请<size=150%>注</size>意<size=150%>发</size>言<size=150%>者</size><size=150%>立</size>场<size=150%>中</size><size=150%>的</size><size=150%>一</size>处<size=150%>疏</size>漏。\n It was in your words that the Rouges' dominance on the floors above was communicated; that leatherworkers are availed of nil resources to sew with. Alas, <size=150%>B</size>RINGING<size=150%>A</size>TTENTION<size=150%>T</size>O<size=150%>A</size>N<size=150%>O</size>VERSIGHT<size=150%>I</size>N<size=150%>T</size>HE<size=150%>S</size>PEAKER'S<size=150%>P</size>OSITION."
+    },
+    {
+      "id": 44,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "我认为，你所说的生意与困扰你的难题全然是两码事，因为红派不过是皮革的吞食者与消费者，也就是说，不过是欲望的反复。<size=150%>不</size>禁<size=150%>思</size>索<size=150%>是</size>否<size=150%>该</size><size=150%>沉</size>溺<size=150%>于</size><size=150%>自</size>身<size=150%>欲</size>望<size=150%>因</size><size=150%>沉</size>迷<size=150%>乃</size><size=150%>是</size><size=150%>厌</size>倦<size=150%>之</size><size=150%>宿</size>命。\n I posit that you speak of a business entirely separate from the conundrum troubling you, for the Rouges are merely devourers and consumers of leather, that is to say, a mere reiteration of desires. <size=150%>O</size>NE<size=150%>W</size>ONDERS<size=150%>W</size>HETHER<size=150%>T</size>O<size=150%>S</size>INK<size=150%>I</size>NTO<size=150%>O</size>NE'S<size=150%>D</size>ESIRES<size=150%>A</size>S<size=150%>P</size>REOCCUPATION<size=150%>I</size>S<size=150%>A</size><size=150%>P</size>REDESTINATION<size=150%>O</size>F<size=150%>W</size>EARINESS."
+    },
+    {
+      "id": 45,
+      "content": "直到这时，我才终于注意到填补他皮革之间缝隙的黑色衣料。\n It was then that I finally noticed the black clothes patching the gaps between his leathers."
+    },
+    {
+      "id": 46,
+      "content": "看来B3F的楼层经理也已经选好了阵营。\n Then the Floor Manager of B3F has also chosen a side."
+    },
+    {
+      "id": 47,
+      "content": "B2F的楼层经理本身就是个古怪的家伙。在他那层慈爱外衣的缝隙间，蠕动着勉强压抑住的疯狂，抽动着癫狂的四肢想要挣脱。\n The Floor Manager of B2F was one bizarre individual himself. Writhing between the gaps in the shroud of his nurturing kindness was barely restrained lunacy, twitching its mad limbs to break free."
+    },
+    {
+      "id": 48,
+      "content": "他选择站在红派一边，而我隐约觉得，他直到那时才终于为自己一直关着的疯狂找到了宣泄口……\n He chose to side with the Rouges, and something told me that only then did he finally get an outlet for whatever madness he'd kept shut away..."
+    },
+    {
+      "id": 49,
+      "content": "那么这位楼层经理想必也……\n So this Floor Manager must also be..."
+    },
+    {
+      "id": 50,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "因为我已厌倦了。厌倦了浪费。\n Because I have grown weary. Weary of the waste."
+    },
+    {
+      "id": 51,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "我万般不情愿地目睹自己产品的最终命运——每一件都承载着一生的记忆，都在我勤勉的监督下受管制、经加工。而他们竟敢将其贬为单纯的生计——不，是放纵。<size=150%>攀</size>升<size=150%>至</size><size=150%>忍</size>耐<size=150%>上</size><size=150%>限</size><size=150%>边</size>缘<size=150%>于</size><size=150%>此</size><size=150%>愤</size>怒<size=150%>之</size><size=150%>顶</size>点<size=150%>化</size><size=150%>节</size>制<size=150%>为</size><size=150%>风</size>暴。\n It is with great reluctance that I witness the eventual fate of my products, each of which carries a lifetime's worth of memories, controlled and processed under my diligent oversight. And they dare reduce it to mere subsistence—no, indulgence. <size=150%>A</size>SCENDING<size=150%>U</size>PON<size=150%>T</size>HE<size=150%>U</size>PPER<size=150%>P</size>ERIPHERY<size=150%>O</size>F<size=150%>P</size>ATIENCE<size=150%>W</size>HEREIN<size=150%>T</size>HE<size=150%>W</size>RATHFUL<size=150%>Z</size>ENITH<size=150%>T</size>RANSFORMS<size=150%>T</size>EMPERANCE<size=150%>T</size>O<size=150%>T</size>EMPEST."
+    },
+    {
+      "id": 52,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "故而我决意监管百货中一切皮革加工事务。\n Thus I have decided to oversee all matters of leatherworking in the Grand Magasin."
+    },
+    {
+      "id": 53,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "但我并非不知变通，例外总是可以有的。<size=150%>有</size><size=150%>价</size>值<size=150%>且</size><size=150%>理</size>想<size=150%>懂</size>得<size=150%>其</size><size=150%>价</size>值<size=150%>者</size><size=150%>必</size><size=150%>将</size><size=150%>于</size><size=150%>最</size><size=150%>理</size>想<size=150%>之</size><size=150%>交</size>易<size=150%>中</size><size=150%>获</size>得<size=150%>物</size>有所值。\n Yet I shan't be inflexible, and exceptions may always be made. <size=150%>T</size>HE<size=150%>W</size>ORTHY<size=150%>A</size>ND<size=150%>T</size>HE<size=150%>I</size>DEAL<size=150%>W</size>HO<size=150%>K</size>NOW<size=150%>T</size>HE<size=150%>W</size>ORTH<size=150%>S</size>HALL<size=150%>G</size>ET<size=150%>T</size>HEIR<size=150%>E</size>YEBALLS'<size=150%>W</size>ORTH<size=150%>I</size>N<size=150%>D</size>EALS<size=150%>M</size>OST<size=150%>I</size>DEAL."
+    },
+    {
+      "id": 54,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "可惜，关于那些例外，你永远只能知道那块削薄的皮革碎料值多少——而你出于私心将其如此贬低，甚至想分文不付就据为己有。\n Alas, you shan't ever know more of what lies in those exceptions than the worth of the skived scrap leather, which you have undervalued so self-servingly that you would fain make it yours at no cost."
+    },
+    {
+      "id": 55,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "……而你怀揣着何等珍贵的宝物啊。我要将它据为己有，拥入我那注视之翼下……！\n ... And what precious treasure you harbor. I shall make it mine and embrace it under my seeing wings...!"
+    },
+    {
+      "id": 56,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "…!"
+    },
+    {
+      "id": 57,
+      "content": "他、他注意到我的黄金皮革了！\n H-he noticed my Golden Hide!"
+    },
+    {
+      "id": 58,
+      "content": "就好像他体内有什么开关被拨动了。\n It was as though something had flipped a switch inside him."
+    },
+    {
+      "id": 59,
+      "content": "楼层经理毫无征兆地撑开了伞，十几个<i>东西</i>从折叠在伞膜内那不可能存在的空间里跃出，挥舞着手臂想要抓我、挠我。\n Out of the blue, the Floor Manager unfurled his umbrella, and a dozen <i>things</i> leaped out from the impossible space folded within its membranes, flailing their arms to grab and scratch me."
+    },
+    {
+      "id": 60,
+      "content": "更糟的是，这层楼的其他住户也开始齐刷刷地朝我拖步、爬行而来，像是想赶在楼层经理把它们也像皮革手套那样关起来之前讨好他。\n To make matters worse, the other inhabitants of the floor began to shuffle and crawl toward me in unison, as though trying to ingratiate themselves with the Floor Manager before he could incarcerate them like the Leather Glove."
+    },
+    {
+      "id": 61,
+      "content": "或许我能好好利用一下这个局面，我心想。\n Perhaps I could make the best out of this situation, I thought."
+    },
+    {
+      "id": 62,
+      "content": "我的“作品”终于开始成形，之前在楼上B2F用的时候，它也绰绰有余地派上了用场。\n My \"piece\" was finally starting to take shape, and it more than carried its weight when I put it to use earlier upstairs on B2F."
+    },
+    {
+      "id": 63,
+      "content": "但是……\n But..."
+    },
+    {
+      "id": 64,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "糟了，缝边！\n Crap, the hems!"
+    },
+    {
+      "id": 65,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "啊……早知道就该用金属别针固定的！它一下子应付不了这么多的敌人……\n Agh... I knew I should've used metal pins to fix them! It can't handle such an overwhelming number of enemies all at once..."
+    },
+    {
+      "id": 66,
+      "content": "是它还太不完整了？还是敌人实在太多，它应付不过来？不管是哪个原因，我都只能火速撤退了。\n Was it still too incomplete? Were there simply too many enemies for it to handle? Whichever was the reason, I had no choice but to make an expeditious retreat."
+    },
+    {
+      "id": 67,
+      "content": "A1……C7……E21……我一路往B3F深处跑去，写着字母与数字的柱子从我身边飞掠而过。\n A1... C7... E21... I run deeper and deeper into B3F, pillars with letters and numbers whizzing by me."
+    },
+    {
+      "id": 68,
+      "content": "怎么办，怎么办？我的作品还能再用一次，可我不可能把它们全都解决……\n What do I do, what do I do? I can get one more use out of my piece, but there's no way I can take all of them..."
+    },
+    {
+      "id": 69,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "啊……！\n Ah...!"
+    },
+    {
+      "id": 70,
+      "content": "我在柱子间拼命狂奔，只停下来片刻喘口气、稳住身子。就在那时，我感觉到了——有什么东西仿佛<i>握住</i>了我的手，一股突如其来的温暖……一道光。\n I was dashing madly through the pillars, pausing just long enough to catch my breath and steady myself. And that's when I felt it—something that seemed to almost <i>clasp</i> my hand, a sudden warmth... a ray of light."
+    },
+    {
+      "id": 71,
+      "content": "一个我不认识的符号，从内部被同样温暖的光芒填满。\n A symbol I didn't recognize, filling from within with that same warm light."
+    },
+    {
+      "id": 72,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "<i>……我得出结论，这可以视作人类的命运。</i>\n <i>... I concluded that this could be regarded as human fate.</i>"
+    },
+    {
+      "id": 73,
+      "content": "在那里，我发现了某人的……文字。大概和我在其他楼层看到的是同一系列的笔记——那些笔记似乎记载着外界的故事。\n There, I found someone's... writing. It was, presumably, a part of the same series of notes I'd seen on the other floors—notes that seemed to carry tales of the world outside."
+    },
+    {
+      "id": 74,
+      "content": "和在其他楼层时一样，我仍然不明白它是什么意思，但这些东西总有某种地方一直挠着我的脑子……\n I still had as little idea what it meant as I did on the other floors, but there's something about these that keeps tickling my brain..."
+    },
+    {
+      "id": 75,
+      "teller": "杜布瓦？\n Dubois?",
+      "title": "???",
+      "content": "<i>……而某种巧合之下，那个结构呈现出了树的形状。</i>\n <i>... And by some stroke of coincidence, that structure took the shape of a tree.</i>"
+    },
+    {
+      "id": 76,
+      "teller": "杜布瓦？\n Dubois?",
+      "title": "???",
+      "content": "<i>那棵树的名字是……</i>\n <i>The tree's name is...</i>"
+    },
+    {
+      "id": 77,
+      "teller": "???",
+      "title": "???",
+      "content": "巨人们都已经知道接下来会发生什么了。我们也会持续监测你的状态。但是……\n The Giants have all been informed of what's going to happen. And we'll be constantly monitoring your status, too. But..."
+    },
+    {
+      "id": 78,
+      "teller": "???",
+      "title": "???",
+      "content": "……为什么你就不能至少把记忆留下呢？\n ... why can't you at least let the memories stay?"
+    },
+    {
+      "id": 79,
+      "teller": "杜布瓦？\n Dubois?",
+      "title": "???",
+      "content": "如果记忆延续下去，用不了多久心智就会衰老过头。\n If the memories carry over, it won't be long before the mind ages too much."
+    },
+    {
+      "id": 80,
+      "teller": "???",
+      "title": "???",
+      "content": "这我不否认，可是……听着，这样一来就什么都不会留下了。\n I won't deny that, but... Look, there won't be anything left like this."
+    },
+    {
+      "id": 81,
+      "teller": "???",
+      "title": "???",
+      "content": "你确定你能接受吗？\n Are you sure you're okay with this?"
+    },
+    {
+      "id": 82,
+      "teller": "杜布瓦？\n Dubois?",
+      "title": "???",
+      "content": "我已经想通了。即便记忆几乎全都褪去……\n I've made my peace. Even when the memories have all but faded..."
+    },
+    {
+      "id": 83,
+      "teller": "杜布瓦？\n Dubois?",
+      "title": "???",
+      "content": "……经验也会留下。\n ... the experiences will remain."
+    },
+    {
+      "id": 84,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "刚——刚才那是什么？！\n What—what was that?!"
+    },
+    {
+      "id": 85,
+      "content": "有什么<i>东西</i>流进了我的身体。那是什么？记忆？经验？\n <i>Something</i> flowed into me. What was that? Memory? Experience?"
+    },
+    {
+      "id": 86,
+      "content": "如果都不是……那是情感吗？\n And if neither... Is it emotion?"
+    },
+    {
+      "id": 87,
+      "content": "这些是我过去某个时候的想法吗？\n Are these my own thoughts from times past?"
+    },
+    {
+      "id": 88,
+      "content": "如果是，那是什么时候？在哪里……？\n If so, from when? From where...?"
+    },
+    {
+      "id": 89,
+      "content": "……<i>外界？</i>\n ... <i>Outside?</i>"
+    },
+    {
+      "id": 90,
+      "content": "我感到头晕，混乱。但是……\n I feel dizzy. Confused. But..."
+    },
+    {
+      "id": 91,
+      "teller": "杜布瓦\n Dubois",
+      "title": "褐派\n Le Kaki",
+      "content": "经验会留下，是吗……嗯，那我能接受。\n The experience remains, huh... Yeah, I can live with that."
+    },
+    {
+      "id": 92,
+      "content": "专注于我当下的经验。\n Focus on the experience of my present."
+    },
+    {
+      "id": 93,
+      "content": "也就是说……要鼓起勇气去经历正面迎战那位楼层经理这件事，哪怕这意味着要把我自己的杰作拆得粉碎。\n Which means... braving the experience of facing that Floor Manager head-on, even if it means breaking my own masterpiece into pieces."
+    },
+    {
+      "id": 94,
+      "content": "它的形态会失去、会破碎，但只要经验还在……我就能把它复原。\n Its form will be lost and shattered, but as long as the experiences remain... I can restore it."
+    },
+    {
+      "id": 95,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "哦哦，这怪人坚持住了。<size=150%>迷</size>人<size=150%>可</size>逆<size=150%>反</size>应。\n Ohh, the oddity stands his ground. <size=150%>F</size>ASCINATING<size=150%>R</size>EVERSIBLE<size=150%>R</size>EACTION."
+    },
+    {
+      "id": 96,
+      "content": "直到这时，我才终于意识到……\n Only then did I finally realize..."
+    },
+    {
+      "id": 97,
+      "model": "이상",
+      "teller": "李箱\n Yi Sang",
+      "title": "黑派\n Le Noir",
+      "content": "...?!"
+    },
+    {
+      "id": 98,
+      "content": "……我的作品已经多么接近<i>完成</i>了。\n ... just how close to <i>completion</i> my piece had become."
+    }
+  ]
+}

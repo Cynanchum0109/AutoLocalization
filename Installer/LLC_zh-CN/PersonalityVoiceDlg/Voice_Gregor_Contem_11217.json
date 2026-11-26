@@ -1,0 +1,124 @@
+{
+  "dataList": [
+    {
+      "id": "get_11217_1",
+      "desc": "获得人格\n Identity Acquisition",
+      "dlg": "来要线的？好啊，那就说说你为什么而来——让我瞧瞧你的欲望和思慕是什么颜色。要是我欣赏得来的色泽，嗯……说不定就分你一些。\n Here for some thread? All right, then tell me what you're here for—let's see what color your desires and longings have. If it's a shade I can admire, well... I might just let you have some."
+    },
+    {
+      "id": "lobby_morning_11217_1",
+      "desc": "早间问候\n Morning Greeting",
+      "dlg": "季度才刚开头，你就这么卖力了。有这么多想要的东西可以拿来用，我看咱们能纺出些好线来。\n那么，来吧……说给我听听，好吗？算你走运，我有的是时间听。\n The season's barely begun, and you're already making the most of it. With that much want to draw on, I'd say we can look forward to spinning some fine thread.\nSo, come on... let me hear it, won't you? Lucky for you, I've got all the time in the world to listen."
+    },
+    {
+      "id": "lobby_noon_11217_1",
+      "desc": "午间问候\n Afternoon Greeting",
+      "dlg": "我想让纺车歇一歇……*哼唧* 命运之声都没动静了，也没必要不停地纺、把自己累垮……\n啊，要不要一起吃点？这新的声音——<i>赤红</i>之声——屈尊对我们开口了。那位说，当想要摄取的冲动找上门来，我们就该任由它行事。\n Think I'll take a little weight off the wheel... *groan* With the Voice of Fate gone quiet, no sense wearing myself down, spinning without a break...\nAh, join me for a bite? This new Voice—the <i>Crimson</i> Voice—has deigned to speak to us. And He says when the urge to consume comes calling, we're to let it have its way."
+    },
+    {
+      "id": "lobby_night_11217_1",
+      "desc": "晚间问候\n Evening Greeting",
+      "dlg": "拖到最后一刻才来，是吧？下个季度眼看就要到了，这时候才来找我要线……*呼*……哦，原来如此。看来你这份渴望不是那种换个季度就磨散了的一时兴起——行，我喜欢。好吧，那我也该转起纺车了，是吧？\n Waiting 'til the last minute, aren't you? Coming to me for thread now, when the next season's about to roll in... *puff* ... Oh, I see. So this yearning of yours isn't some passing whim that just frays away with the change of the season—sure, I like that. All right, suppose I'll get wheeling then, huh?"
+    },
+    {
+      "id": "smalltalk_11217_1",
+      "desc": "对话 1\n Chatter #1",
+      "dlg": "嗯……灿烂的颜色，还浸着阳光呢。换作以前，这样的线我会舍不得放手……不过你知道，事情总会变。如今我会越过线本身的美，转而欣赏我要拿它来缝的皮。\n Hmm... A radiant color, still steeped in sunlight. Back in the day, I'd have had a hard time letting thread like that go... But you know, things change. Nowadays, I find myself looking past the thread's beauty, instead admiring the hides I'll sew with it."
+    },
+    {
+      "id": "smalltalk_11217_2",
+      "desc": "对话 2\n Chatter #2",
+      "dlg": "……这么说吧，没有染料可用的话，你就只是在原地空转纺车。最好去染色室走一趟。热门的货得先取号排队……\n啊，不过只要别惹染色室那家伙不高兴，你能快上不少……<i>能</i>吧。哈，要是你抽烟，记得让烟在外头等着轮到它。\n ... Let's say you'll just be spinning your wheels if there's no dye to work with. Best you stop by the Dyehouse for a bit. You'll have to take a number and get in the queue for the popular stuff...\nAh, though you could get through a fair bit quicker if you don't rub that fella in the Dyehouse the wrong way... <i>Could</i>. Hah, and if you're a smoker, make sure to let the cigarette wait its turn outside."
+    },
+    {
+      "id": "smalltalk_11217_3",
+      "desc": "对话 3\n Chatter #3",
+      "dlg": "你瞧，我这条手臂……嗯，是<i>这个</i>样子。身体一边长成这样，需要细活的事就很难做了。不过……看到这个没？这儿装个小玩意儿，那儿再装个什么东西——要说好用嘛……*呼* 我想也算顶得上用场。瞧，我可以让针穿过这部分，再用另一部分穿线……这就成了。这事通常至少得三个人才干得了。\n I've got... well, <i>this</i> for an arm, you see. Hard to do anything that needs a delicate touch when one side of you's built like this. But... see this? Attach a doodad here, another thingamajig there—and as far as useful goes... *puff* it can pull its weight, I suppose. Look, I can run the needle through this part and thread it with the other... And there you go. Usually takes at least three people to pull that off."
+    },
+    {
+      "id": "smalltalk_11217_4",
+      "desc": "同步后对话 1\n Post-Uptie Chat 1",
+      "dlg": "把那个茧牢牢攥住，拧干……各种各样的欲望就会从里面渗出来、溢出来。液态的欲望会被抽成一根细线……拧一次，再转一圈……*呼* 东西就摆在那儿随手可得，很难忍住不伸手啊。我说，咱们不如谈个小交易？我自己拿一半，剩下的一半你买走。来嘛，挺公道的安排吧？你能带着想要的线离开，而不是自己变成我的线轴。\n Get a good grip on that cocoon, wring it dry... and all kinds of desire will ooze and spill from it. Liquid desires that will draw out into a single fine thread... Twist it once, give it another turn... *puff* Hard not to reach for it when it's just there for the taking. Say, why don't we settle on a little deal? I take half for myself, and you buy the half that's left. Come on, it's a fair enough arrangement, isn't it? You get to leave with the thread you want instead of joining my spools yourself."
+    },
+    {
+      "id": "smalltalk_11217_5",
+      "desc": "同步后对话 2\n Post-Uptie Chat 2",
+      "dlg": "在纺车前耗了那么久，每一根线都拿去给别人缝补、遮盖后背了——因为那就是命运之声想要的。\n*呼* 而我还是跟从前一样，声音引向哪儿我就跟到哪儿。这一次，赤红之声说，我纺的线要用来暖我自己的背，而我活着就是为了遵从那位的指示。哦，不过这可不代表我是在……给自己的巢添毛。\n All that time at the wheel, and every last thread went to patch and cover someone else's back—because that was what the Voice of Fate wanted.\n*puff* And I'm following wherever the Voice leads, same as ever. This time, the Crimson Voice says that the thread I spin's gonna warm my own back, and I live to obey His instructions. Oh, but that shouldn't mean I'm... feathering my own nest."
+    },
+    {
+      "id": "neglect_11217_1",
+      "desc": "闲置\n Idle",
+      "dlg": "……无聊了？那干嘛不点一根？我这线团之巢是吸烟区。\n ... Getting bored? Why don't you light one up, then? My Skein Nest here's a smoking area."
+    },
+    {
+      "id": "gacksung_11217_1",
+      "desc": "进行同步\n Uptying",
+      "dlg": "好啊，咱们想要的东西缠到一起了，嗯？要把它们理顺……只有一个办法。必须吞掉一份欲望，给另一份腾出地方。\n Right, our wants have crossed threads, eh? And there's only one way... to align them. One desire must be swallowed to make room for the other."
+    },
+    {
+      "id": "formation_11217_1",
+      "desc": "人格出战\n Deployment",
+      "dlg": "那么，有什么线想纺吗？\n So, got some thread you want spun?"
+    },
+    {
+      "id": "battleentry_11217_1",
+      "desc": "进入战斗\n Stage Entry",
+      "dlg": "我喜欢干活的时候没人碍事。看来我得亲自把这些清掉了。\n I like to work without hindrance. Guess I'll have to get rid of these myself."
+    },
+    {
+      "id": "battle_select_11217_1",
+      "desc": "战斗中选中人格\n Viewed in Battle",
+      "dlg": "嗯……你需要的染料带来了吗？\n Hmm... Did you bring the dye you need?"
+    },
+    {
+      "id": "battle_endcommand_11217_1",
+      "desc": "进行攻击\n Commencing Attack",
+      "dlg": "早已过时的古老之物。不过如此。\n Bygone things of eld. That's all they are."
+    },
+    {
+      "id": "battle_enemy_break_11217_1",
+      "desc": "敌方混乱\n Enemy Stagger",
+      "dlg": "事情就是这样。\n That's just the way it goes."
+    },
+    {
+      "id": "battle_break_11217_1",
+      "desc": "自身混乱\n Staggered",
+      "dlg": "线全缠在一起了……！\n The thread's all tangled up...!"
+    },
+    {
+      "id": "battle_kill_11217_1",
+      "desc": "击杀敌方\n Enemy Killed",
+      "dlg": "只不过我的渴望比你的更坦诚罢了。没有任何粉饰。\n My yearning was simply more honest than yours. No dressing it up."
+    },
+    {
+      "id": "battle_dead_11217_1",
+      "desc": "自身阵亡\n Death",
+      "dlg": "找不到……能缠它的线轴……\n Couldn't find... a spool for it..."
+    },
+    {
+      "id": "choice_success_p_11217_2",
+      "desc": "判定成功\n Check Passed",
+      "dlg": "嗯，我拿来纺的材料不错。\n Well, I had nice material to spin from."
+    },
+    {
+      "id": "choice_fail_n_11217_1",
+      "desc": "判定失败\n Check Failed",
+      "dlg": "受了妨碍纺出来的线——就是这个样子。可别指望有什么漂亮的颜色。\n Thread spun under hindrance—that's what this is. You can't expect any beautiful colors."
+    },
+    {
+      "id": "battle_clear_11217_1",
+      "desc": "战斗胜利\n Victory Cry",
+      "dlg": "这样一来……最后一缕也抽出来了。跟那些古老之物折腾了一场，是没那么灿烂了，不过配上像样的皮把它固定住，也足够好用了。\n*呼* 你说什么？嗯，这我无从反驳。如今好线对我来说，已经不像从前那样是一切的一切了。\n With this... every last strand's been drawn. A bit less radiant after that business with those things of eld, but give it some decent hide to hold it together, and it'll serve nicely enough.\n*puff* What was that? Well, can't argue with that. These days, fine thread's no longer the be-all end-all like it used to be for me."
+    },
+    {
+      "id": "battle_clear_ex_11217_1",
+      "desc": "EX CLEAR战斗胜利\n Extra Conditions Fulfilled",
+      "dlg": "这真是……都快让我打心底眼馋了。纺得像宝石一样透亮，鲜艳的赤红，光泽也相得益彰。*呼* 你有线轴缠它吗？没有？那、那就，呃……算了。把它绕成一团圆圆的线球吧。要圆的，好吗？那是最稳定的形状。\n Now that's... almost making me covet it in earnest. Spun clear as a gemstone, a vivid crimson with a shine to match. *puff* Have you got a spool for it? No? Th-that's, uh... fine. Make it into a nice and round tangle of yarn. Round, all right? That's the most stable shape."
+    },
+    {
+      "id": "battle_defeat_11217_1",
+      "desc": "战斗失败\n Defeat Wail",
+      "dlg": "没必要……大惊小怪。我想只是我的渴望比不上罢了。一份欲望更大，另一份就会被吞掉腾出地方。向来都是——\n……是吗？我的渴望……不够强烈？成百上千、<i>成千上万</i>个季度，一层层叠在一起……竟然还是不够？！\n No need to... make a big deal out of it. I suppose my yearning just didn't measure up. When one desire's greater, the other gets swallowed to make room. It's always been—\n... Has it? My yearning... wasn't strong enough? Hundreds, <i>thousands</i> of seasons, each one layered into the next... and it still wasn't enough?!"
+    }
+  ]
+}

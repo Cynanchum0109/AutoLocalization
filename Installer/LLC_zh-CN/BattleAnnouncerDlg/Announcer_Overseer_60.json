@@ -1,0 +1,132 @@
+{
+  "dataList": [
+    {
+      "id": "announcer_cheer_60_1",
+      "dlg": "好的皮革，必须按部就班、在管制之下制成。若能用它做成衣服穿在身上，说不定还能登上楼上，站上T台呢。姿态尚堪入目。\n Fine leather requires proper procedure and careful supervision. Make yourself an outfit from it, and you may yet reach the upper floors, and perhaps even take your place on the runway. PASSABLE LOOK."
+    },
+    {
+      "id": "announcer_cheer_60_2",
+      "dlg": "顾客死后留下皮，人台死后也留下皮。回收遗物。\n Customers leave their hides behind when they pass away. Mannequins do the same, of course. RETRIEVING THE DECEASED'S EFFECTS."
+    },
+    {
+      "id": "announcer_specialcheer_60_1",
+      "dlg": "皮磨损得厉害呢。原料受损。\n I am afraid the hide is showing considerable wear. RAW STOCK DETERIORATION."
+    },
+    {
+      "id": "announcer_specialcheer_60_2",
+      "dlg": "这副模样，跟破布也没什么两样了。用不了多久，就能拼出一件拼布作品了。策划新款纸样。\n You are looking rather ragged. We should soon have enough materials for a patchwork piece. DRAFTING NEW PATTERN."
+    },
+    {
+      "id": "announcer_enemy_break_60_1",
+      "dlg": "呼嗯嗯嗯……！您也看见了吗？那张马上就要落入我怀中的原皮！期待感增幅。\n Hrrrngh...! Can you see it, too? That raw hide... soon to be nestled in my arms! ANTICIPATION RISING."
+    },
+    {
+      "id": "announcer_ally_break_60_1",
+      "dlg": "嗯……脱离管制了呢。审议再收监。\n Hmm... No longer under control, are we? REINCARCERATION UNDER REVIEW."
+    },
+    {
+      "id": "announcer_killenemy_60_1",
+      "dlg": "收获的时间。请把每一张原皮、每一颗眼珠都一个不落地搜刮干净。转移所有权。\n Time to harvest. Please pick the floor clean of every eyeball and scrap of raw hide. OWNERSHIP REASSIGNED."
+    },
+    {
+      "id": "announcer_ally_dead_60_1",
+      "dlg": "下一名罪犯请准备~补充人员。\n Next prisoner, please be ready~ PERSONNEL REPLENISHMENT."
+    },
+    {
+      "id": "announcer_enemy_adv_60_1",
+      "dlg": "表面留下的伤口虽然可惜，不过嘛……没关系。我也很擅长做绒面革呢。削切表皮。\n A shame about the surface damage, but... no matter. I make excellent suede, too. EPIDERMAL SHAVING."
+    },
+    {
+      "id": "announcer_ally_adv_60_1",
+      "dlg": "一切都在按流程进行。确认流程有效。\n Everything is proceeding by the book. PROCEDURAL VALIDITY CONFIRMED."
+    },
+    {
+      "id": "announcer_ally_advex_60_1",
+      "dlg": "偶尔也有客人会下特别订单，要用历经种种艰难险阻、被磨砺得坚韧无比的皮来做东西。嗯……现在正合适呢。达成理想包浆。\n Some customers do request special commissions: pieces made from hide toughened by adversity, with every hardship written into it. Hmm... the current circumstances should suit their needs nicely. DESIRED PATINA ACHIEVED."
+    },
+    {
+      "id": "announcer_danger_60_1",
+      "dlg": "只剩最后的抛光了，要是在这一步搞砸，可就太可惜了吧？刺激挑战欲望。\n We have only the final polishing to attend to. Surely you would not wish to spoil the work at this stage? AMBITION DRIVE STIMULATED."
+    },
+    {
+      "id": "announcer_enemy_specialskill_60_1",
+      "dlg": "呜……我感觉到了……被夹在绷皮架上、痛苦挣扎的皮的声音……观测到破裂征兆。\n Ngh... I can feel it... The sheets of hide are writhing in agony, crying, clamped in the stretcher... RUPTURE INDICATORS DETECTED."
+    },
+    {
+      "id": "announcer_enemy_specialgimmick_60_1",
+      "dlg": "观察中……嗯，这似乎是个例外情况呢。请求例外处理。\n OBSERVATION ONGOING... Hmm. This would appear to be an exception to the usual procedure. EXCEPTION PROCESSING REQUESTED."
+    },
+    {
+      "id": "announcer_advatk_physical_60_1",
+      "dlg": "刮肉刮得真干净呢。手艺出众。\n Such clean fleshing. CRAFTSMANSHIP COMMENDED."
+    },
+    {
+      "id": "announcer_disadvatk_physical_60_1",
+      "dlg": "您到底有没有查过裁剪规定？确认懈怠。\n Might I ask whether you even bothered to consult the cutting regulations? INDOLENCE DETECTED."
+    },
+    {
+      "id": "announcer_advatk_attr_60_1",
+      "dlg": "很标准的铬鞣呢。正适合上染料。工序合理。\n That is a fine example of proper chrome tanning. The leather should be beautifully receptive to dye. PROCEDURE DEEMED SOUND."
+    },
+    {
+      "id": "announcer_disadvatk_attr_60_1",
+      "dlg": "真是叫人脸红的判断呢。共感性羞耻。\n What an embarrassing decision you've made. SECONDHAND EMBARRASSMENT."
+    },
+    {
+      "id": "announcer_enemy_specialbuff_60_1",
+      "dlg": "有股昂贵药剂的味道呢。究竟用了什么？掌握竞品情报。\n I detect the scent of some rather costly chemicals. Might I ask what was used? ASSESSING RIVAL PRODUCTS."
+    },
+    {
+      "id": "announcer_enemy_specialdebuff_60_1",
+      "dlg": "请先把生了蛆的部分剜掉。需要积极修边。\n Please begin by removing the sections where the maggots have settled. AGGRESSIVE TRIMMING REQUIRED."
+    },
+    {
+      "id": "announcer_ally_specialbuff_60_1",
+      "dlg": "哦……您带回了什么？罪犯们身上透出一股贵气呢。欢迎附加服务。\n Oh... may I ask what you have managed to procure? You prisoners have acquired quite an air of refinement. ADDITIONAL SERVICE WELCOMED."
+    },
+    {
+      "id": "announcer_ally_specialdebuff_60_1",
+      "dlg": "哎呀！明明是油鞣革，竟然干成那样。我应该叮嘱过要用心刷理的吧。玩忽职守。\n Oh dear! To find oil-tanned hide in such a dry condition. I believe I asked you to pay closer attention to the brushing. DUTIES NEGLECTED."
+    },
+    {
+      "id": "announcer_enemy_destroy_60_1",
+      "dlg": "刚片下来的那块，拿来做薄外套正合适呢。流露欲望。\n That freshly skived scrap is just the thing to make a lightweight coat. DESIRE EXPRESSED."
+    },
+    {
+      "id": "announcer_enemy_destroy_60_2",
+      "dlg": "啊，掉下来的碎肉请送去预处理区。别忘了压上我的标志。确保剩余库存。\n Ah, please have the fallen meat scraps sent to the pretreatment area. And do ensure they bear my stamped logo. SURPLUS INVENTORY SECURED."
+    },
+    {
+      "id": "announcer_round_takebigdmg_60_1",
+      "dlg": "不合常理呢。怀疑对象的智力。\n Behavior inconsistent with common sense. QUESTIONING SUBJECT'S INTELLIGENCE."
+    },
+    {
+      "id": "announcer_round_takebigdmg_60_2",
+      "dlg": "脸上那两个眼洞，不是为了看东西，是因为粒面皮不够才挖的吗？疑问产生。\n Did you cut open those eyeholes on your face not to see, but to compensate for a shortage of grain leather? NEW DOUBT FORMED."
+    },
+    {
+      "id": "announcer_round_givebigdmg_60_1",
+      "dlg": "啊……感叹与称赞。\n Ah... AMAZEMENT AND COMPLIMENTS."
+    },
+    {
+      "id": "announcer_round_givebigdmg_60_2",
+      "dlg": "很好。就这样，再集中一点。从脖子一刀直线划下来再剥出来，就能毫无损伤地取得原皮了。进行野外处理。\n Very good. Just so. A little more attention, please. Make a straight cut from the neck, then ease it free... and the raw hide should remain intact. FIELD DRESSING UNDERWAY."
+    },
+    {
+      "id": "announcer_multikillenemy_60_1",
+      "dlg": "那么多只，竟然都把手脚卸得干干净净！看来不必吝惜夸奖了。表彰功绩。\n What an immaculate limb removal technique, on so many specimens at that! I must offer you my highest compliments. MERITORIOUS WORK RECOGNIZED."
+    },
+    {
+      "id": "announcer_battle_win_60_1",
+      "dlg": "残次品……？当然一件也没有。我的工序完美无缺。确认完美无瑕。\n Defects...? Zero, of course. My process was flawless. PERFECTION CONFIRMED."
+    },
+    {
+      "id": "announcer_battle_defeat_60_1",
+      "dlg": "规定……未遵守。流程……未执行。结果……连再生革都不如……全体罪犯集合。预告……追加鞣制。\n Regulations... violated. Procedures... ignored. The result... it falls short of even bonded leather... All prisoners, kindly assemble. FURTHER TANNING... SCHEDULED."
+    },
+    {
+      "id": "announcer_equip_60_1",
+      "dlg": "工作时间到了哦~部署罪犯。和往常一样，在我的管制下，进行一场<i>优雅</i>的制革吧。开始作业。\n Time to begin work, if you please~ PRISONERS ASSIGNED. Under my supervision, the tanning we perform will be <i>elegant</i> as always. COMMENCING OPERATIONS."
+    }
+  ]
+}

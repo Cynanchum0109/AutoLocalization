@@ -109,5 +109,135 @@
   "zh": "吾之长枪必将汝贯穿！ / 我会干脆利落地刺穿你 / 我的长枪必将贯穿你。",
   "by": "a",
   "note": "楔子事务所专属技能，堂吉诃德用吾/汝"
+ },
+ "Leather Glove": {
+  "zh": "皮革手套",
+  "by": "a",
+  "note": "P10117 B3F 被李箱关进暗室的皮革手套（teller）"
+ },
+ "hidescraper": {
+  "zh": "剥皮匠",
+  "by": "a",
+  "note": "P10117 李箱手下负责剥皮的人"
+ },
+ "two-ply": {
+  "zh": "双股",
+  "by": "a",
+  "note": "P11217 格里高尔纺的双股线（KR 2합）；single-ply=单股"
+ },
+ "fitting": {
+  "zh": "配件",
+  "by": "a",
+  "note": "P11217 杜布瓦挂在作品上的部件（KR 부속）"
+ },
+ "Crimson Voice": {
+  "zh": "赤红之声",
+  "by": "a",
+  "note": "P11217 语音：红派的新声音（KR 붉은 목소리）；指那个存在时 He 译「那位」"
+ },
+ "Battō Shisei": {
+  "zh": "拔刀架势",
+  "by": "a",
+  "note": "黑云会第三组组长技能（KR 발도 자세）"
+ },
+ "Ready to Draw": {
+  "zh": "拔刀准备",
+  "by": "a",
+  "note": "峰的拔刀状态"
+ },
+ "Kumogiri": {
+  "zh": "云切",
+  "by": "a",
+  "note": "KR 쿠모기리（雲切）；Amegiri 雨切、Kurokumogiri 黑云切"
+ },
+ "Mine": {
+  "zh": "峰",
+  "by": "a",
+  "note": "黑云会 第三组组长 峰（KR 흑운회 제3조장 미네），Patriarch of the Third Family 按 KR 译「第三组组长」"
+ },
+ "Schemacraft": {
+  "zh": "图式构筑",
+  "by": "a",
+  "note": "KR 도상구축；新玩法/被动名"
+ },
+ "Ammo - Prisoner": {
+  "zh": "弹药-罪犯",
+  "by": "a",
+  "note": "李箱 10117 特殊弹药 BulletJoesu"
+ },
+ "Thread Tether": {
+  "zh": "相连之线",
+  "by": "a",
+  "note": "格里高尔 11217 RougeGregLink（KR 이어진 실）"
+ },
+ "Synergy Activation Condition": {
+  "zh": "协同效应发动条件",
+  "by": "a",
+  "note": "SkillTag：[发动条件]/[发动效果]"
+ },
+ "Schema": {
+  "zh": "图式",
+  "by": "a",
+  "note": "KR 도상；图式构筑玩法中的关卡单位"
+ },
+ "Representation": {
+  "zh": "表象",
+  "by": "a",
+  "note": "KR 표상；图式中可移动的地点"
+ },
+ "Schema Deformation": {
+  "zh": "图式扭曲",
+  "by": "a",
+  "note": "KR 도상 왜곡"
+ },
+ "Craftpower": {
+  "zh": "构筑力",
+  "by": "a",
+  "note": "KR 구축력"
+ },
+ "Obstacle": {
+  "zh": "苦难",
+  "by": "a",
+  "note": "KR 고난；图式构筑事件代价"
+ },
+ "Sliver": {
+  "zh": "碎片",
+  "by": "a",
+  "note": "KR 조각；Universal Sliver=通用碎片"
+ },
+ "Starting Team": {
+  "zh": "初始编队",
+  "by": "a",
+  "note": "KR 시작 편성；Manual Team 手动编队、Randomized Team 随机编队"
+ },
+ "Defense Strat.": {
+  "zh": "防御策略",
+  "by": "a",
+  "note": "KR 방어 정책"
+ },
+ "Backup Identity": {
+  "zh": "候补人格",
+  "by": "a",
+  "note": "KR 대기 인원"
+ },
+ "Reshuffle": {
+  "zh": "刷新次数",
+  "by": "a",
+  "note": "KR 새로고침 기회"
+ },
+ "Pack": {
+  "zh": "卡包",
+  "by": "a",
+  "note": "KR 팩；图式构筑战斗奖励"
+ },
+ "Temptation": {
+  "zh": "诱惑",
+  "by": "a",
+  "note": "KR 유혹；表象类型"
+ },
+ "Cost": {
+  "zh": "费用",
+  "by": "a",
+  "note": "KR 코스트；人格费用，非镜牢经费"
  }
 }

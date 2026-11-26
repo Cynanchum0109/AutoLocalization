@@ -298,7 +298,15 @@
     },
     {
       "id": "OnBattleEnd",
-      "name": "[战斗结束时]"
+      "name": "[战斗结束]"
+    },
+    {
+      "id": "SynergyActivationConditions",
+      "name": "[发动条件]"
+    },
+    {
+      "id": "SynergyActivationEffect",
+      "name": "[发动效果]"
     }
   ]
 }
